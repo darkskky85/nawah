@@ -6,13 +6,13 @@
 <title>نَوَاة | مدونة ومتجر الذكاء الاصطناعي بالعربية</title>
 <meta name="description" content="مقالات عربية معمّقة في الذكاء الاصطناعي والتعلم الآلي، ومتجر منتجات رقمية: دورات وكتب وأدوات وقوالب جاهزة.">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://nawah.ai/">
+<link rel="canonical" href="https://nawahlabs.com/">
 <meta name="theme-color" content="#221E66">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="ar_SA">
 <meta property="og:title" content="نَوَاة | مدونة ومتجر الذكاء الاصطناعي بالعربية">
 <meta property="og:description" content="مقالات عربية معمّقة في الذكاء الاصطناعي والتعلم الآلي، ومتجر منتجات رقمية: دورات وكتب وأدوات وقوالب جاهزة.">
-<meta property="og:url" content="https://nawah.ai/">
+<meta property="og:url" content="https://nawahlabs.com/">
 <meta property="og:site_name" content="نَوَاة">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="manifest" href="manifest.json">
@@ -22,8 +22,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Changa:wght@400;600;700;800&family=IBM+Plex+Sans+Arabic:wght@300;400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "نَوَاة", "url": "https://nawah.ai/", "logo": "https://nawah.ai/assets/icon-512.png", "sameAs": ["https://x.com/nawah_ai", "https://linkedin.com/company/nawah-ai"]}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "نَوَاة", "url": "https://nawah.ai/", "inLanguage": "ar"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "نَوَاة", "url": "https://nawahlabs.com/", "logo": "https://nawahlabs.com/assets/icon-512.png", "sameAs": ["https://x.com/nawah_ai", "https://linkedin.com/company/nawah-ai"]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "نَوَاة", "url": "https://nawahlabs.com/", "inLanguage": "ar"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "كيف أستلم المنتج الرقمي بعد الشراء؟", "acceptedAnswer": {"@type": "Answer", "text": "تصلك روابط التحميل والوصول فوراً إلى بريدك الإلكتروني بعد إتمام الدفع، وتبقى متاحة في حسابك بشكل دائم بلا حدود للتحميل."}}, {"@type": "Question", "name": "ما سياسة الاستبدال والاسترجاع للمنتجات الرقمية؟", "acceptedAnswer": {"@type": "Answer", "text": "نظراً لطبيعة المنتجات الرقمية التي تُسلَّم فوراً ويُحتفظ بها بمجرد الوصول إليها، فجميع المبيعات نهائية ولا يوجد استبدال أو استرجاع بعد التسليم. نوفر بالمقابل وصفاً تفصيلياً وعينات معاينة مجانية قبل الشراء، ونعالج الحالات التقنية فقط (عدم التسليم، الخصم المكرر، الملف التالف). راجع السياسة كاملة."}}, {"@type": "Question", "name": "هل الدورات مناسبة للمبتدئين تماماً؟", "acceptedAnswer": {"@type": "Answer", "text": "نعم، دورة الأساسيات تبدأ من الصفر ولا تتطلب سوى إلمام بسيط بالحاسوب. أما المسار الاحترافي فيناسب من أنهى الأساسيات ويريد التخصص."}}, {"@type": "Question", "name": "ما وسائل الدفع المتاحة؟ وهل الدفع آمن؟", "acceptedAnswer": {"@type": "Answer", "text": "نقبل مدى وVisa وMastercard وApple Pay وSTC Pay. تتم جميع المعاملات عبر بوابة دفع مرخّصة بتشفير SSL، ولا نخزّن بيانات بطاقتك إطلاقاً."}}, {"@type": "Question", "name": "هل أحصل على تحديثات مجانية؟", "acceptedAnswer": {"@type": "Answer", "text": "جميع الدورات والكتب والقوالب تشمل تحديثات مجانية مدى الحياة ضمن الإصدار نفسه، وتصلك إشعارات بها على بريدك."}}, {"@type": "Question", "name": "هل تصدرون فواتير ضريبية للشركات؟", "acceptedAnswer": {"@type": "Answer", "text": "نعم، نصدر فاتورة ضريبية إلكترونية متوافقة مع متطلبات هيئة الزكاة والضريبة لكل عملية شراء، وتُرسل تلقائياً مع رسالة التسليم."}}]}</script>
 </head>
 <body>
@@ -52,38 +52,45 @@
 <main>
 
   <section class="hero">
+    <div class="hero-bg" aria-hidden="true">
+      <canvas id="heroNet"></canvas>
+      <div class="hero-glow"></div>
+    </div>
     <div class="container hero-grid">
-      <div>
-        <span class="eyebrow">محتوى عربي معمّق + منتجات رقمية متخصصة</span>
+      <div class="hero-copy">
+        <span class="eyebrow">منصة عربية متخصصة في الذكاء الاصطناعي</span>
         <h1>افهم <span class="hl">الذكاء الاصطناعي<svg viewBox="0 0 200 14" preserveAspectRatio="none" aria-hidden="true"><path d="M2 10 Q 50 2 100 8 T 198 6" stroke="#D98E2B" stroke-width="4" fill="none" stroke-linecap="round"/></svg></span> بلغتك، وابنِ به مستقبلك</h1>
-        <p>نَوَاة مدونة عربية تقدّم مقالات تقنية مفصّلة في التعلم الآلي والشبكات العصبية وتطبيقات الذكاء الاصطناعي، إلى جانب متجر رقمي يضم دورات وكتباً وأدوات صُمّمت لتنقلك من الفهم النظري إلى التطبيق العملي.</p>
+        <p>مقالات احترافية، أدوات ذكية، قوالب جاهزة، ودروس عملية تساعدك على الاستفادة من الذكاء الاصطناعي في العمل والدراسة وصناعة المحتوى.</p>
         <div class="hero-actions">
-          <button class="btn btn-primary" onclick="location.href='archive.html'">ابدأ القراءة</button>
-          <a class="btn btn-amber" href="index.html#store" style="text-decoration:none">تصفّح المتجر</a> <a class="btn btn-ghost" href="quiz.html">🧭 اختبر مسارك</a>
+          <a class="btn btn-primary" href="archive.html">استكشف المقالات</a>
+          <a class="btn btn-amber" href="tools.html">جرّب الأدوات</a>
         </div>
-        <div class="hero-stats" role="list">
-          <div role="listitem"><strong>23</strong><span>مقالاً تقنياً معمّقاً</span></div>
-          <div role="listitem"><strong>48</strong><span>مصطلحاً في معجم المجال</span></div>
-          <div role="listitem"><strong>28</strong><span>أداة مُراجَعة في الدليل</span></div>
+        <div class="hero-trust">
+          <span>✓ محتوى أصيل بالعربية</span>
+          <span>✓ أدوات مجانية بلا تسجيل</span>
+          <span>✓ تحديث مستمر</span>
         </div>
       </div>
       <div class="hero-visual" aria-hidden="true">
-        <svg viewBox="0 0 380 340" width="100%">
-          <defs><linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34308F"/><stop offset="1" stop-color="#0E8F8F"/></linearGradient></defs>
-          <g stroke="#E5E1D8" stroke-width="1.5">
-            <line x1="70" y1="60" x2="190" y2="110"/><line x1="70" y1="170" x2="190" y2="110"/><line x1="70" y1="280" x2="190" y2="110"/>
-            <line x1="70" y1="60" x2="190" y2="230"/><line x1="70" y1="170" x2="190" y2="230"/><line x1="70" y1="280" x2="190" y2="230"/>
-            <line x1="190" y1="110" x2="310" y2="170"/><line x1="190" y1="230" x2="310" y2="170"/>
-          </g>
-          <circle cx="70" cy="60" r="16" fill="#FBF1E2" stroke="#D98E2B" stroke-width="2.5"/>
-          <circle cx="70" cy="170" r="16" fill="#FBF1E2" stroke="#D98E2B" stroke-width="2.5"/>
-          <circle cx="70" cy="280" r="16" fill="#FBF1E2" stroke="#D98E2B" stroke-width="2.5"/>
-          <circle cx="190" cy="110" r="20" fill="#E8F4F4" stroke="#0E8F8F" stroke-width="2.5"/>
-          <circle cx="190" cy="230" r="20" fill="#E8F4F4" stroke="#0E8F8F" stroke-width="2.5"/>
-          <circle cx="310" cy="170" r="26" fill="url(#g1)"/>
-          <text x="310" y="178" text-anchor="middle" fill="#fff" font-size="18" font-family="Changa">ن</text>
-        </svg>
+        <div class="orbit-card">
+          <div class="oc-head"><span class="oc-dot"></span> نَوَاة · مساعدك في الذكاء الاصطناعي</div>
+          <div class="oc-line"><span class="oc-chip">مقال</span> كيف تبني مشروعاً يحقق دخلاً بالذكاء الاصطناعي</div>
+          <div class="oc-line"><span class="oc-chip teal">أداة</span> مولّد البرومبتات الاحترافي</div>
+          <div class="oc-line"><span class="oc-chip amber">منتج</span> مكتبة 120 موجّهاً جاهزاً</div>
+          <div class="oc-bar"><i style="width:82%"></i></div>
+          <div class="oc-foot">معرفة تتحوّل إلى مهارة عملية</div>
+        </div>
       </div>
+    </div>
+  </section>
+
+  <!-- ===== الإحصائيات ===== -->
+  <section class="stats-band" aria-label="إحصاءات المنصة">
+    <div class="container stats-grid">
+      <div class="stat"><strong data-count="35">0</strong><span>مقالاً تقنياً معمّقاً</span></div>
+      <div class="stat"><strong data-count="40">0</strong><span>أداة ذكاء اصطناعي مُراجَعة</span></div>
+      <div class="stat"><strong data-count="48">0</strong><span>مصطلحاً في المعجم</span></div>
+      <div class="stat"><strong data-count="120">0</strong><span>موجّهاً احترافياً جاهزاً</span></div>
     </div>
   </section>
 
@@ -137,49 +144,71 @@
       <div class="section-head">
         <div class="node-dot" aria-hidden="true">②</div>
         <div>
-          <h2>المتجر الرقمي</h2>
-          <p>منتجات رقمية صُمّمت بعناية لتسريع رحلتك في الذكاء الاصطناعي: تصلك فوراً بعد الشراء، مع وصف تفصيلي وعينات معاينة مجانية لكل منتج قبل الدفع.</p>
+          <h2>المنتجات الرقمية</h2>
+          <p>كتب وأدلة ومكتبات جاهزة تنقلك من القراءة إلى التطبيق. تُسلَّم فوراً بعد الشراء، مع عيّنة معاينة مجانية ووصف تفصيلي قبل الدفع.</p>
         </div>
       </div>
-
-      <div class="promo">
-        <div>🎁 <strong>عرض الإطلاق:</strong> خصم 20% على جميع المنتجات لفترة محدودة</div>
-        <div>استخدم الكود <code>NAWAH20</code> عند الدفع</div>
+      <div class="store-offer">
+        <span class="offer-tag">🎁 عرض الإطلاق</span>
+        <span>خصم <strong>20%</strong> على جميع المنتجات — استخدم الكود <code>NAWAH20</code> عند الدفع</span>
       </div>
-
       <div class="products-grid" id="productsGrid"></div>
+      <div class="store-trust" aria-label="عناصر الثقة">
+        <div class="st-item"><span class="st-ic">🔒</span><div><strong>دفع آمن مشفّر</strong><small>عبر بوابة مرخّصة، لا نخزّن بيانات بطاقتك</small></div></div>
+        <div class="st-item"><span class="st-ic">⚡</span><div><strong>تسليم فوري</strong><small>روابط التحميل تصل بريدك مباشرة</small></div></div>
+        <div class="st-item"><span class="st-ic">📄</span><div><strong>عيّنة قبل الشراء</strong><small>عاين مستوى المحتوى مجاناً أولاً</small></div></div>
+        <div class="st-item"><span class="st-ic">🧾</span><div><strong>فاتورة ضريبية</strong><small>متوافقة مع هيئة الزكاة والضريبة</small></div></div>
+      </div>
+    </div>
+  </section>
 
-      <div class="trust">
-        <span>🔒 دفع مشفّر SSL</span>
-        <span>⚡ تسليم فوري للملفات</span>
-        <span>🧾 فاتورة ضريبية إلكترونية</span>
-        <span>💬 دعم فني بالعربية</span>
+  <!-- ===== معاينة الأدوات ===== -->
+  <section class="section" id="toolsPreview">
+    <div class="container" style="position:relative">
+      <div class="thread" aria-hidden="true"></div>
+      <div class="section-head">
+        <div class="node-dot" aria-hidden="true">③</div>
+        <div>
+          <h2>أدوات تستحق وقتك</h2>
+          <p>دليل مُراجَع لأبرز أدوات الذكاء الاصطناعي، مصنّف بحسب الاستخدام. إليك لمحة سريعة، والقائمة الكاملة في صفحة الأدوات.</p>
+        </div>
+      </div>
+      <div class="tools-preview-grid">
+        <a class="tp-card" href="tools.html"><span class="tp-ic">💬</span><h3>مساعدات عامة</h3><p>ChatGPT · Claude · Gemini · Perplexity</p></a>
+        <a class="tp-card" href="tools.html"><span class="tp-ic">✍️</span><h3>كتابة ومحتوى</h3><p>Jasper · Copy.ai · أدوات التدقيق</p></a>
+        <a class="tp-card" href="tools.html"><span class="tp-ic">🎨</span><h3>صور وتصميم</h3><p>Midjourney · Ideogram · Canva</p></a>
+        <a class="tp-card" href="tools.html"><span class="tp-ic">🎬</span><h3>فيديو وصوت</h3><p>Runway · HeyGen · ElevenLabs</p></a>
+        <a class="tp-card" href="tools.html"><span class="tp-ic">💻</span><h3>برمجة وبيانات</h3><p>Cursor · Copilot · Claude Code</p></a>
+        <a class="tp-card" href="tools.html"><span class="tp-ic">⚙️</span><h3>إنتاجية وأتمتة</h3><p>Zapier · Make · n8n · Notion</p></a>
+      </div>
+      <div style="text-align:center;margin-top:24px">
+        <a class="btn btn-ghost" href="tools.html">استعرض كل الأدوات (40 أداة) ←</a>
       </div>
     </div>
   </section>
 
   <!-- ===== التسويق والنشرة ===== -->
-  <section class="section" id="marketing">
+  <section class="newsletter-band" id="marketing">
     <div class="container">
-      <div class="newsletter">
-        <div>
-          <h2>نشرة «نَوَاة» الأسبوعية</h2>
-          <p>خلاصة أهم مستجدات الذكاء الاصطناعي، وشرح مبسّط لمفهوم تقني واحد كل أسبوع، وعروض حصرية للمشتركين. واشترك الآن لتحصل على كتاب «خارطة طريق تعلم الذكاء الاصطناعي» مجاناً.</p>
+      <div class="nl-card">
+        <div class="nl-copy">
+          <span class="nl-eyebrow">📬 النشرة الأسبوعية</span>
+          <h2>انضم إلى مجتمع نَوَاة</h2>
+          <p>احصل على أحدث أدوات الذكاء الاصطناعي والمقالات العملية مباشرة إلى بريدك — خلاصة مركّزة كل أسبوع، وعروض حصرية للمشتركين، وهدية ترحيب فور اشتراكك.</p>
+          <ul class="nl-perks">
+            <li>أحدث الأدوات مع شرح عملي لاستخدامها</li>
+            <li>مفهوم تقني واحد مبسّط كل أسبوع</li>
+            <li>عروض وخصومات حصرية على المنتجات</li>
+          </ul>
         </div>
-        <div>
-          <form class="nl-form" onsubmit="subscribe(event)">
-            <input type="email" required placeholder="بريدك الإلكتروني" aria-label="البريد الإلكتروني للاشتراك في النشرة">
+        <div class="nl-form-wrap">
+          <form class="nl-form" onsubmit="return subscribe(event)">
+            <label for="nlEmail">بريدك الإلكتروني</label>
+            <input id="nlEmail" type="email" required placeholder="example@email.com" autocomplete="email">
             <button class="btn btn-amber" type="submit">اشترك مجاناً</button>
+            <small>رسالة واحدة أسبوعياً · إلغاء الاشتراك بنقرة · خصوصيتك محفوظة</small>
           </form>
-          <p class="nl-note">نرسل رسالة واحدة أسبوعياً، ويمكنك إلغاء الاشتراك في أي وقت. خصوصيتك محفوظة.</p>
         </div>
-      </div>
-
-      <div class="channels">
-        <div class="channel"><div class="num">قناة 1</div><h4>تسويق بالمحتوى</h4><p>مقالات محسّنة لمحركات البحث تجذب زواراً مهتمين وتبني الثقة قبل البيع.</p></div>
-        <div class="channel"><div class="num">قناة 2</div><h4>النشرة البريدية</h4><p>هدية مجانية مقابل البريد، ثم سلسلة رسائل ترحيبية تنتهي بعرض خاص.</p></div>
-        <div class="channel"><div class="num">قناة 3</div><h4>الشبكات الاجتماعية</h4><p>مقتطفات مرئية من المقالات على لينكدإن وإكس تقود الجمهور إلى المدونة.</p></div>
-        <div class="channel"><div class="num">قناة 4</div><h4>العروض الموسمية</h4><p>خصومات محدودة المدة وحزم منتجات مجمّعة ترفع متوسط قيمة الطلب.</p></div>
       </div>
     </div>
   </section>
@@ -225,7 +254,7 @@
       </div>
       <div class="cats"><a class="cat-chip" href="archive.html">الكل</a><a class="cat-chip" href="archive.html?cat=ChatGPT">ChatGPT</a><a class="cat-chip" href="archive.html?cat=Claude">Claude</a><a class="cat-chip" href="archive.html?cat=Gemini">Gemini</a><a class="cat-chip" href="archive.html?cat=%D8%A3%D8%AF%D9%88%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A">أدوات الذكاء الاصطناعي</a><a class="cat-chip" href="archive.html?cat=%D8%A7%D9%84%D8%B1%D8%A8%D8%AD%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A">الربح من الذكاء الاصطناعي</a><a class="cat-chip" href="archive.html?cat=%D8%AA%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A">تعلم الذكاء الاصطناعي</a></div>
       <div class="two-col">
-        <div class="mini-list"><h3>🆕 أحدث المقالات</h3><a href="articles/p11.html"><span>كيف تبني مشروعاً يحقق دخلاً شهرياً باستخدام الذكاء الاصطناعي دون خبرة برمجية؟</span><span class="m-meta">⏱ 3 د</span></a><a href="articles/p12.html"><span>أفضل 25 أداة ذكاء اصطناعي ستوفر عليك مئات الساعات في 2026</span><span class="m-meta">⏱ 2 د</span></a><a href="articles/p1.html"><span>دليل ChatGPT الشامل للمبتدئين: من أول محادثة إلى الاستخدام الاحترافي</span><span class="m-meta">⏱ 3 د</span></a><a href="articles/p13.html"><span>ChatGPT أم Claude أم Gemini؟ مقارنة شاملة بالأرقام والتجارب الحقيقية</span><span class="m-meta">⏱ 3 د</span></a><a href="articles/a1.html"><span>التعلم الآلي: كيف تتعلّم الآلات من البيانات؟ دليل شامل</span><span class="m-meta">⏱ 9 د</span></a></div>
+        <div class="mini-list"><h3>🆕 أحدث المقالات</h3><a href="articles/p21.html"><span>دليل Claude الشامل: المساعد الأقوى في الكتابة والمستندات الطويلة</span><span class="m-meta">⏱ 2 د</span></a><a href="articles/p11.html"><span>كيف تبني مشروعاً يحقق دخلاً شهرياً باستخدام الذكاء الاصطناعي دون خبرة برمجية؟</span><span class="m-meta">⏱ 3 د</span></a><a href="articles/p12.html"><span>أفضل 25 أداة ذكاء اصطناعي ستوفر عليك مئات الساعات في 2026</span><span class="m-meta">⏱ 2 د</span></a><a href="articles/p22.html"><span>المشاريع والتعليمات المخصّصة في Claude: كيف تبني مساعداً يفهم عملك</span><span class="m-meta">⏱ 2 د</span></a><a href="articles/p1.html"><span>دليل ChatGPT الشامل للمبتدئين: من أول محادثة إلى الاستخدام الاحترافي</span><span class="m-meta">⏱ 3 د</span></a></div>
         <div class="mini-list"><h3>⭐ مختارات المحرر</h3><a href="articles/a1.html"><span>التعلم الآلي: كيف تتعلّم الآلات من البيانات؟ دليل شامل</span><span class="m-meta">⏱ 9 د</span></a><a href="articles/p13.html"><span>ChatGPT أم Claude أم Gemini؟ مقارنة شاملة بالأرقام والتجارب الحقيقية</span><span class="m-meta">⏱ 3 د</span></a><a href="articles/p6.html"><span>الربح من الذكاء الاصطناعي: 7 طرق واقعية بعيداً عن الوعود الزائفة</span><span class="m-meta">⏱ 2 د</span></a><a href="articles/p16.html"><span>من الصفر إلى الاحتراف: خارطة طريق تعلم الذكاء الاصطناعي في 90 يوماً</span><span class="m-meta">⏱ 3 د</span></a><a href="articles/p12.html"><span>أفضل 25 أداة ذكاء اصطناعي ستوفر عليك مئات الساعات في 2026</span><span class="m-meta">⏱ 2 د</span></a></div>
       </div>
     </div>

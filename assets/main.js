@@ -108,20 +108,23 @@ function renderCart(){
 /* شبكة المنتجات في الرئيسية */
 (function(){
   const g = $('#productsGrid'); if(!g || typeof PRODUCTS === 'undefined') return;
-  g.innerHTML = PRODUCTS.map(p=>`
-    <div class="product">
-      <div class="icon" aria-hidden="true" style="font-size:1.6rem">${p.icon}</div>
+  const order = [...PRODUCTS].sort((a,b)=> (b.available?1:0)-(a.available?1:0) || a.id-b.id);
+  g.innerHTML = order.map(p=>`
+    <div class="product${p.available?' is-available':''}">
+      ${p.available?'<span class="prod-badge avail">✅ متوفر الآن</span>':'<span class="prod-badge soon">🆕 قريباً</span>'}
+      <div class="prod-icon" aria-hidden="true">${p.icon}</div>
       <div class="ptype">${p.type}</div>
       <h3>${p.name}</h3>
-      <span class="dl-count">🆕 إصدار 2026 — كن من أوائل المقتنين</span>
       <p>${p.desc}</p>
-      <ul>${p.feats.map(f=>`<li>${f}</li>`).join('')}</ul>
+      <ul class="prod-feats">${(p.feats||[]).slice(0,3).map(f=>`<li>${f}</li>`).join('')}</ul>
       <div class="price-row">
         <div class="price">${p.price.toLocaleString('ar-SA')} <small>ر.س</small></div>
-        <div style="display:flex;gap:8px">
-          <a class="btn-ghost" style="border-radius:50px;padding:8px 16px;font-size:.85rem;border:2px solid var(--line)" href="${R}products/${p.slug}.html">التفاصيل</a>
-          <button class="add-btn" onclick="addToCart(${p.id})" aria-label="أضف ${p.name} إلى السلة">أضف للسلة</button>
-        </div>
+        <a class="prod-link" href="${R}products/${p.slug}.html">التفاصيل ←</a>
+      </div>
+      <div class="prod-actions">
+        ${p.available
+          ? `<button class="add-btn" onclick="buyNow(${p.id})">اشترِ الآن</button><button class="cart-add" onclick="addToCart(${p.id})" aria-label="أضف للسلة">🛒</button>`
+          : `<a class="add-btn ghost" href="${R}products/${p.slug}.html">اعرف المزيد</a>`}
       </div>
     </div>`).join('');
 })();
@@ -237,6 +240,7 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
       h += '<div class="gen-opt"><span>النبرة</span><div class="cats gen-cats">' + GEN.meta.tones.map(t=>chip(t, state.tone===t)).map(s=>s.replace('data-v','data-tone')).join('') + '</div></div>';
       h += '<div class="gen-opt"><span>الطول</span><div class="cats gen-cats">' + GEN.meta.lengths.map(t=>chip(t, state.length===t)).map(s=>s.replace('data-v','data-length')).join('') + '</div></div>';
       h += '<div class="gen-opt"><span>اللغة</span><div class="cats gen-cats">' + GEN.meta.langs.map(t=>chip(t, state.lang===t)).map(s=>s.replace('data-v','data-lang')).join('') + '</div></div>';
+      if(GEN.meta.formats){ h += '<div class="gen-opt"><span>الصيغة</span><div class="cats gen-cats">' + GEN.meta.formats.map(t=>chip(t, state.format===t)).map(s=>s.replace('data-v','data-format')).join('') + '</div></div>'; }
       h += `<label class="gen-check"><input type="checkbox" id="genEx" ${state.examples?'checked':''}> اطلب من النموذج أمثلة على الناتج قبل تنفيذ المهمة كاملة</label>`;
       h += '</div>';
       h += '<div class="gen-actions"><button type="button" class="btn btn-primary" id="genBuild">✨ ولّد الموجّه</button></div>';
@@ -262,6 +266,7 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
     if(state.tone) constraints.push(`النبرة: ${state.tone}.`);
     if(state.length) constraints.push(`الطول: ${state.length}.`);
     if(state.lang && state.lang!=='العربية') constraints.push(`لغة المخرجات: ${state.lang}.`);
+    if(state.format) constraints.push(`صيغة المخرجات: ${state.format}.`);
     if(constraints.length) p += 'القيود:\n- ' + constraints.join('\n- ') + '\n\n';
     if(state.examples) p += 'قبل التنفيذ الكامل، أعطني مثالاً واحداً مختصراً على الناتج المتوقع لأوافق عليه.\n\n';
     p += 'إن نقصتك معلومة ضرورية لإتقان المهمة، اسألني عنها قبل أن تبدأ بدل افتراضها.';
@@ -291,6 +296,7 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
     else if(b.dataset.tone!==undefined){ state.tone = state.tone===b.dataset.tone?'':b.dataset.tone; render(); }
     else if(b.dataset.length!==undefined){ state.length = state.length===b.dataset.length?'':b.dataset.length; render(); }
     else if(b.dataset.lang!==undefined){ state.lang=b.dataset.lang; render(); }
+    else if(b.dataset.format!==undefined){ state.format = state.format===b.dataset.format?'':b.dataset.format; render(); }
     else if(b.id==='genBuild'){ build(); }
   });
   wrap.addEventListener('input', e=>{
@@ -298,6 +304,78 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
     if(e.target.id==='genEx') state.examples=e.target.checked;
   });
   render();
+})();
+
+
+/* ===== خلفية الهيرو التقنية المتحركة ===== */
+(function(){
+  const cv = document.getElementById('heroNet');
+  if(!cv) return;
+  if(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const ctx = cv.getContext('2d');
+  let w, hgt, nodes, raf;
+  const COLORS = { line:'rgba(52,48,143,.18)', dot:'rgba(14,143,143,.55)' };
+  function size(){
+    const r = cv.parentElement.getBoundingClientRect();
+    w = cv.width = r.width; hgt = cv.height = r.height;
+    const n = Math.min(46, Math.floor(w/26));
+    nodes = Array.from({length:n}, ()=>({
+      x:Math.random()*w, y:Math.random()*hgt,
+      vx:(Math.random()-.5)*.35, vy:(Math.random()-.5)*.35, r:Math.random()*1.6+1
+    }));
+  }
+  function draw(){
+    ctx.clearRect(0,0,w,hgt);
+    for(let i=0;i<nodes.length;i++){
+      const a=nodes[i];
+      a.x+=a.vx; a.y+=a.vy;
+      if(a.x<0||a.x>w)a.vx*=-1;
+      if(a.y<0||a.y>hgt)a.vy*=-1;
+      for(let j=i+1;j<nodes.length;j++){
+        const b=nodes[j], dx=a.x-b.x, dy=a.y-b.y, d=Math.hypot(dx,dy);
+        if(d<120){
+          ctx.strokeStyle=COLORS.line;
+          ctx.globalAlpha=1-d/120;
+          ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.stroke();
+        }
+      }
+    }
+    ctx.globalAlpha=1;
+    for(const a of nodes){
+      ctx.fillStyle=COLORS.dot;
+      ctx.beginPath();ctx.arc(a.x,a.y,a.r,0,Math.PI*2);ctx.fill();
+    }
+    raf=requestAnimationFrame(draw);
+  }
+  size(); draw();
+  let to; window.addEventListener('resize',()=>{clearTimeout(to);to=setTimeout(size,200)},{passive:true});
+  // إيقاف الرسم حين تكون الصفحة مخفية (توفير المعالج والبطارية)
+  document.addEventListener('visibilitychange',()=>{
+    if(document.hidden){cancelAnimationFrame(raf);} else {draw();}
+  });
+})();
+
+/* ===== عدّادات الإحصائيات المتحركة عند الظهور ===== */
+(function(){
+  const els = document.querySelectorAll('[data-count]');
+  if(!els.length) return;
+  const reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function run(el){
+    const target = +el.dataset.count;
+    if(reduce){ el.textContent = target.toLocaleString('ar-SA'); return; }
+    const dur = 1400, t0 = performance.now();
+    function step(t){
+      const p = Math.min((t-t0)/dur, 1);
+      const eased = 1 - Math.pow(1-p, 3);
+      el.textContent = Math.round(target*eased).toLocaleString('ar-SA');
+      if(p<1) requestAnimationFrame(step);
+    }
+    requestAnimationFrame(step);
+  }
+  const io = new IntersectionObserver((ents)=>{
+    ents.forEach(e=>{ if(e.isIntersecting){ run(e.target); io.unobserve(e.target); } });
+  }, {threshold:.4});
+  els.forEach(el=>io.observe(el));
 })();
 
 /* تسجيل عامل الخدمة (PWA) */
