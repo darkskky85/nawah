@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="تعلم الذكاء الاصطناعي">
+  <defs>
+    <linearGradient id="g34923" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34308F"/>
+      <stop offset="1" stop-color="#221E66"/>
+    </linearGradient>
+    <radialGradient id="g34923r" cx="0.75" cy="0.25" r="0.9">
+      <stop offset="0" stop-color="#7B6FE0" stop-opacity="0.35"/>
+      <stop offset="0.6" stop-color="#7B6FE0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g34923)"/>
+  <rect width="1200" height="630" fill="url(#g34923r)"/>
+  <line x1="427" y1="158" x2="364" y2="197" stroke="#7B6FE0" stroke-width="1.2" opacity="0.26"/><line x1="427" y1="158" x2="275" y2="77" stroke="#7B6FE0" stroke-width="1.2" opacity="0.18"/><line x1="427" y1="158" x2="218" y2="370" stroke="#7B6FE0" stroke-width="1.2" opacity="0.08"/><line x1="427" y1="158" x2="407" y2="474" stroke="#7B6FE0" stroke-width="1.2" opacity="0.07"/><line x1="427" y1="158" x2="207" y2="98" stroke="#7B6FE0" stroke-width="1.2" opacity="0.14"/><line x1="962" y1="367" x2="863" y2="254" stroke="#7B6FE0" stroke-width="1.2" opacity="0.2"/><line x1="962" y1="367" x2="868" y2="249" stroke="#7B6FE0" stroke-width="1.2" opacity="0.2"/><line x1="863" y1="254" x2="868" y2="249" stroke="#7B6FE0" stroke-width="1.2" opacity="0.31"/><line x1="364" y1="197" x2="275" y2="77" stroke="#7B6FE0" stroke-width="1.2" opacity="0.2"/><line x1="364" y1="197" x2="218" y2="370" stroke="#7B6FE0" stroke-width="1.2" opacity="0.14"/><line x1="364" y1="197" x2="407" y2="474" stroke="#7B6FE0" stroke-width="1.2" opacity="0.1"/><line x1="364" y1="197" x2="207" y2="98" stroke="#7B6FE0" stroke-width="1.2" opacity="0.17"/><line x1="364" y1="197" x2="205" y2="492" stroke="#7B6FE0" stroke-width="1.2" opacity="0.05"/><line x1="301" y1="565" x2="218" y2="370" stroke="#7B6FE0" stroke-width="1.2" opacity="0.15"/><line x1="301" y1="565" x2="407" y2="474" stroke="#7B6FE0" stroke-width="1.2" opacity="0.21"/><line x1="301" y1="565" x2="205" y2="492" stroke="#7B6FE0" stroke-width="1.2" opacity="0.22"/><line x1="275" y1="77" x2="218" y2="370" stroke="#7B6FE0" stroke-width="1.2" opacity="0.08"/><line x1="275" y1="77" x2="207" y2="98" stroke="#7B6FE0" stroke-width="1.2" opacity="0.26"/><line x1="218" y1="370" x2="407" y2="474" stroke="#7B6FE0" stroke-width="1.2" opacity="0.15"/><line x1="218" y1="370" x2="207" y2="98" stroke="#7B6FE0" stroke-width="1.2" opacity="0.1"/><line x1="218" y1="370" x2="205" y2="492" stroke="#7B6FE0" stroke-width="1.2" opacity="0.22"/><line x1="407" y1="474" x2="205" y2="492" stroke="#7B6FE0" stroke-width="1.2" opacity="0.16"/><circle cx="427" cy="158" r="3" fill="#7B6FE0" opacity="0.55"/><circle cx="962" cy="367" r="3" fill="#7B6FE0" opacity="0.55"/><circle cx="863" cy="254" r="4" fill="#7B6FE0" opacity="0.55"/><circle cx="868" cy="249" r="4" fill="#7B6FE0" opacity="0.55"/><circle cx="364" cy="197" r="2.5" fill="#7B6FE0" opacity="0.55"/><circle cx="301" cy="565" r="4" fill="#7B6FE0" opacity="0.55"/><circle cx="275" cy="77" r="4" fill="#7B6FE0" opacity="0.55"/><circle cx="218" cy="370" r="4" fill="#7B6FE0" opacity="0.55"/><circle cx="407" cy="474" r="2.5" fill="#7B6FE0" opacity="0.55"/><circle cx="207" cy="98" r="3" fill="#7B6FE0" opacity="0.55"/><circle cx="205" cy="492" r="3" fill="#7B6FE0" opacity="0.55"/>
+  <circle cx="1070" cy="120" r="54" fill="#FBFAF6" opacity="0.12"/>
+  <text x="1070" y="120" font-size="52" text-anchor="middle" dominant-baseline="central">🎓</text>
+  <g font-family="'Changa','Segoe UI',sans-serif" fill="#FBFAF6">
+    <rect x="64" y="480" width="14" height="86" rx="4" fill="#7B6FE0"/>
+    <text x="92" y="520" font-size="30" font-weight="700" opacity="0.92">تعلم الذكاء الاصطناعي</text>
+    <text x="92" y="564" font-size="22" opacity="0.6">nawahlabs.com · نَوَاة</text>
+  </g>
+</svg>

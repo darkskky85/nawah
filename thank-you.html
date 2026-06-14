@@ -36,7 +36,7 @@
       <a href="archive.html" class="navlink">المقالات</a>
       <a href="index.html#store" class="navlink">المتجر</a>
       <a href="tools.html" class="navlink">الأدوات</a>
-      <a href="generator.html" class="navlink">مولّد البرومبتات</a>
+      <a href="generators.html" class="navlink">المولّدات</a>
       <a href="glossary.html" class="navlink">المعجم</a>
     </nav>
     <div class="search-box">
@@ -51,7 +51,20 @@
 <div style="font-size:3.5rem;margin-bottom:10px">🎉</div>
 <h1 style="color:var(--primary-deep)">شكراً لك على شرائك!</h1>
 <p class="updated" style="color:var(--muted);font-size:1.05rem;margin-bottom:24px">تمت عملية الدفع بنجاح، ونحن سعداء بانضمامك إلى نَوَاة.</p>
-<div class="callout" style="text-align:right">📩 <strong>أين منتجك؟</strong> يصلك رابط التحميل إلى بريدك الإلكتروني خلال دقائق من بوابة الدفع. تحقق من صندوق الوارد (ومجلد الرسائل غير المرغوبة احتياطاً).</div>
+<div id="autoDownload"></div>
+<div class="callout" style="text-align:right">📩 <strong>أين منتجك؟</strong> إن لم يظهر زر التحميل أعلاه، يصلك رابط التحميل إلى بريدك خلال دقائق. تحقق من صندوق الوارد (ومجلد الرسائل غير المرغوبة احتياطاً).</div>
+<script>
+(function(){
+  var t = new URLSearchParams(location.search).get('token');
+  if(t && /^[a-f0-9]{48}$/.test(t)){
+    document.getElementById('autoDownload').innerHTML =
+      '<div class="callout" style="text-align:center;background:var(--teal-soft);border-color:var(--teal)">'+
+      '<strong>✅ تم الدفع! منتجك جاهز:</strong><br><br>'+
+      '<a class="btn btn-primary" href="/api/download?token='+t+'">⬇️ حمّل منتجك الآن</a>'+
+      '<br><small style="color:var(--muted)">الرابط صالح لساعة واحدة</small></div>';
+  }
+})();
+</script>
 <div class="callout" style="text-align:right;background:var(--amber-soft);border-color:var(--amber)">💡 <strong>لم يصلك شيء خلال 30 دقيقة؟</strong> راسلنا على <strong dir="ltr">support@nawah.ai</strong> برقم طلبك وسنرسله فوراً.</div>
 <div style="margin-top:30px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap">
 <a class="btn btn-primary" href="index.html#store">تصفّح منتجات أخرى</a>

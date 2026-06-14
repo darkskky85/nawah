@@ -466,6 +466,166 @@ header,footer{content-visibility:visible}
   cursor:pointer;font-size:1.05rem;transition:border-color .15s}
 .cart-add:hover{border-color:var(--teal)}
 
+/* ============================================================
+   نظام أغلفة المقالات — مستوحى من Medium / Linear / Vercel
+   ============================================================ */
+
+/* Hero المقال */
+.article-hero{margin:0 0 32px;max-width:760px}
+.article-hero-inner{padding:8px 0 24px}
+.ah-cat{display:inline-block;background:var(--hero-accent,var(--teal));color:#fff;font-size:.78rem;
+  font-weight:700;border-radius:50px;padding:5px 16px;margin-bottom:18px;letter-spacing:.3px}
+.ah-title{font-family:'Changa';font-size:clamp(1.7rem,4.2vw,2.7rem);line-height:1.25;
+  color:var(--primary-deep);margin:0 0 16px;font-weight:800;letter-spacing:-.5px}
+.ah-excerpt{font-size:clamp(1.02rem,2vw,1.2rem);line-height:1.7;color:var(--muted);
+  margin:0 0 22px;max-width:680px}
+.ah-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:.88rem;color:var(--muted)}
+.ah-author{display:inline-flex;align-items:center;gap:8px;font-weight:600;color:var(--ink)}
+.ah-avatar{width:30px;height:30px;border-radius:50%;background:linear-gradient(135deg,var(--hero-a,var(--primary)),var(--hero-b,var(--primary-deep)));
+  color:#fff;display:flex;align-items:center;justify-content:center;font-family:'Changa';font-weight:700;font-size:.9rem;flex:none}
+.ah-meta time{font-variant-numeric:tabular-nums}
+/* غلاف Hero الكبير — ارتفاع ثابت محدود، لا يتمدد ولا يطغى على النص */
+.article-hero-cover{border-radius:18px;overflow:hidden;box-shadow:0 18px 50px rgba(34,30,102,.16);
+  height:300px;background:linear-gradient(135deg,var(--hero-a,var(--primary)),var(--hero-b,var(--primary-deep)));
+  position:relative;z-index:0}
+.article-hero-cover img{width:100%;height:100%;object-fit:cover;display:block}
+/* فاصل واضح بين الغلاف وبداية النص */
+.article-body{position:relative;z-index:1;margin-top:14px}
+@media(max-width:900px){.article-hero-cover{height:240px}}
+@media(max-width:600px){
+  .article-hero-cover{border-radius:12px;height:180px}
+  .ah-title{letter-spacing:-.2px}
+}
+
+/* جسم المقال بعد الـHero */
+.article-body{max-width:720px}
+
+/* بطاقات الأرشيف بأغلفة */
+.archive-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+@media(max-width:900px){.archive-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:580px){.archive-grid{grid-template-columns:1fr}}
+.post-card{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;
+  display:flex;flex-direction:column;transition:transform .2s,box-shadow .2s,border-color .2s}
+.post-card:hover{transform:translateY(-5px);box-shadow:0 18px 44px rgba(34,30,102,.13);border-color:transparent}
+.pc-cover{display:block;aspect-ratio:1200/630;overflow:hidden;background:var(--line)}
+.pc-cover img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s ease}
+.post-card:hover .pc-cover img{transform:scale(1.05)}
+.pc-body{padding:18px 20px 20px;display:flex;flex-direction:column;flex:1}
+.pc-body .tag{align-self:flex-start;margin-bottom:10px}
+.pc-body h3{font-size:1.12rem;line-height:1.45;margin-bottom:8px}
+.pc-body h3 a{color:var(--primary-deep);text-decoration:none}
+.pc-body h3 a:hover{color:var(--teal)}
+.pc-body>p{font-size:.88rem;color:var(--muted);line-height:1.6;margin-bottom:14px;flex:1}
+.post-card .card-meta{display:flex;justify-content:space-between;align-items:center;
+  font-size:.8rem;color:var(--muted);padding-top:12px;border-top:1px solid var(--line)}
+.post-card .read-link{color:var(--teal);font-weight:600;text-decoration:none}
+
+/* شبكة المقالات المميزة في الرئيسية */
+.featured-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin:24px 0 36px}
+@media(max-width:900px){.featured-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:580px){.featured-grid{grid-template-columns:1fr}}
+.feat-card{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--line);
+  border-radius:14px;overflow:hidden;text-decoration:none;transition:transform .2s,box-shadow .2s,border-color .2s}
+.feat-card:hover{transform:translateY(-4px);box-shadow:0 14px 36px rgba(34,30,102,.12);border-color:transparent}
+.feat-cover{display:block;aspect-ratio:1200/630;overflow:hidden;background:var(--line)}
+.feat-cover img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s}
+.feat-card:hover .feat-cover img{transform:scale(1.05)}
+.feat-body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:7px}
+.feat-cat{font-size:.72rem;font-weight:700;color:var(--teal);background:#E0F2F2;
+  align-self:flex-start;border-radius:50px;padding:2px 10px}
+.feat-title{font-family:'Changa';font-size:1rem;line-height:1.45;color:var(--primary-deep);font-weight:700}
+.feat-meta{font-size:.78rem;color:var(--muted)}
+
+/* الوضع الليلي: تنعيم الأغلفة */
+[data-theme="dark"] .article-hero-cover,
+[data-theme="dark"] .pc-cover,
+[data-theme="dark"] .feat-cover{filter:brightness(.92) saturate(1.05)}
+
+/* منع قفز التخطيط (CLS) أثناء تحميل الصور */
+.pc-cover img,.feat-cover img,.article-hero-cover img{background:linear-gradient(135deg,#34308F18,#0E8F8F12)}
+
+/* صورة غلاف المنتج في بطاقة الشراء */
+.prod-cover{display:block;margin:-6px -6px 16px;border-radius:12px;overflow:hidden;
+  box-shadow:0 10px 30px rgba(34,30,102,.18);background:#1a1a2e;line-height:0}
+.prod-cover img{width:100%;height:auto;display:block;border-radius:12px}
+@media(max-width:880px){
+  .prod-cover{max-width:300px;margin:0 auto 16px}
+}
+
+/* ============================================================
+   المولّدات المتخصصة (genx) — تخطيط مستوحى من الصور بهوية نَوَاة
+   ============================================================ */
+.genx-hero{background:linear-gradient(135deg,#F4F2FB,#E8F4F4);padding:54px 0 40px;text-align:center;
+  border-bottom:1px solid var(--line)}
+.genx-hero h1{font-size:clamp(1.8rem,4vw,2.6rem);color:var(--primary-deep);margin:12px 0}
+.genx-hero p{max-width:620px;margin:0 auto;color:var(--muted);font-size:1.02rem;line-height:1.7}
+.genx-wrap{padding:40px 0 70px}
+
+/* شبكة البطاقات */
+.genx-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+@media(max-width:900px){.genx-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.genx-grid{grid-template-columns:1fr}}
+.genx-card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:28px 24px;
+  text-align:center;cursor:pointer;transition:transform .2s,box-shadow .2s,border-color .2s;
+  display:flex;flex-direction:column;align-items:center;font-family:inherit}
+.genx-card:hover{transform:translateY(-5px);box-shadow:0 18px 44px rgba(34,30,102,.13);border-color:transparent}
+.genx-icon{width:66px;height:66px;border-radius:18px;display:flex;align-items:center;justify-content:center;
+  font-size:2rem;margin-bottom:16px;box-shadow:0 8px 22px rgba(34,30,102,.18)}
+/* تدرّجات الأيقونات بهوية نَوَاة */
+.grad-a .genx-icon{background:linear-gradient(135deg,#34308F,#0E8F8F)}
+.grad-b .genx-icon{background:linear-gradient(135deg,#0E8F8F,#34D3C0)}
+.grad-c .genx-icon{background:linear-gradient(135deg,#221E66,#7B6FE0)}
+.grad-d .genx-icon{background:linear-gradient(135deg,#D98E2B,#F0B45E)}
+.genx-name{font-family:'Changa';font-weight:700;font-size:1.12rem;color:var(--primary-deep);margin-bottom:8px}
+.genx-desc{font-size:.86rem;color:var(--muted);line-height:1.6}
+
+/* النافذة المنبثقة */
+.genx-modal{position:fixed;inset:0;background:rgba(26,31,46,.55);z-index:1000;display:none;
+  overflow-y:auto;padding:30px 16px;backdrop-filter:blur(3px)}
+.genx-modal.open{display:block}
+.genx-modal-box{background:var(--bg);max-width:620px;margin:20px auto;border-radius:22px;padding:32px;
+  position:relative;box-shadow:0 30px 70px rgba(0,0,0,.3);animation:gxIn .25s ease}
+@keyframes gxIn{from{opacity:0;transform:translateY(14px)}}
+.genx-close{position:absolute;top:18px;left:18px;background:var(--card);border:1px solid var(--line);
+  width:36px;height:36px;border-radius:50%;cursor:pointer;font-size:1rem;color:var(--muted);transition:all .15s}
+.genx-close:hover{background:var(--line);color:var(--ink)}
+.genx-modal-head{display:flex;align-items:center;gap:16px;margin-bottom:24px;padding-left:40px}
+.genx-modal-icon{width:58px;height:58px;border-radius:16px;display:flex;align-items:center;justify-content:center;
+  font-size:1.8rem;flex:none;background:linear-gradient(135deg,#34308F,#0E8F8F);box-shadow:0 8px 20px rgba(34,30,102,.2)}
+.genx-modal-head h2{font-size:1.3rem;color:var(--primary-deep);margin-bottom:4px}
+.genx-modal-head p{font-size:.85rem;color:var(--muted);line-height:1.5}
+/* الحقول */
+.gx-field{margin-bottom:16px}
+.gx-field label{display:block;font-size:.9rem;font-weight:600;color:var(--ink);margin-bottom:7px}
+.gx-field input,.gx-field select,.gx-field textarea{width:100%;border:1.5px solid var(--line);border-radius:12px;
+  padding:12px 15px;font-family:inherit;font-size:.96rem;background:var(--card);color:var(--ink);transition:border-color .15s}
+.gx-field input:focus,.gx-field select:focus,.gx-field textarea:focus{outline:none;border-color:var(--teal)}
+.gx-field textarea{resize:vertical;min-height:80px}
+.genx-go{width:100%;justify-content:center;padding:14px;font-size:1.02rem;margin-top:6px;
+  background:linear-gradient(135deg,var(--primary),var(--teal));border:none}
+.genx-go:hover{opacity:.92}
+/* النتيجة */
+.genx-result{margin-top:22px;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--card)}
+.genx-result-head{display:flex;justify-content:space-between;align-items:center;gap:10px;
+  padding:12px 16px;background:var(--bg);border-bottom:1px solid var(--line)}
+.genx-result-head strong{font-size:.85rem;color:var(--primary-deep)}
+.genx-copy{background:var(--teal);color:#fff;border:none;border-radius:50px;padding:6px 16px;
+  font-family:inherit;font-size:.82rem;font-weight:600;cursor:pointer;flex:none;transition:opacity .15s}
+.genx-copy:hover{opacity:.9}
+.genx-result pre{margin:0;padding:18px;font-family:inherit;font-size:.92rem;line-height:1.8;color:var(--ink);
+  white-space:pre-wrap;word-wrap:break-word;max-height:340px;overflow-y:auto;direction:rtl;text-align:right}
+
+/* الوضع الليلي */
+[data-theme="dark"] .genx-hero{background:linear-gradient(135deg,#1e1b3a,#16282e)}
+[data-theme="dark"] .genx-modal-box{background:var(--card)}
+
+/* رابط المولّد الكلاسيكي في صفحة المولّدات */
+.genx-extra-link{margin-bottom:24px;text-align:center}
+.genx-classic{display:inline-block;background:var(--card);border:1px dashed var(--teal);border-radius:50px;
+  padding:12px 24px;color:var(--ink);text-decoration:none;font-size:.92rem;transition:background .15s}
+.genx-classic:hover{background:var(--teal-soft)}
+.genx-classic strong{color:var(--teal)}
+
 /* صفحات المنتجات */
 .prod-hero{display:grid;grid-template-columns:1.2fr .8fr;gap:40px;align-items:start;padding:56px 0 30px}
 @media(max-width:900px){.prod-hero{grid-template-columns:1fr}}

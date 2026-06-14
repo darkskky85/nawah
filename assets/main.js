@@ -378,6 +378,83 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
   els.forEach(el=>io.observe(el));
 })();
 
+
+/* ===== المولّدات المتخصصة (genx) ===== */
+(function(){
+  if(typeof GENX === 'undefined') return;
+  const byId = {}; GENX.forEach(g => byId[g.id] = g);
+  let current = null;
+
+  window.openGenx = function(id){
+    const g = byId[id]; if(!g) return;
+    current = g;
+    document.getElementById('gxIcon').textContent = g.icon;
+    document.getElementById('gxName').textContent = g.name;
+    document.getElementById('gxDesc').textContent = g.desc;
+    // الحقول
+    let h = '';
+    g.fields.forEach((f, i) => {
+      h += `<div class="gx-field"><label for="gx_${i}">${f.label}</label>`;
+      if(f.type === 'select'){
+        h += `<select id="gx_${i}" data-k="${f.k}">` + f.opts.map(o=>`<option>${o}</option>`).join('') + `</select>`;
+      } else if(f.type === 'textarea'){
+        h += `<textarea id="gx_${i}" data-k="${f.k}" placeholder="${f.ph||''}" rows="3"></textarea>`;
+      } else {
+        h += `<input id="gx_${i}" data-k="${f.k}" type="text" placeholder="${f.ph||''}">`;
+      }
+      h += `</div>`;
+    });
+    document.getElementById('gxFields').innerHTML = h;
+    document.getElementById('gxResult').style.display = 'none';
+    const m = document.getElementById('genxModal');
+    m.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  };
+
+  window.closeGenx = function(){
+    document.getElementById('genxModal').classList.remove('open');
+    document.body.style.overflow = '';
+  };
+
+  window.runGenx = function(){
+    if(!current) return;
+    let tpl = current.tpl;
+    const fields = document.querySelectorAll('#gxFields [data-k]');
+    let missing = false;
+    fields.forEach(el => {
+      const k = el.dataset.k;
+      const v = (el.value || '').trim();
+      if(!v && el.tagName !== 'SELECT') missing = true;
+      // نستبدل [{k}] و {k}
+      tpl = tpl.split('[{'+k+'}]').join(v || '[…]');
+      tpl = tpl.split('{'+k+'}').join(v || '[…]');
+    });
+    // تنظيف أقواس فارغة لحقل اختياري
+    tpl = tpl.replace(/\s*\(الكلمة المفتاحية: \[…\]\)/g, '');
+    const out = document.getElementById('gxOutput');
+    out.textContent = tpl;
+    document.getElementById('gxResult').style.display = 'block';
+    document.getElementById('gxResult').scrollIntoView({behavior:'smooth', block:'nearest'});
+  };
+
+  window.copyGenx = function(){
+    const txt = document.getElementById('gxOutput').textContent;
+    navigator.clipboard.writeText(txt).then(()=>{
+      const b = document.querySelector('.genx-copy');
+      const old = b.textContent; b.textContent = '✓ تم النسخ';
+      setTimeout(()=>b.textContent = old, 1800);
+    });
+  };
+
+  // إغلاق بالنقر خارج الصندوق أو ESC
+  document.addEventListener('click', e=>{
+    if(e.target.id === 'genxModal') closeGenx();
+  });
+  document.addEventListener('keydown', e=>{
+    if(e.key === 'Escape') closeGenx();
+  });
+})();
+
 /* تسجيل عامل الخدمة (PWA) */
 if('serviceWorker' in navigator && location.protocol === 'https:'){
   navigator.serviceWorker.register(R + 'sw.js').catch(()=>{});
