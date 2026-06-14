@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>أدوات الأتمتة بالذكاء الاصطناعي: دليل n8n وZapier وMake للمبتدئين | نَوَاة</title>
+<meta name="description" content="كيف تربط أدواتك وتؤتمت مهامك المتكررة دون برمجة، مع مقارنة بين أشهر ثلاث منصات وأمثلة مسارات جاهزة.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://nawahlabs.com/articles/p27.html">
+<meta name="theme-color" content="#221E66">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="ar_SA">
+<meta property="og:title" content="أدوات الأتمتة بالذكاء الاصطناعي: دليل n8n وZapier وMake للمبتدئين | نَوَاة">
+<meta property="og:description" content="كيف تربط أدواتك وتؤتمت مهامك المتكررة دون برمجة، مع مقارنة بين أشهر ثلاث منصات وأمثلة مسارات جاهزة.">
+<meta property="og:url" content="https://nawahlabs.com/articles/p27.html">
+<meta property="og:site_name" content="نَوَاة">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="manifest" href="../manifest.json">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../assets/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Changa:wght@400;600;700;800&family=IBM+Plex+Sans+Arabic:wght@300;400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+<meta property="og:image" content="https://nawahlabs.com/assets/covers/p27.svg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="article:section" content="أدوات الذكاء الاصطناعي">
+<meta property="article:published_time" content="2026-06-07">
+<meta name="twitter:image" content="https://nawahlabs.com/assets/covers/p27.svg">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "أدوات الأتمتة بالذكاء الاصطناعي: دليل n8n وZapier وMake للمبتدئين", "description": "كيف تربط أدواتك وتؤتمت مهامك المتكررة دون برمجة، مع مقارنة بين أشهر ثلاث منصات وأمثلة مسارات جاهزة.", "image": "https://nawahlabs.com/assets/covers/p27.svg", "inLanguage": "ar", "datePublished": "2026-06-07", "dateModified": "2026-06-07", "author": {"@type": "Organization", "name": "فريق نَوَاة"}, "publisher": {"@type": "Organization", "name": "نَوَاة", "logo": {"@type": "ImageObject", "url": "https://nawahlabs.com/assets/icon-512.png"}}, "mainEntityOfPage": "https://nawahlabs.com/articles/p27.html", "articleSection": "أدوات الذكاء الاصطناعي"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "الرئيسية", "item": "https://nawahlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "المقالات", "item": "https://nawahlabs.com/archive.html"}, {"@type": "ListItem", "position": 3, "name": "أدوات الأتمتة بالذكاء الاصطناعي: دليل n8n وZapier وMake للمبتدئين"}]}</script>
+</head>
+<body class="article-active">
+<div id="progress"></div>
+<header>
+  <div class="container nav">
+    <a class="logo" href="../index.html" aria-label="نَوَاة - الصفحة الرئيسية">
+      <svg width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true"><circle cx="17" cy="17" r="6" fill="#0E8F8F"/><circle cx="17" cy="17" r="13" stroke="#221E66" stroke-width="2" stroke-dasharray="4 5"/><circle cx="29" cy="11" r="3" fill="#D98E2B"/></svg>
+      نَوَاة
+    </a>
+    <nav class="nav-links" aria-label="التنقل الرئيسي">
+      <a href="../archive.html" class="navlink">المقالات</a>
+      <a href="../index.html#store" class="navlink">المتجر</a>
+      <a href="../tools.html" class="navlink">الأدوات</a>
+      <a href="../generators.html" class="navlink">المولّدات</a>
+      <a href="../glossary.html" class="navlink">المعجم</a>
+    </nav>
+    <div class="search-box">
+      <input type="search" id="siteSearch" placeholder="ابحث في الموقع..." aria-label="بحث في الموقع" autocomplete="off">
+      <div class="search-results" id="searchResults" role="listbox"></div>
+    </div>
+    <button class="theme-btn" id="themeBtn" aria-label="تبديل الوضع الليلي" title="الوضع الليلي">🌙</button>
+    <button class="cart-btn" id="cartBtn" aria-label="فتح سلة المشتريات">🛒 السلة <span class="cart-count" id="cartCount">0</span></button>
+  </div>
+</header>
+<main><article class="article-page"><nav class="breadcrumb" aria-label="مسار التنقل"><a href="../index.html">الرئيسية</a> ← <a href="../archive.html">المقالات</a> ← أدوات الذكاء الاصطناعي</nav><header class="article-hero" style="--hero-a:#221E66;--hero-b:#0E8F8F;--hero-accent:#34D3C0">
+  <div class="article-hero-inner">
+    <span class="ah-cat">أدوات الذكاء الاصطناعي</span>
+    <h1 class="ah-title">أدوات الأتمتة بالذكاء الاصطناعي: دليل n8n وZapier وMake للمبتدئين</h1>
+    <p class="ah-excerpt">كيف تربط أدواتك وتؤتمت مهامك المتكررة دون برمجة، مع مقارنة بين أشهر ثلاث منصات وأمثلة مسارات جاهزة.</p>
+    <div class="ah-meta">
+      <span class="ah-author"><span class="ah-avatar" aria-hidden="true">ن</span> فريق نَوَاة</span>
+      <span aria-hidden="true">·</span>
+      <time datetime="2026-06-07">2026-06-07</time>
+      <span aria-hidden="true">·</span>
+      <span>⏱ 2 دقائق قراءة</span>
+    </div>
+  </div>
+  <div class="article-hero-cover">
+    <img src="../assets/covers/p27.svg" alt="غلاف مقال: أدوات الأتمتة بالذكاء الاصطناعي: دليل n8n وZapier وMake للمبتدئين" width="1200" height="630" fetchpriority="high" decoding="async">
+  </div>
+</header><div class="article-body"><div class="share-bar"><strong>شارك المقال:</strong>
+<a href="https://x.com/intent/tweet?text=أدوات الأتمتة بالذكاء الاصطناعي: دليل n8n وZapier وMake للمبتدئين&url=https://nawahlabs.com/articles/p27.html" target="_blank" rel="noopener">𝕏 إكس</a>
+<a href="https://wa.me/?text=أدوات الأتمتة بالذكاء الاصطناعي: دليل n8n وZapier وMake للمبتدئين%20https://nawahlabs.com/articles/p27.html" target="_blank" rel="noopener">🟢 واتساب</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://nawahlabs.com/articles/p27.html" target="_blank" rel="noopener">💼 لينكدإن</a>
+<a href="https://t.me/share/url?url=https://nawahlabs.com/articles/p27.html&text=أدوات الأتمتة بالذكاء الاصطناعي: دليل n8n وZapier وMake للمبتدئين" target="_blank" rel="noopener">✈️ تيليجرام</a>
+<button onclick="navigator.clipboard&&navigator.clipboard.writeText(location.href).then(()=>showToast('🔗 تم نسخ الرابط'))">🔗 نسخ الرابط</button></div><nav class="toc" aria-label="جدول المحتويات"><h4>📑 في هذا المقال</h4><ol><li><a href="#s0">ما الذي تفعله منصات الأتمتة؟</a></li><li><a href="#s1">مقارنة المنصات الثلاث</a></li><li><a href="#s2">أمثلة مسارات جاهزة تستحق البناء</a></li><li><a href="#s3">حساب العائد قبل البناء</a></li><li><a href="#s4">قاعدة الأمان</a></li></ol></nav>
+<p>الأتمتة هي أن تنجز المهام المتكررة وأنت نائم. ربط نموذج الطلبات بجدول بفاتورة برسالة تأكيد، كله تلقائياً. ومنصات الأتمتة الحديثة تجعل هذا ممكناً دون برمجة. هذا دليلك لاختيار المنصة وبناء أول مسار.</p>
+<figure class="art-fig"><svg viewBox="0 0 660 225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="سهولة البدء النسبية لمنصات الأتمتة الثلاث، الأعلى أسهل للمبتدئ (تقدير توضيحي)"><line x1="20" y1="180" x2="640" y2="180" stroke="var(--line)" stroke-width="1.5"/><rect x="556" y="72" width="64" height="108" rx="8" fill="var(--teal)" opacity=".85"/><text x="588" y="64" text-anchor="middle" fill="var(--ink)" font-size="14" font-weight="700" font-family="'IBM Plex Sans Arabic',sans-serif">90%</text><text x="588" y="202" text-anchor="middle" fill="var(--muted)" font-size="12.5" font-family="'IBM Plex Sans Arabic',sans-serif">Zapier</text><rect x="288" y="84" width="64" height="96" rx="8" fill="var(--primary)" opacity=".85"/><text x="320" y="76" text-anchor="middle" fill="var(--ink)" font-size="14" font-weight="700" font-family="'IBM Plex Sans Arabic',sans-serif">80%</text><text x="320" y="202" text-anchor="middle" fill="var(--muted)" font-size="12.5" font-family="'IBM Plex Sans Arabic',sans-serif">Make</text><rect x="20" y="96" width="64" height="84" rx="8" fill="var(--amber)" opacity=".85"/><text x="52" y="88" text-anchor="middle" fill="var(--ink)" font-size="14" font-weight="700" font-family="'IBM Plex Sans Arabic',sans-serif">70%</text><text x="52" y="202" text-anchor="middle" fill="var(--muted)" font-size="12.5" font-family="'IBM Plex Sans Arabic',sans-serif">n8n</text></svg><figcaption>سهولة البدء النسبية لمنصات الأتمتة الثلاث، الأعلى أسهل للمبتدئ (تقدير توضيحي)</figcaption></figure>
+<h2 id="s0">ما الذي تفعله منصات الأتمتة؟</h2>
+<p>تربط تطبيقاتك ببعضها عبر «مسارات» (محفّز ← إجراءات). مثال: حين يصل نموذج طلب جديد (المحفّز)، يُضاف صف لجدول، وتُنشأ فاتورة، وتُرسل رسالة تأكيد (الإجراءات). كل هذا بلا تدخل يدوي.</p>
+<div class="ad-slot" data-ad="in-article-top">مساحة إعلانية<small>Google AdSense — مستجيب داخل المقال</small><!-- ضع كود وحدة AdSense هنا --></div>
+<h2 id="s1">مقارنة المنصات الثلاث</h2>
+<ul>
+<li><strong>Zapier:</strong> الأوسع تكاملاً (آلاف التطبيقات) والأسهل للمبتدئين. مثالي للبداية السريعة، لكنه الأغلى عند التوسّع.</li>
+<li><strong>Make:</strong> أتمتة مرئية لمسارات معقدة متعددة الفروع، بتكلفة أقل وتحكّم أدق. منحنى تعلّم أعلى قليلاً.</li>
+<li><strong>n8n:</strong> مفتوح المصدر وقابل للاستضافة الذاتية، الأقوى تحكّماً وخصوصية للشركات. يحتاج خبرة تقنية أكثر.</li>
+</ul>
+<div class="ad-slot" data-ad="in-article-mid">مساحة إعلانية<small>Google AdSense — مستجيب داخل المقال</small><!-- ضع كود وحدة AdSense هنا --></div>
+<h2 id="s2">أمثلة مسارات جاهزة تستحق البناء</h2>
+<ul>
+<li><strong>الرد الذكي:</strong> رسالة واتساب جديدة ← تحليل نيّتها ← رد تلقائي أو تصعيد لك.</li>
+<li><strong>إدارة الطلبات:</strong> نموذج طلب ← صف في جدول ← فاتورة ← رسالة تأكيد.</li>
+<li><strong>التقارير الصباحية:</strong> كل صباح ← جمع أرقام الأمس ← تقرير ملخّص لبريدك.</li>
+<li><strong>متابعة المحتوى:</strong> منشور جديد ← جدولة على بقية المنصات ← تسجيل في أرشيف.</li>
+</ul>
+<h2 id="s3">حساب العائد قبل البناء</h2>
+<p>ليست كل مهمة تستحق الأتمتة. المعادلة: (دقائق المهمة × مرات تكرارها شهرياً × 12) مقابل ساعات بناء المسار. مهمة 10 دقائق تتكرر 20 مرة شهرياً = 40 ساعة سنوياً؛ إن استغرق بناؤها 4 ساعات فالعائد عشرة أضعاف. رتّب مهامك بهذا الحساب وابدأ من الأعلى عائداً.</p>
+<h2 id="s4">قاعدة الأمان</h2>
+<p>امنح كل مسار صلاحية ما يحتاجه فقط، وفعّل تنبيهات الفشل، واختبر على عينة قبل التعميم. المسارات التي يكلّف خطؤها كثيراً (مدفوعات، مراسلة عملاء) تحتاج نقطة مراجعة بشرية مهما بدت موثوقة.</p>
+<div class="ad-slot" data-ad="in-article-end">مساحة إعلانية<small>Google AdSense — مستجيب 336×280</small><!-- ضع كود وحدة AdSense هنا --></div>
+<div class="article-cta"><div><strong>أعجبك المقال؟</strong><br><span style="color:var(--muted);font-size:.9rem">تصفّح متجرنا الرقمي لتحويل المعرفة إلى مهارة عملية.</span></div><a class="btn btn-amber" href="../index.html#store">زيارة المتجر</a></div><div class="related"><h3>مقالات ذات صلة</h3><div class="related-grid"><a href="../articles/p5.html"><span class="r-cat">أدوات الذكاء الاصطناعي</span>أفضل 10 أدوات ذكاء اصطناعي لصناعة المحتوى العربي في 2026</a><a href="../articles/p17.html"><span class="r-cat">أدوات الذكاء الاصطناعي</span>الوكلاء الأذكياء (AI Agents): التقنية التي ستغير الإنترنت بالكامل</a><a href="../articles/p12.html"><span class="r-cat">أدوات الذكاء الاصطناعي</span>أفضل 25 أداة ذكاء اصطناعي ستوفر عليك مئات الساعات في 2026</a></div></div><div class="ad-slot side-ad" data-ad="sidebar">مساحة إعلانية<small>Google AdSense — 160×600</small></div></div></article></main>
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h4>نَوَاة</h4>
+        <p style="font-size:.9rem">مدونة ومتجر عربي متخصص في الذكاء الاصطناعي. محتوى معمّق، ومنتجات رقمية تنقلك من الفهم إلى الإتقان.</p>
+      </div>
+      <div>
+        <h4>المحتوى</h4>
+        <a href="../archive.html">المقالات</a>
+        <a href="../articles/a1.html">التعلم الآلي</a>
+        <a href="../articles/a2.html">الشبكات العصبية</a>
+        <a href="../articles/a3.html">تطبيقات القطاعات</a>
+      </div>
+      <div>
+        <h4>المتجر</h4>
+        <a href="../index.html#store">جميع المنتجات</a>
+        <a href="../index.html#store">الدورات التدريبية</a>
+        <a href="../index.html#store">الكتب الإلكترونية</a>
+        <a href="../index.html#store">الأدوات والقوالب</a>
+      </div>
+      <div>
+        <h4>الموقع</h4>
+        <a href="../archive.html">أرشيف المقالات</a>
+        <a href="../tools.html">أدوات الذكاء الاصطناعي</a>
+        <a href="../about.html">من نحن</a>
+        <a href="../contact.html">تواصل معنا</a>
+        <a href="../index.html#marketing">النشرة البريدية</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 نَوَاة. جميع الحقوق محفوظة.</span>
+      <span><a href="../privacy.html" style="display:inline">سياسة الخصوصية</a> · <a href="../terms.html" style="display:inline">شروط الاستخدام</a> · <a href="../refund.html" style="display:inline">سياسة الاستبدال والاسترجاع</a></span>
+    </div>
+  </div>
+</footer>
+<div class="drawer" id="cartDrawer" role="dialog" aria-label="سلة المشتريات">
+  <div class="drawer-panel">
+    <h3>سلة المشتريات <button class="close-x" id="cartClose" aria-label="إغلاق السلة">✕</button></h3>
+    <div id="cartItems"></div>
+    <div class="cart-total" id="cartFooter" style="display:none">
+      <div style="font-size:.85rem;color:var(--muted);margin-bottom:8px">لديك كود خصم؟ أدخل <strong>NAWAH20</strong> لخصم 20%</div>
+      <div style="display:flex;gap:8px;margin-bottom:14px">
+        <input id="couponInput" placeholder="كود الخصم" style="flex:1;border:1px solid var(--line);border-radius:50px;padding:9px 16px;font-family:'IBM Plex Sans Arabic'">
+        <button class="btn btn-ghost" style="padding:9px 18px" id="couponBtn">تطبيق</button>
+      </div>
+      <div class="row"><span>الإجمالي</span><span id="cartTotal">0 ر.س</span></div>
+      <button class="btn btn-primary" style="width:100%;justify-content:center" id="checkoutBtn">إتمام الشراء الآمن 🔒</button>
+      <div class="pay-methods" aria-label="وسائل الدفع المقبولة"><span>مدى</span><span>Visa</span><span>Mastercard</span><span>Apple Pay</span><span>STC Pay</span></div>
+      <p class="secure-note">🔒 معاملاتك محمية بتشفير SSL، وتُسلَّم المنتجات الرقمية فوراً إلى بريدك. جميع المبيعات نهائية وفق <a href="../refund.html" style="color:var(--teal)">سياسة الاسترجاع</a>.</p>
+    </div>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+<script>window.NAWAH_ROOT="../";</script>
+<script src="../assets/data.js"></script>
+<script src="../assets/main.js" defer></script>
+</body>
+</html>
