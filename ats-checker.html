@@ -3,16 +3,16 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>مولّدات نَوَاة المتخصّصة — أدوات ذكاء اصطناعي مجانية</title>
-<meta name="description" content="مولّدات متخصصة مجانية: أفكار يوتيوب، أسماء علامات، منشورات سوشيال، عناوين مقالات، أوصاف منتجات وأكثر. تعمل في متصفحك بلا تسجيل.">
+<title>فاحص السيرة الذاتية ATS مجاناً — نَوَاة</title>
+<meta name="description" content="حلّل سيرتك الذاتية مجاناً وفق معايير ATS العالمية 2026: درجة من 100، نقاط القوة والضعف، الكلمات المفتاحية المفقودة، وخطة تحسين. تحليل فوري في متصفحك بخصوصية كاملة.">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://nawahlabs.com/generators.html">
+<link rel="canonical" href="https://nawahlabs.com/ats-checker.html">
 <meta name="theme-color" content="#221E66">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="ar_SA">
-<meta property="og:title" content="مولّدات نَوَاة المتخصّصة — أدوات ذكاء اصطناعي مجانية">
-<meta property="og:description" content="مولّدات متخصصة مجانية: أفكار يوتيوب، أسماء علامات، منشورات سوشيال، عناوين مقالات، أوصاف منتجات وأكثر. تعمل في متصفحك بلا تسجيل.">
-<meta property="og:url" content="https://nawahlabs.com/generators.html">
+<meta property="og:title" content="فاحص السيرة الذاتية ATS مجاناً — نَوَاة">
+<meta property="og:description" content="حلّل سيرتك الذاتية مجاناً وفق معايير ATS العالمية 2026: درجة من 100، نقاط القوة والضعف، الكلمات المفتاحية المفقودة، وخطة تحسين. تحليل فوري في متصفحك بخصوصية كاملة.">
+<meta property="og:url" content="https://nawahlabs.com/ats-checker.html">
 <meta property="og:site_name" content="نَوَاة">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="manifest" href="manifest.json">
@@ -23,7 +23,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Changa:wght@400;600;700;800&family=IBM+Plex+Sans+Arabic:wght@300;400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css?v=7">
 <meta property="og:type" content="website">
-<script src="assets/genx-data.js?v=7"></script>
+<script src="assets/ats-engine.js?v=4"></script>
 </head>
 <body>
 <div id="progress"></div>
@@ -52,83 +52,62 @@
 <main>
   <section class="genx-hero">
     <div class="container">
-      <span class="eyebrow">أدوات مجانية بلا تسجيل</span>
-      <h1>مولّدات نَوَاة المتخصّصة</h1>
-      <p>كل الأدوات تعمل محلياً في متصفحك: سرعة فورية، خصوصية كاملة، وبلا أي حدود استخدام. اختر مولّداً، املأ الحقول، واحصل على نتيجة احترافية جاهزة.</p>
+      <span class="eyebrow">أداة مجانية بلا تسجيل</span>
+      <h1>فاحص السيرة الذاتية بنظام ATS</h1>
+      <p>حلّل سيرتك الذاتية فوراً وفق معايير أنظمة تتبّع المتقدمين (ATS) العالمية لعام 2026. احصل على درجة من 100، نقاط القوة والضعف، الكلمات المفتاحية المفقودة، وخطة تحسين عملية. كل التحليل يتم في متصفحك — سيرتك لا تغادر جهازك.</p>
     </div>
   </section>
 
-  <section class="container genx-wrap">
-    <div class="genx-extra-link">
-      <a href="generator.html" class="genx-classic">🧩 تبحث عن مولّد البرومبتات الشامل (54 مهمة)؟ <strong>افتحه هنا ←</strong></a>
+  <section class="container ats-wrap">
+    <div class="ats-input-card">
+      <label class="ats-label" for="atsRole">الوظيفة المستهدفة <span>(اختياري — يحسّن دقة الكلمات المفتاحية)</span></label>
+      <input type="text" id="atsRole" placeholder="مثال: مطوّر برمجيات / أخصائي تسويق رقمي / مدير مشاريع">
+
+      <label class="ats-label" for="atsInput">الصق نص سيرتك الذاتية هنا</label>
+      <textarea id="atsInput" rows="12" placeholder="ارفع ملف PDF أو Word من الزر أدناه، أو الصق محتوى سيرتك الذاتية هنا كاملاً (الملخص، الخبرات، التعليم، المهارات...)" oninput="atsCountWords()"></textarea>
+
+      <label class="ats-label" for="atsJob">نص إعلان الوظيفة <span>(اختياري — يحسب نسبة تطابق سيرتك مع المتطلبات)</span></label>
+      <textarea id="atsJob" rows="5" placeholder="الصق نص إعلان الوظيفة التي تستهدفها هنا، وسنحسب نسبة تطابق سيرتك مع كلماته المفتاحية (مثل أداة Jobscan)."></textarea>
+
+      <div class="ats-input-foot">
+        <div class="ats-upload">
+          <label class="ats-upload-btn">📎 ارفع سيرتك (PDF / Word / نص)
+            <input type="file" accept=".pdf,.docx,.txt" onchange="atsFileUpload(this)" hidden>
+          </label>
+          <span id="atsFileNote" class="ats-file-note"></span>
+        </div>
+        <span id="atsWordCount" class="ats-wc">0 كلمة</span>
+      </div>
+
+      <button class="btn btn-primary ats-go" onclick="runATS()">⚡ حلّل سيرتي الآن</button>
+      <p class="ats-privacy">🔒 خصوصية كاملة: التحليل يتم محلياً في متصفحك، ولا تُرفع سيرتك لأي خادم.</p>
     </div>
-    <div class="genx-grid" id="genxGrid">
-      <button class="genx-card grad-a" data-gid="youtube" onclick="openGenx('youtube')">
-      <span class="genx-icon">▶️</span>
-      <span class="genx-name">مولّد أفكار يوتيوب</span>
-      <span class="genx-desc">عناوين فيديوهات جذابة مع الصيغة المقترحة لكل فكرة.</span>
-    </button><button class="genx-card grad-b" data-gid="projects" onclick="openGenx('projects')">
-      <span class="genx-icon">💡</span>
-      <span class="genx-name">مولّد أفكار مشاريع</span>
-      <span class="genx-desc">أفكار مشاريع واقعية مع الجمهور المستهدف ونموذج الربح.</span>
-    </button><button class="genx-card grad-c" data-gid="chatgpt" onclick="openGenx('chatgpt')">
-      <span class="genx-icon">🧠</span>
-      <span class="genx-name">مولّد برومبتات ChatGPT</span>
-      <span class="genx-desc">أوامر احترافية مخصصة لمجالك وهدفك، جاهزة للنسخ المباشر.</span>
-    </button><button class="genx-card grad-d" data-gid="brand" onclick="openGenx('brand')">
-      <span class="genx-icon">™️</span>
-      <span class="genx-name">مولّد أسماء علامات تجارية</span>
-      <span class="genx-desc">أسماء براندات مع شعارات لفظية تناسب شخصية علامتك.</span>
-    </button><button class="genx-card grad-a" data-gid="store" onclick="openGenx('store')">
-      <span class="genx-icon">🏪</span>
-      <span class="genx-name">مولّد أسماء متاجر</span>
-      <span class="genx-desc">أسماء متاجر مميزة بأربعة أنماط مع اقتراح النطاق.</span>
-    </button><button class="genx-card grad-c" data-gid="tiktok" onclick="openGenx('tiktok')">
-      <span class="genx-icon">🎬</span>
-      <span class="genx-name">مولّد أفكار تيك توك</span>
-      <span class="genx-desc">أفكار فيديوهات قصيرة بخطّافات تجذب الانتباه من أول ثانية.</span>
-    </button><button class="genx-card grad-b" data-gid="social" onclick="openGenx('social')">
-      <span class="genx-icon">💬</span>
-      <span class="genx-name">مولّد منشورات سوشيال ميديا</span>
-      <span class="genx-desc">منشورات جاهزة لتويتر وإنستغرام ولينكدإن وفيسبوك.</span>
-    </button><button class="genx-card grad-d" data-gid="titles" onclick="openGenx('titles')">
-      <span class="genx-icon">📰</span>
-      <span class="genx-name">مولّد عناوين مقالات</span>
-      <span class="genx-desc">عناوين تجذب النقرات بخمسة أنماط: دليل، قائمة، مقارنة وأكثر.</span>
-    </button><button class="genx-card grad-a" data-gid="product_desc" onclick="openGenx('product_desc')">
-      <span class="genx-icon">📦</span>
-      <span class="genx-name">مولّد أوصاف منتجات</span>
-      <span class="genx-desc">أوصاف تسويقية بثلاث صيغ مختلفة جاهزة للمتجر.</span>
-    </button><button class="genx-card grad-c" data-gid="digital_products" onclick="openGenx('digital_products')">
-      <span class="genx-icon">🎁</span>
-      <span class="genx-name">مولّد أفكار منتجات رقمية</span>
-      <span class="genx-desc">أفكار منتجات قابلة للبيع مع السعر المقترح ومنصات البيع.</span>
-    </button>
+
+    <div class="ats-result" id="atsResult" style="display:none"></div>
+
+    <div class="ats-info">
+      <h2>ما هو نظام ATS ولماذا يهمّك؟</h2>
+      <p>نظام تتبّع المتقدمين (Applicant Tracking System) برنامج تستخدمه أكثر من 90% من الشركات الكبرى لفرز السير الذاتية آلياً قبل أن تصل لعين بشرية. إن لم تتوافق سيرتك مع معاييره، قد تُستبعد رغم كفاءتك. هذا الفاحص يساعدك على تجاوز هذا الحاجز الأول.</p>
+      <div class="ats-tips">
+        <div class="ats-tip"><strong>عناوين قياسية</strong><span>استخدم «الخبرة العملية»، «التعليم»، «المهارات» — لا عناوين إبداعية.</span></div>
+        <div class="ats-tip"><strong>أرقام وإنجازات</strong><span>«رفعت المبيعات 30%» أقوى بكثير من «مسؤول عن المبيعات».</span></div>
+        <div class="ats-tip"><strong>كلمات مفتاحية</strong><span>طابق كلمات سيرتك مع إعلان الوظيفة لرفع نسبة التوافق.</span></div>
+        <div class="ats-tip"><strong>تنسيق بسيط</strong><span>تجنّب الجداول والصور المعقّدة — ATS قد لا يقرؤها.</span></div>
+      </div>
     </div>
   </section>
-
-  <!-- نافذة المولّد -->
-  <div class="genx-modal" id="genxModal" role="dialog" aria-modal="true">
-    <div class="genx-modal-box">
-      <button class="genx-close" onclick="closeGenx()" aria-label="إغلاق">✕</button>
-      <div class="genx-modal-head">
-        <span class="genx-modal-icon" id="gxIcon"></span>
-        <div>
-          <h2 id="gxName"></h2>
-          <p id="gxDesc"></p>
-        </div>
+  <section class="container" style="margin:30px auto 50px">
+    <div style="background:linear-gradient(135deg,#34308F,#221E66);border-radius:18px;padding:28px 26px;color:#fff;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:20px">
+      <div style="flex:1;min-width:260px">
+        <h2 style="margin:0 0 8px;color:#fff;font-size:1.35rem">🎯 ابدأ بقالب جاهز يجتاز ATS من أول مرة</h2>
+        <p style="margin:0;color:#C8C5F0;font-size:.98rem;line-height:1.8">بدل أن تبني سيرتك من الصفر، انطلق من حزمة 6 قوالب احترافية بصيغة Word — عربي وإنجليزي — مصمّمة خصيصاً لتتوافق مع أنظمة الفرز الآلي، مع دليل كتابة كامل.</p>
       </div>
-      <div id="gxFields"></div>
-      <button class="btn btn-primary genx-go" onclick="runGenx()">⚡ توليد النتيجة</button>
-      <div class="genx-result" id="gxResult" style="display:none">
-        <div class="genx-result-head">
-          <strong>النتيجة جاهزة — انسخها لـChatGPT أو Claude</strong>
-          <button class="genx-copy" onclick="copyGenx()">📋 نسخ</button>
-        </div>
-        <pre id="gxOutput"></pre>
+      <div style="display:flex;flex-direction:column;gap:10px;min-width:200px">
+        <a class="btn btn-amber" href="products/cv-templates.html" style="justify-content:center;white-space:nowrap">📄 شاهد القوالب — 39 ر.س</a>
+        <a class="btn btn-ghost" href="assets/cv-templates-sample.pdf" download style="justify-content:center;color:#fff;border-color:rgba(255,255,255,.4)">📥 عاين نموذجاً مجاناً</a>
       </div>
     </div>
-  </div>
+  </section>
 </main>
 <footer>
   <div class="container">
