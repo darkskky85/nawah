@@ -380,7 +380,7 @@ header,footer{content-visibility:visible}
 .store-offer .offer-tag{font-weight:700;color:var(--amber)}
 .store-offer code{background:#fff;border:1px solid var(--amber);border-radius:6px;
   padding:2px 10px;font-weight:700;color:var(--primary-deep)}
-.store-trust{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:30px}
+.store-trust{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin-top:30px}
 .st-item{display:flex;gap:12px;align-items:flex-start;background:var(--card);
   border:1px solid var(--line);border-radius:12px;padding:16px}
 .st-item .st-ic{font-size:1.5rem;flex:none}
@@ -806,3 +806,43 @@ header,footer{content-visibility:visible}
 .term h3{color:var(--primary-deep);font-size:1.02rem;display:flex;justify-content:space-between;gap:8px;align-items:baseline}
 .term h3 small{color:var(--teal);font-size:.72rem;font-weight:600;direction:ltr}
 .term p{color:var(--muted);font-size:.88rem;margin-top:6px}
+/* ===== مقارن الأدوات التفاعلي ===== */
+.tool-matcher{background:linear-gradient(135deg,var(--teal-soft),var(--card));border:1px solid var(--line);border-radius:18px;padding:26px 24px;margin:22px 0 30px}
+.tm-head h2{margin:0 0 6px;font-size:1.4rem;color:var(--primary-deep)}
+.tm-head p{margin:0 0 18px;color:var(--muted);font-size:.96rem;line-height:1.8;max-width:620px}
+.tm-tasks{display:flex;flex-wrap:wrap;gap:10px}
+.tm-task{display:inline-flex;align-items:center;gap:8px;background:var(--card);border:1.5px solid var(--line);border-radius:50px;padding:10px 18px;font-family:inherit;font-size:.95rem;color:var(--ink);cursor:pointer;transition:all .18s}
+.tm-task:hover{border-color:var(--teal);transform:translateY(-2px)}
+.tm-task.on{background:var(--primary);border-color:var(--primary);color:#fff}
+.tm-ic{font-size:1.1rem}
+.tm-result{margin-top:22px;animation:tmFade .35s ease}
+@keyframes tmFade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.tm-result-head{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:14px}
+#tmResultTitle{font-weight:700;font-size:1.1rem;color:var(--ink)}
+#tmResultTitle b{color:var(--teal)}
+.tm-reset{background:none;border:1px solid var(--line);border-radius:50px;padding:6px 14px;font-family:inherit;font-size:.85rem;color:var(--muted);cursor:pointer;transition:all .18s}
+.tm-reset:hover{border-color:var(--amber);color:var(--amber)}
+.tm-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+.tm-card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;position:relative;transition:all .18s}
+.tm-card:hover{border-color:var(--teal);box-shadow:0 4px 18px rgba(14,143,143,.1)}
+.tm-card.top{border:2px solid var(--amber)}
+.tm-rank{position:absolute;top:-10px;left:16px;background:var(--amber);color:#fff;font-size:.72rem;font-weight:700;padding:3px 12px;border-radius:50px}
+.tm-card.top .tm-rank{background:var(--amber)}
+.tm-card-name{font-size:1.1rem;font-weight:700;color:var(--primary-deep);margin:4px 0 6px}
+.tm-card-badge{display:inline-block;font-size:.72rem;padding:2px 10px;border-radius:50px;background:var(--teal-soft);color:var(--teal);margin-bottom:8px}
+.tm-card-desc{font-size:.88rem;color:var(--muted);line-height:1.7;margin:0}
+.tm-all{display:inline-block;margin-top:16px;color:var(--teal);font-weight:600;font-size:.92rem;text-decoration:none}
+.tm-all:hover{text-decoration:underline}
+
+/* ===== نصيحة / موجّه اليوم ===== */
+.daily-tip{background:var(--card);border:1px solid var(--line);border-right:4px solid var(--amber);border-radius:14px;padding:20px 22px;margin:22px 0}
+.dt-head{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:10px}
+.dt-label{display:inline-flex;align-items:center;gap:8px;font-weight:700;color:var(--amber);font-size:.95rem}
+.dt-date{font-size:.8rem;color:var(--muted)}
+.dt-body{font-size:1rem;line-height:1.85;color:var(--ink);margin:0 0 12px}
+.dt-body strong{color:var(--primary-deep)}
+.dt-actions{display:flex;gap:10px;flex-wrap:wrap}
+.dt-copy,.dt-next{background:none;border:1px solid var(--line);border-radius:50px;padding:7px 16px;font-family:inherit;font-size:.85rem;color:var(--muted);cursor:pointer;transition:all .18s}
+.dt-copy:hover{border-color:var(--teal);color:var(--teal)}
+.dt-next:hover{border-color:var(--amber);color:var(--amber)}
+@media(max-width:560px){.tm-head h2{font-size:1.2rem}.tm-task{padding:9px 14px;font-size:.88rem}}

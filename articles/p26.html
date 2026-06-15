@@ -21,7 +21,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Changa:wght@400;600;700;800&family=IBM+Plex+Sans+Arabic:wght@300;400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/style.css?v=7">
+<link rel="stylesheet" href="../assets/style.css?v=17">
 <meta property="og:image" content="https://nawahlabs.com/assets/covers/p26.svg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -65,7 +65,7 @@
       <span aria-hidden="true">·</span>
       <time datetime="2026-06-08">2026-06-08</time>
       <span aria-hidden="true">·</span>
-      <span>⏱ 2 دقائق قراءة</span>
+      <span>⏱ 5 دقائق قراءة</span>
     </div>
   </div>
   <div class="article-hero-cover">
@@ -76,7 +76,8 @@
 <a href="https://wa.me/?text=تحليل البيانات في ChatGPT: حوّل ملفاتك إلى رؤى دون كتابة كود%20https://nawahlabs.com/articles/p26.html" target="_blank" rel="noopener">🟢 واتساب</a>
 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://nawahlabs.com/articles/p26.html" target="_blank" rel="noopener">💼 لينكدإن</a>
 <a href="https://t.me/share/url?url=https://nawahlabs.com/articles/p26.html&text=تحليل البيانات في ChatGPT: حوّل ملفاتك إلى رؤى دون كتابة كود" target="_blank" rel="noopener">✈️ تيليجرام</a>
-<button onclick="navigator.clipboard&&navigator.clipboard.writeText(location.href).then(()=>showToast('🔗 تم نسخ الرابط'))">🔗 نسخ الرابط</button></div><nav class="toc" aria-label="جدول المحتويات"><h4>📑 في هذا المقال</h4><ol><li><a href="#s0">كيف يعمل تحليل البيانات؟</a></li><li><a href="#s1">سير عمل كامل خطوة بخطوة</a></li><li><a href="#s2">أمثلة استخدام واقعية</a></li><li><a href="#s3">تحذير مهم</a></li></ol></nav>
+<button onclick="navigator.clipboard&&navigator.clipboard.writeText(location.href).then(()=>showToast('🔗 تم نسخ الرابط'))">🔗 نسخ الرابط</button></div><nav class="toc" aria-label="جدول المحتويات"><h4>📑 في هذا المقال</h4><ol><li><a href="#s0">كيف يعمل تحليل البيانات؟</a></li><li><a href="#s1">سير عمل كامل خطوة بخطوة</a></li><li><a href="#s2">أمثلة استخدام واقعية</a></li><li><a href="#s2b">خمسة أسئلة تحليلية اطرحها على بياناتك</a></li>
+<li><a href="#s3">تحذير مهم</a></li></ol></nav>
 <p>لديك ملف بيانات ولا تعرف البرمجة؟ ChatGPT يحلّله لك فعلياً: يكتب وينفّذ كود التحليل في الخلفية ويعرض لك النتائج والرسوم. هذا الدليل يحوّلك من مجرّد امتلاك البيانات إلى استخراج القرارات منها.</p>
 <figure class="art-fig"><svg viewBox="0 0 660 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="سير تحليل البيانات في ChatGPT من الملف إلى الرؤية (رسم توضيحي)"><rect x="504" y="48" width="136" height="62" rx="12" fill="var(--teal-soft)" stroke="var(--teal)" stroke-width="1.5"/><circle cx="572" cy="34" r="14" fill="var(--primary-deep)"/><text x="572" y="39" text-anchor="middle" fill="var(--bg)" font-size="13" font-family="'IBM Plex Sans Arabic',sans-serif">1</text><text x="572" y="84" text-anchor="middle" fill="var(--ink)" font-size="14" font-weight="600" font-family="'IBM Plex Sans Arabic',sans-serif">ارفع البيانات</text><path d="M500 79 l-12 0 m3 -5 l-5 5 l5 5" stroke="var(--amber)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><rect x="343" y="48" width="136" height="62" rx="12" fill="var(--teal-soft)" stroke="var(--teal)" stroke-width="1.5"/><circle cx="411" cy="34" r="14" fill="var(--primary-deep)"/><text x="411" y="39" text-anchor="middle" fill="var(--bg)" font-size="13" font-family="'IBM Plex Sans Arabic',sans-serif">2</text><text x="411" y="84" text-anchor="middle" fill="var(--ink)" font-size="14" font-weight="600" font-family="'IBM Plex Sans Arabic',sans-serif">نظّف</text><path d="M338 79 l-12 0 m3 -5 l-5 5 l5 5" stroke="var(--amber)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><rect x="182" y="48" width="136" height="62" rx="12" fill="var(--teal-soft)" stroke="var(--teal)" stroke-width="1.5"/><circle cx="249" cy="34" r="14" fill="var(--primary-deep)"/><text x="249" y="39" text-anchor="middle" fill="var(--bg)" font-size="13" font-family="'IBM Plex Sans Arabic',sans-serif">3</text><text x="249" y="84" text-anchor="middle" fill="var(--ink)" font-size="14" font-weight="600" font-family="'IBM Plex Sans Arabic',sans-serif">حلّل وصوّر</text><path d="M176 79 l-12 0 m3 -5 l-5 5 l5 5" stroke="var(--amber)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><rect x="20" y="48" width="136" height="62" rx="12" fill="var(--teal-soft)" stroke="var(--teal)" stroke-width="1.5"/><circle cx="88" cy="34" r="14" fill="var(--primary-deep)"/><text x="88" y="39" text-anchor="middle" fill="var(--bg)" font-size="13" font-family="'IBM Plex Sans Arabic',sans-serif">4</text><text x="88" y="84" text-anchor="middle" fill="var(--ink)" font-size="14" font-weight="600" font-family="'IBM Plex Sans Arabic',sans-serif">استخرج التقرير</text></svg><figcaption>سير تحليل البيانات في ChatGPT من الملف إلى الرؤية (رسم توضيحي)</figcaption></figure>
 <h2 id="s0">كيف يعمل تحليل البيانات؟</h2>
@@ -97,6 +98,16 @@
 <li><strong>بيانات استبيان:</strong> ما أبرز اتجاهات الرضا؟ وأي شريحة الأكثر تذمراً؟</li>
 <li><strong>سجل مصاريف:</strong> أين تتسرّب الميزانية؟ وما البنود القابلة للخفض؟</li>
 </ul>
+<h2 id="s2b">خمسة أسئلة تحليلية اطرحها على بياناتك فوراً</h2>
+<p>كثيرون يملكون البيانات لكن لا يعرفون ماذا يسألون. هذه أسئلة جاهزة تستخرج رؤى من أي ملف مبيعات أو عملاء:</p>
+<ul>
+<li><strong>"ما الاتجاه عبر الزمن؟"</strong> اطلب رسماً بيانياً يُظهر صعود أو هبوط القيم شهرياً، فترى النمط الذي تخفيه الأرقام الخام.</li>
+<li><strong>"ما العناصر الأكثر والأقل أداءً؟"</strong> أبرز أعلى 5 وأضعف 5، فتعرف أين تضاعف جهدك وأين تتوقف.</li>
+<li><strong>"هل هناك علاقة بين متغيّرين؟"</strong> اسأل إن كان ارتفاع X يرتبط بارتفاع Y، فتكشف عوامل لم تكن واضحة.</li>
+<li><strong>"ما القيم الشاذّة وما سببها المحتمل؟"</strong> القيم الغريبة قد تكون أخطاء إدخال أو فرصاً مخفية تستحق التحقيق.</li>
+<li><strong>"لخّص لي ما يجب أن يقلقني في هذه البيانات."</strong> سؤال مفتوح يدفع الأداة لإبراز ما قد تغفل عنه أنت.</li>
+</ul>
+<p>القيمة لا تأتي من امتلاك البيانات، بل من طرح السؤال الصحيح عليها. الأداة تنفّذ التحليل، لكن فضولك أنت هو ما يحوّل الأرقام إلى قرارات.</p>
 <h2 id="s3">تحذير مهم</h2>
 <p>راجع دائماً منطق التحليل قبل اتخاذ قرار بناءً عليه. اطلب «اشرح لي كيف وصلت لهذه النتيجة» للتحقق. والأهم: لا ترفع بيانات حساسة أو شخصية في الخطط المجانية؛ استخدم خطط الأعمال التي تستثني بياناتك من التدريب للأمور الحسّاسة.</p>
 <div class="ad-slot" data-ad="in-article-end">مساحة إعلانية<small>Google AdSense — مستجيب 336×280</small><!-- ضع كود وحدة AdSense هنا --></div>
@@ -156,7 +167,7 @@
 </div>
 <div class="toast" id="toast"></div>
 <script>window.NAWAH_ROOT="../";</script>
-<script src="../assets/data.js?v=7"></script>
-<script src="../assets/main.js?v=7" defer></script>
+<script src="../assets/data.js?v=17"></script>
+<script src="../assets/main.js?v=17" defer></script>
 </body>
 </html>

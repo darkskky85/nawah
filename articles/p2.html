@@ -21,7 +21,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Changa:wght@400;600;700;800&family=IBM+Plex+Sans+Arabic:wght@300;400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/style.css?v=7">
+<link rel="stylesheet" href="../assets/style.css?v=17">
 <meta property="og:image" content="https://nawahlabs.com/assets/covers/p2.svg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -65,7 +65,7 @@
       <span aria-hidden="true">·</span>
       <time datetime="2026-06-09">2026-06-09</time>
       <span aria-hidden="true">·</span>
-      <span>⏱ 2 دقائق قراءة</span>
+      <span>⏱ 6 دقائق قراءة</span>
     </div>
   </div>
   <div class="article-hero-cover">
@@ -76,11 +76,13 @@
 <a href="https://wa.me/?text=هندسة الموجهات (Prompt Engineering): كيف تكتب أوامر تضاعف جودة النتائج%20https://nawahlabs.com/articles/p2.html" target="_blank" rel="noopener">🟢 واتساب</a>
 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://nawahlabs.com/articles/p2.html" target="_blank" rel="noopener">💼 لينكدإن</a>
 <a href="https://t.me/share/url?url=https://nawahlabs.com/articles/p2.html&text=هندسة الموجهات (Prompt Engineering): كيف تكتب أوامر تضاعف جودة النتائج" target="_blank" rel="noopener">✈️ تيليجرام</a>
-<button onclick="navigator.clipboard&&navigator.clipboard.writeText(location.href).then(()=>showToast('🔗 تم نسخ الرابط'))">🔗 نسخ الرابط</button></div><nav class="toc" aria-label="جدول المحتويات"><h4>📑 في هذا المقال</h4><ol><li><a href="#s0">سبع تقنيات مجرّبة</a></li><li><a href="#s1">قالب جاهز تستخدمه فوراً</a></li><li><a href="#s2">أنماط موجهات جاهزة لأكثر المهام شيوعاً</a></li><li><a href="#s3">كيف تبني مكتبة موجهاتك الخاصة؟</a></li></ol></nav>
+<button onclick="navigator.clipboard&&navigator.clipboard.writeText(location.href).then(()=>showToast('🔗 تم نسخ الرابط'))">🔗 نسخ الرابط</button></div><nav class="toc" aria-label="جدول المحتويات"><h4>📑 في هذا المقال</h4><ol><li><a href="#s0">سبع تقنيات مجرّبة</a></li><li><a href="#s1">قالب جاهز تستخدمه فوراً</a></li><li><a href="#s2">أنماط موجهات جاهزة لأكثر المهام شيوعاً</a></li><li><a href="#s2b">أربعة أخطاء تُفسد موجّهاتك</a></li>
+<li><a href="#s3">كيف تبني مكتبة موجهاتك الخاصة؟</a></li></ol></nav>
 <p>النموذج نفسه قد يمنحك إجابة سطحية أو تحفة متقنة، والفارق الوحيد هو صياغة طلبك. هندسة الموجهات مهارة العصر التي ترفع جودة مخرجاتك أضعافاً دون أن تكلفك ريالاً واحداً.</p>
 <p>الموجّه الجيد يجيب عن أربعة أسئلة قبل أن تطرحها الآلة: من أنا (السياق)؟ ماذا أريد بالضبط (المهمة)؟ بأي شكل (الصيغة)؟ ولمن (الجمهور)؟</p>
 <div class="ad-slot" data-ad="in-article-top">مساحة إعلانية<small>Google AdSense — مستجيب داخل المقال</small><!-- ضع كود وحدة AdSense هنا --></div>
 <h2 id="s0">سبع تقنيات مجرّبة</h2>
+<p>هندسة الموجّهات ليست "حيلاً سحرية"، بل مهارة تواصل: كلما وصفت ما تريد بدقة أكبر، اقترب الناتج من توقعك. هذه التقنيات السبع هي الأكثر أثراً، مرتّبة من الأبسط إلى الأعمق:</p>
 <ul>
 <li><strong>تحديد الدور:</strong> «أنت خبير تسويق رقمي بخبرة 15 عاماً في السوق الخليجي» يضبط مستوى الإجابة ومنظورها.</li>
 <li><strong>الأمثلة (Few-shot):</strong> أعطه مثالاً أو اثنين على الناتج المطلوب، فيحاكي النمط بدقة لافتة.</li>
@@ -90,6 +92,7 @@
 <li><strong>طلب البدائل:</strong> «أعطني 3 صياغات بنبرات مختلفة» يمنحك خيارات بدل التكرار العشوائي.</li>
 <li><strong>التحسين التكراري:</strong> عامل أول إجابة كمسودة: «اجعلها أكثر إيجازاً»، «أضف مثالاً عملياً».</li>
 </ul>
+<p>أكثر تقنية يُستهان بها هي <strong>الأمثلة (Few-shot)</strong>. النموذج "يتعلّم" من المثال الذي تعطيه أسرع بكثير من أي وصف مجرّد. إن أردت رسائل بأسلوب معيّن، الصق رسالتين سابقتين بأسلوبك واطلب المحاكاة — النتيجة تقفز فوراً. لا تشرح الأسلوب، بل أرِه إياه.</p>
 <h2 id="s1">قالب جاهز تستخدمه فوراً</h2>
 <p>«أنت [الدور]. مهمتك [المهمة المحددة] موجهة إلى [الجمهور]. الصيغة المطلوبة: [قائمة/جدول/مقال] بطول [العدد]. النبرة: [رسمية/ودية]. تجنّب [الممنوعات]. إليك مثالاً على ما أريد: [مثال]».</p>
 <figure class="art-fig"><svg viewBox="0 0 660 225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="أثر كل طبقة من طبقات الموجّه على جودة المخرجات (نسب توضيحية)"><line x1="20" y1="180" x2="640" y2="180" stroke="var(--line)" stroke-width="1.5"/><rect x="556" y="138" width="64" height="42" rx="8" fill="var(--teal)" opacity=".85"/><text x="588" y="130" text-anchor="middle" fill="var(--ink)" font-size="14" font-weight="700" font-family="'IBM Plex Sans Arabic',sans-serif">35%</text><text x="588" y="202" text-anchor="middle" fill="var(--muted)" font-size="12.5" font-family="'IBM Plex Sans Arabic',sans-serif">موجّه عام</text><rect x="377" y="108" width="64" height="72" rx="8" fill="var(--primary)" opacity=".85"/><text x="409" y="100" text-anchor="middle" fill="var(--ink)" font-size="14" font-weight="700" font-family="'IBM Plex Sans Arabic',sans-serif">60%</text><text x="409" y="202" text-anchor="middle" fill="var(--muted)" font-size="12.5" font-family="'IBM Plex Sans Arabic',sans-serif">+ دور وسياق</text><rect x="199" y="78" width="64" height="102" rx="8" fill="var(--amber)" opacity=".85"/><text x="231" y="70" text-anchor="middle" fill="var(--ink)" font-size="14" font-weight="700" font-family="'IBM Plex Sans Arabic',sans-serif">85%</text><text x="231" y="202" text-anchor="middle" fill="var(--muted)" font-size="12.5" font-family="'IBM Plex Sans Arabic',sans-serif">+ أمثلة وقيود</text><rect x="20" y="66" width="64" height="114" rx="8" fill="var(--teal)" opacity=".85"/><text x="52" y="58" text-anchor="middle" fill="var(--ink)" font-size="14" font-weight="700" font-family="'IBM Plex Sans Arabic',sans-serif">95%</text><text x="52" y="202" text-anchor="middle" fill="var(--muted)" font-size="12.5" font-family="'IBM Plex Sans Arabic',sans-serif">+ تحسين تكراري</text></svg><figcaption>أثر كل طبقة من طبقات الموجّه على جودة المخرجات (نسب توضيحية)</figcaption></figure>
@@ -101,6 +104,14 @@
 <li><strong>استخراج البيانات:</strong> «استخرج من النص التالي جدولاً بأعمدة: الاسم، التاريخ، المبلغ، الحالة. إن غاب حقل فاكتب (غير مذكور) ولا تخمّن».</li>
 <li><strong>الناقد الافتراضي:</strong> «اقرأ خطتي التالية بعين مستثمر متشكك واذكر أقوى 3 ثغرات فيها مع سؤال صعب عن كل واحدة».</li>
 <li><strong>المعلّم المتدرج:</strong> «اشرح لي [المفهوم] على ثلاث مراحل: لطفل في العاشرة، ثم لطالب جامعي، ثم لمختص، بفقرة لكل مستوى».</li>
+</ul>
+<h2 id="s2b">أربعة أخطاء تُفسد موجّهاتك دون أن تدري</h2>
+<p>قد تطبّق التقنيات أعلاه ويبقى الناتج دون المستوى. غالباً السبب أحد هذه الأخطاء:</p>
+<ul>
+<li><strong>حشو الموجّه بتعليمات متناقضة:</strong> "كن موجزاً جداً" ثم "اشرح كل نقطة بالتفصيل". النموذج يحتار فيعطيك حلاً وسطاً رديئاً. اختر أولوية واحدة واضحة.</li>
+<li><strong>افتراض أنه يعرف سياقك:</strong> النموذج لا يعرف مشروعك ولا جمهورك ولا ما دار في رأسك. ما لم تكتبه صراحةً، لم يحدث. السياق الناقص أكبر سبب للنتائج المخيبة.</li>
+<li><strong>السؤال المركّب في رسالة واحدة:</strong> خمسة أسئلة في موجّه واحد تُنتج إجابات سطحية لكلٍّ منها. جزّئها، أو رتّبها صراحةً: "أجب عن النقطة الأولى فقط، وسأطلب الباقي تباعاً."</li>
+<li><strong>عدم تصحيح المسار:</strong> إن انحرف الناتج، لا تبدأ من الصفر؛ صحّح: "ممتاز لكن النبرة رسمية أكثر من اللازم، خفّفها." التصحيح التدريجي أسرع من إعادة الصياغة كلياً.</li>
 </ul>
 <h2 id="s3">كيف تبني مكتبة موجهاتك الخاصة؟</h2>
 <p>المحترفون لا يعيدون الكتابة من الصفر؛ يملكون مكتبة منظمة. ابدأ ملفاً (في Notion أو حتى ملاحظات) بثلاثة أعمدة: اسم الموجّه، النص الكامل بمتغيرات بين أقواس [هكذا]، وملاحظات عن أفضل استخدام له. أضف كل موجّه نجح معك فوراً قبل أن تنساه، وراجع المكتبة شهرياً لحذف الضعيف وترقية المتكرر إلى قوالب. خلال ثلاثة أشهر ستملك أصلاً معرفياً يختصر ساعات أسبوعياً، وهو حرفياً ما نبيعه نحن في «مكتبة 247 موجّه» بعد سنوات من التنقيح.</p>
@@ -162,7 +173,7 @@
 </div>
 <div class="toast" id="toast"></div>
 <script>window.NAWAH_ROOT="../";</script>
-<script src="../assets/data.js?v=7"></script>
-<script src="../assets/main.js?v=7" defer></script>
+<script src="../assets/data.js?v=17"></script>
+<script src="../assets/main.js?v=17" defer></script>
 </body>
 </html>

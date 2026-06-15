@@ -369,13 +369,20 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
       const eased = 1 - Math.pow(1-p, 3);
       el.textContent = Math.round(target*eased).toLocaleString('ar-SA');
       if(p<1) requestAnimationFrame(step);
+      else el.textContent = target.toLocaleString('ar-SA'); // ضمان القيمة النهائية الدقيقة
     }
+    el.textContent = '0';
     requestAnimationFrame(step);
   }
-  const io = new IntersectionObserver((ents)=>{
-    ents.forEach(e=>{ if(e.isIntersecting){ run(e.target); io.unobserve(e.target); } });
-  }, {threshold:.4});
-  els.forEach(el=>io.observe(el));
+  if('IntersectionObserver' in window){
+    const io = new IntersectionObserver((ents)=>{
+      ents.forEach(e=>{ if(e.isIntersecting){ run(e.target); io.unobserve(e.target); } });
+    }, {threshold:.4});
+    els.forEach(el=>io.observe(el));
+  } else {
+    // متصفح بلا دعم: نعرض القيمة الحقيقية مباشرة
+    els.forEach(el=>{ el.textContent = (+el.dataset.count).toLocaleString('ar-SA'); });
+  }
 })();
 
 

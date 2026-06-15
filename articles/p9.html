@@ -21,7 +21,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Changa:wght@400;600;700;800&family=IBM+Plex+Sans+Arabic:wght@300;400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/style.css?v=7">
+<link rel="stylesheet" href="../assets/style.css?v=17">
 <meta property="og:image" content="https://nawahlabs.com/assets/covers/p9.svg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -65,7 +65,7 @@
       <span aria-hidden="true">·</span>
       <time datetime="2026-05-20">2026-05-20</time>
       <span aria-hidden="true">·</span>
-      <span>⏱ 2 دقائق قراءة</span>
+      <span>⏱ 6 دقائق قراءة</span>
     </div>
   </div>
   <div class="article-hero-cover">
@@ -76,7 +76,8 @@
 <a href="https://wa.me/?text=أتمتة عملك بالذكاء الاصطناعي: دليلك إلى n8n وZapier وMake%20https://nawahlabs.com/articles/p9.html" target="_blank" rel="noopener">🟢 واتساب</a>
 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://nawahlabs.com/articles/p9.html" target="_blank" rel="noopener">💼 لينكدإن</a>
 <a href="https://t.me/share/url?url=https://nawahlabs.com/articles/p9.html&text=أتمتة عملك بالذكاء الاصطناعي: دليلك إلى n8n وZapier وMake" target="_blank" rel="noopener">✈️ تيليجرام</a>
-<button onclick="navigator.clipboard&&navigator.clipboard.writeText(location.href).then(()=>showToast('🔗 تم نسخ الرابط'))">🔗 نسخ الرابط</button></div><nav class="toc" aria-label="جدول المحتويات"><h4>📑 في هذا المقال</h4><ol><li><a href="#s0">المنصات الثلاث الكبرى</a></li><li><a href="#s1">ثلاثة مسارات جاهزة للتطبيق</a></li><li><a href="#s2">حساب العائد على الأتمتة قبل بنائها</a></li><li><a href="#s3">أمان البيانات في الأتمتة: لا تتجاوزه</a></li><li><a href="#s4">قواعد الأتمتة الرشيدة</a></li></ol></nav>
+<button onclick="navigator.clipboard&&navigator.clipboard.writeText(location.href).then(()=>showToast('🔗 تم نسخ الرابط'))">🔗 نسخ الرابط</button></div><nav class="toc" aria-label="جدول المحتويات"><h4>📑 في هذا المقال</h4><ol><li><a href="#s0">المنصات الثلاث الكبرى</a></li><li><a href="#s1">ثلاثة مسارات جاهزة للتطبيق</a></li><li><a href="#s2">حساب العائد على الأتمتة قبل بنائها</a></li><li><a href="#s3">أمان البيانات في الأتمتة: لا تتجاوزه</a></li><li><a href="#s3b">n8n أم Zapier أم Make؟ دليل القرار</a></li>
+<li><a href="#s4">قواعد الأتمتة الرشيدة</a></li></ol></nav>
 <p>القوة الحقيقية للذكاء الاصطناعي لا تظهر في نافذة محادثة، بل حين يعمل تلقائياً داخل مسارات عملك: يقرأ، يصنّف، يلخص، ويرسل دون تدخلك. هذا ما تتيحه منصات الأتمتة بلا برمجة تقريباً.</p>
 <h2 id="s0">المنصات الثلاث الكبرى</h2>
 <ul>
@@ -102,6 +103,14 @@
 <li><strong>سجلّ وتنبيه:</strong> فعّل سجلات التشغيل وتنبيهات الفشل، فأسوأ الأعطال ما يعمل بصمت بشكل خاطئ لأسابيع.</li>
 <li><strong>اختبر على عينة:</strong> شغّل أي مسار جديد على بيانات تجريبية أو نطاق ضيق أسبوعاً قبل تعميمه.</li>
 </ul>
+<h2 id="s3b">n8n أم Zapier أم Make؟ دليل القرار السريع</h2>
+<p>المنصات الثلاث تنجز الأتمتة، لكن كلاً منها يناسب وضعاً مختلفاً:</p>
+<ul>
+<li><strong>اختر Zapier إن:</strong> كنت مبتدئاً تريد الأبسط والأسرع، وتربط تطبيقات شائعة بمسارات مباشرة، ولا تمانع الكلفة الأعلى مقابل السهولة. الأوسع تكاملاً مع آلاف التطبيقات.</li>
+<li><strong>اختر Make إن:</strong> أردت مساراً مرئياً لمنطق معقّد متعدد الفروع، بتكلفة أقل من Zapier وتحكّم أدقّ في كل خطوة. منحنى تعلّم متوسط يستحق العناء.</li>
+<li><strong>اختر n8n إن:</strong> أردت أقصى تحكم وخصوصية، وعندك قدرة تقنية لاستضافته ذاتياً، أو تتعامل مع بيانات حساسة لا تريد تمريرها عبر خوادم خارجية. مفتوح المصدر ومجاني عند الاستضافة الذاتية.</li>
+</ul>
+<p>نصيحة عملية: ابدأ بـ Zapier أو Make لإثبات أن الفكرة تعمل، وانتقل لـ n8n لاحقاً إن كبر حجمك أو احتجت خصوصية أعلى. لا تبدأ بالأعقد قبل أن تتأكد أن الأتمتة تستحق أصلاً.</p>
 <h2 id="s4">قواعد الأتمتة الرشيدة</h2>
 <p>أتمت المتكرر الممل لا الحساس المصيري، وأبقِ نقطة مراجعة بشرية في أي مسار يتواصل مع عملاء، وابدأ بمسار واحد وقس الوقت الموفَّر قبل التوسع. ساعة إعداد توفر دقائق يومياً تتحول إلى أيام عمل كاملة في السنة.</p>
 <div class="ad-slot" data-ad="in-article-end">مساحة إعلانية<small>Google AdSense — مستجيب 336×280</small><!-- ضع كود وحدة AdSense هنا --></div>
@@ -161,7 +170,7 @@
 </div>
 <div class="toast" id="toast"></div>
 <script>window.NAWAH_ROOT="../";</script>
-<script src="../assets/data.js?v=7"></script>
-<script src="../assets/main.js?v=7" defer></script>
+<script src="../assets/data.js?v=17"></script>
+<script src="../assets/main.js?v=17" defer></script>
 </body>
 </html>
