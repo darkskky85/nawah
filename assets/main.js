@@ -455,6 +455,270 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
   });
 })();
 
+
+
+
+/* ===== فاحص السيرة الذاتية ATS ===== */
+(function(){
+  const $ = id => document.getElementById(id);
+  if(!$('atsInput')) return;
+
+  // ---- تحميل المكتبات عند الحاجة (lazy) ----
+  function loadScript(src){
+    return new Promise((res, rej)=>{
+      if(document.querySelector(`script[src="${src}"]`)){ res(); return; }
+      const s = document.createElement('script');
+      s.src = src; s.onload = res; s.onerror = ()=>rej(new Error('load fail'));
+      document.head.appendChild(s);
+    });
+  }
+
+  function setNote(msg, cls){
+    const el = $('atsFileNote');
+    el.textContent = msg;
+    el.className = 'ats-file-note' + (cls? ' '+cls : '');
+  }
+
+  // ---- استخراج نص من PDF عبر PDF.js ----
+  async function extractPDF(file){
+    setNote('⏳ جارٍ استخراج النص من ملف PDF...', '');
+    await loadScript('https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js');
+    const pdfjsLib = window['pdfjsLib'];
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+    const buf = await file.arrayBuffer();
+    const pdf = await pdfjsLib.getDocument({data: buf}).promise;
+    let text = '';
+    for(let i=1; i<=pdf.numPages; i++){
+      const page = await pdf.getPage(i);
+      const content = await page.getTextContent();
+      // نعيد بناء الأسطر بترتيب منطقي
+      let lastY = null, line = '';
+      for(const item of content.items){
+        if(lastY !== null && Math.abs(item.transform[5]-lastY) > 4){ text += line.trim()+'\n'; line=''; }
+        line += item.str + ' ';
+        lastY = item.transform[5];
+      }
+      text += line.trim()+'\n';
+    }
+    return text.trim();
+  }
+
+  // ---- استخراج نص من Word عبر Mammoth ----
+  async function extractDOCX(file){
+    setNote('⏳ جارٍ استخراج النص من ملف Word...', '');
+    await loadScript('https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.6.0/mammoth.browser.min.js');
+    const buf = await file.arrayBuffer();
+    const result = await window.mammoth.extractRawText({arrayBuffer: buf});
+    return (result.value||'').trim();
+  }
+
+  window.atsFileUpload = async function(input){
+    const file = input.files[0]; if(!file) return;
+    const name = file.name.toLowerCase();
+    try{
+      let text = '';
+      if(name.endsWith('.txt')){
+        text = await file.text();
+      } else if(name.endsWith('.pdf')){
+        text = await extractPDF(file);
+      } else if(name.endsWith('.docx')){
+        text = await extractDOCX(file);
+      } else if(name.endsWith('.doc')){
+        setNote('⚠️ صيغة .doc القديمة غير مدعومة. احفظ الملف كـ .docx أو PDF وأعد الرفع.', 'ats-note-warn');
+        return;
+      } else {
+        setNote('⚠️ صيغة غير مدعومة. ارفع PDF أو Word (.docx) أو نص (.txt).', 'ats-note-warn');
+        return;
+      }
+      if(text && text.length > 30){
+        $('atsInput').value = text;
+        atsCountWords();
+        setNote('✅ تم استخراج النص بنجاح ('+ (text.match(/\S+/g)||[]).length +' كلمة). راجعه ثم اضغط «حلّل سيرتي».', 'ats-note-ok');
+      } else {
+        setNote('⚠️ لم نتمكن من استخراج نص كافٍ. قد يكون الملف صورة ممسوحة ضوئياً — الصق النص يدوياً.', 'ats-note-warn');
+      }
+    } catch(err){
+      console.error(err);
+      setNote('⚠️ تعذّر قراءة الملف. جرّب صيغة أخرى أو الصق النص يدوياً في الصندوق.', 'ats-note-warn');
+    }
+  };
+
+  window.atsCountWords = function(){
+    const n = ($('atsInput').value.trim().match(/\S+/g)||[]).length;
+    $('atsWordCount').textContent = n + ' كلمة';
+  };
+
+  window.runATS = function(){
+    const text = $('atsInput').value.trim();
+    if(text.length < 80){
+      $('atsResult').innerHTML = '<div class="ats-warn">⚠️ النص قصير جداً. الصق سيرتك الذاتية كاملة (200 كلمة على الأقل) للحصول على تحليل دقيق.</div>';
+      $('atsResult').style.display='block';
+      return;
+    }
+    const role = $('atsRole').value.trim();
+    const jobText = ($('atsJob') ? $('atsJob').value.trim() : '');
+    const r = ATS.analyze(text, role);
+    const rt = ATS.rating(r.total);
+    r._jobMatch = jobText.length > 40 ? ATS.matchJob(text, jobText) : null;
+    r._highlights = ATS.highlightIssues(text);
+    r._examples = ATS.pickExamples(r);
+    window._lastATS = {r, rt};
+    renderReport(r, rt);
+  };
+
+  function bar(label, val){
+    const cls = val>=80?'b-hi':val>=60?'b-mid':'b-lo';
+    return `<div class="ats-bar-row"><div class="ats-bar-head"><span>${label}</span><strong>${val}/100</strong></div>
+      <div class="ats-bar"><div class="ats-bar-fill ${cls}" style="width:${val}%"></div></div></div>`;
+  }
+  function list(arr, two){
+    if(!arr.length) return '<p class="ats-empty">لا يوجد</p>';
+    return '<ul class="ats-list">' + arr.map(x=> two?`<li><strong>${x[0]}</strong><span>${x[1]}</span></li>`:`<li>${x}</li>`).join('') + '</ul>';
+  }
+
+  function renderReport(r, rt){
+    const h = `
+    <div class="ats-score-card ${rt.cls}">
+      <div class="ats-score-num">${r.total}<small>/100</small></div>
+      <div class="ats-score-label">${rt.emoji} ${rt.label}</div>
+    </div>
+
+    <div class="ats-section"><h3>📊 تفصيل الدرجات</h3>
+      ${bar('توافق ATS', r.scores.ats)}
+      ${bar('قوة المحتوى', r.scores.content)}
+      ${bar('الاحترافية', r.scores.prof)}
+      ${bar('التنافسية', r.scores.comp)}
+      ${bar('التصميم والتنظيم', r.scores.design)}
+    </div>
+
+    <div class="ats-prob">
+      <div class="ats-prob-item"><span>احتمالية اجتياز ATS</span><strong>${r.atsPass}%</strong></div>
+      <div class="ats-prob-item"><span>احتمالية الحصول على مقابلة</span><strong>${r.interview}%</strong></div>
+    </div>
+
+    <div class="ats-grid2">
+      <div class="ats-section ats-pos"><h3>✅ نقاط القوة</h3>${list(r.strengths,true)}</div>
+      <div class="ats-section ats-neg"><h3>⚠️ نقاط الضعف</h3>${list(r.weaknesses,true)}</div>
+    </div>
+
+    <div class="ats-section"><h3>🔑 الكلمات المفتاحية المقترح إضافتها</h3>
+      ${r.missingKw.length? '<div class="ats-kw">'+r.missingKw.map(k=>`<span>${k}</span>`).join('')+'</div>' : '<p class="ats-empty">تغطية جيدة للكلمات المفتاحية ✓</p>'}
+    </div>
+
+    <div class="ats-section"><h3>🔧 أخطاء ATS المكتشفة</h3>${list(r.atsErrors,true)}</div>
+
+    <div class="ats-section"><h3>💡 اقتراحات التحسين</h3>${list(r.suggestions,false)}</div>
+
+    <div class="ats-section ats-recruiter"><h3>👔 تقييم مسؤول التوظيف (30 ثانية)</h3>
+      <p>"${r.recruiterView}"</p></div>
+
+    <div class="ats-section"><h3>🚀 خطة التحسين (5 خطوات بالأولوية)</h3>
+      <ol class="ats-plan">${buildPlan(r).map(s=>`<li>${s}</li>`).join('')}</ol></div>
+
+    ${r._jobMatch ? `
+    <div class="ats-section ats-jobmatch"><h3>🎯 نسبة التطابق مع إعلان الوظيفة</h3>
+      <div class="ats-match-circle ${r._jobMatch.rate>=70?'m-hi':r._jobMatch.rate>=45?'m-mid':'m-lo'}">
+        <span class="ats-match-num">${r._jobMatch.rate}%</span>
+        <span class="ats-match-cap">تطابق</span>
+      </div>
+      <p class="ats-match-note">${r._jobMatch.rate>=70?'تطابق ممتاز — سيرتك متوافقة جيداً مع متطلبات هذه الوظيفة.':r._jobMatch.rate>=45?'تطابق متوسط — أضف الكلمات المفقودة أدناه لرفع فرصتك.':'تطابق منخفض — سيرتك تحتاج تعديلاً ليطابق هذا الإعلان. أضف الكلمات المفقودة.'}</p>
+      <div class="ats-match-cols">
+        <div><h4>✅ كلمات متطابقة (${r._jobMatch.matched.length})</h4><div class="ats-kw ats-kw-ok">${r._jobMatch.matched.map(k=>`<span>${k}</span>`).join('')||'<em>لا يوجد</em>'}</div></div>
+        <div><h4>❌ كلمات مفقودة من سيرتك (${r._jobMatch.missing.length})</h4><div class="ats-kw ats-kw-miss">${r._jobMatch.missing.map(k=>`<span>${k}</span>`).join('')||'<em>ممتاز، لا نقص</em>'}</div></div>
+      </div>
+    </div>` : ''}
+
+    <div class="ats-section"><h3>🔍 تحليل سيرتك سطراً بسطر</h3>
+      <p class="ats-hl-legend"><span class="hl-s">إنجاز قوي</span> <span class="hl-w">عبارة ضعيفة</span> <span class="hl-o">جيد</span></p>
+      <div class="ats-highlight">${r._highlights.map(l=>{
+        if(l.type==='blank') return '<br>';
+        const cls = l.type==='weak'?'hl-w':l.type==='strong'?'hl-s':l.type==='ok'?'hl-o':'';
+        const hint = l.hint?` title="${l.hint}"`:'';
+        return `<div class="hl-line ${cls}"${hint}>${l.text}${l.hint?`<small>${l.hint}</small>`:''}</div>`;
+      }).join('')}</div>
+    </div>
+
+    <div class="ats-section ats-examples"><h3>✨ أمثلة قبل/بعد لتقوية سيرتك</h3>
+      ${r._examples.map(ex=>`<div class="ats-ex">
+        <div class="ats-ex-before"><span class="ats-ex-tag">❌ قبل</span><p>${ex.before}</p></div>
+        <div class="ats-ex-after"><span class="ats-ex-tag">✅ بعد</span><p>${ex.after}</p></div>
+      </div>`).join('')}
+    </div>
+
+    <div class="ats-disclaimer">⚠️ هذا تحليل آلي إرشادي مبني على أفضل ممارسات ATS لعام 2026، ولا يغني عن مراجعة مختص توظيف. النتائج تقديرية لمساعدتك على التحسين.</div>
+
+    <div class="ats-actions">
+      <button class="btn btn-primary" onclick="downloadATSReport()">📥 حمّل التقرير PDF</button>
+      <button class="btn btn-ghost ats-again" onclick="document.getElementById('atsInput').scrollIntoView({behavior:'smooth'})">↑ تحليل سيرة أخرى</button>
+    </div>
+    `;
+    $('atsResult').innerHTML = h;
+    $('atsResult').style.display='block';
+    $('atsResult').scrollIntoView({behavior:'smooth', block:'start'});
+  }
+
+  function buildPlan(r){
+    const plan = [];
+    if(!r.found.summary) plan.push('<strong>أضف ملخصاً مهنياً قوياً</strong> أعلى السيرة (3-4 أسطر) يبرز تخصصك وأبرز إنجاز وقيمتك للشركة.');
+    if(r.stats.percentCount<2) plan.push('<strong>حوّل المهام إلى إنجازات بأرقام</strong> — أضف نسباً ومقاييس لكل خبرة («رفعت المبيعات 30%»).');
+    if(!r.found.skills) plan.push('<strong>أنشئ قسم مهارات واضحاً</strong> بكلمات مفتاحية تطابق إعلانات الوظائف المستهدفة.');
+    if(r.stats.actionVerbCount<5) plan.push('<strong>ابدأ كل نقطة بفعل إنجاز قوي</strong> (قاد، طوّر، حقّق) بدل العبارات الإنشائية.');
+    if(r.missingKw.length>4) plan.push('<strong>أدرج الكلمات المفتاحية المفقودة</strong> ذات الصلة بدورك المستهدف ضمن الخبرات والمهارات.');
+    plan.push('<strong>طابق سيرتك مع كل إعلان وظيفة</strong> على حدة — عدّل الكلمات المفتاحية لترفع نسبة تطابق ATS.');
+    plan.push('<strong>راجع التنسيق:</strong> عناوين قياسية، نقاط واضحة، طول صفحة-صفحتين، بلا جداول أو صور معقّدة تربك ATS.');
+    return plan.slice(0,5);
+  }
+
+  // ---- تحميل التقرير PDF ----
+  window.downloadATSReport = function(){
+    const data = window._lastATS;
+    if(!data) return;
+    const r = data.r, rt = data.rt;
+    const stamp = new Date().toLocaleDateString('ar-SA');
+    // نبني صفحة تقرير مستقلة قابلة للطباعة كـPDF
+    const w = window.open('', '_blank');
+    if(!w){ alert('فعّل النوافذ المنبثقة لتحميل التقرير، أو استخدم زر الطباعة (Ctrl+P).'); return; }
+    const barRow = (l,v)=>`<tr><td>${l}</td><td><div style="background:#eee;border-radius:20px;height:14px;width:200px;display:inline-block;vertical-align:middle"><div style="background:${v>=80?'#0E8F8F':v>=60?'#D98E2B':'#b5443a'};height:14px;border-radius:20px;width:${v*2}px"></div></div> <b>${v}/100</b></td></tr>`;
+    const liList = (arr,two)=> arr.length? '<ul>'+arr.map(x=> two?`<li><b>${x[0]}</b> — ${x[1]}`:`<li>${x}`).join('')+'</ul>' : '<p style="color:#888">لا يوجد</p>';
+    w.document.write(`<!DOCTYPE html><html dir="rtl" lang="ar"><head><meta charset="utf-8"><title>تقرير فحص السيرة — نَوَاة</title>
+    <style>
+      body{font-family:'Segoe UI',Tahoma,sans-serif;color:#1a1f2e;max-width:800px;margin:0 auto;padding:30px;line-height:1.7}
+      h1{color:#221E66;border-bottom:3px solid #0E8F8F;padding-bottom:10px}
+      h2{color:#221E66;margin-top:26px;font-size:1.15rem;border-right:4px solid #0E8F8F;padding-right:10px}
+      .score{text-align:center;background:linear-gradient(135deg,#34308F,#0E8F8F);color:#fff;border-radius:16px;padding:24px;margin:20px 0}
+      .score .n{font-size:3rem;font-weight:800}
+      table{width:100%;border-collapse:collapse;margin:10px 0}
+      td{padding:8px 4px;border-bottom:1px solid #eee}
+      ul{padding-right:20px;margin:8px 0}
+      li{margin-bottom:6px}
+      .prob{display:flex;gap:20px;justify-content:center;margin:16px 0}
+      .prob div{background:#f4f2fb;border-radius:12px;padding:14px 28px;text-align:center}
+      .prob b{font-size:1.6rem;color:#0E8F8F;display:block}
+      .foot{margin-top:30px;border-top:1px solid #ddd;padding-top:14px;color:#888;font-size:.85rem;text-align:center}
+      @media print{ .noprint{display:none} body{padding:10px} }
+    </style></head><body>
+    <h1>📊 تقرير فحص السيرة الذاتية — نَوَاة</h1>
+    <p style="color:#888">التاريخ: ${stamp} · أداة فاحص ATS من nawahlabs.com</p>
+    <div class="score"><div class="n">${r.total}/100</div><div>${rt.emoji} ${rt.label}</div></div>
+    <h2>تفصيل الدرجات</h2>
+    <table>${barRow('توافق ATS',r.scores.ats)}${barRow('قوة المحتوى',r.scores.content)}${barRow('الاحترافية',r.scores.prof)}${barRow('التنافسية',r.scores.comp)}${barRow('التصميم والتنظيم',r.scores.design)}</table>
+    <div class="prob"><div><b>${r.atsPass}%</b>احتمالية اجتياز ATS</div><div><b>${r.interview}%</b>احتمالية المقابلة</div></div>
+    ${r._jobMatch?`<h2>التطابق مع إعلان الوظيفة: ${r._jobMatch.rate}%</h2><p>كلمات مفقودة: ${r._jobMatch.missing.join('، ')||'لا يوجد'}</p>`:''}
+    <h2>✅ نقاط القوة</h2>${liList(r.strengths,true)}
+    <h2>⚠️ نقاط الضعف</h2>${liList(r.weaknesses,true)}
+    <h2>🔑 كلمات مفتاحية مقترحة</h2><p>${r.missingKw.join('، ')||'تغطية جيدة'}</p>
+    <h2>🔧 أخطاء ATS</h2>${liList(r.atsErrors,true)}
+    <h2>💡 اقتراحات التحسين</h2>${liList(r.suggestions,false)}
+    <h2>👔 تقييم مسؤول التوظيف (30 ثانية)</h2><p style="font-style:italic;background:#f4f2fb;padding:14px;border-radius:10px">"${r.recruiterView}"</p>
+    <div class="foot">© ${new Date().getFullYear()} نَوَاة · nawahlabs.com · تقرير إرشادي مبني على معايير ATS 2026</div>
+    <button class="noprint" onclick="window.print()" style="display:block;margin:20px auto;padding:12px 30px;background:#0E8F8F;color:#fff;border:none;border-radius:8px;font-size:1rem;cursor:pointer">🖨️ احفظ كـPDF / اطبع</button>
+    <script>setTimeout(()=>window.print(),600)<\/script>
+    </body></html>`);
+    w.document.close();
+  };
+
+})();
+
 /* تسجيل عامل الخدمة (PWA) */
 if('serviceWorker' in navigator && location.protocol === 'https:'){
   navigator.serviceWorker.register(R + 'sw.js').catch(()=>{});
