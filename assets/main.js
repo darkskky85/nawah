@@ -440,6 +440,25 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
     tpl = tpl.replace(/\s*\(الكلمة المفتاحية: \[…\]\)/g, '');
     const out = document.getElementById('gxOutput');
     out.textContent = tpl;
+    // عرض ترويجي ذكي: لمولّد السيرة فقط — يحوّل المحتوى إلى بيع القوالب
+    let promo = document.getElementById('gxPromo');
+    if(current.id === 'resume'){
+      if(!promo){
+        promo = document.createElement('div');
+        promo.id = 'gxPromo';
+        promo.className = 'gx-promo';
+        document.getElementById('gxResult').appendChild(promo);
+      }
+      promo.innerHTML = '<div class="gx-promo-in">'
+        + '<span class="gx-promo-ico">📄</span>'
+        + '<div class="gx-promo-txt"><strong>محتواك جاهز — تنقصك خطوة واحدة فقط</strong>'
+        + '<p>المحتوى وحده لا يكفي لاجتياز ATS؛ يحتاج تنسيقاً خطّياً سليماً بلا جداول. قوالبنا الـ6 (عربي/إنجليزي) مبنية ومختبرة لهذا الغرض — انسخ محتواك فيها واطبعه فوراً.</p></div>'
+        + '<a class="gx-promo-btn" href="' + R + 'products/cv-templates.html">قوالب ATS بـ39 ر.س ←</a>'
+        + '</div>';
+      promo.style.display = 'block';
+    } else if(promo){
+      promo.style.display = 'none';
+    }
     document.getElementById('gxResult').style.display = 'block';
     document.getElementById('gxResult').scrollIntoView({behavior:'smooth', block:'nearest'});
   };
@@ -451,6 +470,18 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
       const old = b.textContent; b.textContent = '✓ تم النسخ';
       setTimeout(()=>b.textContent = old, 1800);
     });
+  };
+
+  window.downloadGenx = function(){
+    const txt = document.getElementById('gxOutput').textContent;
+    if(!txt) return;
+    const name = (current && current.name ? current.name : 'برومبت').replace(/\s+/g,'-');
+    const blob = new Blob([txt], {type:'text/plain;charset=utf-8'});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url; a.download = name + '.txt';
+    document.body.appendChild(a); a.click();
+    document.body.removeChild(a); URL.revokeObjectURL(url);
   };
 
   // إغلاق بالنقر خارج الصندوق أو ESC
@@ -656,6 +687,7 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
 
     <div class="ats-actions">
       <button class="btn btn-primary" onclick="downloadATSReport()">📥 حمّل التقرير PDF</button>
+      <button class="btn btn-ghost" onclick="copyATSReport()">📋 نسخ ملخّص التقرير</button>
       <button class="btn btn-ghost ats-again" onclick="document.getElementById('atsInput').scrollIntoView({behavior:'smooth'})">↑ تحليل سيرة أخرى</button>
     </div>
     `;
@@ -722,6 +754,41 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
     <script>setTimeout(()=>window.print(),600)<\/script>
     </body></html>`);
     w.document.close();
+  };
+
+  // ---- نسخ ملخّص التقرير كنص ----
+  window.copyATSReport = function(){
+    const data = window._lastATS;
+    if(!data) return;
+    const r = data.r, rt = data.rt;
+    const L = [];
+    L.push('تقرير فحص السيرة الذاتية ATS — نَوَاة');
+    L.push('================================');
+    L.push(`الدرجة الإجمالية: ${r.total}/100 (${rt.label})`);
+    L.push('');
+    L.push('تفصيل الدرجات:');
+    L.push(`- توافق ATS: ${r.scores.ats}/100`);
+    L.push(`- قوة المحتوى: ${r.scores.content}/100`);
+    L.push(`- الاحترافية: ${r.scores.prof}/100`);
+    L.push(`- التنافسية: ${r.scores.comp}/100`);
+    L.push(`- التصميم والتنظيم: ${r.scores.design}/100`);
+    L.push('');
+    L.push(`احتمالية اجتياز ATS: ${r.atsPass}%`);
+    L.push(`احتمالية الحصول على مقابلة: ${r.interview}%`);
+    L.push('');
+    if(r.strengths.length){ L.push('نقاط القوة:'); r.strengths.forEach(x=>L.push(`✓ ${x[0]}: ${x[1]}`)); L.push(''); }
+    if(r.weaknesses.length){ L.push('نقاط الضعف:'); r.weaknesses.forEach(x=>L.push(`⚠ ${x[0]}: ${x[1]}`)); L.push(''); }
+    if(r.missingKw.length){ L.push('كلمات مفتاحية مقترح إضافتها: ' + r.missingKw.join('، ')); L.push(''); }
+    if(r._jobMatch){ L.push(`نسبة التطابق مع إعلان الوظيفة: ${r._jobMatch.rate}%`); if(r._jobMatch.missing.length) L.push('كلمات مفقودة من سيرتك: ' + r._jobMatch.missing.join('، ')); L.push(''); }
+    L.push('خطة التحسين (بالأولوية):');
+    buildPlan(r).forEach((s,i)=>L.push(`${i+1}. ${s.replace(/<[^>]+>/g,'')}`));
+    L.push('');
+    L.push('— تقرير إرشادي من nawahlabs.com وفق معايير ATS 2026');
+    const txt = L.join('\n');
+    navigator.clipboard.writeText(txt).then(()=>{
+      const b = document.querySelector('[onclick="copyATSReport()"]');
+      if(b){ const old = b.textContent; b.textContent = '✓ تم نسخ التقرير'; setTimeout(()=>b.textContent = old, 1900); }
+    });
   };
 
 })();
