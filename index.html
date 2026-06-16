@@ -20,7 +20,10 @@
 <link rel="apple-touch-icon" href="assets/icon-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0000000000000000" crossorigin="anonymous"></script>
 <link href="https://fonts.googleapis.com/css2?family=Changa:wght@400;600;700;800&family=IBM+Plex+Sans+Arabic:wght@300;400;500;700&display=swap" rel="stylesheet">
+<link rel="alternate" type="application/rss+xml" title="نَوَاة RSS" href="/feed.xml">
 <link rel="stylesheet" href="assets/style.css?v=23">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "نَوَاة", "url": "https://nawahlabs.com/", "logo": "https://nawahlabs.com/assets/icon-512.png", "sameAs": ["https://x.com/nawah_ai", "https://linkedin.com/company/nawah-ai"]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "نَوَاة", "url": "https://nawahlabs.com/", "inLanguage": "ar"}</script>
@@ -34,7 +37,7 @@
       <svg width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true"><circle cx="17" cy="17" r="6" fill="#0E8F8F"/><circle cx="17" cy="17" r="13" stroke="#221E66" stroke-width="2" stroke-dasharray="4 5"/><circle cx="29" cy="11" r="3" fill="#D98E2B"/></svg>
       نَوَاة
     </a>
-    <nav class="nav-links" aria-label="التنقل الرئيسي">
+    <nav class="nav-links" id="navLinks" aria-label="التنقل الرئيسي">
       <a href="archive.html" class="navlink">المقالات</a>
       <a href="index.html#store" class="navlink">المتجر</a>
       <a href="tools.html" class="navlink">الأدوات</a>
@@ -46,6 +49,7 @@
       <input type="search" id="siteSearch" placeholder="ابحث في الموقع..." aria-label="بحث في الموقع" autocomplete="off">
       <div class="search-results" id="searchResults" role="listbox"></div>
     </div>
+    <button class="nav-toggle" id="navToggle" aria-label="القائمة" aria-expanded="false" aria-controls="navLinks"><span></span><span></span><span></span></button>
     <button class="theme-btn" id="themeBtn" aria-label="تبديل الوضع الليلي" title="الوضع الليلي">🌙</button>
     <button class="cart-btn" id="cartBtn" aria-label="فتح سلة المشتريات">🛒 السلة <span class="cart-count" id="cartCount">0</span></button>
   </div>
@@ -241,8 +245,11 @@
       <div class="section-head">
         <div class="node-dot" aria-hidden="true">④</div>
         <div>
-          <h2>عن نَوَاة</h2>
-          <p>نؤمن أن المحتوى العربي يستحق العمق نفسه الذي يجده القارئ بالإنجليزية. تجمع «نَوَاة» بين التعليم المجاني عبر المقالات، والتمكين العملي عبر منتجات رقمية مدروسة، لتكون نقطة انطلاقك نحو احتراف الذكاء الاصطناعي.</p>
+          <h2>من نحن</h2>
+          <p>نَوَاة منصة عربية متخصصة في الذكاء الاصطناعي، تبسّط المفاهيم المعقّدة وتنقل المعرفة من الفهم النظري إلى التطبيق العملي. نؤمن أن الذكاء الاصطناعي أداة متاحة اليوم لكل طالب ومهني ورائد أعمال وصانع محتوى — لا مجرد تقنية للمستقبل. شعارنا: نبحر نحو المستقبل.</p>
+          <div style="margin-top:18px">
+            <a class="btn btn-primary" href="about.html">تعرّف علينا أكثر ←</a>
+          </div>
         </div>
       </div>
     </div>
@@ -283,19 +290,9 @@
   <span class="feat-meta">⏱ 3 دقائق قراءة</span></span></a><a class="feat-card" href="articles/p12.html">
   <span class="feat-cover"><img src="assets/covers/p12.svg" alt="غلاف: أفضل 25 أداة ذكاء اصطناعي ستوفر عليك مئات الساعات في 2026" loading="lazy" decoding="async" width="800" height="420"></span>
   <span class="feat-body"><span class="feat-cat">أدوات الذكاء الاصطناعي</span><span class="feat-title">أفضل 25 أداة ذكاء اصطناعي ستوفر عليك مئات الساعات في 2026</span>
-  <span class="feat-meta">⏱ 2 دقائق قراءة</span></span></a><a class="feat-card" href="articles/p22.html">
-  <span class="feat-cover"><img src="assets/covers/p22.svg" alt="غلاف: المشاريع والتعليمات المخصّصة في Claude: كيف تبني مساعداً يفهم عملك" loading="lazy" decoding="async" width="800" height="420"></span>
-  <span class="feat-body"><span class="feat-cat">Claude</span><span class="feat-title">المشاريع والتعليمات المخصّصة في Claude: كيف تبني مساعداً يفهم عملك</span>
-  <span class="feat-meta">⏱ 2 دقائق قراءة</span></span></a><a class="feat-card" href="articles/p1.html">
-  <span class="feat-cover"><img src="assets/covers/p1.svg" alt="غلاف: دليل ChatGPT الشامل للمبتدئين: من أول محادثة إلى الاستخدام الاحترافي" loading="lazy" decoding="async" width="800" height="420"></span>
-  <span class="feat-body"><span class="feat-cat">ChatGPT</span><span class="feat-title">دليل ChatGPT الشامل للمبتدئين: من أول محادثة إلى الاستخدام الاحترافي</span>
-  <span class="feat-meta">⏱ 3 دقائق قراءة</span></span></a><a class="feat-card" href="articles/p13.html">
-  <span class="feat-cover"><img src="assets/covers/p13.svg" alt="غلاف: ChatGPT أم Claude أم Gemini؟ مقارنة شاملة بالأرقام والتجارب الحقيقية" loading="lazy" decoding="async" width="800" height="420"></span>
-  <span class="feat-body"><span class="feat-cat">ChatGPT</span><span class="feat-title">ChatGPT أم Claude أم Gemini؟ مقارنة شاملة بالأرقام والتجارب الحقيقية</span>
-  <span class="feat-meta">⏱ 3 دقائق قراءة</span></span></a></div>
-      <div class="two-col">
-        <div class="mini-list"><h3>🆕 أحدث المقالات</h3><a href="articles/p21.html"><span>دليل Claude الشامل: المساعد الأقوى في الكتابة والمستندات الطويلة</span><span class="m-meta">⏱ 2 د</span></a><a href="articles/p11.html"><span>كيف تبني مشروعاً يحقق دخلاً شهرياً باستخدام الذكاء الاصطناعي دون خبرة برمجية؟</span><span class="m-meta">⏱ 3 د</span></a><a href="articles/p12.html"><span>أفضل 25 أداة ذكاء اصطناعي ستوفر عليك مئات الساعات في 2026</span><span class="m-meta">⏱ 2 د</span></a><a href="articles/p22.html"><span>المشاريع والتعليمات المخصّصة في Claude: كيف تبني مساعداً يفهم عملك</span><span class="m-meta">⏱ 2 د</span></a><a href="articles/p1.html"><span>دليل ChatGPT الشامل للمبتدئين: من أول محادثة إلى الاستخدام الاحترافي</span><span class="m-meta">⏱ 3 د</span></a></div>
-        <div class="mini-list"><h3>⭐ مختارات المحرر</h3><a href="articles/a1.html"><span>التعلم الآلي: كيف تتعلّم الآلات من البيانات؟ دليل شامل</span><span class="m-meta">⏱ 9 د</span></a><a href="articles/p13.html"><span>ChatGPT أم Claude أم Gemini؟ مقارنة شاملة بالأرقام والتجارب الحقيقية</span><span class="m-meta">⏱ 3 د</span></a><a href="articles/p6.html"><span>الربح من الذكاء الاصطناعي: 7 طرق واقعية بعيداً عن الوعود الزائفة</span><span class="m-meta">⏱ 2 د</span></a><a href="articles/p16.html"><span>من الصفر إلى الاحتراف: خارطة طريق تعلم الذكاء الاصطناعي في 90 يوماً</span><span class="m-meta">⏱ 3 د</span></a><a href="articles/p12.html"><span>أفضل 25 أداة ذكاء اصطناعي ستوفر عليك مئات الساعات في 2026</span><span class="m-meta">⏱ 2 د</span></a></div>
+  <span class="feat-meta">⏱ 2 دقائق قراءة</span></span></a></div>
+      <div style="text-align:center;margin-top:32px">
+        <a class="btn btn-primary" href="archive.html">كل المقالات ←</a>
       </div>
     </div>
   </section>
@@ -364,6 +361,7 @@
         <a href="about.html">من نحن</a>
         <a href="contact.html">تواصل معنا</a>
         <a href="index.html#marketing">النشرة البريدية</a>
+        <a href="/feed.xml">📡 RSS</a>
       </div>
     </div>
     <div class="footer-bottom">

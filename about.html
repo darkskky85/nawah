@@ -20,7 +20,10 @@
 <link rel="apple-touch-icon" href="assets/icon-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0000000000000000" crossorigin="anonymous"></script>
 <link href="https://fonts.googleapis.com/css2?family=Changa:wght@400;600;700;800&family=IBM+Plex+Sans+Arabic:wght@300;400;500;700&display=swap" rel="stylesheet">
+<link rel="alternate" type="application/rss+xml" title="نَوَاة RSS" href="/feed.xml">
 <link rel="stylesheet" href="assets/style.css?v=23">
 
 </head>
@@ -32,7 +35,7 @@
       <svg width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true"><circle cx="17" cy="17" r="6" fill="#0E8F8F"/><circle cx="17" cy="17" r="13" stroke="#221E66" stroke-width="2" stroke-dasharray="4 5"/><circle cx="29" cy="11" r="3" fill="#D98E2B"/></svg>
       نَوَاة
     </a>
-    <nav class="nav-links" aria-label="التنقل الرئيسي">
+    <nav class="nav-links" id="navLinks" aria-label="التنقل الرئيسي">
       <a href="archive.html" class="navlink">المقالات</a>
       <a href="index.html#store" class="navlink">المتجر</a>
       <a href="tools.html" class="navlink">الأدوات</a>
@@ -44,6 +47,7 @@
       <input type="search" id="siteSearch" placeholder="ابحث في الموقع..." aria-label="بحث في الموقع" autocomplete="off">
       <div class="search-results" id="searchResults" role="listbox"></div>
     </div>
+    <button class="nav-toggle" id="navToggle" aria-label="القائمة" aria-expanded="false" aria-controls="navLinks"><span></span><span></span><span></span></button>
     <button class="theme-btn" id="themeBtn" aria-label="تبديل الوضع الليلي" title="الوضع الليلي">🌙</button>
     <button class="cart-btn" id="cartBtn" aria-label="فتح سلة المشتريات">🛒 السلة <span class="cart-count" id="cartCount">0</span></button>
   </div>
@@ -52,24 +56,25 @@
   <div class="page">
     <nav class="breadcrumb" aria-label="مسار التنقل"><a href="index.html">الرئيسية</a> ← من نحن</nav>
     <h1>من نحن</h1>
-    <p class="updated">قصة نَوَاة ورسالتها</p>
-    <p>«نَوَاة» منصة عربية متخصصة في الذكاء الاصطناعي، انطلقت من قناعة بسيطة: المحتوى العربي التقني يستحق العمق نفسه الذي يجده القارئ بالإنجليزية، لا الترجمات السطحية ولا العناوين البراقة بلا مضمون.</p>
+    <p class="updated">نَوَاة... نبحر نحو المستقبل</p>
+    <p>في عالم يتسارع فيه تطور الذكاء الاصطناعي يوماً بعد يوم، أصبح الوصول إلى المعرفة الموثوقة والعملية تحدياً حقيقياً، خصوصاً للمحتوى العربي. ومن هنا وُلدت نَوَاة.</p>
+    <p>نَوَاة هي منصة عربية متخصصة في الذكاء الاصطناعي، تهدف إلى تبسيط المفاهيم المعقدة، ونقل المعرفة من مرحلة الفهم النظري إلى التطبيق العملي. نؤمن أن الذكاء الاصطناعي ليس مجرد تقنية للمستقبل، بل أداة متاحة اليوم لكل طالب ومهني ورائد أعمال وصانع محتوى.</p>
+    <h2>ماذا نقدّم؟</h2>
+    <p>نسعى إلى تقديم محتوى عربي أصيل وعالي الجودة من خلال:</p>
+    <ul>
+      <li>مقالات تعليمية معمّقة ومحدّثة باستمرار.</li>
+      <li>أدلة عملية وشروحات مبسّطة للمبتدئين والمحترفين.</li>
+      <li>مراجعات لأدوات الذكاء الاصطناعي وأفضل طرق الاستفادة منها.</li>
+      <li>منتجات رقمية وقوالب جاهزة تساعد على رفع الإنتاجية وتسريع الإنجاز.</li>
+      <li>أدوات ومولّدات مجانية تخدم المستخدم العربي.</li>
+    </ul>
+    <h2>رؤيتنا</h2>
+    <p>أن تصبح نَوَاة المرجع العربي الأول لكل من يرغب في تعلّم الذكاء الاصطناعي وتطبيقه بفعالية في حياته وعمله.</p>
+    <p>نؤمن أن المعرفة الحقيقية لا تُقاس بكمية المعلومات، بل بقدرتها على صناعة أثر حقيقي. لذلك نحرص على أن يكون كل ما نقدّمه عملياً، واضحاً، وموجّهاً نحو النتائج.</p>
     <h2>رسالتنا</h2>
-    <p>تمكين المتحدثين بالعربية من فهم الذكاء الاصطناعي وتوظيفه عملياً، عبر مقالات تعليمية معمّقة مجانية، ومنتجات رقمية مدروسة تختصر طريق التعلم من سنوات إلى أشهر.</p>
-    <h2>ماذا نقدم؟</h2>
-    <ul>
-      <li><strong>مدونة تعليمية:</strong> مقالات أصلية تتجاوز 1000 كلمة تغطي التعلم الآلي والشبكات العصبية والتطبيقات القطاعية وأحدث الاتجاهات.</li>
-      <li><strong>متجر رقمي:</strong> دورات تدريبية، كتب إلكترونية، قوالب برمجية جاهزة، وأدوات تُسلَّم فوراً بعد الشراء.</li>
-      <li><strong>دليل أدوات:</strong> مراجعات محدثة لأبرز أدوات الذكاء الاصطناعي وكيفية توظيفها في العمل.</li>
-    </ul>
-    <h2>منهجيتنا التحريرية</h2>
-    <p>كل مقال يمر بثلاث مراحل: بحث من المصادر الأصلية (الأوراق العلمية والوثائق الرسمية)، ثم كتابة بلغة عربية واضحة مع أمثلة تطبيقية من واقع المنطقة، ثم مراجعة تقنية للدقة. ونحدّث المقالات دورياً لمواكبة التطورات.</p>
-    <h2>بالأرقام</h2>
-    <ul>
-      <li>50 مقالاً تقنياً معمّقاً منشوراً ويُحدَّث باستمرار.</li>
-      <li>معجم من 100 مصطلح ودليل يضم 100 أداة مُراجَعة.</li>
-      <li>منصة انطلقت في 2026، ونبني سمعتها بالمحتوى لا بالادعاءات.</li>
-    </ul>
+    <p>تمكين العالم العربي من الاستفادة من الذكاء الاصطناعي عبر محتوى موثوق وأدوات عملية ومنتجات رقمية ذات قيمة حقيقية.</p>
+    <h2>شعارنا</h2>
+    <p style="font-size:1.15rem;font-weight:700;color:var(--teal)">نبحر نحو المستقبل.</p>
     <p>للتعاون أو الاستفسارات الإعلامية راسلنا عبر <a href="contact.html" style="color:var(--teal);font-weight:700">صفحة التواصل</a>.</p>
   </div>
 </main>
@@ -101,6 +106,7 @@
         <a href="about.html">من نحن</a>
         <a href="contact.html">تواصل معنا</a>
         <a href="index.html#marketing">النشرة البريدية</a>
+        <a href="/feed.xml">📡 RSS</a>
       </div>
     </div>
     <div class="footer-bottom">
