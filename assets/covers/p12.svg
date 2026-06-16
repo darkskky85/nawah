@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="أدوات الذكاء الاصطناعي">
+  <defs>
+    <linearGradient id="g22944" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#221E66"/>
+      <stop offset="1" stop-color="#0E8F8F"/>
+    </linearGradient>
+    <radialGradient id="g22944r" cx="0.75" cy="0.25" r="0.9">
+      <stop offset="0" stop-color="#34D3C0" stop-opacity="0.35"/>
+      <stop offset="0.6" stop-color="#34D3C0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g22944)"/>
+  <rect width="1200" height="630" fill="url(#g22944r)"/>
+  <line x1="173" y1="447" x2="300" y2="225" stroke="#34D3C0" stroke-width="1.2" opacity="0.12"/><line x1="173" y1="447" x2="186" y2="405" stroke="#34D3C0" stroke-width="1.2" opacity="0.29"/><line x1="173" y1="447" x2="253" y2="408" stroke="#34D3C0" stroke-width="1.2" opacity="0.25"/><line x1="173" y1="447" x2="215" y2="235" stroke="#34D3C0" stroke-width="1.2" opacity="0.15"/><line x1="369" y1="156" x2="300" y2="225" stroke="#34D3C0" stroke-width="1.2" opacity="0.24"/><line x1="369" y1="156" x2="609" y2="210" stroke="#34D3C0" stroke-width="1.2" opacity="0.12"/><line x1="369" y1="156" x2="186" y2="405" stroke="#34D3C0" stroke-width="1.2" opacity="0.07"/><line x1="369" y1="156" x2="253" y2="408" stroke="#34D3C0" stroke-width="1.2" opacity="0.1"/><line x1="369" y1="156" x2="649" y2="288" stroke="#34D3C0" stroke-width="1.2" opacity="0.07"/><line x1="369" y1="156" x2="215" y2="235" stroke="#34D3C0" stroke-width="1.2" opacity="0.18"/><line x1="862" y1="121" x2="609" y2="210" stroke="#34D3C0" stroke-width="1.2" opacity="0.11"/><line x1="862" y1="121" x2="868" y2="452" stroke="#34D3C0" stroke-width="1.2" opacity="0.06"/><line x1="862" y1="121" x2="987" y2="78" stroke="#34D3C0" stroke-width="1.2" opacity="0.22"/><line x1="862" y1="121" x2="649" y2="288" stroke="#34D3C0" stroke-width="1.2" opacity="0.11"/><line x1="300" y1="225" x2="609" y2="210" stroke="#34D3C0" stroke-width="1.2" opacity="0.07"/><line x1="300" y1="225" x2="186" y2="405" stroke="#34D3C0" stroke-width="1.2" opacity="0.15"/><line x1="300" y1="225" x2="253" y2="408" stroke="#34D3C0" stroke-width="1.2" opacity="0.17"/><line x1="300" y1="225" x2="215" y2="235" stroke="#34D3C0" stroke-width="1.2" opacity="0.25"/><line x1="609" y1="210" x2="649" y2="288" stroke="#34D3C0" stroke-width="1.2" opacity="0.25"/><line x1="186" y1="405" x2="253" y2="408" stroke="#34D3C0" stroke-width="1.2" opacity="0.27"/><line x1="186" y1="405" x2="215" y2="235" stroke="#34D3C0" stroke-width="1.2" opacity="0.18"/><line x1="253" y1="408" x2="215" y2="235" stroke="#34D3C0" stroke-width="1.2" opacity="0.18"/><line x1="868" y1="452" x2="649" y2="288" stroke="#34D3C0" stroke-width="1.2" opacity="0.1"/><circle cx="173" cy="447" r="3" fill="#34D3C0" opacity="0.55"/><circle cx="369" cy="156" r="2.5" fill="#34D3C0" opacity="0.55"/><circle cx="862" cy="121" r="4" fill="#34D3C0" opacity="0.55"/><circle cx="300" cy="225" r="4" fill="#34D3C0" opacity="0.55"/><circle cx="609" cy="210" r="2.5" fill="#34D3C0" opacity="0.55"/><circle cx="186" cy="405" r="3" fill="#34D3C0" opacity="0.55"/><circle cx="253" cy="408" r="4" fill="#34D3C0" opacity="0.55"/><circle cx="868" cy="452" r="2.5" fill="#34D3C0" opacity="0.55"/><circle cx="987" cy="78" r="2.5" fill="#34D3C0" opacity="0.55"/><circle cx="649" cy="288" r="2.5" fill="#34D3C0" opacity="0.55"/><circle cx="215" cy="235" r="4" fill="#34D3C0" opacity="0.55"/>
+  <circle cx="1070" cy="120" r="54" fill="#FBFAF6" opacity="0.12"/>
+  <text x="1070" y="120" font-size="52" text-anchor="middle" dominant-baseline="central">⚙</text>
+  <g font-family="'Changa','Segoe UI',sans-serif" fill="#FBFAF6">
+    <rect x="64" y="480" width="14" height="86" rx="4" fill="#34D3C0"/>
+    <text x="92" y="520" font-size="30" font-weight="700" opacity="0.92">أدوات الذكاء الاصطناعي</text>
+    <text x="92" y="564" font-size="22" opacity="0.6">nawahlabs.com · نَوَاة</text>
+  </g>
+</svg>
