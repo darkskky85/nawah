@@ -53,7 +53,7 @@ window.showToast = showToast;
     const hits = SEARCH_INDEX.filter(i => i.k.includes(q)).slice(0,8);
     box.innerHTML = hits.length
       ? hits.map(h=>`<a href="${R}${h.u}"><span class="sr-type">${h.type} · ${h.sub}</span><br>${h.t}</a>`).join('')
-      : `<div class="sr-empty">لا توجد نتائج مطابقة لـ«${q}»</div>`;
+      : `<div class="sr-empty">لا توجد نتائج مطابقة لـ«${q.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}»</div>`;
     box.classList.add('open');
   });
   document.addEventListener('click', e=>{ if(!e.target.closest('.search-box')) box.classList.remove('open'); });
@@ -277,7 +277,7 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
       <div class="gen-result">
         <div class="gen-result-head"><strong>✅ موجّهك جاهز</strong>
           <button type="button" class="btn-ghost gen-copy">📋 نسخ</button></div>
-        <pre id="genText">${p.replace(/</g,'&lt;')}</pre>
+        <pre id="genText">${p.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}</pre>
       </div>
       <div class="gen-upsell">
         <p>🎁 هذا الموجّه مجاني بالكامل. لو أعجبك، <strong>مكتبة الـ120 موجّهاً الاحترافية</strong> تمنحك موجهات جاهزة ومنقّحة لكل مهمة تقريباً، مع نصيحة احترافية لكل واحد.</p>
@@ -501,12 +501,26 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
   const $ = id => document.getElementById(id);
   if(!$('atsInput')) return;
 
+  // ---- تأمين: تهريب أي محتوى يأتي من المستخدم أو من ملف مرفوع قبل إدراجه في HTML ----
+  // يمنع هجمات XSS عبر سيرة ذاتية خبيثة (مثل <img onerror=...> داخل ملف PDF/Word).
+  function esc(s){
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
   // ---- تحميل المكتبات عند الحاجة (lazy) ----
-  function loadScript(src){
+  function loadScript(src, integrity){
     return new Promise((res, rej)=>{
       if(document.querySelector(`script[src="${src}"]`)){ res(); return; }
       const s = document.createElement('script');
-      s.src = src; s.onload = res; s.onerror = ()=>rej(new Error('load fail'));
+      s.src = src;
+      // تأمين: التحقق من سلامة الملف الخارجي (SRI) ومنع CDN مخترَق من حقن كود خبيث
+      if(integrity){ s.integrity = integrity; s.crossOrigin = 'anonymous'; }
+      s.onload = res; s.onerror = ()=>rej(new Error('load fail'));
       document.head.appendChild(s);
     });
   }
@@ -517,6 +531,10 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
     el.className = 'ats-file-note' + (cls? ' '+cls : '');
   }
 
+  // تأمين المكتبات الخارجية: المصدر الأساسي للحماية هو ترويسة CSP في vercel.json
+  // (تحصر تحميل السكربتات على نطاقك + cdnjs فقط). إن رغبت بطبقة إضافية (SRI)،
+  // احصل على بصمة كل ملف من صفحته على cdnjs (زر "Copy SRI") ومرّرها كوسيط ثانٍ لـ loadScript.
+
   // ---- استخراج نص من PDF عبر PDF.js ----
   async function extractPDF(file){
     setNote('⏳ جارٍ استخراج النص من ملف PDF...', '');
@@ -526,7 +544,8 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
     const buf = await file.arrayBuffer();
     const pdf = await pdfjsLib.getDocument({data: buf}).promise;
     let text = '';
-    for(let i=1; i<=pdf.numPages; i++){
+    const maxPages = Math.min(pdf.numPages, 30); // تأمين: حد أقصى 30 صفحة
+    for(let i=1; i<=maxPages; i++){
       const page = await pdf.getPage(i);
       const content = await page.getTextContent();
       // نعيد بناء الأسطر بترتيب منطقي
@@ -553,6 +572,13 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
   window.atsFileUpload = async function(input){
     const file = input.files[0]; if(!file) return;
     const name = file.name.toLowerCase();
+    // تأمين: حد أقصى لحجم الملف (5 ميجابايت) لمنع تعليق المتصفح بملف ضخم
+    const MAX_BYTES = 5 * 1024 * 1024;
+    if(file.size > MAX_BYTES){
+      setNote('⚠️ حجم الملف كبير جداً (الحد 5 ميجابايت). اضغط الملف أو الصق النص يدوياً.', 'ats-note-warn');
+      input.value = '';
+      return;
+    }
     try{
       let text = '';
       if(name.endsWith('.txt')){
@@ -611,7 +637,7 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
   }
   function list(arr, two){
     if(!arr.length) return '<p class="ats-empty">لا يوجد</p>';
-    return '<ul class="ats-list">' + arr.map(x=> two?`<li><strong>${x[0]}</strong><span>${x[1]}</span></li>`:`<li>${x}</li>`).join('') + '</ul>';
+    return '<ul class="ats-list">' + arr.map(x=> two?`<li><strong>${esc(x[0])}</strong><span>${esc(x[1])}</span></li>`:`<li>${esc(x)}</li>`).join('') + '</ul>';
   }
 
   function renderReport(r, rt){
@@ -640,7 +666,7 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
     </div>
 
     <div class="ats-section"><h3>🔑 الكلمات المفتاحية المقترح إضافتها</h3>
-      ${r.missingKw.length? '<div class="ats-kw">'+r.missingKw.map(k=>`<span>${k}</span>`).join('')+'</div>' : '<p class="ats-empty">تغطية جيدة للكلمات المفتاحية ✓</p>'}
+      ${r.missingKw.length? '<div class="ats-kw">'+r.missingKw.map(k=>`<span>${esc(k)}</span>`).join('')+'</div>' : '<p class="ats-empty">تغطية جيدة للكلمات المفتاحية ✓</p>'}
     </div>
 
     <div class="ats-section"><h3>🔧 أخطاء ATS المكتشفة</h3>${list(r.atsErrors,true)}</div>
@@ -661,8 +687,8 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
       </div>
       <p class="ats-match-note">${r._jobMatch.rate>=70?'تطابق ممتاز — سيرتك متوافقة جيداً مع متطلبات هذه الوظيفة.':r._jobMatch.rate>=45?'تطابق متوسط — أضف الكلمات المفقودة أدناه لرفع فرصتك.':'تطابق منخفض — سيرتك تحتاج تعديلاً ليطابق هذا الإعلان. أضف الكلمات المفقودة.'}</p>
       <div class="ats-match-cols">
-        <div><h4>✅ كلمات متطابقة (${r._jobMatch.matched.length})</h4><div class="ats-kw ats-kw-ok">${r._jobMatch.matched.map(k=>`<span>${k}</span>`).join('')||'<em>لا يوجد</em>'}</div></div>
-        <div><h4>❌ كلمات مفقودة من سيرتك (${r._jobMatch.missing.length})</h4><div class="ats-kw ats-kw-miss">${r._jobMatch.missing.map(k=>`<span>${k}</span>`).join('')||'<em>ممتاز، لا نقص</em>'}</div></div>
+        <div><h4>✅ كلمات متطابقة (${r._jobMatch.matched.length})</h4><div class="ats-kw ats-kw-ok">${r._jobMatch.matched.map(k=>`<span>${esc(k)}</span>`).join('')||'<em>لا يوجد</em>'}</div></div>
+        <div><h4>❌ كلمات مفقودة من سيرتك (${r._jobMatch.missing.length})</h4><div class="ats-kw ats-kw-miss">${r._jobMatch.missing.map(k=>`<span>${esc(k)}</span>`).join('')||'<em>ممتاز، لا نقص</em>'}</div></div>
       </div>
     </div>` : ''}
 
@@ -671,8 +697,8 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
       <div class="ats-highlight">${r._highlights.map(l=>{
         if(l.type==='blank') return '<br>';
         const cls = l.type==='weak'?'hl-w':l.type==='strong'?'hl-s':l.type==='ok'?'hl-o':'';
-        const hint = l.hint?` title="${l.hint}"`:'';
-        return `<div class="hl-line ${cls}"${hint}>${l.text}${l.hint?`<small>${l.hint}</small>`:''}</div>`;
+        const hint = l.hint?` title="${esc(l.hint)}"`:'';
+        return `<div class="hl-line ${cls}"${hint}>${esc(l.text)}${l.hint?`<small>${esc(l.hint)}</small>`:''}</div>`;
       }).join('')}</div>
     </div>
 
@@ -718,7 +744,8 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
     const w = window.open('', '_blank');
     if(!w){ alert('فعّل النوافذ المنبثقة لتحميل التقرير، أو استخدم زر الطباعة (Ctrl+P).'); return; }
     const barRow = (l,v)=>`<tr><td>${l}</td><td><div style="background:#eee;border-radius:20px;height:14px;width:200px;display:inline-block;vertical-align:middle"><div style="background:${v>=80?'#0E8F8F':v>=60?'#D98E2B':'#b5443a'};height:14px;border-radius:20px;width:${v*2}px"></div></div> <b>${v}/100</b></td></tr>`;
-    const liList = (arr,two)=> arr.length? '<ul>'+arr.map(x=> two?`<li><b>${x[0]}</b> — ${x[1]}`:`<li>${x}`).join('')+'</ul>' : '<p style="color:#888">لا يوجد</p>';
+    const liList = (arr,two)=> arr.length? '<ul>'+arr.map(x=> two?`<li><b>${esc(x[0])}</b> — ${esc(x[1])}`:`<li>${esc(x)}`).join('')+'</ul>' : '<p style="color:#888">لا يوجد</p>';
+    const escKw = a => (a||[]).map(esc).join('، ');
     w.document.write(`<!DOCTYPE html><html dir="rtl" lang="ar"><head><meta charset="utf-8"><title>تقرير فحص السيرة — نَوَاة</title>
     <style>
       body{font-family:'Segoe UI',Tahoma,sans-serif;color:#1a1f2e;max-width:800px;margin:0 auto;padding:30px;line-height:1.7}
@@ -742,10 +769,10 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
     <h2>تفصيل الدرجات</h2>
     <table>${barRow('توافق ATS',r.scores.ats)}${barRow('قوة المحتوى',r.scores.content)}${barRow('الاحترافية',r.scores.prof)}${barRow('التنافسية',r.scores.comp)}${barRow('التصميم والتنظيم',r.scores.design)}</table>
     <div class="prob"><div><b>${r.atsPass}%</b>احتمالية اجتياز ATS</div><div><b>${r.interview}%</b>احتمالية المقابلة</div></div>
-    ${r._jobMatch?`<h2>التطابق مع إعلان الوظيفة: ${r._jobMatch.rate}%</h2><p>كلمات مفقودة: ${r._jobMatch.missing.join('، ')||'لا يوجد'}</p>`:''}
+    ${r._jobMatch?`<h2>التطابق مع إعلان الوظيفة: ${r._jobMatch.rate}%</h2><p>كلمات مفقودة: ${escKw(r._jobMatch.missing)||'لا يوجد'}</p>`:''}
     <h2>✅ نقاط القوة</h2>${liList(r.strengths,true)}
     <h2>⚠️ نقاط الضعف</h2>${liList(r.weaknesses,true)}
-    <h2>🔑 كلمات مفتاحية مقترحة</h2><p>${r.missingKw.join('، ')||'تغطية جيدة'}</p>
+    <h2>🔑 كلمات مفتاحية مقترحة</h2><p>${escKw(r.missingKw)||'تغطية جيدة'}</p>
     <h2>🔧 أخطاء ATS</h2>${liList(r.atsErrors,true)}
     <h2>💡 اقتراحات التحسين</h2>${liList(r.suggestions,false)}
     <h2>👔 تقييم مسؤول التوظيف (30 ثانية)</h2><p style="font-style:italic;background:#f4f2fb;padding:14px;border-radius:10px">"${r.recruiterView}"</p>

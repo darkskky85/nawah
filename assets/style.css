@@ -662,6 +662,7 @@ header,footer{content-visibility:visible}
   cursor:pointer;font-size:.85rem;color:var(--teal);font-weight:600;transition:background .15s}
 .ats-upload-btn:hover{background:var(--teal-soft)}
 .ats-file-note{font-size:.78rem;color:var(--muted);margin-right:8px}
+.ats-upload-hint{display:block;font-size:.72rem;color:var(--muted);opacity:.8;margin-top:6px}
 .ats-wc{font-size:.82rem;color:var(--muted);font-variant-numeric:tabular-nums}
 .ats-go{width:100%;justify-content:center;padding:15px;font-size:1.05rem;margin-top:6px;
   background:linear-gradient(135deg,var(--primary),var(--teal));border:none}

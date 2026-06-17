@@ -20,6 +20,19 @@ export default async function handler(req, res) {
   try {
     const event = req.body;
 
+    // 0) تأمين: نتحقق أن الإشعار قادم فعلاً من Moyasar عبر السر المشترك (shared_secret)
+    //    اضبط WEBHOOK_SECRET في Vercel، وضع نفس القيمة في إعداد الويبهوك بلوحة Moyasar.
+    const expectedSecret = process.env.WEBHOOK_SECRET;
+    if (expectedSecret) {
+      const incomingSecret = event?.secret_token || req.headers['x-webhook-secret'] || '';
+      if (incomingSecret !== expectedSecret) {
+        console.warn('رُفض إشعار ويبهوك: سر مشترك غير مطابق');
+        return res.status(401).json({ error: 'unauthorized' });
+      }
+    } else {
+      console.warn('WEBHOOK_SECRET غير مضبوط — يُنصح بضبطه لرفض الإشعارات المزوّرة.');
+    }
+
     // 1) نتأكد أن الحدث هو "دفعة مكتملة"
     const payment = event?.data || event;
     const paymentId = payment?.id;
