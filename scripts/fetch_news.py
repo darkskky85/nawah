@@ -17,8 +17,8 @@ from datetime import datetime, timezone
 from xml.etree import ElementTree as ET
 
 # ---------- الإعدادات ----------
-MAX_ITEMS = 12               # عدد الأخبار المعروضة
-PER_FEED = 6                 # أقصى عدد مبدئي من كل خلاصة قبل الدمج
+MAX_ITEMS = 16               # عدد الأخبار المعروضة
+PER_FEED = 5                 # أقصى عدد مبدئي من كل خلاصة قبل الدمج
 MODEL = "claude-haiku-4-5-20251001"   # نموذج سريع واقتصادي للصياغة
 OUT_PATH = os.path.join("assets", "news-data.js")
 STATE_PATH = os.path.join("scripts", "news-seen.json")  # لتجنّب إعادة صياغة نفس الخبر
@@ -30,6 +30,9 @@ FEEDS = [
     ("VentureBeat AI","https://venturebeat.com/category/ai/feed/", "أعمال"),
     ("MIT Tech Review AI","https://www.technologyreview.com/topic/artificial-intelligence/feed", "أبحاث"),
     ("Ars Technica AI","https://arstechnica.com/tag/artificial-intelligence/feed/", "تقنية"),
+    # مصادر متخصصة برصد الأدوات الجديدة (تُعرض بحياد مع رابط المصدر)
+    ("Product Hunt", "https://www.producthunt.com/feed?category=artificial-intelligence", "أدوات جديدة"),
+    ("Google News — أدوات AI", "https://news.google.com/rss/search?q=new+AI+tool+launch+when:7d&hl=en-US&gl=US&ceid=US:en", "أدوات جديدة"),
 ]
 
 UA = "Mozilla/5.0 (NawahNewsBot; +https://nawahlabs.com)"
@@ -139,7 +142,9 @@ def summarize_arabic(api_key, batch):
     system = (
         "أنت محرر أخبار تقنية عربي محترف في منصة نَوَاة. مهمتك صياغة أخبار الذكاء الاصطناعي "
         "بالعربية الفصحى المبسّطة بأسلوب أصلي تماماً. لا تنسخ نص المصدر، بل أعد صياغة المعنى بكلماتك. "
-        "تجنّب المبالغة والعناوين المثيرة، والتزم الدقة والحياد. لا تخترع أرقاماً أو حقائق غير واردة."
+        "تجنّب المبالغة والعناوين المثيرة، والتزم الدقة والحياد. لا تخترع أرقاماً أو حقائق غير واردة. "
+        "إذا كان العنصر عن أداة ذكاء اصطناعي جديدة، اعرضها بحياد تام كـ«أداة جديدة ظهرت» مع وصف وظيفتها "
+        "باختصار، دون مدح أو ترويج أو ادعاءات تفوّق، ودون تقييم لم يرد في المصدر."
     )
     user = (
         "لكل خبر مرقّم أدناه، اكتب:\n"
