@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="الربح من الذكاء الاصطناعي">
+  <defs>
+    <linearGradient id="g59536" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E8F8F"/>
+      <stop offset="1" stop-color="#221E66"/>
+    </linearGradient>
+    <radialGradient id="g59536r" cx="0.75" cy="0.25" r="0.9">
+      <stop offset="0" stop-color="#D98E2B" stop-opacity="0.35"/>
+      <stop offset="0.6" stop-color="#D98E2B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g59536)"/>
+  <rect width="1200" height="630" fill="url(#g59536r)"/>
+  <line x1="726" y1="392" x2="910" y2="152" stroke="#D98E2B" stroke-width="1.2" opacity="0.08"/><line x1="726" y1="392" x2="982" y2="561" stroke="#D98E2B" stroke-width="1.2" opacity="0.08"/><line x1="726" y1="392" x2="501" y2="524" stroke="#D98E2B" stroke-width="1.2" opacity="0.11"/><line x1="726" y1="392" x2="750" y2="74" stroke="#D98E2B" stroke-width="1.2" opacity="0.07"/><line x1="726" y1="392" x2="915" y2="122" stroke="#D98E2B" stroke-width="1.2" opacity="0.06"/><line x1="726" y1="392" x2="581" y2="393" stroke="#D98E2B" stroke-width="1.2" opacity="0.2"/><line x1="910" y1="152" x2="750" y2="74" stroke="#D98E2B" stroke-width="1.2" opacity="0.18"/><line x1="910" y1="152" x2="915" y2="122" stroke="#D98E2B" stroke-width="1.2" opacity="0.3"/><line x1="90" y1="541" x2="171" y2="264" stroke="#D98E2B" stroke-width="1.2" opacity="0.09"/><line x1="90" y1="541" x2="114" y2="473" stroke="#D98E2B" stroke-width="1.2" opacity="0.26"/><line x1="171" y1="264" x2="153" y2="139" stroke="#D98E2B" stroke-width="1.2" opacity="0.22"/><line x1="171" y1="264" x2="114" y2="473" stroke="#D98E2B" stroke-width="1.2" opacity="0.15"/><line x1="501" y1="524" x2="581" y2="393" stroke="#D98E2B" stroke-width="1.2" opacity="0.2"/><line x1="750" y1="74" x2="915" y2="122" stroke="#D98E2B" stroke-width="1.2" opacity="0.18"/><line x1="153" y1="139" x2="114" y2="473" stroke="#D98E2B" stroke-width="1.2" opacity="0.05"/><circle cx="726" cy="392" r="4" fill="#D98E2B" opacity="0.55"/><circle cx="910" cy="152" r="4" fill="#D98E2B" opacity="0.55"/><circle cx="90" cy="541" r="4" fill="#D98E2B" opacity="0.55"/><circle cx="982" cy="561" r="3" fill="#D98E2B" opacity="0.55"/><circle cx="171" cy="264" r="3" fill="#D98E2B" opacity="0.55"/><circle cx="501" cy="524" r="4" fill="#D98E2B" opacity="0.55"/><circle cx="750" cy="74" r="3" fill="#D98E2B" opacity="0.55"/><circle cx="915" cy="122" r="3" fill="#D98E2B" opacity="0.55"/><circle cx="581" cy="393" r="2.5" fill="#D98E2B" opacity="0.55"/><circle cx="153" cy="139" r="2.5" fill="#D98E2B" opacity="0.55"/><circle cx="114" cy="473" r="4" fill="#D98E2B" opacity="0.55"/>
+  <circle cx="1070" cy="120" r="54" fill="#FBFAF6" opacity="0.12"/>
+  <text x="1070" y="120" font-size="52" text-anchor="middle" dominant-baseline="central">📈</text>
+  <g font-family="'Changa','Segoe UI',sans-serif" fill="#FBFAF6">
+    <rect x="64" y="480" width="14" height="86" rx="4" fill="#D98E2B"/>
+    <text x="92" y="520" font-size="30" font-weight="700" opacity="0.92">الربح من الذكاء الاصطناعي</text>
+    <text x="92" y="564" font-size="22" opacity="0.6">nawahlabs.com · نَوَاة</text>
+  </g>
+</svg>
