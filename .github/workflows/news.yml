@@ -1,6 +1,5 @@
 name: تحديث أخبار الذكاء الاصطناعي
 
-# يعمل تلقائياً كل 6 ساعات، ويمكن تشغيله يدوياً من تبويب Actions
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -32,13 +31,9 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           if [ -n "$(git status --porcelain assets/news-data.js scripts/news-seen.json)" ]; then
             git add assets/news-data.js scripts/news-seen.json
-            git commit -m "تحديث الأخبار تلقائياً: $(date -u +%Y-%m-%d' '%H:%M' UTC')"
-            # زامن مع أحدث نسخة على المستودع قبل الدفع لتجنّب التعارض، مع إعادة المحاولة
-            for i in 1 2 3; do
-              git pull --rebase --autostash origin main && git push && break
-              echo "محاولة الدفع $i فشلت، إعادة المزامنة…"
-              sleep 5
-            done
+            git commit -m "news update"
+            git pull --rebase --autostash origin main
+            git push
           else
-            echo "لا تغيير في الأخبار."
+            echo "no change"
           fi
