@@ -1,7 +1,23 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-06-19T22:34:15.315999+00:00",
+ "updated": "2026-06-20T03:49:44.502908+00:00",
  "items": [
+  {
+   "title": "تطبيق الإملاء الذكي Mutter AI",
+   "summary": "أداة جديدة ظهرت باسم Mutter AI Dictation تساعد في تحويل الكلام إلى نص بواسطة الذكاء الاصطناعي. توفر الأداة إمكانية الإملاء الصوتي المحسّن لمختلف الاستخدامات.",
+   "url": "https://www.producthunt.com/products/mutter-ai-dictation",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-06-20"
+  },
+  {
+   "title": "السيطرة على تصدير التكنولوجيا الأمنية: لماذا الحظر التاريخي لم ينجح",
+   "summary": "على مدار ثلاثة عقود، ثبت فشل محاولات منع تسرب برمجيات الأمن السيبراني عبر الحدود. يثير إطلاق نموذج Mythos الأمني من Anthropic تساؤلات حول جدوى استراتيجيات التحكم والحظر التقليدية في العصر الرقمي.",
+   "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-19"
+  },
   {
    "title": "هل الحظر الحكومي الأمريكي على Anthropic يعزّز الشركة بالفعل؟",
    "summary": "أجبرت السلطات الأمريكية شركة Anthropic على سحب نموذجيها الجديدين بعد تقارير عن ثغرات أمنية، لكن هذا الإجراء قد يعزز سمعة الشركة بين المهتمين بقضايا الأمان. عدد من باحثي الأمن السيبراني أعرب عن اعتراضه على القرار عبر رسالة مفتوحة.",
@@ -89,6 +105,30 @@ window.NEWS_DATA = {
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-06-18"
+  },
+  {
+   "title": "وكلاء ذكاء اصطناعي تعلّم الروبوتات تثبيت معالجات الرسومات",
+   "summary": "طورت إنفيديا برنامجاً يستخدم فرقاً من وكلاء الذكاء الاصطناعي لتعليم الروبوتات مهام الصيانة المعقدة مثل تثبيت المعدات والقطع اليدوي. يعكس هذا التوجه محاولة لجعل الأنظمة الآلية قادرة على التعلم الذاتي والتحسّن المستمر دون تدخل بشري مباشر.",
+   "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
+   "date": "2026-06-17"
+  },
+  {
+   "title": "مدينة سان خوسيه تدرّب ألف موظف حكومي على بناء أدوات ذكاء اصطناعي",
+   "summary": "بادرت مدينة سان خوسيه بتدريب موظفيها على استخدام واستحداث تطبيقات الذكاء الاصطناعي، مما يعكس توجهاً نحو تفويض السلطات المحلية بمهارات تقنية متقدمة. يهدف البرنامج إلى تعزيز الاعتماد على التكنولوجيا في تحسين الخدمات البلدية.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNamZCbnA0R1dqMHV2Nk9IcjZudDNMNzBlNW5wNExpOV84ZVcxaGttaEVoc1I5WTYtZENPX1NybV9kX0ExblFKYzV6TjhlcTJ1ZFR5UzFPZmliUjVMcm96NEFHb3owWGV6LWd5TDVUWk8tYkhDLUtyMlJwenhLSHR3ZFJZTzk3cjdVZEFCUkhWcnB5dmxEQkFj?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-06-17"
+  },
+  {
+   "title": "منصة كورتكس الذكية لتحليل رسومات المشاريع الإنشائية",
+   "summary": "أطلقت شركة ترانك تولز منصة كورتكس المزودة بذكاء اصطناعي لتفسير وتحليل المخططات والرسومات الهندسية في قطاع البناء والإنشاء. تساعد المنصة المهندسين والمتخصصين على فهم المستندات الفنية وتسريع عمليات التخطيط.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGZyOFN5U3NlVi1xNTFHU0N3UlBHWV81S1h2ZVo0VTA0ZWJBTHhtM2VQak1WRFpEcG1pcHpGemhFR1BjSFhpNWY4ZHlOV254WktSZFhDTDNyOGNQN3Vac1V1cGVvbXY1d3NUTDFVT1J6c0xydmk0b2cxeEhTVkZmM0l2cFd3SjN2QTl1TnRaMDk3ejFvMDl2OUNEazNwQXo5QWFpUHFvRU1Fbm1fMEE?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-06-17"
   }
  ]
 };
