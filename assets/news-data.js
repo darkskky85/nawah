@@ -1,7 +1,23 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-06-20T19:28:22.917322+00:00",
+ "updated": "2026-06-21T04:20:35.181217+00:00",
  "items": [
+  {
+   "title": "تحذير من مؤسسة Signal: برامج الدردشة الذكية ليست أصدقاء لك",
+   "summary": "حذّرت مريديث ويتاكر من Signal من خطورة الاعتماد العاطفي على برامج الدردشة الذكية، مؤكدة أنها مجرد أدوات حاسوبية وليست كائنات واعية أو قادرة على التفاعل البشري الحقيقي. دعوتها تهدف إلى رفع الوعي بطبيعة هذه الأنظمة وحدودها الحقيقية.",
+   "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-20"
+  },
+  {
+   "title": "أداة جديدة لقياس تأثيرك في مجال الذكاء الاصطناعي",
+   "summary": "أداة جديدة ظهرت باسم In the Weights توفر نظام تقييم شخصي يركز على حضورك وتأثيرك في مجال الذكاء الاصطناعي. تعمل الأداة على إعطاء المستخدمين درجة تعكس مساهماتهم وتفاعلهم مع مجتمع الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-20"
+  },
   {
    "title": "عالم الفيزياء الحائز على جائزة نوبل ينتقل من DeepMind إلى Anthropic",
    "summary": "انتقل جون جمبر، الحائز على جائزة نوبل في الفيزياء، من شركة جوجل DeepMind إلى شركة Anthropic المنافسة. يأتي هذا الرحيل ضمن سلسلة من انتقالات الكفاءات البارزة من DeepMind إلى جهات أخرى في مجال الذكاء الاصطناعي.",
@@ -110,22 +126,6 @@ window.NEWS_DATA = {
    "title": "موظفو أمازون يواجهون الفصل بسبب دعمهم لتقييد مراكز البيانات",
    "summary": "اتهم ثلاثة مهندسي برامج في أمازون الشركة بالانتقام منهم بعد شهادتهم أمام مجلس مدينة سياتل بشأن معارضتهم توسع مراكز البيانات. يؤكد الموظفون أن أمازون تنتهك قانون المدينة الذي يحظر التمييز الوظيفي لأسباب تتعلق بالآراء السياسية.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-06-18"
-  },
-  {
-   "title": "من يحدد الحد الأقصى لخطورة الذكاء الاصطناعي؟",
-   "summary": "نقاش حول كيفية تقييم أمان تطبيقات الذكاء الاصطناعي والجهات المسؤولة عن اتخاذ قرارات تنظيمية بشأنها. يتناول الموضوع تقاطع المصالح بين الشركات والحكومات والمؤسسات البحثية في مجال تقنيات الذكاء الاصطناعي.",
-   "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-06-18"
-  },
-  {
-   "title": "أدوات ذكاء اصطناعي جديدة في Photoshop و Premiere من أدوبي",
-   "summary": "أطلقت أدوبي نسخة تجريبية عامة من مساعدات ذكاء اصطناعي مخصصة لتطبيقات Creative Cloud الرئيسية بما فيها Photoshop و Premiere و Illustrator و InDesign و Frame.io، بهدف دعم المحررين والمصممين في سير عملهم.",
-   "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-06-18"
