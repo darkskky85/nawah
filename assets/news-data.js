@@ -1,7 +1,15 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-06-21T04:20:35.181217+00:00",
+ "updated": "2026-06-21T09:52:10.716277+00:00",
  "items": [
+  {
+   "title": "خطة سيرا الذكية",
+   "summary": "أداة جديدة ظهرت باسم Plansera AI تركز على تخطيط وتنظيم المشاريع باستخدام تقنيات الذكاء الاصطناعي. تساعد المستخدمين على وضع خطط عملية وتتبع تقدم مهامهم بكفاءة.",
+   "url": "https://www.producthunt.com/products/plansera-ai",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-06-21"
+  },
   {
    "title": "تحذير من مؤسسة Signal: برامج الدردشة الذكية ليست أصدقاء لك",
    "summary": "حذّرت مريديث ويتاكر من Signal من خطورة الاعتماد العاطفي على برامج الدردشة الذكية، مؤكدة أنها مجرد أدوات حاسوبية وليست كائنات واعية أو قادرة على التفاعل البشري الحقيقي. دعوتها تهدف إلى رفع الوعي بطبيعة هذه الأنظمة وحدودها الحقيقية.",
@@ -120,14 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTTdPdDZLUHBwcFJGVmEybzgtZjc0S3pLRzdaa21IbExKN2lCdTNrRWlReklwM3Q0MWxCYWR6bmxMN3c3dzZPMzJFTmVORUNQaEVMVXNXMWhGelRSeVhKd3l6ejNDcXN0YVQ1LVN6bmpKXzRMMGcwWlZEX2c2dVNfbXNwYk9PRmhnN1BjbThFMm9hOFN2QXFCbTZXRGVKd0k5RzJaSHMyR3hRYjQ1VElwd0Etdzc4d0VqRUVINUMwSVh1QlkzamZUYUhBV09qNF9Kd2pyMU1sWjNReFE?oc=5",
    "source": "Google News — أدوات AI",
    "tag": "أدوات جديدة",
-   "date": "2026-06-18"
-  },
-  {
-   "title": "موظفو أمازون يواجهون الفصل بسبب دعمهم لتقييد مراكز البيانات",
-   "summary": "اتهم ثلاثة مهندسي برامج في أمازون الشركة بالانتقام منهم بعد شهادتهم أمام مجلس مدينة سياتل بشأن معارضتهم توسع مراكز البيانات. يؤكد الموظفون أن أمازون تنتهك قانون المدينة الذي يحظر التمييز الوظيفي لأسباب تتعلق بالآراء السياسية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-06-18"
   }
  ]
