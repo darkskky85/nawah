@@ -1,7 +1,23 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-06-21T09:52:10.716277+00:00",
+ "updated": "2026-06-21T19:43:41.152386+00:00",
  "items": [
+  {
+   "title": "انعكاسات إجراءات إدارة ترامب ضد أنثروبيك على سوق الذكاء الاصطناعي",
+   "summary": "نقاش حول الدوافع الحقيقية وراء الإجراءات الأخيرة من الإدارة الأمريكية ضد شركة أنثروبيك المتخصصة في الذكاء الاصطناعي، وما قد تعنيه هذه الخطوات لمستقبل النظام البيئي للذكاء الاصطناعي والمنافسة في القطاع.",
+   "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-21"
+  },
+  {
+   "title": "ميزات ذكاء اصطناعي عملية إضافية قادمة إلى أجهزة آيفون مع iOS 27",
+   "summary": "بعيداً عن تطوير مساعد Siri الذي حاز على الاهتمام الأكبر، تعتزم آبل إدراج عدة ميزات ذكاء اصطناعي عملية موزعة على أماكن متنوعة ضمن نظام iOS الجديد.",
+   "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-21"
+  },
   {
    "title": "خطة سيرا الذكية",
    "summary": "أداة جديدة ظهرت باسم Plansera AI تركز على تخطيط وتنظيم المشاريع باستخدام تقنيات الذكاء الاصطناعي. تساعد المستخدمين على وضع خطط عملية وتتبع تقدم مهامهم بكفاءة.",
@@ -113,22 +129,6 @@ window.NEWS_DATA = {
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-06-19"
-  },
-  {
-   "title": "شركة ناشئة تعلن حلاً لاختناق رياضي يعيق نماذج اللغة الكبرى",
-   "summary": "أعلنت شركة Subquadratic الناشئة المتخصصة في الذكاء الاصطناعي عن حلها لمشكلة رياضية ظلت تعيق تطور نماذج اللغة الكبرى لما يقارب عقداً كاملاً. رغم قلة التفاصيل المعلنة، تؤكد الشركة امتلاكها لحل حقيقي لهذا التحدي الأساسي.",
-   "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-06-19"
-  },
-  {
-   "title": "شوبيفاي تطلق أدوات لتتبع مبيعات التجار من منصات الذكاء الاصطناعي",
-   "summary": "أعلنت منصة التجارة الإلكترونية شوبيفاي عن أدوات جديدة تمكّن التجار من رصد المبيعات والزيارات القادمة من تطبيقات الذكاء الاصطناعي. تعكس هذه الخطوة اهتمام المنصة بمواكبة قنوات البيع الناشئة والمدفوعة بتقنيات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTTdPdDZLUHBwcFJGVmEybzgtZjc0S3pLRzdaa21IbExKN2lCdTNrRWlReklwM3Q0MWxCYWR6bmxMN3c3dzZPMzJFTmVORUNQaEVMVXNXMWhGelRSeVhKd3l6ejNDcXN0YVQ1LVN6bmpKXzRMMGcwWlZEX2c2dVNfbXNwYk9PRmhnN1BjbThFMm9hOFN2QXFCbTZXRGVKd0k5RzJaSHMyR3hRYjQ1VElwd0Etdzc4d0VqRUVINUMwSVh1QlkzamZUYUhBV09qNF9Kd2pyMU1sWjNReFE?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-06-18"
   }
  ]
 };
