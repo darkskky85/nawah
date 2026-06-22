@@ -1,6 +1,6 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-06-21T19:43:41.152386+00:00",
+ "updated": "2026-06-22T11:57:47.520220+00:00",
  "items": [
   {
    "title": "انعكاسات إجراءات إدارة ترامب ضد أنثروبيك على سوق الذكاء الاصطناعي",
@@ -25,6 +25,14 @@ window.NEWS_DATA = {
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
    "date": "2026-06-21"
+  },
+  {
+   "title": "احذر من مخاطر تطوير التطبيقات بدون مراجعة أمنية",
+   "summary": "طور بوب ستار موقعاً بأسلوب سريع لعرض بيانات الإنفاق الحكومي الأمريكي، لكنه اكتشف لاحقاً وجود ثغرة حقن SQL خطيرة في الكود. الحادثة تسلط الضوء على أهمية المراجعة الأمنية والاختبار الشامل قبل نشر التطبيقات على الإنترنت.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-06-20"
   },
   {
    "title": "تحذير من مؤسسة Signal: برامج الدردشة الذكية ليست أصدقاء لك",
@@ -118,14 +126,6 @@ window.NEWS_DATA = {
    "title": "أمازون MGM تتخلى عن فيلم عن رئيس OpenAI",
    "summary": "سحبت أمازون MGM فيلم \"Artificial\" للمخرج لوكا جوادانينو الذي يتناول قصة سام ألتمان وأزمته القيادية في 2023. ويلعب الدور الرئيسي فيه الممثل أندرو جارفيلد، وكان الفيلم قيد الإنتاج لمدة سنة تقريباً.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-06-19"
-  },
-  {
-   "title": "رحيل مسؤول المبيعات بارت زوف من OpenAI بعد خمسة أشهر فقط",
-   "summary": "غادر بارت زوف منصبه كرئيس قسم مبيعات الذكاء الاصطناعي المؤسسي في OpenAI بعد عودته للشركة لمدة خمسة أشهر فقط. عاد زوف إلى OpenAI في يناير الماضي بعد أن شغل منصب المؤسس المشارك والمدير التقني في شركة Thinking Machines Lab المنافسة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-06-19"
