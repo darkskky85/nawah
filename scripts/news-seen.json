@@ -1,6 +1,7 @@
 [
  "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
  "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+ "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
  "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
  "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
  "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
@@ -21,6 +22,7 @@
  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGZyOFN5U3NlVi1xNTFHU0N3UlBHWV81S1h2ZVo0VTA0ZWJBTHhtM2VQak1WRFpEcG1pcHpGemhFR1BjSFhpNWY4ZHlOV254WktSZFhDTDNyOGNQN3Vac1V1cGVvbXY1d3NUTDFVT1J6c0xydmk0b2cxeEhTVkZmM0l2cFd3SjN2QTl1TnRaMDk3ejFvMDl2OUNEazNwQXo5QWFpUHFvRU1Fbm1fMEE",
  "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjNHRXpNSGR1ZkhEdnFjdm9YTHJoOWRFTzZ3Q0x0OGJwVDBZcnpiWFNDQ3lFR0JXSENRZE1Oa1JrNS01YzFQU25nSFloMXh2RjhrWFI5T1lvMm5yck5YTVdzRkxkVlhqdi1QZmVsRzZWS015NGNCY2tBVEZ0eGxxVXZpTkktRVQwZHk2TmJUN2Rnem5wdElUMUo0MXBJWi1kMldJb1BuemtuOWhNQ25pem44SjJfNnNmWEkwdFRB",
  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWVUOGFfMExyRWZ3QWdmbk1lTHByb2hVQXFNLURGZFE5Rm5JVXZoU2xvTE8tMDFYMWZSWUJjVWxQSkZGN1ZYQkg1NzNsOG1QZHlkemp4WUtHX2xxV1psZU1RRzJJX1VQMXE3SGpYYXRGOXJtM3lTRXhvWDUydlR0Z292cUgzMjVTRlBYd08telZIOVloZWxkSXRBTndoSDV0OF9wM2NRLUU5YUZTekh2SGc1MkFKRVVBZ2dhMWhlT2Q2UQ",
+ "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLVZQTmwwazRYbTY3R3Mtb01MNzY0TThqc0pKemRfcnRVY2NzV3V4ZG1xSzBTcC1WSEo1VXRCTUlQdXVKeXZ2NTIxTDQ0RzdXcHJQQ3REeTJ4Vk4wOUV4bTlTcVNNemItWlIyc2NXdk5URHZnemxSakdYZlZTbF9XNXJxOExxd0Y3RlZsdUo5RVRiOUk3OUJjeHIwSWhXS2dkMldPMmlVd3E0eURGZVdfLWRpNDYzcUpjV0RzX0NpY0dLUQ",
  "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
  "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
  "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
@@ -53,6 +55,9 @@
  "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
  "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
  "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+ "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+ "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+ "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
  "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
  "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
  "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
@@ -95,5 +100,6 @@
  "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
  "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
  "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
- "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch"
+ "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+ "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes"
 ]
