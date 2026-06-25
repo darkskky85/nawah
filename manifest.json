@@ -1,0 +1,19 @@
+{
+  "name": "نواة — Nawah Labs",
+  "short_name": "نواة",
+  "description": "منصة نواة للذكاء الاصطناعي: أدوات، مقالات، معجم مصطلحات، أخبار، ومتجر رقمي.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#221E66",
+  "theme_color": "#221E66",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
