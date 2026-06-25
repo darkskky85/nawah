@@ -1,7 +1,87 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-06-25T14:35:37.115278+00:00",
+ "updated": "2026-06-25T20:02:40.114145+00:00",
  "items": [
+  {
+   "title": "كلود من Anthropic يجذب المستخدمين المدفوعين بعيداً عن ChatGPT",
+   "summary": "رغم هيمنة ChatGPT على سوق الذكاء الاصطناعي، تشير البيانات إلى أن المستخدمين الذين يدفعون مقابل خدمات الذكاء الاصطناعي يتجهون بشكل متزايد نحو اختيار كلود من Anthropic، ما يعكس تغيراً في تفضيلات المستهلكين المدفوعين.",
+   "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-25"
+  },
+  {
+   "title": "General Intuition توظف الألعاب لتدريب وكلاء ذكاء اصطناعي على العالم الحقيقي",
+   "summary": "جمعت General Intuition 320 مليون دولار لتطوير نماذج ذكاء اصطناعي مدربة على ملايين الساعات من بيانات الألعاب، معتمدة على فرضية أن تحليل سلوك اللاعبين يمكن أن يساعد الذكاء الاصطناعي على تطوير حدس أقرب للقدرات البشرية.",
+   "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-25"
+  },
+  {
+   "title": "رئيس ذكاء اصطناعي سابق في Databricks يسعى لتقليل استهلاك الطاقة بمعامل 1000",
+   "summary": "طور فريق Un-0 نظاماً لتوليد الصور يثبت للمرة الأولى كيف يمكن لتقنيات محددة تقليل متطلبات الطاقة في أنظمة الذكاء الاصطناعي بشكل جذري.",
+   "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-25"
+  },
+  {
+   "title": "Netris تجمع 15 مليون دولار لتسريع نشر السحابات الحديثة في مجال الذكاء الاصطناعي",
+   "summary": "حصلت Netris على تمويل من a16z لتطوير منصتها البرمجية التي تعمل على مفاتيح الشبكة، بهدف مساعدة مشغلي السحابات الحديثة على تقليل الوقت اللازم لإطلاق بيئاتهم التشغيلية.",
+   "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-25"
+  },
+  {
+   "title": "إعادة تشكيل التجزئة في عصر الذكاء الاصطناعي",
+   "summary": "يعيد الذكاء الاصطناعي صياغة قطاع التجزئة من خلال تحسينات خلف الكواليس بدلاً من الواجهات الظاهرة، بما في ذلك تحسين خوارزميات البحث وإدارة المخزون واتخاذ القرارات التجارية.",
+   "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-06-25"
+  },
+  {
+   "title": "Anthropic تطالب بمحاسبة Alibaba على أكبر عملية استنساخ لنموذج كلود",
+   "summary": "اتهمت Anthropic شركة Alibaba باستخدام 25 ألف حساب لاستخراج بيانات من نموذج كلود عبر 28.8 مليون تبادل، ما يشكل أكبر هجوم من نوعه على البنية التحتية للذكاء الاصطناعي.",
+   "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
+   "date": "2026-06-25"
+  },
+  {
+   "title": "أداة ذكاء اصطناعي متقدمة لتحسين مهارات البيع",
+   "summary": "أداة جديدة ظهرت باسم Tough Tongue AI موجهة لمجال المبيعات، وتستهدف تطوير مهارات التفاوض والحوار لدى فريق البيع من خلال محاكاة حوارات واقعية وتقديم تعليقات فورية.",
+   "url": "https://www.producthunt.com/products/tough-tongue-ai-2",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-06-25"
+  },
+  {
+   "title": "نسخة محدّثة من منصة Grass",
+   "summary": "أطلقت منصة Grass إصدارها الثاني بميزات معددة تعزز من كفاءتها في مجالها، مما يعكس تطورًا في خدمات الذكاء الاصطناعي المقدمة للمستخدمين.",
+   "url": "https://www.producthunt.com/products/grass-claude-code-from-your-phone",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-06-25"
+  },
+  {
+   "title": "أداة BrowserAct للتفاعل الذكي مع المتصفحات",
+   "summary": "أداة جديدة باسم BrowserAct تمكّن نماذج الذكاء الاصطناعي من التفاعل مع متصفحات الإنترنت وتنفيذ مهام تلقائية بناءً على التعليمات النصية.",
+   "url": "https://www.producthunt.com/products/browseract",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-06-25"
+  },
+  {
+   "title": "كاليفورنيا تطلق أول أداة حكومية لمراقبة تأثير الذكاء الاصطناعي على سوق العمل",
+   "summary": "أصبحت ولاية كاليفورنيا الأولى في الولايات المتحدة التي تطلق أداة متخصصة لتتبع ورصد تأثيرات الذكاء الاصطناعي على القوى العاملة، مما يمثل خطوة مهمة نحو فهم وتقييم آثار هذه التكنولوجيا على سوق العمل.",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG9LTE4weVhnNzlSck5JZ0VHc1RUMnd3TUNXdmloMkF5bndLUHpaMUNKd1JseG5oOVVJWjRuZ3NiQXFrQlo5Tjd6aVFSckczOEd5R3R4NTJmSnVvcmxfUFN0LWlBeV9NczFVaUt0X1RfMjVrT29pMUpxNFh5c3NFVWNScVFuQndERFo5bnBOOW51RW5zTWd0bmVudE1NUXJaSzNURk40bWl3aWpJYVlxT3JwX3J3LVpFWWpOT25Qei1JVjFnS2c2amNTVUVOY2VmN3o5UDVEcGJycEJCNDkwZHE0eFJSZ1BJVXRqQUt3?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-06-25"
+  },
   {
    "title": "فرصة أخيرة للحصول على خصم يصل إلى 190 دولار في قمة TechCrunch للمؤسسين",
    "summary": "ينتهي العرض المبكر لقمة TechCrunch للمؤسسين 2026 في 26 يونيو، حيث يمكن للمؤسسين والمستثمرين توفير ما يصل إلى 190 دولار على رسوم الاشتراك قبل انقضاء الموعد النهائي.",
@@ -49,86 +129,6 @@ window.NEWS_DATA = {
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-06-25"
-  },
-  {
-   "title": "أوروبا تعارض سياسة واشنطن في حرب الرقائق الإلكترونية",
-   "summary": "تسعى الولايات المتحدة لفرض قيود على تصدير تقنيات صناعة الرقائق المتقدمة، لكن أوروبا تعترض على هذه السياسة التي قد تؤثر على صناعتها. الخلاف يدور حول الأجهزة القديمة نسبياً التي يمكن بيعها، مقابل التكنولوجيا الحديثة المقيدة بالفعل.",
-   "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-25"
-  },
-  {
-   "title": "فورد تعيد توظيف مهندسين سابقين لإصلاح أخطاء الأنظمة الآلية",
-   "summary": "اضطرت شركة فورد إلى استعادة عدد من مهندسيها السابقين بعد اكتشاف أخطاء في الأنظمة الآلية التي استخدمتها في الإنتاج والتصميم. يعكس هذا التطور التحديات العملية التي تواجهها الشركات عند الاعتماد الكامل على الأتمتة دون إشراف بشري كاف.",
-   "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-06-24"
-  },
-  {
-   "title": "رئيس إنفوسيس السابق يؤسس شركة ناشئة جديدة في قطاع خدمات تكنولوجيا المعلومات",
-   "summary": "أطلق فيشال سيكا، الرئيس السابق لشركة إنفوسيس، مشروعاً استثماراً جديداً تدعمه صناديق رأس مال مغامر عالمية. الشركة تجمع خبرات من قطاعات تقنية مختلفة بهدف إعادة تشكيل سوق خدمات تكنولوجيا المعلومات.",
-   "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-24"
-  },
-  {
-   "title": "أسهم شركة سيريبراس تنخفض بعد توقعات هامشية محبطة",
-   "summary": "عقب إصدار نتائجها المالية الأولى كشركة عامة، توقعت الشركة المتخصصة في رقائق الذكاء الاصطناعي هوامش ربح أضيق من المتوقع. التوجيهات المحافظة أثارت مخاوف بين المستثمرين حول قدرة الشركة على الربحية.",
-   "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-24"
-  },
-  {
-   "title": "الذكاء الاصطناعي لم يقضِ على وظائف الهندسة كما توقع البعض",
-   "summary": "بيانات حديثة تشير إلى أن المهندسين يشكلون نسبة أكبر من الوظائف الجديدة المُنشأة، رغم الروايات الشائعة عن تأثير الذكاء الاصطناعي السلبي على التوظيف. هذا يعكس أن قطاع الهندسة يحافظ على قدرته على الصمود في مواجهة التطورات التكنولوجية.",
-   "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-24"
-  },
-  {
-   "title": "باحثون بارزون في الذكاء الاصطناعي يغادرون جوجل نحو منافسيها",
-   "summary": "غادر باحثان كبيران متخصصان في الذكاء الاصطناعي شركة جوجل للانضمام إلى شركة Anthropic المنافسة، استكمالاً لموجة استقطاب استمرت من قبل باحثين رائدين آخرين. يعكس هذا التوجه منافسة حادة بين الشركات التقنية الكبرى على جذب المواهب المتخصصة في مجال الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-24"
-  },
-  {
-   "title": "الذكاء الاصطناعي يعزز إنتاجية المطورين وسط قلق من التخلف",
-   "summary": "أدوات الذكاء الاصطناعي تساهم في رفع كفاءة المطورين وتسريع سير العمل، غير أن هذا التطور يثير قلقاً لديهم حول احتمالية تراجعهم مهنياً إذا لم يواكبوا التطورات السريعة. يشير الأمر إلى ثنائية إيجابية سلبية في تأثر القطاع التقني بموجة التطور الحالية.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW9aaE1hXzYwSjhzZnFQeXlRaXI5SmppdXllVEZTZU9rME5KLTNONF9kRkhvNUF0clFxVE1VQm1lMUI5UlpUOXdOSVNTLWttM0RVZkJ4M0tEcU1nUFU4cE5Dc0h6cEpPTUVtU1N5S3hqNmxIeGh2Y3VOYkZLc2xCUWZMU09YdXlaZ3ExczRDU2hWdFdJRU9lSA?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-06-24"
-  },
-  {
-   "title": "فيسبوك تطلق تطبيق مساعد ذكاء اصطناعي موجه للمبدعين",
-   "summary": "أطلقت فيسبوك تطبيقاً جديداً يدمج مساعد الذكاء الاصطناعي للمبدعين الذي طورته مؤخراً، حيث يجري اختباره حالياً مع مجموعة محدودة من صناع المحتوى لتسهيل عملية الإنتاج الإبداعي.",
-   "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-24"
-  },
-  {
-   "title": "شركة روبوتات إنسانية الشكل تتجه للاكتتاب العام برأس مال 2.5 مليار دولار",
-   "summary": "تخطط شركة Agility Robotics المتخصصة في الروبوتات الإنسانية للدخول إلى سوق الأسهم العامة عبر صفقة اندماج، وتتوقع جمع حوالي 620 مليون دولار من هذه العملية لتمويل عملياتها والتطوير المستقبلي.",
-   "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-24"
-  },
-  {
-   "title": "فيجما تضيف طبقات برمجية وميزات حركة وأدوات ذكاء اصطناعي محسّنة",
-   "summary": "أعلنت منصة التصميم فيجما عن تحديث يتضمن طبقات برمجية جديدة ودعماً لتأثيرات الحركة والتظليل، بالإضافة إلى إمكانية إنشاء إضافات مخصصة بمساعدة الذكاء الاصطناعي لتوسيع قدرات الأداة.",
-   "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-24"
   }
  ]
 };
