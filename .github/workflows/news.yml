@@ -1,0 +1,52 @@
+name: تحديث أخبار الذكاء الاصطناعي
+
+on:
+  schedule:
+    # يشتغل كل 6 ساعات (بتوقيت UTC): 3ص، 9ص، 3م، 9م
+    - cron: "0 3,9,15,21 * * *"
+  workflow_dispatch:        # يسمح بالتشغيل اليدوي من تبويب Actions
+
+# صلاحية الكتابة للمستودع (ضرورية لعمل commit/push)
+permissions:
+  contents: write
+
+# يمنع تشغيلين متوازيين يتعارضان
+concurrency:
+  group: news-update
+  cancel-in-progress: false
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: سحب المستودع
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: تهيئة Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: تشغيل سكربت جلب الأخبار
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python3 scripts/fetch_news.py
+
+      - name: حفظ ورفع الأخبار المولّدة
+        run: |
+          git config user.name  "nawah-news-bot"
+          git config user.email "bot@nawahlabs.com"
+
+          # لا تعمل commit إلا إذا تغيّر شيء فعلاً
+          if [ -n "$(git status --porcelain assets/news-data.js)" ]; then
+            git add assets/news-data.js
+            git commit -m "تحديث الأخبار تلقائياً $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # الإصلاح المهم: اسحب أي تغييرات جديدة قبل الدفع لتفادي تعارض push
+            git pull --rebase --autostash origin main
+            git push origin main
+          else
+            echo "لا جديد في الأخبار — لا حاجة للرفع."
+          fi
