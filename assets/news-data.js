@@ -1,45 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-06-27T15:58:24.015760+00:00",
+ "updated": "2026-06-27T21:52:28.567170+00:00",
  "items": [
   {
-   "title": "مؤسس استخدم الذكاء الاصطناعي لمواجهة السرطان",
-   "summary": "لجأ رائد أعمال إلى نموذج ذكاء اصطناعي لتحليل بيانات صحته الشاملة بما فيها نتائج الفحوصات والمسح الطبي وبيانات أجهزة المراقبة اليومية. يعكس هذا الاستخدام كيف يمكن لتقنيات الذكاء الاصطناعي أن تساعد في المعالجة الطبية على مستوى شخصي.",
+   "title": "شكوك متزايدة حول رؤية ماسك لمراكز البيانات المدارية",
+   "summary": "لا يقتصر التشكيك في فكرة إيلون ماسك بشأن بناء مراكز بيانات في المدار على الرؤساء التنفيذيين فحسب، بل يشاركه فيه عدد من خبراء الصناعة. الاختلافات حول جدوى هذا المشروع وتكاليفه تثير تحفظات كبيرة على نطاق واسع.",
+   "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-27"
+  },
+  {
+   "title": "نائب رئيس فريق Vision Pro بأبل ينتقل إلى OpenAI",
+   "summary": "يغادر بول ميد، النائب الأول لرئيس أبل والمسؤول عن مشروع Vision Pro، إلى OpenAI للعمل في فريق تطوير الأجهزة الجديدة. تعكس هذه الخطوة اتجاهاً متسارعاً للمواهب الرئيسية نحو شركات الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-27"
+  },
+  {
+   "title": "مؤسس تقني يستخدم الذكاء الاصطناعي في مواجهة السرطان",
+   "summary": "عندما واجه تشخيصاً صعباً، قرّر كونور كريستو، وهو رائد أعمال معروف بنمط حياته الصحي، إدخال كل بيانات صحته في نموذج Claude، من نتائج الفحوصات والمسحات إلى بيانات الأجهزة القابلة للارتداء ومذكراته الشخصية. استخدم التحليلات المتقدمة كعنصر مساعد في خطته العلاجية.",
    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-06-27"
   },
   {
-   "title": "شركات ناشئة آسيوية تطلق نماذج ذكاء اصطناعي منافسة وسط قيود التصدير الأمريكية",
-   "summary": "تسعى شركات ناشئة في آسيا إلى ملء الفراغ الناتج عن قيود التصدير على النماذج الأمريكية بإطلاق بدائل محلية. يشير التطور إلى احتمال فقدان الشركات الأمريكية لحصة سوقية كبيرة في المنطقة.",
+   "title": "شركات ناشئة آسيوية تطلق نماذج ذكاء اصطناعي محلية تحيد عن قيود التصدير",
+   "summary": "مع استمرار حظر Anthropic على تصدير نماذجها المتقدمة، تسارعت شركات ناشئة آسيوية في إطلاق نماذج بديلة تقدم إمكانيات متقاربة دون التعرض لقيود التصدير الأمريكية. يشير التطور إلى احتمال فقدان مختبرات الذكاء الاصطناعي الأمريكية لحصة سوقية ضخمة في آسيا.",
    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-06-27"
   },
   {
-   "title": "إدارة ترامب تصرح باستخدام نموذج أنثروبيك لأكثر من 100 شركة وجهة حكومية",
-   "summary": "أذنت الإدارة الأمريكية الجديدة لأكثر من 100 منظمة حكومية وخاصة باستخدام نموذج ذكاء اصطناعي معين، بما يشمل موظفيها غير الأمريكيين. يمثل القرار انفتاحاً نسبياً بعد فترة من القيود على التقنيات المتقدمة.",
+   "title": "إدارة ترامب توسع نفاذ نموذج Anthropic بين الشركات والأجهزة الحكومية",
+   "summary": "صرّحت إدارة ترامب لأكثر من 100 شركة وجهة حكومية بالوصول إلى نموذج Anthropic المتقدم، بما يشمل موظفيهم غير الأمريكيين. يمثل القرار توسعاً واضحاً في نطاق الأدوات المتاحة للاستخدام الحكومي والصناعي.",
    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-06-27"
   },
   {
-   "title": "هل ترفع أبل أسعار منتجاتها لتمويل سباق الذكاء الاصطناعي؟",
-   "summary": "أعلنت أبل عن زيادات سعرية على عدة منتجات بدعوى الاستثمار في التقنيات الجديدة. يثير التطور نقاشاً حول توزيع تكاليف التطور التكنولوجي على المستهلكين النهائيين.",
+   "title": "مارغريت آتوود: مشكلة الذكاء الاصطناعي في البيانات الرديئة تنتج نتائج رديئة",
+   "summary": "في تصريحات خلال مهرجان Babell الثقافي في البرتغال، انتقدت الروائية الحائزة على جوائز عالمية جودة البيانات المستخدمة في نماذج الذكاء الاصطناعي. أكدت أتوود على أن المخرجات المنخفضة الجودة تنجم حتماً عن استخدام بيانات مدخلة ضعيفة أو غير دقيقة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-06-27"
+  },
+  {
+   "title": "آبل ترفع الأسعار: هل يتحمّل المستهلك تكاليف سباق الذكاء الاصطناعي؟",
+   "summary": "أعلنت آبل عن زيادات سعرية على عدد من منتجاتها، حيث ارتفع سعر MacBook Pro 16 بمقدار 300 دولار، وiPad Air 11 من 599 إلى 749 دولاً، و HomePod Mini بمقدار 30 دولاراً. وصف الرئيس التنفيذي هذه الزيادات بأنها \"حتمية\" وبررها بأسباب تتعلق بتكاليف التطوير.",
    "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-06-27"
   },
   {
-   "title": "نموذج أنثروبيك يعود للعمل بعد مفاوضات حكومية",
-   "summary": "أعطت الحكومة الأمريكية الضوء الأخضر لاستئناف استخدام نموذج ذكاء اصطناعي من أنثروبيك بعد مفاوضات استمرت أسبوعين. يقتصر التفويض حالياً على عدد محدود من المنظمات.",
+   "title": "نموذج كلود 5 من أنثروبيك يعود للخدمة بعد مفاوضات حكومية",
+   "summary": "استعاد نموذج كلود 5 من شركة أنثروبيك للعمل بعد مفاوضات استمرت أسبوعين مع الإدارة الأمريكية، وعادت الخدمة للعمل بشكل محدود للمؤسسات المختارة فقط، وفقاً لخطاب حكومي طالعه موقع The Verge.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-06-27"
+  },
+  {
+   "title": "شركات ذكاء اصطناعي آسيوية تطور نماذج منافسة وسط قيود التصدير الأمريكية",
+   "summary": "بدأت شركات ناشئة آسيوية في تطوير نماذج ذكاء اصطناعي منافسة بعد استمرار فرض قيود التصدير من قبل شركة أنثروبيك على تقنياتها المتقدمة. يعكس هذا الاتجاه سعي الشركات الآسيوية لتقليل اعتمادها على التقنيات الغربية وتطوير قدرات محلية مستقلة.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUZ5U0xNLVpBSVdWbkN1bTFFeHNYZjZOQzNZR3VWRjVVVjBKdDM0dGRvQzgxcFpEaWFzY1o5Z2dydFZwcGtnc2NDRXIwa2g0YnNCemM4UExkT2U3Rmd1TTk0OWlmbEc3TmtJVVlrMjJ5REFyY1BwQmlRaXg1MHVUSkZJRGxQQTJaYkFBcUZLdXp3eFVYTmFqN09wTU1FUUFJZVlLWTVzTHBkNVR2cjlYV3N3?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-06-27"
+  },
+  {
+   "title": "الفاتيكان ينشئ لجنة متعددة التخصصات للإشراف على الذكاء الاصطناعي",
+   "summary": "عقدت لجنة بيني الأقسام المختصة بالذكاء الاصطناعي في الفاتيكان اجتماعها الأول، وهي آلية جديدة للإشراف على التطبيقات الأخلاقية للتقنية. تعكس الخطوة اهتمام المؤسسة الدينية بمراقبة التطورات التكنولوجية من منظور أخلاقي وإنساني.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXFhbVdLWHJrWE9PckZ6dWZXbzR4MXdtTi00WVoxYzB0QmZnclY1eUI5VklrNTA2cUF3Q3VGVmk0MjR3Z0JncTJKaUtqNENzNS0zTi1HZFB1MEpfelk3d2dncDA5c0pFZmg5N2pLMEpBZHUyVjU3cUF0emNSangyVTlQbk52alZReW5nQzRWcThXVFRQdjRoMExJd1lFQl9HR1VSemZiclpzZ3RVRmVDTjZnV2tpd1VJYjNZZ3RlQUhiQQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-06-27"
+  },
+  {
+   "title": "معلمو جورجيا يعتمدون الذكاء الاصطناعي بنسبة كبيرة في تحضير الدروس",
+   "summary": "أفادت دراسة أن أكثر من نصف معلمي ولاية جورجيا باتوا يستخدمون أدوات الذكاء الاصطناعي في تحضير المحاضرات والمواد التعليمية. يشير هذا الاعتماد المتسارع إلى تحول واضح في أساليب التدريس نحو الاستفادة من التقنيات الحديثة في القطاع التعليمي.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOTdVZDBhRkhudXE0c0pLRGV5NkdJQUs0OVBBUndYY21teEtySmNVYnNzbGpwemZiNFBDOGRTZnZYV1VCLUxQRUF2YTR3b1VwX0VHRS1hU0hMV1JidWhtbV81anZnYVRfa09oUTM3enl1MmVwbk5xSGMzeGVOVEtVam1EVVR4NEEyWTNUeUd6N2lyX2R0YkltVklNMktMRnFQYkdUR2xCeGFESmJPZVJueTl0c0ptSWhzWUVuU0VKbVE4dw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
    "date": "2026-06-27"
   },
   {
@@ -78,54 +126,6 @@ window.NEWS_DATA = {
    "title": "OpenAI وAnthropicتقيدان توزيع نماذجهما الجديدة للعملاء المعتمدين خلال مراجعة أمنية",
    "summary": "قررت شركتا OpenAI و Anthropic تطبيق قيود على توزيع نماذجهما الجديدة، حيث تقصر الوصول على عملاء معتمدين، وذلك كجزء من عملية مراجعة شاملة للأمان السيبراني.",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeUxyYkZ0TG1WY3d5N2Q1b2x2MHRFbFZoRzFpU0xOdk52blBNZ2hoNEJvSzJ4WjNhT2RiTngwY0FpZFowc3BUR2laVnZ2RlRXYWpQX2xCVVN2QzA4NGNFbG81bHNuTGI4UUlZWW1STDU3a2ZOaTk3MHByY0tBUW1Tb2FJcW1fbGJ3NVpDU2RQR3VFU1g1dzMxYk5YRThuOHhxSmhIMUVVeTlaZGpieExlQVhEdE1KTFcyNHh5R252aWxsZjBabU1OUEl4eFc0d0t3?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-27"
-  },
-  {
-   "title": "OpenAI تؤجل إطلاق أحدث نموذجها بناءً على طلب الإدارة الأمريكية",
-   "summary": "اتخذت OpenAI قرار تأجيل إطلاق نموذجها الأحدث استجابة لطلب من الإدارة الأمريكية، مما يعكس تدخلاً حكومياً في جدولة إصدارات تطبيقات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPX0drN2xJR0JEd1hpellPOXZoVjBGVktjYzR5SlB2eXdBMzVQRlpYMXFCdTcwbEhSSzc0V2l5eDMxVVZXWjdDS3h3RktIdHVZZkNleGljb3Q3VFdzaEtHT2NWWlljWlAyMVVHZGdpZjBSZUxhNDM4RWdLb3VuZzNaX3d5TEtoMmR2ZTlMYzlMRlhoZjhwMFhDUTFGWElDazRmN1VxVGNsY0FPelpLRHk0RGxuQ0hHZWR1LVBMRV9Dcktpc3ZNNTBkai1VTE5uWmp5Tl8yVmJ1ek9pbjNXUl8xSGdGanZ1UEc2UDlEc2F2UXgyYTRZdUZySDUyaG9oQQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-27"
-  },
-  {
-   "title": "ما هو الذكاء الاصطناعي؟ شرح من Databricks",
-   "summary": "مقالة توضيحية حول مفهوم الذكاء الاصطناعي وأساسياته، تقدمها منصة Databricks المتخصصة في معالجة البيانات والتحليلات.",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tZmFCTHZVOFZjbkdoSHAtRy1TMEtOVjNhMjk3TU43T2kyX3ZTMUhibk0wVnU4TG1vc2RKek5RbTcta2hlblBFX0RzQ1czZS1DZjdfbV8wckFlMlFpOFZEVkRoWF92eFZiM2xVYUUyeXY?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-06-27"
-  },
-  {
-   "title": "باحثون بجامعة تشاندीغار يطورون نموذجاً ذكياً للتنبؤ بإنتاجية المحاصيل",
-   "summary": "طور باحثون من جامعة تشاندیغار نموذج ذكاء اصطناعي يتنبأ بدقة بمحاصيل الحقول، بهدف دعم المزارعين الهنود في اتخاذ قرارات زراعية أفضل وتحسين الإنتاجية.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNVBqc3Fxd2ZfRlNBWl80ZTRnUWlJVHRmcXBuMzlVT0xuekI4WUNmZWF2T2s4eHg2NktmbnJ5VDZNMmRzcE9WWVZOaGNhNDdnZ0o5ejdkcl9veWc2eWhaeUVMdHlPTHRqNkYzT1c3anBCZVZzN1VxQjE2Sl9tbkowT2ZhRGxac1pNMGxTNFFJbEd5WF9EYXdnajJORGwzUVdoaWg0WUNWMVRQYmtaVmxBZjF3MjJyaG04TVZNUktB?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-06-27"
-  },
-  {
-   "title": "واجهة برمجية جديدة من Google للتفاعل مع نماذج Gemini",
-   "summary": "أعلنت Google عن واجهة برمجية جديدة باسم Interactions API تعمل كالوسيط الرئيسي للتواصل مع نماذج Gemini الذكية والوكلاء الذاتية القائمة عليها.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-27"
-  },
-  {
-   "title": "إدارة ترامب تخفف الحظر الجزئي على صادرات Anthropic للذكاء الاصطناعي",
-   "summary": "قررت إدارة ترامب تخفيف القيود التصديرية المفروضة على شركة Anthropic المتخصصة في الذكاء الاصطناعي، مما يسمح لها ببعض أشكال التصدير التي كانت مقيدة سابقاً.",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNjFnWVhNeF80dHJBV3VVbXlQbFdGNk8xUm11amJ5dlloS0VEb2hxeHRhdlBmS2VtcklrUmh3NXAzUktiblF1NjBKZzR5SEVOMmYtZXotaE41RGxWREJnZElzdUxkSVIyVTJtWG83SkEwb3hxZ2p1WW5fNjFKTTlDNmlEQTlCNGVyTS1XRUMwejlTVlpVRndMYVYzdFU?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-27"
-  },
-  {
-   "title": "الولايات المتحدة تخفّف القيود على نموذج ميثوس للذكاء الاصطناعي من أنثروبيك",
-   "summary": "أعلنت الولايات المتحدة تخفيف بعض التقييدات المفروضة على نموذج ميثوس الذي طورته شركة أنثروبيك للذكاء الاصطناعي. يعكس هذا القرار تحولاً في السياسة الحكومية تجاه تكنولوجيا الذكاء الاصطناعي المتقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkdJMUZvMnhzbVVDM2xoUWNlLWdVT3p2VlBqUHFpMEE1dWhjdGdsWGE5RWdQSUF4WTdsZ0V2N3drTEstS0dWd0xEMDhQX1Zkejc0TmdLZmZIMkRGUWNKU3FzYlBrUVNvdnNoM3AyTzYweVhxNVF3aU5iMDhCRzVKeVU5RFJpMy1Jdll0alJVZ3Q4VVZhSUE?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-06-27"
