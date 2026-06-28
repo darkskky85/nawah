@@ -1,21 +1,85 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-06-28T10:58:07.276971+00:00",
+ "updated": "2026-06-28T16:01:56.003790+00:00",
  "items": [
   {
-   "title": "ثلاث أسهم في مجال الذكاء الاصطناعي توصي بها The Motley Fool للاستثمار طويل الأجل",
-   "summary": "تقرير استثماري يسلط الضوء على ثلاثة أسهم متخصصة في قطاع الذكاء الاصطناعي، توصي بها منصة The Motley Fool كفرص استثمارية واعدة للمدى الطويل.",
+   "title": "سجلات ChatGPT تصبح دليلاً في محاكمة حريق باليسيدز",
+   "summary": "استخدم المدعون الأمريكيون سجلات محادثات ChatGPT كدليل ضد متهم بإشعال حريق في أول يناير 2025 أودى بحياة عشرات الأشخاص في لوس أنجلوس. اعتمدت الادعاءات على بيانات الموقع من الهاتف الذكي وشهادات الشهود إلى جانب سجلات استخدام الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-06-28"
+  },
+  {
+   "title": "دراسة أكاديمية توضح الجوانب المعقدة لاستخدام الذكاء الاصطناعي",
+   "summary": "أجرت جامعة ميدلبري بحثاً يكشف عن الواقع المعقد لتطبيقات الذكاء الاصطناعي، متجاوزاً الصور النمطية والتبسيط المفرط. تُسلط الدراسة الضوء على تفاعلات متعددة الأبعاد بين التكنولوجيا والمجتمع.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVlNSMWtndHgyRlcyVWZVMnZBNVMwTU0wTmJqaGJyS0tfZDhoWHphaDVmSmVoeUdKZUtxcTNIR3gxem5LNWdNRFVrVU1jVi1vTEg3UndCa2F4NzNsUGQxWDhyYjlpeGt1MExPMmhLODlJQ25NbXhRaGpRbnBSRTREdFFEb1VIWXI0UHcwNEUtN1R0R0JZcW1sSnhWMU50a2hJOVk1bnJvMnpMd1VST1Mwbk85cWdCVk5FVHJJ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-06-28"
+  },
+  {
+   "title": "سهم متخصص في الذكاء الاصطناعي يهبط 13% خلال شهر",
+   "summary": "انخفضت قيمة أحد أسهم قطاع الذكاء الاصطناعي بنسبة 13% على مدار الشهر الماضي، مما أثار نقاشاً حول فرص الاستثمار فيه. المحللون يرون في هذا الانخفاض فرصة شراء محتملة رغم تراجع السعر.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWVNmdFVaaTRmUHZJWW5qMWZ4eG5nYjNEVjdpS1R0cDRnT2l1SWYyTXJFZWxpemZHMm9yMGRaa1pZYWl4TDFodDNVR1ZoLVlTOUNNbDUzYkRfb0hPQTc0QXZFR2VjYTYwejMxUk5mYnV5VUQ3cDRXVHlVRjE4dUdRemg3Uk1PejdHcDFCdUJqVjNyTkREWUNSTGhZTnR6SGNwbElNb1pmSFM?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-06-28"
+  },
+  {
+   "title": "فيلم سبيلبرج القديم يتنبأ بتحديات العزلة في عصر الذكاء الاصطناعي",
+   "summary": "يستعرض التحليل كيف توقع فيلم \"الذكاء الاصطناعي\" للمخرج ستيفن سبيلبرج قضايا الوحدة والعزلة الإنسانية في مجتمع يتزايد اعتماده على الأنظمة الذكية. الفيلم يعكس مخاوف عميقة تظهر اليوم بأشكال جديدة.",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY1BmSGtYaGhUZFo3Vk5lQnhuM25RQ19ZNjRITVU5cDJoOWJZXzhJOFEzY1h4RlRzWlNCRVp1d3lHZ2xHZUh5UVVFRmNzUVVnb1NONGFBNnVfXzdmOWwtNTdsVlU4eDN6Q1A4V0YwVjBXUkowZ3N5NVk4UktGd19ZVTlJUG9lLTBMVW1XYkdJUUJMR0tXS3hwUnVQbUR1dWlHWUFmeEdBTmFocjJHb25OalZMbmlFUWVzaXVOQWtyTFh2N09COXc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-06-28"
+  },
+  {
+   "title": "ثلاثة أسهم في مجال الذكاء الاصطناعي تستحق الاستثمار الطويل الأجل",
+   "summary": "يقترح التحليل الاستثماري ثلاثة أسهم في قطاع الذكاء الاصطناعي كفرص استثمار طويلة الأجل ذات إمكانية نمو قوية. تركز التوصيات على الشركات ذات الأساسيات القوية والمراكز التنافسية الراسخة.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDdWQUJxUy0yTW8ycDZXdEpWdjZ1MzRvUjM4OWdrby1KOWNLaFFqSWVwZ0hxM2xWZ3BaSUJjcEplTzRVME0xVUMyYWFMYUVZZk9UZHp5YVBxVVBiVXhBeEZCdmpjWl9seGRCYnE2MjBuUkxvLW1XQ19ydFUzMWpWcXhIRmlzRWYwRnYyOEZtRmdwZ05kVUFyQQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-06-28"
   },
   {
-   "title": "سهم ذكاء اصطناعي ينخفض 13% خلال شهر.. لماذا قد يكون استثماراً جاذباً؟",
-   "summary": "انخفض سعر سهم متخصص في مجال الذكاء الاصطناعي بنسبة 13% خلال الشهر الماضي، مما يثير تساؤلات حول أسباب الهبوط. يرى محللون أن الانخفاض قد يمثل فرصة استثمارية للمشترين طويلي الأجل رغم التقلبات الحالية.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWVNmdFVaaTRmUHZJWW5qMWZ4eG5nYjNEVjdpS1R0cDRnT2l1SWYyTXJFZWxpemZHMm9yMGRaa1pZYWl4TDFodDNVR1ZoLVlTOUNNbDUzYkRfb0hPQTc0QXZFR2VjYTYwejMxUk5mYnV5VUQ3cDRXVHlVRjE4dUdRemg3Uk1PejdHcDFCdUJqVjNyTkREWUNSTGhZTnR6SGNwbElNb1pmSFM?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
+   "title": "جوجل تُطلق واجهة برمجية موحدة للتفاعل مع نماذج جيميني",
+   "summary": "أعلنت جوجل عن واجهة برمجية جديدة تعمل كنقطة الاتصال الرئيسية للمطورين مع نماذج جيميني والوكلاء الذكيين. الواجهة توحد عملية التكامل وتبسط بناء التطبيقات المعتمدة على هذه النماذج.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-06-28"
+  },
+  {
+   "title": "الصين تحقق مكاسب كبيرة في أمان الذكاء الاصطناعي مقاربة المعايير الغربية",
+   "summary": "يشير تقرير إلى أن الصين أحرزت تقدماً ملحوظاً في مجال أمان الذكاء الاصطناعي، مما يضيّق الفجوة مع الشركات الغربية الرائدة مثل Anthropic. هذا التطور قد يعيد تشكيل المنافسة العالمية في مجال تطوير نماذج ذكية آمنة.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-06-28"
+  },
+  {
+   "title": "نموذج Fable 5 من Anthropic يقترب من العودة",
+   "summary": "كشفت تقارير عن اقتراب عودة نموذج Fable 5 الذي تطوره شركة Anthropic، وهو نموذج ذكاء اصطناعي قوي متقدم. يشير التطور إلى استمرار السباق بين الشركات الكبرى لإطلاق نماذج ذكاء اصطناعي محسّنة.",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1meFRNUHVNUk94eW1najE5eHpMUGc0SXJKcDYtT0J0WUFzZUxUb0NqT3pHdUswR2JZTFNHdnpELVdDZGZGN0psNVhmbjQxZ1NuUjI0NzYtb1REc0VuTzhXVVZHV0RSVjc1R2wzbHluNA?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-06-28"
+  },
+  {
+   "title": "جوجل تفرض قيوداً على استخدام Meta لنماذج Gemini",
+   "summary": "وضعت جوجل حدوداً على استخدام شركة Meta لنماذج الذكاء الاصطناعي Gemini الخاصة بها. تعكس هذه الخطوة التعقيدات المتزايدة في العلاقات التجارية بين عمالقة التكنولوجيا بشأن تراخيص الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEhSTWNhT0E1aGtldms3cmlxVjFlOVl5Z2t1ZTRTU2hjb2FSV1ZfczIwOGMwU0JMU2lqNTI1THhWU0UyS1k5aGVrNjBlYy1Iek9TNW5DOXVmM2ZiUmUxaGVoZ0N0cDFLZTNXejVLWExrV01nR2hFY2N2c0FqT1JvM3V1R0l1eTlwLWVPbkg4SHZ2SzJRczc2dDBFaC1YQ1Y3dkE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-06-28"
+  },
+  {
+   "title": "OpenAI تعيّن قيادة جديدة لتوسع عملياتها في الهند",
+   "summary": "عينت OpenAI برجهات سينغ، الذي كان يعمل في Uber، ليقود توسعها في سوق الهند. يأتي التعيين ضمن جهود الشركة لتعزيز حضورها في الأسواق الناشئة الرئيسية.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmpfTDA1eWpraXlGNVI4SHc1RmlwREZEUXIwT3VRdXc1Rmtrd0ZxQ3VFY3p5ejVCdUNJY0U3T19Fb1FkME1MbzByV3VNSGNJU0Q0M0FyNnhsbnIyRVhCMDJUZmdBMWtZX0d2blRpUkN6X3ZaaUlPbmxNTmtFTHIwQlZZSlk0Q2NyVW1ibnBGUm02ZWJHbERDTkxRMzgtdGdhSUhlYkEzTXExQXNwMmR3dQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-06-28"
   },
   {
@@ -27,32 +91,8 @@ window.NEWS_DATA = {
    "date": "2026-06-28"
   },
   {
-   "title": "جوجل تطلق واجهة تفاعلية موحدة لنماذج ووكلاء جيميني",
-   "summary": "أعلنت جوجل عن واجهة برمجية جديدة تعمل كنقطة اتصال أساسية لتطوير وتشغيل نماذج ووكلاء جيميني. تسهل الواجهة الجديدة على المطورين بناء التطبيقات والخدمات المعتمدة على هذه النماذج.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-28"
-  },
-  {
-   "title": "جوجل تفرض قيوداً على استخدام ميتا لنماذج جيميني الذكية",
-   "summary": "وفقاً لتقارير، فرضت جوجل قيوداً على إمكانية وصول ميتا لنماذج جيميني المتقدمة. يعكس القرار تشددا متزايدا حول توزيع تقنيات الذكاء الاصطناعي بين الشركات المنافسة.",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEhSTWNhT0E1aGtldms3cmlxVjFlOVl5Z2t1ZTRTU2hjb2FSV1ZfczIwOGMwU0JMU2lqNTI1THhWU0UyS1k5aGVrNjBlYy1Iek9TNW5DOXVmM2ZiUmUxaGVoZ0N0cDFLZTNXejVLWExrV01nR2hFY2N2c0FqT1JvM3V1R0l1eTlwLWVPbkg4SHZ2SzJRczc2dDBFaC1YQ1Y3dkE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-28"
-  },
-  {
-   "title": "الصين تقترب من مستوى أنثروبيك في أمان الذكاء الاصطناعي",
-   "summary": "أشارت تقارير إلى أن الصين حققت تقدماً ملموساً في مجال أمان الذكاء الاصطناعي، بما يعادل مستويات الشركات الرائدة مثل أنثروبيك. يشير هذا التطور إلى تسارع السباق العالمي نحو تطوير أنظمة ذكاء اصطناعي آمنة وموثوقة.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-28"
-  },
-  {
-   "title": "تحفظات متزايدة على رؤية إيلون ماسك لمراكز البيانات المدارية",
-   "summary": "تجاوزت الشكوك حول مشروع ماسك لبناء مراكز بيانات في المدار حول الأرض أفكار الرئيس التنفيذي لشركة سوفتبانك. يعبر عدد من قادة القطاع عن قلق تجاه جدوى وتكاليف مثل هذه المشاريع الطموحة.",
+   "title": "تشكيكات متزايدة حول رؤية إيلون ماسك لمراكز البيانات المدارية",
+   "summary": "لا يشاطر الجميع حماس إيلون ماسك تجاه مشروع مراكز البيانات الفضائية، بما في ذلك رئيس SoftBank. يعكس التشكيك الحذر الصناعي حول جدوى وجاهزية هذه المشاريع الطموحة من الناحية التقنية والاقتصادية.",
    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -88,46 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-06-27"
-  },
-  {
-   "title": "مارغريت آتوود: مشكلة الذكاء الاصطناعي في البيانات الرديئة والمخرجات الرديئة",
-   "summary": "انتقدت الكاتبة مارغريت آتوود مستوى جودة البيانات التي يعتمد عليها الذكاء الاصطناعي، معبرة عن رأيها خلال مشاركتها في مهرجان ثقافي بالبرتغال. اعتبرت آتوود أن الذكاء الاصطناعي محكوم بجودة المدخلات التي يتعلم منها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-06-27"
-  },
-  {
-   "title": "هل تدفع فواتير تطور الذكاء الاصطناعي بدلاً من آبل؟",
-   "summary": "رفعت شركة آبل أسعار منتجاتها بشكل ملحوظ، حيث زادت أسعار الأجهزة مثل MacBook Pro و iPad Air والـ HomePod Mini. أرجعت الشركة هذه الزيادات إلى الاستثمارات الكبيرة في تطوير تقنيات الذكاء الاصطناعي.",
-   "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-06-27"
-  },
-  {
-   "title": "نموذج كلود 5 من أنثروبيك يعود للخدمة بعد مفاوضات حكومية",
-   "summary": "استعاد نموذج كلود 5 من شركة أنثروبيك للعمل بعد مفاوضات استمرت أسبوعين مع الإدارة الأمريكية، وعادت الخدمة للعمل بشكل محدود للمؤسسات المختارة فقط، وفقاً لخطاب حكومي طالعه موقع The Verge.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-06-27"
-  },
-  {
-   "title": "شركات ذكاء اصطناعي آسيوية تطور نماذج منافسة وسط قيود التصدير الأمريكية",
-   "summary": "بدأت شركات ناشئة آسيوية في تطوير نماذج ذكاء اصطناعي منافسة بعد استمرار فرض قيود التصدير من قبل شركة أنثروبيك على تقنياتها المتقدمة. يعكس هذا الاتجاه سعي الشركات الآسيوية لتقليل اعتمادها على التقنيات الغربية وتطوير قدرات محلية مستقلة.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUZ5U0xNLVpBSVdWbkN1bTFFeHNYZjZOQzNZR3VWRjVVVjBKdDM0dGRvQzgxcFpEaWFzY1o5Z2dydFZwcGtnc2NDRXIwa2g0YnNCemM4UExkT2U3Rmd1TTk0OWlmbEc3TmtJVVlrMjJ5REFyY1BwQmlRaXg1MHVUSkZJRGxQQTJaYkFBcUZLdXp3eFVYTmFqN09wTU1FUUFJZVlLWTVzTHBkNVR2cjlYV3N3?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-06-27"
-  },
-  {
-   "title": "الفاتيكان ينشئ لجنة متعددة التخصصات للإشراف على الذكاء الاصطناعي",
-   "summary": "عقدت لجنة بيني الأقسام المختصة بالذكاء الاصطناعي في الفاتيكان اجتماعها الأول، وهي آلية جديدة للإشراف على التطبيقات الأخلاقية للتقنية. تعكس الخطوة اهتمام المؤسسة الدينية بمراقبة التطورات التكنولوجية من منظور أخلاقي وإنساني.",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXFhbVdLWHJrWE9PckZ6dWZXbzR4MXdtTi00WVoxYzB0QmZnclY1eUI5VklrNTA2cUF3Q3VGVmk0MjR3Z0JncTJKaUtqNENzNS0zTi1HZFB1MEpfelk3d2dncDA5c0pFZmg5N2pLMEpBZHUyVjU3cUF0emNSangyVTlQbk52alZReW5nQzRWcThXVFRQdjRoMExJd1lFQl9HR1VSemZiclpzZ3RVRmVDTjZnV2tpd1VJYjNZZ3RlQUhiQQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-06-27"
   }
  ]
