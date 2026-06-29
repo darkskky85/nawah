@@ -1,19 +1,91 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-06-29T12:56:56.177174+00:00",
+ "updated": "2026-06-29T17:26:59.880589+00:00",
  "items": [
   {
-   "title": "مارغريت أتوود: مشكلة الذكاء الاصطناعي في البيانات الرديئة التي تُدخل إليه",
-   "summary": "أعربت الروائية البريطانية الشهيرة عن رأيها في الذكاء الاصطناعي خلال مشاركتها في مهرجان بابل الأدبي والثقافي بمدينة بورتو البرتغالية، معتبرة أن جودة المُخرجات تعتمد بشكل أساسي على جودة البيانات المستخدمة في التدريب.",
+   "title": "تطبيق جوّال من Cursor لإدارة وكلاء البرمجة عن بُعد",
+   "summary": "أطلقت منصة Cursor تطبيقاً جديداً للهواتف الذكية يتيح للمستخدمين الإشراف على وكلاء البرمجة القائمة على الذكاء الاصطناعي ومتابعة عملهم أثناء التنقل، مما يوسّع إمكانيات المنصة خارج بيئة سطح المكتب.",
+   "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-29"
+  },
+  {
+   "title": "منصة TIDAL تقطع الإيرادات عن الموسيقى المولّدة بالذكاء الاصطناعي",
+   "summary": "فرضت منصة البث الموسيقي TIDAL سياسة جديدة تمنع الموسيقى المُنتجة بواسطة تقنيات الذكاء الاصطناعي من تحقيق عائدات مالية على خدمتها، ردّاً على تزايد محتوى المحتوى المولّد آلياً.",
+   "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-29"
+  },
+  {
+   "title": "شركة روبوتات تسوّي قضية براءات اختراع وتحصل على تمويل بـ 11 مليون دولار",
+   "summary": "أنهت شركة Proception المتخصصة في تطوير أيادي الروبوت نزاعاً قانونياً وأغلقت جولة تمويل بـ 11 مليون دولار. الشركة تركز على جمع بيانات تدريبية فريدة لحل إحدى أعقد تحديات الروبوتات: تطوير أيادي ذكية وماهرة.",
+   "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-29"
+  },
+  {
+   "title": "استراتيجية Omen AI لتبريد مراكز البيانات تجمع بين التكنولوجيا والسوائل",
+   "summary": "جمعت شركة Omen AI تمويلاً من الفئة (أ) بقيمة 31 مليون دولار لتطوير حل يراقب سوائل تبريد الرقائق ويمنع انتشار البكتيريا في مراكز البيانات، مما يعزز كفاءة البنية التحتية الحاسوبية.",
+   "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-29"
+  },
+  {
+   "title": "مشرّعون يسعون لحظر بيع شركات الذكاء الاصطناعي بيانات صحية للأمريكيين",
+   "summary": "تعتزم السيناتورة إليزابيث وارن والممثلة ماري جاي سكانلون تقديم تشريع جديد يحظر بيع بيانات صحية وموقع الأمريكيين لوسطاء البيانات، بما فيها المعلومات التي يكشفها المستخدمون لأنظمة الدردشة الذكية مثل ChatGPT و Claude.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-06-29"
+  },
+  {
+   "title": "مارغريت أتوود تنتقد الذكاء الاصطناعي: \"البيانات الرديئة تنتج نتائج رديئة\"",
+   "summary": "أدلت الروائية الكندية الشهيرة مارغريت أتوود برأي ناقد في الذكاء الاصطناعي خلال مشاركتها في مهرجان Babell الأدبي والثقافي في البرتغال، محذّرة من أن جودة المخرجات تعتمد بشكل أساسي على جودة البيانات المدخلة.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-06-29"
   },
   {
-   "title": "الذكاء الاصطناعي يصير موضوعاً للضرائب الحكومية",
-   "summary": "تزايد الاهتمام الحكومي بفرض ضرائب على تطبيقات وخدمات الذكاء الاصطناعي كمصدر إيراد جديد. يعكس هذا النقاش السياسي الحاجة إلى تنظيم قطاع متنامٍ سريع النمو.",
+   "title": "الثقة بالذكاء الاصطناعي الموكّل في المشهد التكنولوجي المعاصر",
+   "summary": "تشهد الاستثمارات الموجهة للذكاء الاصطناعي في القطاع المؤسسي نموّاً متسارعاً، وتتوقع غارتنر أن يكون عام 2026 نقطة تحول حاسمة لربط مشاريع الذكاء الاصطناعي بالأهداف الاستراتيجية للمؤسسات. وفي ظل الضغط المتزايد لإثبات العائد المالي، يتجه القادة والتقنيون نحو الذكاء الاصطناعي الموكّل لتحقيق نتائج مالية قابلة للقياس.",
+   "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-06-29"
+  },
+  {
+   "title": "مجلس الاستقرار المالي يستعرض أفضل الممارسات لاعتماد الذكاء الاصطناعي في القطاع المصرفي",
+   "summary": "نظّم مجلس الاستقرار المالي فعالية افتراضية لتوعية المؤسسات المالية بأفضل الممارسات عند تبنّي تقنيات الذكاء الاصطناعي. تركّزت الفعالية على الأطر والمعايير التي تضمن اعتماداً مسؤولاً وآمناً لهذه التقنيات في القطاع المالي.",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdzdWQnIwYTczR3lOY2dpa0REbFpGVWRscFdSSWl5clRXbGVlRnZIYUZxVGNrUDRuaEU5cndsV0dPOXNodXFiS0IxeVJVcjBqNm1iSUJhdG9PcDFGMUFndk5GY0I0c0RWTGRMXzhxRGwtLUQ3bWJYQl9OVHRzSG1qODlCSlVMRmRqN1Y2d3MxRUNnZk5zVGJBLUt1bVQxSWN3aWp1NUlsajVVUEVWNWs2cEV5cjVaTGUwOExxVkgtNlFCRHFkYVZORE9IMzZpU0p6TkJ5WjZYOWw4OEtKYUEwbUItaw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-06-29"
+  },
+  {
+   "title": "جامعة تايلور تطرح برنامج بكالوريوس متخصص في الذكاء الاصطناعي والتعلم الآلي",
+   "summary": "أطلقت جامعة تايلور برنامج درجة بكالوريوس جديد مكرّس لدراسة الذكاء الاصطناعي والتعلم الآلي. يهدف البرنامج إلى تزويد الطلاب بالمهارات والمعرفة اللازمة في مجالات تقنية متطورة يتزايد الطلب عليها في سوق العمل.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbV95VTUtZ2NWaUgwdWFXZUs4WTdLUnVXMVZ3UnNvNF9ERFBnSXloQmJCbE9CTlM1ZTk2MXZuRWFGVXdKZzZOeG1vcy14SloxMHRsM2t1NThHUEkxOVJNVFlaTm43dUtsVVlaekRFOVlXaEc4c3h4Q0plczFUTVJuNEoxaXp1eGV6QXBZVVJfZl9jR18xOTRKM3pKaw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-06-29"
+  },
+  {
+   "title": "الذكاء الاصطناعي يدخل دائرة الاهتمام الضريبي للحكومات والمشرّعين",
+   "summary": "بدأت الحكومات والمشرّعون يتجهون نحو فرض ضرائب على تطبيقات الذكاء الاصطناعي وخدماته. يعكس هذا التوجه سعي السلطات لإيجاد آليات تمويلية جديدة وتنظيمية لمواكبة النمو السريع لهذا القطاع التقني.",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xpbnQ0WkNlaFJfUmtBbGN1SXJ5eHJZVXZieUhWR0JvaGZadjBMdzQ3VC1RVzA2QnZKTWZQSUdOZHIxOHZSUndJQ09vNDZxNXlTb29sNGdqaXVQRXZQaE5aZzdsMHVZdEdZMTBQTjE4dmFNTEVDanJpdkJrMXUxc01fc3M4dXVrdEg3ZllaRQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-06-29"
+  },
+  {
+   "title": "استخدام الشرطة للذكاء الاصطناعي يتسارع وسط فراغ تنظيمي",
+   "summary": "تتسارع أجهزة إنفاذ القانون في اعتماد تقنيات الذكاء الاصطناعي في عملياتها، لكن التشريعات والضوابط التي تحكم هذا الاستخدام لم تواكب هذا التطور. يثير هذا الفراغ تساؤلات حول المسؤولية والشفافية والحقوق الفردية في سياق التطبيقات الأمنية.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ2c4UHNFNThVZXh2Szc0cXFRU002WFhyejRCOGRQTzhkR2JJeWltcTZ2anNwVzhsU24xVlJrY2pXZjNuMHNwemgyLXRYaC1SRTZ0NTBCSjMyRXpHVzFSN1NYakRScWV2SXZva3p6dHdNSVZzMTh6bURzOUpXeE16cmI0Y3h1Z0l6TW40SjEwS1JXNzlYQkN4OVZpa2ZTZ1lNd3RN?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-06-29"
@@ -57,78 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-06-29"
-  },
-  {
-   "title": "هيوليت باكارد تُطلق شراكة استراتيجية مع OpenAI",
-   "summary": "أعلنت شركة HP Inc. عن شراكة استراتيجية مع OpenAI لدمج تقنيات الذكاء الاصطناعي في حلولها. تهدف الشراكة إلى تعزيز قدرات الشركات على الاستفادة من تطبيقات الذكاء الاصطناعي المتقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YdVhXOXlwOW4zZ1djUXRwNFE1aktMeDZKMDZqYXFLRzkxd080UmJUUXdvY21QYTZuSE12S0tnYWdaUXBraXo5OEoyNVNfYTZMb1ZWLXNSZEJLTGlBX2c?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-29"
-  },
-  {
-   "title": "نموذج Mythos 5 من Anthropic يعود للإتاحة",
-   "summary": "أتاحت شركة Anthropic نموذج Mythos 5 من جديد دون تحديد موعد لإطلاق إصدار Fable 5. يعكس هذا التطور اهتمام الشركة بتوفير خيارات متعددة من نماذج اللغة الكبيرة للمستخدمين.",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUtPUnFzOS14YVJXWEtZRWhYVmt0QkFMbGJvcVgtMVV3dU04WHc5cFU0aFU0SU1ZYmRENHZDV0RVTjNNOV92eXU4TFNoTVU0VGdHZ0hVcU9VYnhxclJTc2ZhSWpKZ2NaWVZHMXF1a3JhX2NkQk12cWVkOW1jYnZjSmt2UjBMUy1PMmNib2h1TXpXMTg?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-29"
-  },
-  {
-   "title": "اتفاق بين كاليفورنيا و Anthropic لتوسيع استخدام الذكاء الاصطناعي الحكومي",
-   "summary": "وقّعت ولاية كاليفورنيا بقيادة الحاكم نيوسوم اتفاقاً مع شركة Anthropic لتعميم استخدام تطبيقات الذكاء الاصطناعي في الجهات الحكومية. يُعتبر الاتفاق خطوة نحو دمج التقنيات المتقدمة في الخدمات العامة.",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2ZSeVJSNTdYWFpXdkFzSVBHelFiTXhwTmtKUFNkcm5kM1hMbjhZQXFxVFZfVXBKLURHdlM2UXNjRHl4eXBRaGZWYWJJYU5pZkcydUZwRWpzWDR6Yzk2TFR4ck9HeEotcG9oZmMxZ2VPS0xMSjlaMWNFSkVfWHlBZ1RKWkliWnJwa3VlblBNMzBzQVljeDFzMGJlLWk2cGNGLV9kdHBwWXFwR09WTURB?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-29"
-  },
-  {
-   "title": "طموحات تكييف ضريبي من OpenAI و Anthropic تثير قلق الكونغرس",
-   "summary": "تسعى شركتا OpenAI و Anthropic للحصول على وضع معفي من الضرائب (non-profit status) قبل الاكتتاب العام، مما أثار اعتراضات من قبل أعضاء الكونغرس. يعكس الموضوع نقاشاً أوسع حول التعاملات الضريبية للشركات الناشئة في مجال الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM0xyempFMVd6OE1PMlR3dEtEY3FvcHVGa0Rfa1ZhUnlaXzc0d3N0ZllDRnBCRXNKMVBnU2xLVlBRZVhNN05qYVhXWm9nejRJU25PcGk4SlpCM0QxZWswRTZOSEVWemQ3QzBodzJGTnBVTW9wZTg5TE42SV9zc2dySUNGcFpzODhPTldlY3NHT2dldkc3aE5CUUdTVjJwUHpWbnhxcHVXRHpKOWg5SGc?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-29"
-  },
-  {
-   "title": "منصة Spira للمُبتكرين على Product Hunt",
-   "summary": "أداة جديدة ظهرت باسم Spira موجهة للمبتكرين على منصة Product Hunt، تساعد في تطوير ونشر المنتجات الرقمية. الأداة توفر مجموعة من الميزات المصممة لدعم العاملين في مجال الابتكار والمنتجات.",
-   "url": "https://www.producthunt.com/products/spira-ai",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-06-29"
-  },
-  {
-   "title": "Receiptor AI يطلق وضع الوكيل الذكي",
-   "summary": "أداة جديدة ظهرت باسم Receiptor AI تعتمد على الذكاء الاصطناعي لمعالجة وتحليل الإيصالات والفواتير. يُتيح وضع الوكيل الجديد للأداة أداء مهام معقدة بشكل مستقل دون تدخل يدوي مباشر.",
-   "url": "https://www.producthunt.com/products/receiptor-ai",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-06-29"
-  },
-  {
-   "title": "لجنة الفاتيكان للذكاء الاصطناعي تعقد اجتماعها الأول",
-   "summary": "عقدت لجنة متخصصة تابعة للفاتيكان لدراسة الذكاء الاصطناعي اجتماعها الأول، في خطوة تعكس اهتمام المؤسسات الدينية بتطورات التكنولوجيا. تهدف اللجنة إلى دراسة التأثيرات الأخلاقية والاجتماعية للذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXFhbVdLWHJrWE9PckZ6dWZXbzR4MXdtTi00WVoxYzB0QmZnclY1eUI5VklrNTA2cUF3Q3VGVmk0MjR3Z0JncTJKaUtqNENzNS0zTi1HZFB1MEpfelk3d2dncDA5c0pFZmg5N2pLMEpBZHUyVjU3cUF0emNSangyVTlQbk52alZReW5nQzRWcThXVFRQdjRoMExJd1lFQl9HR1VSemZiclpzZ3RVRmVDTjZnV2tpd1VJYjNZZ3RlQUhiQQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-06-29"
-  },
-  {
-   "title": "الذكاء الاصطناعي ليس حلاً وحيداً لتحقيق أهداف التنمية المستدامة",
-   "summary": "تقرير يؤكد أن تكنولوجيا الذكاء الاصطناعي وحدها لا تكفي لتحقيق الأهداف الإنمائية المستدامة، وأن هناك حاجة ماسة لسياسات فعّالة وقوانين داعمة.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGlpMlJsUFc3RG9mTmNFbXJadUZiY2xuTzY4Zng5MzJXU3lDNEVLWTR0aEVPWFlRWF9pb3o1S3M3ZHhkWEFqaGhUekN4bHJqMFZKdEJMRTd1VXlvMEdLdmxyUmFLNm90NURkS08tdjV2MHVfSlZrSUNWdXFLT2ZkRjFaWnR0Xzk3dm1Dd0pQQmtfRHRaYV9wMm5aQ01DQQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-06-29"
-  },
-  {
-   "title": "فورد تعيد استقطاب مهندسي الخبرة بعد تراجع الذكاء الاصطناعي",
-   "summary": "عادت شركة فورد للاستعانة بمهندسين ذوي خبرات عميقة في مجال السيارات، بعد أن أدركت أن الاعتماد الكامل على الذكاء الاصطناعي وحده لم يحقق جودة المنتج المطلوبة. تشير الخطوة إلى أن التطبيقات الهندسية المعقدة تحتاج إلى مزج المهارات البشرية المتراكمة مع التقنيات الحديثة.",
-   "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-28"
   }
  ]
 };
