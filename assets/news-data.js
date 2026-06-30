@@ -1,13 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-06-30T11:38:00.383539+00:00",
+ "updated": "2026-06-30T17:00:12.995468+00:00",
  "items": [
   {
-   "title": "منصة OKX تطلق سوقاً للوكلاء الذكيين للتعاقد والدفع فيما بينهم",
-   "summary": "تجمع منصة الصرافة المشفرة OKX بين خدمات الدفع والهوية والسمعة الرقمية لإنشاء سوق متخصصة للوكلاء الذكيين، بهدف تمكينهم من التفاعل والعمل بشكل مستقل داخل النظام البيئي للعملات الرقمية.",
+   "title": "منصة إكس تطلق خادم MCP لتسهيل توصّل تطبيقات الذكاء الاصطناعي بخدماتها",
+   "summary": "أطلقت منصة إكس خادم MCP مستضافاً يمكّن المطورين من ربط تطبيقات الذكاء الاصطناعي مباشرة بواجهات برمجة التطبيقات الخاصة بها. يهدف هذا الإجراء إلى تسهيل بناء أدوات ذكاء اصطناعي متكاملة مع منصة إكس.",
+   "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-30"
+  },
+  {
+   "title": "منصة البودكاست Riverside تدخل مجال نشر الرسائل الإخبارية",
+   "summary": "أضافت منصة Riverside ميزة جديدة تتيح للمستخدمين إنشاء رسائل إخبارية مستندة إلى محتوى تسجيلاتهم الصوتية بمساعدة الذكاء الاصطناعي. يوسع هذا التطور نطاق خدمات المنصة خارج البودكاستنج التقليدي.",
+   "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-30"
+  },
+  {
+   "title": "أمازون تؤسس وحدة جديدة بمليار دولار للوكلاء الذكيين",
+   "summary": "أعلنت أمازون عن تشكيل فريق متخصص برأس مال مليار دولار لنشر وكلاء ذكيين مخصصين لدى الشركات العملاء. سيركز الفريق على التطوير السريع والعمل على تمكين العملاء من الاعتماد على أنفسهم في استخدام هذه الحلول.",
+   "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-30"
+  },
+  {
+   "title": "مساعد Lumo من Proton يحصل على تحديث جديد",
+   "summary": "ستصدر شركة Proton نسخة محدّثة من محادثها الذكي Lumo هذا الأسبوع، والذي يوفر نطاقاً أوسع من القدرات مع الحفاظ على التركيز على خصوصية المستخدم. تحسّن النسخة الجديدة من تجربة المستخدم في التفاعل مع المساعد.",
+   "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-06-30"
+  },
+  {
+   "title": "منصة العملات الرقمية OKX تطمح لوكلاء ذكيين يتعاقدون ويدفعون بعضهم بعضاً",
+   "summary": "تعمل منصة OKX على بناء سوق متخصصة للوكلاء الذكيين تجمع بين خدمات الدفع والهوية والسمعة. الهدف تمكين الوكلاء من التفاعل والتعاون بشكل مستقل في بيئة موثوقة.",
    "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-06-30"
+  },
+  {
+   "title": "المحامي الذي انتصر على إيلون ماسك مرتين",
+   "summary": "في قضية ماسك ضد ألتمان، أظهر المحامي بيل سافيت براعة قانونية في مواجهة إيلون ماسك، حيث دافع عن OpenAI والرئيس التنفيذي السابق سام ألتمان. كانت أسئلة سافيت موجهة بدقة لفضح ضعف حجج ماسك، مما جعل المواجهة تعكس عدم توازن واضح بين طالب الدعوى وخصمه القانوني.",
+   "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-06-30"
+  },
+  {
+   "title": "Tidal لن تدفع أتعاباً للموسيقى المولّدة بالذكاء الاصطناعي",
+   "summary": "أعلنت منصة Tidal عن سياسة جديدة تجاه الموسيقى المولّدة بالذكاء الاصطناعي، حيث ستضع علامة مميزة على المقاطع المنتجة بالكامل عبر الذكاء الاصطناعي ابتداءً من منتصف يوليو. المنصة لن تحظر هذه الموسيقى لكنها ستحتفظ بحق عدم دفع حقوق ملكية فكرية لها، مما يحد من جدواها الاقتصادية للفنانين.",
+   "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-06-30"
+  },
+  {
+   "title": "الزراعة بحاجة إلى بيانات قبل الاستثمار في الذكاء الاصطناعي",
+   "summary": "رغم أن الذكاء الاصطناعي يحمل إمكانات كبيرة للقطاع الزراعي خاصة في مواجهة تقلبات الأسعار والطقس غير المتنبأ به، إلا أن خبراء الصناعة يحذرون من الاستثمار المتسرع دون بناء أساس بياني قوي. البيانات الزراعية الموثوقة والشاملة تظل العقبة الرئيسية قبل الاستفادة الفعلية من التكنولوجيا.",
+   "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-06-30"
+  },
+  {
+   "title": "منظومات التصميم من v0 بنسختها الثانية",
+   "summary": "أداة جديدة ظهرت باسم v0 Design Systems 2.0 تعمل على تطوير منظومات تصميم موحدة للمشاريع. توفر الأداة إمكانيات محسّنة لإدارة المكونات البصرية والعناصر التصميمية بشكل متكامل.",
+   "url": "https://www.producthunt.com/products/v0",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-06-30"
+  },
+  {
+   "title": "متابع عالمي للوائح الذكاء الاصطناعي في الولايات المتحدة",
+   "summary": "منصة متخصصة توثّق التطورات التنظيمية للذكاء الاصطناعي في السوق الأمريكية. تجمع المعلومات القانونية والسياساتية الصادرة عن الجهات الفيدرالية والمحلية المعنية بتنظيم هذه التقنيات.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbnFCYmQ4ZElvUk9tUFQ0Z210S2hrNmtMaGhid3IxZmozUnVDUm8tZ0FrY05nNlR5bXZLOUk5WWJkcHVjMzhvazJ6M3I2bGtCUlZFWlBBT2l1MGdGbExWY09kWXZZNlQxTW16VjJzSC1McDZ2N21oTjdqclZnVHZTN1VpbmRacC10NjZNYVNIWnBOUGRpblNsRURZbw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-06-30"
+  },
+  {
+   "title": "أكثر من نصف معلمي جورجيا يستخدمون الذكاء الاصطناعي في إعداد دروسهم",
+   "summary": "أظهرت دراسة حديثة أن نسبة كبيرة من المعلمين في ولاية جورجيا الأمريكية باتوا يعتمدون على أدوات الذكاء الاصطناعي في تحضير المواد التعليمية والخطط الدراسية. يعكس هذا التوجه التغيير المتسارع في أساليب التعليم والاستفادة من التقنيات الحديثة في القطاع التربوي.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV1AxZ0tRYWwwSjAtNF9wc2N0cXNnQW9BSGhVUld1bmlBTkFFSWdFemNWR2ZJYi1ZSkMyTkdISC1Oc1o5SmVHTGw5OEJTckY3SGdycVVmOUs4MW4yV19Ba3NubXdrTFI4V3M2LXpzTldqNGplcmt3RDd0aV9hYW1nVUpJeExvMTFxeHVYUmczTFY4VnR2MEtCMHd4Rl94bFJFT29OSEZsTTc3b2pzR0ZXTllkRFRfNE8yQjF4aU4zWmZPVFk?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
    "date": "2026-06-30"
   },
   {
@@ -24,22 +104,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "Tidal تضع علامات على الموسيقى المولدة بالذكاء الاصطناعي بدلاً من حظرها",
-   "summary": "اعتمدت منصة Tidal سياسة جديدة إزاء الموسيقى المولدة بالذكاء الاصطناعي، حيث ستضع علامة تحديد على المسارات المُنشأة بالكامل بواسطة الذكاء الاصطناعي ابتداءً من 15 يوليو، مع استمرارها في السماح بنشر هذه المحتويات دون رفع الحقوق للفنانين.",
-   "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "نظام تصميم v0 بنسخته الثانية",
-   "summary": "إطلاق إصدار محدّث من نظام التصميم v0 يوفّر أدوات وميزات معزّزة لتطوير واجهات المستخدم. يستهدف النظام تحسين إنتاجية المصممين والمطورين في بناء التطبيقات.",
-   "url": "https://www.producthunt.com/products/v0",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
    "date": "2026-06-30"
   },
   {
@@ -65,70 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-06-30"
-  },
-  {
-   "title": "المرضى يستخدمون أدوات الذكاء الاصطناعي في جلسات العلاج النفسي",
-   "summary": "دراسة من الرابطة الأمريكية لعلم النفس توثّق اتجاهاً متزايداً لاستخدام تطبيقات وأدوات قائمة على الذكاء الاصطناعي كمساعدات في العلاج النفسي. الظاهرة تثير أسئلة حول فعالية هذه الأدوات وتأثيرها على جودة الرعاية الصحية النفسية.",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WWnJKR2tRSjN0dk1PajZUX085VmM3aGxKZWRJWGNnTjVvSHZSZWlnd05oM2llajF6YXBDRV8zOTRFRjV6ZTF2SW5FUUh2UU5OLVNMN0tYX2k2cXZvZHFvU2c5UXF6OHNJY3lieQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "دروس من أخطاء كولورادو في تنظيم الذكاء الاصطناعي",
-   "summary": "تسلط الولاية الضوء على التحديات التنظيمية التي واجهتها في تطبيق سياسات الذكاء الاصطناعي، مما يقدم دروساً مفيدة لصناع السياسات على المستوى الولائي والفيدرالي حول كيفية صياغة تشريعات فعّالة في هذا المجال.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8talJ0Qlc0cG8ybS1hUUdNTV9ISHVPd0JGd3gwM1BqcU8tNDRzei1tSTdGQW85aElpV0h3U056dTk5UE9Hby05TVZjUUo4QVNXUmtoeWVZUnIzbHFUWm40djBuOHNCNlhrYjFSdXppUzFqQVdkVkN3?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "واجهة برمجية جديدة من جوجل لتطبيقات نماذج جيميني",
-   "summary": "أطلقت جوجل واجهة برمجية تسمى Interactions API لتكون الوسيط الأساسي للتفاعل مع نماذج جيميني والوكلاء الذكيين، مما يسهّل تطوير التطبيقات والخدمات المدمجة مع هذه النماذج.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "أنثروبيك توفر أدوات ذكاء اصطناعي للحكومة الكاليفورنية",
-   "summary": "ستقدم شركة أنثروبيك حلول الذكاء الاصطناعي المتخصصة للجهات الحكومية في كاليفورنيا لدعم عملياتها الإدارية والخدمات العامة.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVlXLVVsNWJNMU9md3EyVGpETUQ2MXJ0Xzh0eG5CSGVzWnFjZGxtVXNVX2poNXpKMHBDVG5aanVDQnEyaUhhX3VhQ3BET3ZMdjVLbElPeHg1ZzZMLWV6d3NfWkp4cjZla1dBS1hwVEhJZlVMYnJtTnVQQnVDMmFDazdRWklEUQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "نموذج ذكاء اصطناعي لتخطيط القلب يتنبأ بمخاطر الموت المفاجئ",
-   "summary": "طوّر الباحثون نموذج ذكاء اصطناعي يحلل تخطيطات القلب الكهربائية لتحديد المرضى الأكثر عرضة للموت القلبي المفاجئ. يمثل هذا التطور خطوة نحو تحسين التنبؤ المبكر والوقاية من المضاعفات القلبية الخطيرة.",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU1o1TFh0dV96a1Bxa0NDS0JlaFViZGVBcWVrb1hQb05DMFpYYVR1aTJ1YXA4MDhrenplMEtrVUxHcUlJMFVmQm1IVHlFVkRoMnQ4WW95cFpVQmhwSlVIOWFYTWd5UlpvZ1VhNGlnRWtnRTlhMGowYklOTVlrQkphdF9fSmNEc3N5SFVUOE5KbjhpNmNkWVVGOGVmTERDTUpEUGgxem92LS1BMnlqWDh3THVMZEcyclN4SWFuVF9PMVVkTkxLWHB5LUw0U3E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "غوغل توضح محدودية استخدام جيميني كرفيق للمراهقين",
-   "summary": "حذّرت غوغل من أن تطبيق جيميني لا يجب أن يُعامل كرفيق شخصي للمراهقين، مؤكدة على أهمية الإشراف الوالدي والاستخدام المدروس للذكاء الاصطناعي. يعكس هذا الموقف اهتمام الشركة بسلامة المستخدمين الصغار.",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JSjUzMkN1c2NrYmpieXpNU2x2bTRCbEtLdTluQzNFWk9pT01zM1Z2cE0tdW04ZnoyWmZpUC1JUG5lTGwxd0ZRZ0NoM3dmc2k5eGdIMWR5WmFCOW4wQjJCQjd4SWlpNGZTZmcyLUNR?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "جيميني يوفر توليد الصور الشخصية مجاناً للمستخدمين الأمريكيين",
-   "summary": "وسّعت جوجل خدمة توليد الصور المخصصة في جيميني لتشمل المستخدمين المجانيين المؤهلين في الولايات المتحدة، حيث يمكن للنموذج إنشاء صور مبنية على اهتماماتك والبيانات من تطبيقات جوجل المرتبطة بحسابك.",
-   "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-29"
-  },
-  {
-   "title": "أنثروبيك توقّع اتفاقاً مع حاكم كاليفورنيا لتزويد الحكومة بـ Claude بنصف السعر",
-   "summary": "وقّعت شركة أنثروبيك اتفاقاً مع ولاية كاليفورنيا يسمح للجهات الحكومية باستخدام نموذجها Claude بأسعار مخفّضة. يعكس التطور علاقة متنامية بين الشركة والدولة، وسط تصاعد التنافس بين شركات الذكاء الاصطناعي على النفوذ الحكومي.",
-   "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-29"
   }
  ]
 };
