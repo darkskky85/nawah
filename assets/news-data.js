@@ -1,45 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-01T07:02:28.420913+00:00",
+ "updated": "2026-07-01T11:49:45.383384+00:00",
  "items": [
   {
-   "title": "مؤسس بروتوكولات الإنترنت فينتون سيرف يتقاعد من جوجل",
-   "summary": "سيترك فينتون سيرف، أحد مبتكري البروتوكولات الأساسية للإنترنت، منصبه كمبشّر الإنترنت الرئيسي في جوجل الأسبوع القادم. تمثل هذه الخطوة نهاية لفصل طويل من مساهماته المؤثرة في تطور تقنيات الاتصال الرقمي العالمي.",
+   "title": "مؤسس بروتوكولات الإنترنت فينتون سيرف يتقاعد من منصبه بجوجل",
+   "summary": "يعتزم فينتون سيرف، أحد مبتكري البروتوكولات الأساسية للإنترنت، التقاعد من منصبه كسفير الإنترنت الرئيسي في شركة جوجل الأسبوع المقبل، منهياً مسيرة استثنائية امتدت عقوداً في تشكيل البنية التحتية الرقمية العالمية.",
    "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-01"
   },
   {
-   "title": "إدارة ترامب تلغي القيود عن نماذج أنثروبك الجديدة",
-   "summary": "أزالت إدارة ترامب الحد من نماذج Mythos و Fable التابعة لشركة أنثروبك، لكن سياق السياسة المتغيّر بسرعة ترك الشركات في غموض حول المعايير المستقبلية للإطلاق. يعكس هذا عدم الوضوح في منهج الإدارة تجاه تنظيم الذكاء الاصطناعي.",
+   "title": "إدارة ترامب ترفع القيود عن نماذج Anthropic الذكية",
+   "summary": "أزاحت إدارة ترامب القيود الحكومية عن نماذج Mythos و Fable من Anthropic، لكن سياسة الذكاء الاصطناعي الغامضة للإدارة تترك شركات القطاع في حيرة بشأن الضوابط المستقبلية على إطلاق النماذج الجديدة.",
    "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-01"
   },
   {
-   "title": "ويفي تطرح عرض اكتتاب للموظفين بقيمة 85 مليون دولار",
-   "summary": "أعلنت شركة ويفي عن عرض استحواذ للموظفين بتقييم بلغ 8.5 مليار دولار، متحاذية مع اتجاه متنام بين شركات الذكاء الاصطناعي الناشئة لاستخدام مثل هذه العروض كأداة استراتيجية للجذب والاحتفاظ بالمواهب.",
+   "title": "شركة Wayve تطرح عرض أسهم موظفين بقيمة 85 مليون دولار",
+   "summary": "أطلقت شركة Wayve المتخصصة في القيادة الذاتية عرض أسهم للموظفين بقيمة 85 مليون دولار، مما يعكس اتجاهاً متنامياً بين شركات الذكاء الاصطناعي الناشئة لاستخدام هذه الآلية كأداة استراتيجية لجذب والحفاظ على المواهب، مع تقييم الشركة عند 8.5 مليار دولار.",
    "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-01"
   },
   {
-   "title": "أنثروبك توافق على إعادة إطلاق نموذج Fable 5",
-   "summary": "حصلت أنثروبك على موافقة لعودة نموذج Claude Fable 5 بعد تفاوضات مكثفة مع إدارة ترامب. ستبدأ الشركة باستعادة الوصول للمستخدمين عالمياً عبر منصات كلود وخدمات أمازون ويب سرفيسز اعتباراً من يوم الأربعاء.",
+   "title": "نموذج Fable 5 من Anthropic يعود للخدمة بعد موافقة حكومية",
+   "summary": "أعطت إدارة ترامب الموافقة النهائية لإعادة تشغيل نموذج Claude Fable 5 الذي ظل معطلاً لأسابيع، وأعلنت Anthropic عن استعادة الوصول للمستخدمين عالمياً عبر منصاتها وخدمات AWS ابتداءً من يوم الأربعاء.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-07-01"
   },
   {
-   "title": "العائد الفعلي للذكاء الاصطناعي: ما يجب أن يعرفه الرؤساء التنفيذيون عن التكاليف الحقيقية",
-   "summary": "تقرير من مجموعة بوسطن الاستشارية يسلط الضوء على الفجوة بين التوقعات والنتائج الفعلية لاستثمارات الذكاء الاصطناعي في الشركات. يناقش التقرير التحديات المالية والتنظيمية التي تواجه القادة في قياس العائد الحقيقي على الاستثمار في تطبيقات الذكاء الاصطناعي.",
+   "title": "جوجل تطلق نموذج Gemini Omni Flash",
+   "summary": "أداة جديدة ظهرت باسم Gemini Omni Flash من جوجل، وهي نموذج ذكاء اصطناعي متقدم مصمم للتعامل مع المهام المتعددة بسرعة وكفاءة. يركز النموذج على توفير استجابات سريعة مع الحفاظ على جودة الأداء في تطبيقات متنوعة.",
+   "url": "https://www.producthunt.com/products/gemini-omni-flash",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "نماذج الذكاء الاصطناعي الصينية تقترب من مستوى نظيراتها الأمريكية",
+   "summary": "أشارت تقارير إلى أن نماذج الذكاء الاصطناعي الصينية حققت تطوراً ملحوظاً، مما قلّل الفجوة التنافسية بينها وبين النماذج المتقدمة من شركات أمريكية متخصصة. يعكس هذا التطور سباق تكنولوجي متسارع في مجال الذكاء الاصطناعي على الصعيد العالمي.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "دور قانون الأسواق الرقمية في تنظيم تنافسية الذكاء الاصطناعي الأوروبية",
+   "summary": "ناقشت دراسة من مركز Bruegel دور البند 6(7) من قانون الأسواق الرقمية الأوروبي في تشكيل المشهد التنافسي لتطبيقات الذكاء الاصطناعي في أوروبا. يسلط الضوء على كيفية تأثر إجراءات التنظيم على نمو القطاع والمنافسة العادلة بين اللاعبين.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjQzR0lPdS16QzJpMW10NFFVNUFHM2VJUjdBZXhJNFpBWTFhbjRoUUlYaEEwa056Rk1Dbms2OGdxcWdaZlFIU3o4U3NuTXFYV18xR2dLRGhmcGV1U0d2Q1lKRkZLVXRCQ193a0RtQXpGOGQ5QnctUldTSW9rMmlaQWFpNDJpRGlCRzFGRHBpZXZsX0p1Z0FORTFrdm9FQ2lMWmc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "حساب العائد الفعلي للاستثمار في الذكاء الاصطناعي",
+   "summary": "قدمت مجموعة بوسطن للاستشارات تحليلاً لكبار المديرين التنفيذيين حول التكاليف الحقيقية والعائدات المتوقعة من استثمارات الذكاء الاصطناعي. يساعد التقرير الشركات على فهم الجدوى الاقتصادية الفعلية وليس مجرد الوعود النظرية لتبني هذه التقنيات.",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdER0NklnTW1kZUJfcnpyYUFMNEEza29pNXA0TS1YdEF0M2pHSjlOc2k0TWw0ci1WWWN6YTNpSXZScjIyWnJmODVtTnluT1RyZVpTcE92VkFsVHItaWdCb0ppVWpsb18wZGFYZGt5YzY5Y1FuRDNVM0NhdDZGZks3eHdhc0tjdTItR3F2YTUtcXNCSE5aUF83VjNta2t2UWVuUm1QbDhVS3JweDRrR0oyOHlkeGd6bDEzX3pZSw?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "البابا يدعو لضرورة إرشاد الإنسانية لاستخدام الذكاء الاصطناعي",
+   "summary": "أكد البابا على أهمية دور الإنسانية في توجيه وتطبيق تقنيات الذكاء الاصطناعي، داعياً إلى ضمان أن يظل الاستخدام الأخلاقي لهذه التقنيات تحت إشراف القيم الإنسانية والمبادئ الأخلاقية.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2d0UjRtSVBHNUZOazVCNHdjZm8zSGFNMWkyUFVuOXNsZi1TX0xHcW84MmlQQjI1dm1vUXdQZWZ2UDhZRmZfZjI2TzFlNEN5U1JqUmNabXJHbllSclN3OFdyX0ZlTnowQjY1bnhvSllqc3loYXlvOUtLMXBHcVVDbHVGRjVUejRpUGVxZ1lHNlhRWEF6cTB5TkVkRGtmZHdjd1NCcjZXNlFWRUstWlQxM2NFZ2RCS2s?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "شركات بدأت تندم على قرارات التسريح التي ألقت بها ذريعة الذكاء الاصطناعي",
+   "summary": "تكتشف العديد من الشركات التي أنهت عقود موظفيها بحجة الاستبدال بحلول الذكاء الاصطناعي أن هذه القرارات أضرت بإنتاجيتها وكفاءتها التشغيلية، مما دفعها للندم على هذه الخطوات المتسرعة.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVFRZTh6TC1hUFh6OVhVLVZJYk1YTDdYR05KNU5rd3lXZTRNRWxYQjlvSWJidHZMcWt2UUo4eEtpTTAwakphdVhaVG5OdkxVX0luOUhMM01sSDlaYUw4WDJMcFBaNDU4V3R2U3RQUUJiRnFoaHFySXdqSFpid2pJY2c1MlZIUHBFd1B5VWVDRW1LZU9LM21WMU9mQ21wRG9GRDh2MWhhc9IBrAFBVV95cUxQQmNqWjlZTVNjM25PRXVpX0NOTF9WNVFLY1NsOE9hbEZWVGdYdTI2Q2h2RFJMU1NOTGJJNFZHMVdYdWRwc0tuNkpRbXRMa2hnNDBPVFpHbDdmRjVDQjlaZWJqMUhmZjBJQUFMaVo3ajZ3YlprQmxLSzFocWYyaGFWM01FcHgySV9tcmZRRWhrQ204aDJFYXlqTklQYzQ1Y3lzbmc5NC1VV0V2Qlk1?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "إطلاق نموذج كلود سونيه 5",
+   "summary": "أعلنت شركة Anthropic عن إطلاق نسخة جديدة من نموذجها اللغوي، وهو Claude Sonnet 5، الذي يُمثل تطوراً في قدرات معالجة اللغة الطبيعية والاستجابة للمهام المختلفة.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-01"
   },
   {
@@ -81,54 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-07-01"
-  },
-  {
-   "title": "أداة OpenClaw تصل إلى منصات الهاتف الذكي",
-   "summary": "أداة جديدة ظهرت باسم OpenClaw، وهي برنامج مفتوح المصدر متخصص في المهام الموكلة للذكاء الاصطناعي. الأداة متاحة الآن على منصات iOS و Android بصيغة مجانية.",
-   "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "باحثو ديب مايند السابقون يؤسسون شركة متخصصة في الذكاء الاصطناعي بقيمة نصف مليار دولار",
-   "summary": "أسس ثلاثة باحثين سابقين من شركة ديب مايند شركة EquiLibre Technologies المتخصصة في الذكاء الاصطناعي في براغ، وحققت الشركة قيمة سوقية تجاوزت نصف مليار دولار أميركي.",
-   "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "جوجل تطلق نسخة محسّنة وأرخص من أداة توليد الصور Nano Banana 2 Lite",
-   "summary": "قدمت جوجل تحديثاً لأداة توليد الصور تركز على تحسين السرعة وتقليل التكاليف، مما يجعلها أكثر سهولة في الاستخدام للمبدعين الذين يعملون على محتوى يعتمد على الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "شركة Etched المنافسة لـ Nvidia تحقق تقييماً بـ 5 مليارات دولار وحجم مبيعات يصل إلى المليار",
-   "summary": "أعلنت شركة Etched المتخصصة في تصميم رقاقات الذكاء الاصطناعي عن تحقيقها لتقييم سوقي بـ 5 مليارات دولار، مع حجم عقود مبرمة وصل إلى مليار دولار لأنظمتها القائمة على رقائقها.",
-   "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "Anthropic تعرّف عن طراز Claude Sonnet 5 الأقل تكلفة للمهام الموكلة",
-   "summary": "أطلقت شركة Anthropic نسخة محدثة من Claude Sonnet 5 تتميز بقدرات أفضل في تنفيذ المهام الموكلة وأسعار أقل، مما يجعلها بديلاً أقتصادياً عن نماذج متقدمة أخرى مثل Opus و GPT-5.5 و Gemini Pro.",
-   "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-06-30"
-  },
-  {
-   "title": "NotebookLM من جوجل يوفر أداة لتحويل الملاحظات إلى مقاطع فيديو قصيرة",
-   "summary": "أضافت جوجل لتطبيق NotebookLM ميزة جديدة تتيح توليد مقاطع فيديو رأسية بطول 60 ثانية من نمط TikTok بناءً على المصادر المرفوعة، وتقتصر الميزة حالياً على مشتركي Google AI Ultra و Pro.",
-   "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-06-30"
   }
  ]
 };
