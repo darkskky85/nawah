@@ -1,13 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-01T11:49:45.383384+00:00",
+ "updated": "2026-07-01T17:05:04.775271+00:00",
  "items": [
   {
-   "title": "مؤسس بروتوكولات الإنترنت فينتون سيرف يتقاعد من منصبه بجوجل",
-   "summary": "يعتزم فينتون سيرف، أحد مبتكري البروتوكولات الأساسية للإنترنت، التقاعد من منصبه كسفير الإنترنت الرئيسي في شركة جوجل الأسبوع المقبل، منهياً مسيرة استثنائية امتدت عقوداً في تشكيل البنية التحتية الرقمية العالمية.",
+   "title": "منصة Venice AI تحقق وضع اليونيكورن برفع تمويل 65 مليون دولار",
+   "summary": "حققت شركة Venice AI تقييماً يصل إلى مليار دولار بعد جولة تمويل من السلسلة (أ)، وأعلن الرئيس التنفيذي أن المنصة التي تركز على الخصوصية بلغت مستويات ربحية بإيرادات سنوية تتجاوز 70 مليون دولار. يعكس الإنجاز توجهاً متزايداً نحو حلول ذكاء اصطناعي تولي أهمية أكبر لحماية بيانات المستخدمين.",
+   "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "مساعد جيميني سبارك الذكي من جوجل يصل إلى أجهزة ماك",
+   "summary": "أصبح مساعد جيميني سبارك المدعوم بالذكاء الاصطناعي متاحاً الآن على أجهزة ماك، مع إضافة ميزات جديدة تشمل تتبع الأحداث في الوقت الفعلي وتوسيع دعم التطبيقات المختلفة. يعمل المساعد على مدار الساعة لتقديم خدمات متنوعة للمستخدمين.",
+   "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "منصة Builders Stage تعود إلى مؤتمر TechCrunch Disrupt 2026",
+   "summary": "ستستضيف منصة Builders في مؤتمر TechCrunch Disrupt 2026 أكثر من 10 آلاف مؤسس وصاحب مشروع ومستثمر لمناقشات عملية حول بناء الشركات الناشئة وتطويرها. سيتمكن المسجلون من الاستفادة من حسومات تصل إلى 330 دولار على رسوم الاشتراك.",
+   "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "ميتا تنافس عمالقة السحابة ببيع خدمات الحوسبة الذكية الزائدة",
+   "summary": "تعد شركة ميتا لإطلاق خدمة بنية تحتية سحابية توفر للعملاء إمكانية الوصول إلى موارد الحوسبة والنماذج القائمة على الذكاء الاصطناعي. هذه الخطوة ستجعلها منافساً مباشراً للعمالقة الكبار مثل أمازون وجوجل وميكروسوفت في سوق خدمات السحابة.",
+   "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "مبتكر بروتوكولات الإنترنت الأب يودّع حياته المهنية",
+   "summary": "سيترك فينتون سيرف، أحد المؤسسين الرئيسيين للبروتوكولات التي تشكل أساس الإنترنت، منصبه كرئيس السفراء الرقميين في جوجل الأسبوع المقبل. يمثل هذا الخروج نهاية فصل طويل من الريادة التقنية التي امتدت لعقود.",
    "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "مكبر صوت ذكي متقدم من جوجل لكن جيميني لم يكتمل نضجه بعد",
+   "summary": "أطلقت جوجل مكبر صوت ذكياً محسناً، لكن مساعدها جيميني لم يصل بعد إلى مستوى النضج المطلوب لتشغيل الجهاز بكفاءة. تسعى الشركات منذ سنوات لمنح المتحدثات الذكية وظائف تتجاوز تشغيل الموسيقى والتحكم بالإضاءة، والذكاء الاصطناعي كان يفترض أن يحقق هذا الطموح.",
+   "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "عودة نموذج Fable 5 من Anthropic بعد توقف طويل",
+   "summary": "أعلنت Anthropic عن استعادة خدمة نموذج Claude Fable 5 بعد تفاوضات مع إدارة ترامب، وستبدأ في إعادة تفعيل الوصول للمستخدمين عالمياً عبر منصات Claude المختلفة وخدمة AWS بدءاً من يوم الأربعاء.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "شركة ناشئة تسعى لتحرير نماذج اللغة من فخ التشابه في الإجابات",
+   "summary": "تكشف دراسة أن نماذج اللغة الكبرى تميل لإعطاء إجابات متشابهة بشكل غير طبيعي عند طرح أسئلة متكررة، وتعمل شركة ناشئة على حل هذه المشكلة بتقنيات تعزز التنوع والعشوائية الحقيقية في الاستجابات.",
+   "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "نماذج Fable و Mythos من Anthropic تحصل على الموافقة للانتشار العالمي",
+   "summary": "رفعت الولايات المتحدة القيود المفروضة على نماذج Anthropic المتقدمة Fable و Mythos، مما يسمح بإطلاقها عالمياً بعد أن ألزمت الشركة بإجراء اختبارات أمان شاملة.",
+   "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "المؤسسة الوطنية للعلوم تُعلن عن مراكز تنسيق متخصصة في الذكاء الاصطناعي",
+   "summary": "تستعد المؤسسة الوطنية للعلوم الأمريكية لإطلاق مراكز تنسيق موزعة في مختلف الولايات لدعم أبحاث وتطبيقات الذكاء الاصطناعي. تهدف هذه المراكز إلى تعزيز التعاون بين الجامعات والمؤسسات البحثية والصناعة في مجال تطوير تقنيات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFZTOE9fclJSWkJIVmR5cl95NVhBXy1iVjl1Qk80dDhya0tXTC12Slh2cXBnbjJOVGhNcHFEcEJRSWpqb2I2dEM4QTl1eGVOdnczRlFPLS1GZHhKQTJyZ1VmWnFsVkZTcllONk1XUWZ4ZWZkVGtzOXJ1Z3BOR0tSeERzeV9lUjcydHluYXViMHdhc3pnSVY2Yng4LUpMSHpLdFdIMExBOUI2amR0T0JvM2dB?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "شركة RealTruck تستخدم الذكاء الاصطناعي في حملة احتفالية بعيد تأسيس أمريكا",
+   "summary": "أطلقت شركة RealTruck حملة إعلانية توظف تقنيات الذكاء الاصطناعي احتفاءً بالذكرى 250 لتأسيس الولايات المتحدة. تجمع الحملة بين الابتكار التكنولوجي والمحتوى الثقافي المحلي لإشراك جمهورها بطريقة إبداعية.",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSnB3YVROM2xxeVdyMXZkcUJZZlpNZlIxbmVxN0Y5NlhiWHVoQWZSd3lhUjN5eEFlN0RLWVFQTHpuSVpNcW41UHJqR3FEZ21mQkVDcWZHd0tCWnY3RU5XYmViVGc3cndqbDJKUGE0RzU0SG9lVGluZWhpNGRfTHlVY3U2ZWNLZnFFWEtacVJ4dmxwazMxRWZXeklDRm4tSGpGZDFWczZRakpIQ0kzSkV5QmJxWnRvblpURHNUQnJhdUNTUkVLVDlETHIxQzQ3d3I0clpRUHhvLUd0UVJNdVIxTG1MZUhLZ2UwNWJUS3pHeXk4RmpPS0N3OHRwLWNsM19HRmVQbGFR?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
    "date": "2026-07-01"
   },
   {
@@ -24,14 +104,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "نموذج Fable 5 من Anthropic يعود للخدمة بعد موافقة حكومية",
-   "summary": "أعطت إدارة ترامب الموافقة النهائية لإعادة تشغيل نموذج Claude Fable 5 الذي ظل معطلاً لأسابيع، وأعلنت Anthropic عن استعادة الوصول للمستخدمين عالمياً عبر منصاتها وخدمات AWS ابتداءً من يوم الأربعاء.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-07-01"
   },
   {
@@ -56,78 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjQzR0lPdS16QzJpMW10NFFVNUFHM2VJUjdBZXhJNFpBWTFhbjRoUUlYaEEwa056Rk1Dbms2OGdxcWdaZlFIU3o4U3NuTXFYV18xR2dLRGhmcGV1U0d2Q1lKRkZLVXRCQ193a0RtQXpGOGQ5QnctUldTSW9rMmlaQWFpNDJpRGlCRzFGRHBpZXZsX0p1Z0FORTFrdm9FQ2lMWmc?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "حساب العائد الفعلي للاستثمار في الذكاء الاصطناعي",
-   "summary": "قدمت مجموعة بوسطن للاستشارات تحليلاً لكبار المديرين التنفيذيين حول التكاليف الحقيقية والعائدات المتوقعة من استثمارات الذكاء الاصطناعي. يساعد التقرير الشركات على فهم الجدوى الاقتصادية الفعلية وليس مجرد الوعود النظرية لتبني هذه التقنيات.",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdER0NklnTW1kZUJfcnpyYUFMNEEza29pNXA0TS1YdEF0M2pHSjlOc2k0TWw0ci1WWWN6YTNpSXZScjIyWnJmODVtTnluT1RyZVpTcE92VkFsVHItaWdCb0ppVWpsb18wZGFYZGt5YzY5Y1FuRDNVM0NhdDZGZks3eHdhc0tjdTItR3F2YTUtcXNCSE5aUF83VjNta2t2UWVuUm1QbDhVS3JweDRrR0oyOHlkeGd6bDEzX3pZSw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "البابا يدعو لضرورة إرشاد الإنسانية لاستخدام الذكاء الاصطناعي",
-   "summary": "أكد البابا على أهمية دور الإنسانية في توجيه وتطبيق تقنيات الذكاء الاصطناعي، داعياً إلى ضمان أن يظل الاستخدام الأخلاقي لهذه التقنيات تحت إشراف القيم الإنسانية والمبادئ الأخلاقية.",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2d0UjRtSVBHNUZOazVCNHdjZm8zSGFNMWkyUFVuOXNsZi1TX0xHcW84MmlQQjI1dm1vUXdQZWZ2UDhZRmZfZjI2TzFlNEN5U1JqUmNabXJHbllSclN3OFdyX0ZlTnowQjY1bnhvSllqc3loYXlvOUtLMXBHcVVDbHVGRjVUejRpUGVxZ1lHNlhRWEF6cTB5TkVkRGtmZHdjd1NCcjZXNlFWRUstWlQxM2NFZ2RCS2s?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "شركات بدأت تندم على قرارات التسريح التي ألقت بها ذريعة الذكاء الاصطناعي",
-   "summary": "تكتشف العديد من الشركات التي أنهت عقود موظفيها بحجة الاستبدال بحلول الذكاء الاصطناعي أن هذه القرارات أضرت بإنتاجيتها وكفاءتها التشغيلية، مما دفعها للندم على هذه الخطوات المتسرعة.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVFRZTh6TC1hUFh6OVhVLVZJYk1YTDdYR05KNU5rd3lXZTRNRWxYQjlvSWJidHZMcWt2UUo4eEtpTTAwakphdVhaVG5OdkxVX0luOUhMM01sSDlaYUw4WDJMcFBaNDU4V3R2U3RQUUJiRnFoaHFySXdqSFpid2pJY2c1MlZIUHBFd1B5VWVDRW1LZU9LM21WMU9mQ21wRG9GRDh2MWhhc9IBrAFBVV95cUxQQmNqWjlZTVNjM25PRXVpX0NOTF9WNVFLY1NsOE9hbEZWVGdYdTI2Q2h2RFJMU1NOTGJJNFZHMVdYdWRwc0tuNkpRbXRMa2hnNDBPVFpHbDdmRjVDQjlaZWJqMUhmZjBJQUFMaVo3ajZ3YlprQmxLSzFocWYyaGFWM01FcHgySV9tcmZRRWhrQ204aDJFYXlqTklQYzQ1Y3lzbmc5NC1VV0V2Qlk1?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "إطلاق نموذج كلود سونيه 5",
-   "summary": "أعلنت شركة Anthropic عن إطلاق نسخة جديدة من نموذجها اللغوي، وهو Claude Sonnet 5، الذي يُمثل تطوراً في قدرات معالجة اللغة الطبيعية والاستجابة للمهام المختلفة.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "تقييم الأمم المتحدة لاستخدام الذكاء الاصطناعي في مكافحة التطرف العنيف",
-   "summary": "دراسة تقييمية نهائية مستقلة للأمم المتحدة تفحص دور تكنولوجيا الذكاء الاصطناعي في الوقاية من التطرف العنيف ومكافحته. تركز الدراسة على فعالية التطبيقات العملية والتحديات المرتبطة بها.",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZFl6VnYwNXp5cnBaa29MMVVKWFJ3MFhjSy0xejhOQ2JxOU1lNVVRRUQ4czJhOUZLRV9MZTNqdXZZd0ppM2YzYWhoNGQ4d0MxV1l3WUVqTDhfcHN6VVpYXzVHSlYxcW0zNEpTWDV5STFTY294VGpVeU9telA2LVRSWlJXd2pZUmpTOExQcnFvMERzeHRkbVdSVXRTamhmSmF6T3NlWDlkQmtxa1NSRTFUeVNNcllSZzAzN2pJWXpZRGZXOFNMRWQzeDV3?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "دراسة تجريبية عن تحويل الصور ثنائية الأبعاد إلى ثلاثية الأبعاد بالذكاء الاصطناعي في المناظير الطبية",
-   "summary": "بحث يستكشف استخدام تقنيات الذكاء الاصطناعي لتحسين الإدراك المكاني في الفحوصات المنظارية من خلال تحويل الصور أحادية العدسة إلى صور ثلاثية الأبعاد. تقيّم الدراسة فعالية هذه الطريقة في التطبيقات الطبية الفعلية.",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQaDB3VnZ1dW1ib00zNGZ6M05JRUptMHNSTGxhTmQ2cGtzamVuZWk5b3lGaGs1WUNrMEtHVUZJMGJrR1M1UWs1cnJvc3N6R1VIRXd0ODFONTVSWW9kQkJCcVV3RlhHWXVJc2pWQ3JjY05uQlpYTkRSbk9aeVp0OHVEeUdCYnlaZjBOQTFqRHJvLWhTN3RMWEtoQVE2bktBaTVremV6OW5NUFR2eHBnYmJib2FUZTJTUHY4YmpPRld0WkJYYlI1LTdvYmZBcXRJY3ppTWRmbGhBdHRmS1ZubVcyQkV0cXM4cDdEZHJkWHMxT1ppUFZENllxVWhMa09HaS1zNjZQQ2lKMC1UdGpZc2VBWVRKXzg5NC1IYzlQT2pPYw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "الولايات المتحدة تلغي القيود عن نماذج Anthropic الذكائية الأقوى",
-   "summary": "رفعت الإدارة الأمريكية القيود التنظيمية التي كانت مفروضة على نماذج الذكاء الاصطناعي الأكثر تطوراً من شركة Anthropic. يعكس هذا القرار توجهاً نحو تسهيل عمل الشركات في قطاع الذكاء الاصطناعي بعد فترة من الرقابة المشددة.",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVFZkTWw1SDJBWVZnalNlVDJVQTNvckpuVm9uNkJRTm51ZVdOdy1RaGgtdWhWUnBxWHF3RlJJeDJOeDVKU3N1LWFlSnRCRUNOYWtTak9faTZES2NTRzVSME5oXzVFa0pBQmJydXE5RFNNSFIxSWk0S0d1SHh0R2ZWV0UxTzk3VlFReXc?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "Anthropic توقع اتفاقاً مع إدارة ترامب لاستعادة الوصول إلى نموذج Fable",
-   "summary": "توصلت شركة Anthropic إلى تسوية مع إدارة ترامب تتيح استعادة الوصول إلى نموذج الذكاء الاصطناعي Fable بعد فترة من التقييد. يأتي الاتفاق كجزء من سياسة حكومية جديدة تجاه شركات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmVjU1BXaDgyaWRiOUh5LTB0NTBmWHN3SnptZG9WSThxYUZKLVp4cjRFNnZLNTRZYXBuMERKY3k4X0hrSWtxX2tmMFlTbkloMHRqX2ViaUdxQWNfaVk5cUpKbW5PM1dyTkU5OC1GbEw3LXh1eHhJRVlLeVlpeUdKQnBReDNCVlR4NEVPWFR6WDEtVGw1MFZUVmpxRnF4dzNySVJ3aTdycTBkRWQ3MzBQMDNvbUJPS0ljZVdR?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "أمريكا تسمح بنشر نماذج Fable و Mythos الذكائية من Anthropic",
-   "summary": "ألغت الولايات المتحدة الحظر المفروض على نموذجي الذكاء الاصطناعي Fable و Mythos من تطوير Anthropic، مما يسمح بتداولهما واستخدامهما بحرية أكبر. يعكس هذا التطور تغيراً في السياسة الأمريكية نحو تنظيم أقل صرامة لتكنولوجيا الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxSFpEb0JIQV9vZ05iM1BjMTFoWXVfZmdMbUpfUVhRdkU2ek9mUDY5azY0eFZLSVJFZ0ZUeUFxSjhwS1AxU3ZwaTliaVhWa2FZUHNJLW1Fam9SNnVIU3l3c2NGNjRISS02dS05UE9sWWRUblF4NmdSVGRCRkMtakNybVpfMlN1S0ZIV2tRd2h4bWNmOFZFZXQwR0pOVGdDVUp4M0ljblZLYWtTU3NYWjF5YnrSAboBQVVfeXFMT1FnbUw0Q2UyWndFWnp1VkYwVk5fUUpjWWN1SmNjNUtXVldwVWZqU3NzMFlwZUp0NnVxWnNfZThzS1V6U3lqVGZHZUo5RDJuMnNINUp6a3U0LVhINkVXYk1kenUtMnl1R0lMNmZRWkVJR0hiNlJlMFpyUUdlaE1faDFhTGFQbFNHUDRBSlphVmZfRFJTY1hINDRLUFJHWkNPWFpWVTNoSTlLTmxIXzFEZ0xTSk9wRzZvWGNR?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-07-01"
   }
  ]
