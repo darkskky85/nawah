@@ -1,21 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-02T11:25:30.717878+00:00",
+ "updated": "2026-07-02T16:44:05.393558+00:00",
  "items": [
   {
-   "title": "رائد تقني هندي يستثمر 30 مليون دولار لبناء بديل ذكي عن مكتب مايكروسوفت",
-   "summary": "أطلق رائد الأعمال الهندي بهافين توراخيا منصة جديدة باسم نيو تستهدف منافسة تطبيقات الإنتاجية من مايكروسوفت وجوجل، معتمدة على تقنيات الذكاء الاصطناعي. وهي تمثل مشروعه الخامس في مجال البرمجيات الموجهة للمؤسسات.",
+   "title": "ألتمان يقترح تخصيص نسبة من أسهم OpenAI لصندوق ثروة سيادي أمريكي",
+   "summary": "اقترح الرئيس التنفيذي لشركة OpenAI تخصيص 5% من أسهم الشركة لصندوق ثروة سيادي تابع للحكومة الأمريكية، في خطوة تهدف إلى إتاحة مشاركة الجمهور في الأرباح المالية الناجمة عن ثورة الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "مايكروسوفت تطلق قسماً متخصصاً لنشر تطبيقات الذكاء الاصطناعي برأس مال 2.5 مليار دولار",
+   "summary": "أعلنت مايكروسوفت عن إنشاء وحدة جديدة مخصصة لنشر حلول الذكاء الاصطناعي بدعم مالي قدره 2.5 مليار دولار، لتحذو حذو نظرائها أمازون وOpenAI وAnthropic في هذا المجال.",
+   "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "رائد تقنية هندي يستثمر 30 مليون دولار في تطوير بديل ذكي لتطبيقات مايكروسوفت",
+   "summary": "أطلق رجل الأعمال الهندي بهافن تورخيا مشروعه الخامس المسمى Neo، وهو منصة تجمع بين الذكاء الاصطناعي والبرامج المكتبية، لمنافسة مايكروسوفت أوفيس وتطبيقات جوجل في قطاع البرامج الموجهة للمؤسسات.",
    "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-02"
   },
   {
-   "title": "أوبنإيه تدرس منح إدارة ترامب حصة من أرباح الذكاء الاصطناعي",
-   "summary": "طرحت شركة أوبنإيه فكرة إعطاء الحكومة الأمريكية حصة ملكية بنسبة 5 في المئة كمحاولة لتخفيف التوتر مع إدارة ترامب والرد على الانتقادات المتزايدة. يرى الرئيس التنفيذي سام ألتمان أن منح الجمهور مصلحة مالية مباشرة قد يعدل النقاش العام حول الشركة.",
+   "title": "OpenAI تعرض منح إدارة ترامب حصة من أرباح ثورة الذكاء الاصطناعي",
+   "summary": "طرحت OpenAI فكرة منح الحكومة الأمريكية حصة ملكية بنسبة 5% من الشركة، بهدف تخفيف التوترات مع إدارة ترامب والتصدي للانتقادات المتزايدة ضد الذكاء الاصطناعي. يرى الرئيس التنفيذي أن إعطاء الجمهور مصلحة مالية في الشركة قد يحسّن سمعتها.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "تحقيق التميز التشغيلي بفضل الذكاء الاصطناعي",
+   "summary": "يستعرض المقال كيفية دمج الذكاء الاصطناعي مع أطر العمل الإدارية التقليدية مثل Lean Six Sigma وإدارة العمليات، لتحسين الكفاءة التشغيلية والسيطرة على تعقيد العمليات التجارية.",
+   "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "تطبيق الذكاء الاصطناعي في تحسين كفاءة محطات الطاقة",
+   "summary": "يتجاوز تطبيق الذكاء الاصطناعي مجال التطبيقات الاستهلاكية إلى قطاعات حيوية تتطلب موثوقية عالية وسلامة تشغيلية. في البنية التحتية والصناعات الثقيلة، يصبح الذكاء الاصطناعي أداة جوهرية لتحسين الأداء والاستمرارية التشغيلية.",
+   "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "OpenAI توافق على حصة أمريكية بنسبة 5% بعد مفاوضات مع إدارة ترامب",
+   "summary": "تجري مفاوضات نشطة بين الرئيس التنفيذي لـ OpenAI سام ألتمان وإدارة ترامب حول حصة الشركة الأمريكية، بنسبة أقل مما كان يستهدفه منتقدون آخرون. تعكس هذه الخطوة تأثير الضغوط السياسية على استراتيجية الشركات التقنية الكبرى.",
+   "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "منظمات حقوقية تحذر لجنة التجارة الفيدرالية من أخطار X على الخصوصية",
+   "summary": "طالبت جماعات حماية الخصوصية لجنة التجارة الفيدرالية برفض طلب إيلون ماسك إنهاء الرقابة على منصة X، مستشيرة بمخاطر متعلقة بالذكاء الاصطناعي وحماية بيانات المستخدمين. يعكس الموقف قلقاً متزايداً من تأثير ممارسات معالجة البيانات على الأمان الشخصي للمستخدمين.",
+   "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "إجراءات Basedash لأتمتة العمليات",
+   "summary": "أداة جديدة ظهرت باسم Basedash Actions تركز على توفير إمكانيات أتمتة للعمليات الإدارية والبيانات. تسعى الأداة لتسهيل تنفيذ المهام المتكررة بكفاءة أكبر عبر واجهة موحدة.",
+   "url": "https://www.producthunt.com/products/basedash",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "وجهة نظر متفائلة حول مستقبل الذكاء الاصطناعي",
+   "summary": "نشرت منصة Lawfare دراسة تقدم قراءة متفائلة بشأن تطور الذكاء الاصطناعي وآثاره. تركز الدراسة على الجوانب الإيجابية المحتملة للتقنية رغم التحديات القانونية والأخلاقية المعروفة.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUVoYmRXSV9fajZDbGEwQVA2STJEQWwxLVJBcTZqd2ttY3AyTWFGMzdEU1dpdFhhTDBZbVptcTc2aTQxRV90UGhBbkhMZ3VCU1hSN1A1Z2JhUXdVZXRNMlpmeGhMVE9pOFhDWEFsd2pqUHR3enRLbXU4ZVk0NUpPbl9xUE5jMThvS3lwWkJR?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "الأمم المتحدة تصدر تقريراً حول الذكاء الاصطناعي قبل مؤتمرها العالمي",
+   "summary": "أطلقت لجنة الأمم المتحدة المعنية بالذكاء الاصطناعي تقريراً شاملاً استعداداً لمؤتمر عالمي قادم. يستعرض التقرير الاتجاهات الحالية والتوصيات المتعلقة بحوكمة التقنيات الذكية على الصعيد الدولي.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVktZOUo5eS1zWThsaGRRNkVMcVZoZENNa2k4Qm1KaldoeTRfNjRtSWhKZkNaVkNEUmN4djlSMmZjTVRXZ1pCZ1JRbVlJaWNBRXNuTUFHUk9pTkN6V3FvalVGWXEyY3laUVYyZnFfSDQxeWhySWRVUF80UEYtTFY3RzBoU3phNTloZWRqbm91VHMzNVJ3SUg1QlJUWUZPWGdNbndraUd4TVF0TjVZ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
    "date": "2026-07-02"
   },
   {
@@ -57,78 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-07-02"
-  },
-  {
-   "title": "نموذج ذكاء اصطناعي صيني منخفض التكلفة يضيّق الفجوة مع نظرائه الأمريكيين",
-   "summary": "تطور نموذج ذكاء اصطناعي صيني جديد بتكاليف أقل يحقق أداءً تنافسياً في مقاييس الأداء العالمية. يعكس هذا التقدم سباق عالمي متسارعاً على تطوير أنظمة ذكاء اصطناعي متقدمة وفعّالة من حيث التكلفة.",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "أوبن إيه آي تعرض حصة بنسبة 5% على إدارة ترامب",
-   "summary": "قدمت شركة أوبن إيه آي عرضاً لتخصيص 5% من ملكيتها للإدارة الأمريكية الجديدة. يأتي هذا العرض في سياق تحركات استراتيجية لتعزيز العلاقات مع صناع السياسة الأمريكيين.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVFSLVZmZnlwTE9XTWNBVmo0WXFobFR5ZUgzODhuQTlZTlJVRnZlMElQT00zMTRLTVRzeVpINlpndkF5bFB1QTZhV0l6SXByMW1UVHpYZm02Z2RQVWJDaDZiU2JBcUdYbi0wenh5ck0xQWpVSnJTX3FhZ0Qwa2xkdEZkRm8?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "سهم ذكاء اصطناعي بانخفاض 30%: هل يستحق الشراء؟",
-   "summary": "تحليل استثماري يقيّم فرصة شراء سهم متراجع في قطاع الذكاء الاصطناعي، مستعرضاً المؤشرات الأساسية والتوقعات المستقبلية له.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd0FkaS1zb2hybzFPa3VycFlIVklHRzJwQ0h0a2gwa1k0cG00dmtNVXhsanZ5MVVhZUlQLXVJOV9SbHZrOUZfTnRybkU5Y0w0SXVMVndOcDJHLVZOYTBVUlN0aWE4ejd1Y2tSV19EaEt4S19tZXBid0JUMUN4TXF2YVUxS2xoNUNCVm9JbnB3ZHBJY29EcHFCcg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "OpenAI تعرض حصة من أسهمها لإدارة ترامب لتخفيف الضغوط",
-   "summary": "تقرر OpenAI تقديم 5% من أسهمها لإدارة ترامب كخطوة لتحسين علاقاتها مع الحكومة والتخفيف من الضغوط التنظيمية والسياسية عليها.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmlORndTRDBueEJHV25lbTl2ejNISG9xT09Vbk01NzNCNnoxNmpIdVZJeUdHV19qWU9IUWdncnQ3Q1BYRjZ3SFJCaE53REFzYVN2em1TbldqYi03eklMaFRJVk9NVm9XM2F3My1xN2k1czcxQU9uOG9fSWFHa1oxRUVzRFk4QmI2Smd4cG9wZTN0OURZTkZOQ2dsOHdzWW8wYTFEQ0V6Q3lKR1NSYS1YcWVaMFJYQdIBuwFBVV95cUxPWEdwWkRiR25HQmRfNTB5VG10bElQUDYzb3lQQ3UxNHU5dmd2UTRDdmxfeHdoMkZza21yTEhOWWI3NGxxVlJXOHp0T25fT2FDYXhfX0RzM2l6c1ppZXpkLVNFMHlfVVBDWTJvVW5EQndfcUpIWDZVdDlVR3gwTjFxTXl0LUktRUl1RmtGaFBuN1FJQnRSMDY3X0dMLW9GQmJPemdBUE1US29ELTdFcFBrM2diMmV3RjZpQzM0?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "OpenAI تقترح منح إدارة ترامب حصة بنسبة 5%",
-   "summary": "وسائل إعلام تفيد بأن OpenAI طرحت فكرة تسليم حصة 5% من الشركة للإدارة الأمريكية الجديدة كمسعى للتوافق مع السلطات.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUNkeGxUSzgzdlZ3STBUWGtaU3pHVUFhUWlCYWh6MVZKVjNnckJRTVBiNFF0d0ZvTjB0OWtGcWtxR1ZIY1lLVUdtSHQ4LXY3MUQ4ZHNIdkFyMzRuOXZkaEVqMDBaTjRkeXYzcGNTVWg2TEwxWUNVVFJDcEtSbUFnd2J1NzVJLXJPX3lHcG1icFh3YmxqMDR0cS1qTW85ZnpQeXBwdUNuQjBETmIw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "اختتام نزاع Anthropic حول الخرافات: بداية معركة تنظيم الذكاء الاصطناعي",
-   "summary": "انتهاء الجدل حول نموذج Anthropic الخاص بـ الخرافات يعكس تطوراً أوسع في الصراع السياسي والتنظيمي حول كيفية التحكم بتطور تقنيات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONGxtLW5LemZKSFktSWtMcFNfa0YycHpsSzdWM1lKMmx0RG1PQ1U4dTliRmlKSk1VYXpWMWxGUElNUWNLSTFKWmJXOVV4a1RBMVVMeEFXSnZlODBWS2pPRzFLcVR4UDVGaHZ0SXE5YWxydjk3VlVZbEV2R3J1NW9UdUU0Mm8ybm83Y1g2TWpXUjlXNE03ZDd0cDhoOW0zUFowUVRFTnFka0xKSVBlWWZ6VVZ5ckI?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "سبيس إكس تكشف عن نموذج أولي لجهاز ذكاء اصطناعي يشبه الهاتف الذكي",
-   "summary": "طورت سبيس إكس نموذجاً أولياً لجهاز ذكاء اصطناعي محمول يشبه الهاتف، عرضته على المستثمرين مؤخراً. قد يشير هذا التطور إلى خطط الشركة للتوسع في مجال الاتصالات اللاسلكية والخدمات المتنقلة.",
-   "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "أشتون كوتشر يترك صندوق إستثمارات لتأسيس صندوق رأسمالي جديد",
-   "summary": "غادر رائد الأعمال أشتون كوتشر صندوق Sound Ventures لإطلاق صندوق استثمار جديد مع مورغان بيلر. يركز الصندوق الجديد على البنية التحتية والطاقة التي تدعم شركات الذكاء الاصطناعي، بدلاً من شركات المختبرات نفسها.",
-   "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "كلاودفلير تفرض على شركات الذكاء الاصطناعي الدفع مقابل محتوى الناشرين",
-   "summary": "أعطت كلاودفلير شركات الذكاء الاصطناعي حتى 15 سبتمبر لفصل برامج الزحف المخصصة لمحركات البحث عن تلك المستخدمة لتدريب الذكاء الاصطناعي، وإلا ستواجه حجباً افتراضياً على عديد من مواقع الناشرين.",
-   "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-01"
   }
  ]
 };
