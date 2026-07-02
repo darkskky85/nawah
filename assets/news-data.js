@@ -1,21 +1,85 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-02T16:44:05.393558+00:00",
+ "updated": "2026-07-02T21:57:23.424270+00:00",
  "items": [
   {
-   "title": "ألتمان يقترح تخصيص نسبة من أسهم OpenAI لصندوق ثروة سيادي أمريكي",
-   "summary": "اقترح الرئيس التنفيذي لشركة OpenAI تخصيص 5% من أسهم الشركة لصندوق ثروة سيادي تابع للحكومة الأمريكية، في خطوة تهدف إلى إتاحة مشاركة الجمهور في الأرباح المالية الناجمة عن ثورة الذكاء الاصطناعي.",
+   "title": "شركة ساندويتش تثير نقاش حول مبالغة صناعة الذكاء الاصطناعي في الترويج",
+   "summary": "في وثائق طرح أسهمها للاكتتاب العام، أشارت شركة جيرسي مايكس للساندويتش إلى الذكاء الاصطناعي رغم أنها متخصصة في بيع الطعام، مما يعكس الاتجاه المتزايد للشركات نحو ربط أنشطتها بهذه التكنولوجيا بحثاً عن جاذبية استثمارية بغض النظر عن الصلة الحقيقية.",
+   "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "ميتا تطلق تطبيقاً تجريبياً لتوليد الألعاب التفاعلية باستخدام النصوص",
+   "summary": "أطلقت ميتا تطبيقاً باسم بوكت يسمح للمستخدمين بإنشء وتبادل ألعاب صغيرة تفاعلية من خلال كتابة أوامر نصية، وتشتغل الأداة بتقنيات الذكاء الاصطناعي لترجمة هذه الأوامر إلى ألعاب قابلة للعب.",
+   "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "أنثروبيك تتفاوض مع سامسونج حول تطوير شريحة ذكاء اصطناعي مخصصة",
+   "summary": "تسعى شركة أنثروبيك للتعاون مع سامسونج في بناء معالج متخصص للذكاء الاصطناعي، متابعة بذلك الخطوة التي اتخذتها أوبن إيه آي مع برودكوم في الأسابيع السابقة، في إطار سعي الشركات الكبرى لتطوير الأجهزة المخصصة لتطبيقاتها.",
+   "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "أوبن إيه آي تقترح مشاركة الحكومة الأمريكية في أرباح نموها",
+   "summary": "اقترح الرئيس التنفيذي لأوبن إيه آي توزيع 5% من أسهم الشركة على صندوق الثروة السيادي الأمريكي، بهدف تمكين الجمهور من الاستفادة المالية من نمو قطاع الذكاء الاصطناعي وتخفيف التوترات السياسية والانتقادات العامة حول تركيز الأرباح.",
    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-02"
   },
   {
-   "title": "مايكروسوفت تطلق قسماً متخصصاً لنشر تطبيقات الذكاء الاصطناعي برأس مال 2.5 مليار دولار",
-   "summary": "أعلنت مايكروسوفت عن إنشاء وحدة جديدة مخصصة لنشر حلول الذكاء الاصطناعي بدعم مالي قدره 2.5 مليار دولار، لتحذو حذو نظرائها أمازون وOpenAI وAnthropic في هذا المجال.",
+   "title": "مايكروسوفت تؤسس قسماً متخصصاً لنشر تطبيقات الذكاء الاصطناعي برصيد 2.5 مليار دولار",
+   "summary": "أنشأت مايكروسوفت فريقاً جديداً متخصصاً في نشر وتطبيق حلول الذكاء الاصطناعي على نطاق واسع، واستثمرت 2.5 مليار دولار في المبادرة، منضمة بذلك إلى عمالقة الصناعة الآخرين الذين بدأوا في بناء فرق مشابهة.",
    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "أوبن إيه آي تعرض تقديم حصة للحكومة الأمريكية من عائدات الذكاء الاصطناعي",
+   "summary": "أشارت أوبن إيه آي إلى إمكانية منح إدارة ترامب حصة ملكية بنسبة 5% من الشركة لتسهيل التفاهمات السياسية وتقليل الانتقادات العامة، على أساس أن إعطاء الجمهور مصلحة مالية مباشرة قد يعزز الدعم الشعبي للقطاع.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "تحقيق التميز التشغيلي بمساعدة الذكاء الاصطناعي",
+   "summary": "يستعرض الخبر كيفية استخدام أطر عمل مثل Lean Six Sigma وإدارة العمليات التجارية لتحقيق الكفاءة العملياتية. يوضح كيف يسهم الذكاء الاصطناعي في تنظيم العمليات المعقدة وتطبيق الصرامة الإحصائية والتحكم بالجودة بشكل متقدم.",
+   "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "تطبيق الذكاء الاصطناعي في تشغيل البنية الأساسية الضخمة",
+   "summary": "يركز الخبر على دور الذكاء الاصطناعي في القطاعات الحيوية التي تعتمد على البنية التحتية والاستمرارية التشغيلية والسلامة. بعيداً عن التطبيقات الموجهة للمستهلك، يحقق الذكاء الاصطناعي نتائج جوهرية في إدارة الأنظمة الفيزيائية المعقدة.",
+   "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "ترامب يحصل على حصة بنسبة 5% من OpenAI، أقل من المطالب السابقة",
+   "summary": "تشير التقارير إلى أن الرئيس ترامب حصل على نسبة ملكية محدودة من OpenAI بنسبة 5%، وهي أقل من النسب المقترحة سابقاً. يأتي هذا وسط حوارات جارية بين الإدارة الأمريكية وقيادة الشركة.",
+   "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "منصة إكس تشكل خطراً على خصوصية الأمريكيين بحسب الدعاة",
+   "summary": "حذّرت جماعات دفاع عن الخصوصية لجنة التجارة الفيدرالية من مخاطر منصة إكس التابعة لإيلون ماسك. طالبوا اللجنة برفض محاولات إلغاء الإشراف على المنصة وسط مخاوف تتعلق بتطبيقات الذكاء الاصطناعي.",
+   "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
    "date": "2026-07-02"
   },
   {
@@ -24,46 +88,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "OpenAI تعرض منح إدارة ترامب حصة من أرباح ثورة الذكاء الاصطناعي",
-   "summary": "طرحت OpenAI فكرة منح الحكومة الأمريكية حصة ملكية بنسبة 5% من الشركة، بهدف تخفيف التوترات مع إدارة ترامب والتصدي للانتقادات المتزايدة ضد الذكاء الاصطناعي. يرى الرئيس التنفيذي أن إعطاء الجمهور مصلحة مالية في الشركة قد يحسّن سمعتها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "تحقيق التميز التشغيلي بفضل الذكاء الاصطناعي",
-   "summary": "يستعرض المقال كيفية دمج الذكاء الاصطناعي مع أطر العمل الإدارية التقليدية مثل Lean Six Sigma وإدارة العمليات، لتحسين الكفاءة التشغيلية والسيطرة على تعقيد العمليات التجارية.",
-   "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "تطبيق الذكاء الاصطناعي في تحسين كفاءة محطات الطاقة",
-   "summary": "يتجاوز تطبيق الذكاء الاصطناعي مجال التطبيقات الاستهلاكية إلى قطاعات حيوية تتطلب موثوقية عالية وسلامة تشغيلية. في البنية التحتية والصناعات الثقيلة، يصبح الذكاء الاصطناعي أداة جوهرية لتحسين الأداء والاستمرارية التشغيلية.",
-   "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "OpenAI توافق على حصة أمريكية بنسبة 5% بعد مفاوضات مع إدارة ترامب",
-   "summary": "تجري مفاوضات نشطة بين الرئيس التنفيذي لـ OpenAI سام ألتمان وإدارة ترامب حول حصة الشركة الأمريكية، بنسبة أقل مما كان يستهدفه منتقدون آخرون. تعكس هذه الخطوة تأثير الضغوط السياسية على استراتيجية الشركات التقنية الكبرى.",
-   "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "منظمات حقوقية تحذر لجنة التجارة الفيدرالية من أخطار X على الخصوصية",
-   "summary": "طالبت جماعات حماية الخصوصية لجنة التجارة الفيدرالية برفض طلب إيلون ماسك إنهاء الرقابة على منصة X، مستشيرة بمخاطر متعلقة بالذكاء الاصطناعي وحماية بيانات المستخدمين. يعكس الموقف قلقاً متزايداً من تأثير ممارسات معالجة البيانات على الأمان الشخصي للمستخدمين.",
-   "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
    "date": "2026-07-02"
   },
   {
@@ -104,30 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQME9uNHV2MzZhM3JZSW85Y2lFSVlJZzhVellPZ2duM0xQVTBfNmdjWTJ6WXFIaFFpR3pVbllyaGFnUjBVTTBTaENFMExWX0FKdzJOcmtHbDhvM0lXT3o1Rlp0alBPeGhGRFFDd2Zhak40WHEyYXlhMGhWNDBUWVRERkhzS29SMkdmU2k1SzBVMHREUmZaUVA4eFU3cVJHTnZPWUE?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "الخطأ الشائع: الاعتماد على الذكاء الاصطناعي كحل سريع",
-   "summary": "اتضح أن شركة فورد وليست وحدها وقعت في فخ توقع حلول فورية من تقنيات الذكاء الاصطناعي، لكن الواقع يشير إلى ضرورة استراتيجيات تطبيق أطول مدى وأكثر تعقيداً.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZHhZeDJENUlzSU1jdmJaRTlld24yRXUyeFBPejNGOW5Fc0J6UTBkck9ldHk5NFVBRFY3bFJrRGRpZ0JJRTBDVE02cVpxRWZRQVhnbHBCN19fQ1FNVE12TWt4dmhUMGxUUFZ4Y0ZMYVU5ell1Q1lWeU5IdnhUNDdacFJXOWxnYTFMdm44UnRjVGxNMFVPVzVmc3JZejVFVFM3M2p4YmE2Qy1Sdw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "الذكاء الاصطناعي يدخل قطاع الطباعة الاحترافية",
-   "summary": "تطبيقات الذكاء الاصطناعي بدأت تؤثر على عمليات الطباعة الصناعية والاحترافية، مما يسهم في تحسين جودة الإنتاج والكفاءة التشغيلية.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWm1paDlOY0NyNVVNRTBIaEVsTVJ4dThSX216bTVzX1FEYkxhQ3pFaWNHVk9IVm1iT2xRejE5YndEeVNCMjR2dXJiRDdYVlB0Z2dWQUpkTXlFdzRWc1NReFhHdlE0VWhyUEE4NHhVclZQNnhEakhjQmRGTE1rSUhVU25xb3N3cHB3VXp2RnNuTQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "أوبن إيه آي تجري مفاوضات أولية لمنح الحكومة الأمريكية نسبة من أسهمها",
-   "summary": "تشير تقارير إلى أن شركة أوبن إيه آي في مراحل حوار مبكرة مع الحكومة الأمريكية حول احتمالية منحها حصة ملكية بنسبة 5 بالمئة، وهي خطوة قد تعكس رغبة في تعزيز الإشراف الحكومي على الشركة.",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXdDM0xqUWpsNGxvS0NWd2RXRE5XVXZISXE3ZXE3VGtxNFNEUmhXNXA4bGNLekhtZlYwVjlUNDY3TWVIaktpZjBuY0NLYmtnWF9CbFFLRnRtVmdDcXlzd1h0X1hHR3F6YVdxSGRaQ0dCcnR5R3N2VUk5WmMxM3RWY3BiWEpXcEpQdlk5dWQtbnE0V0dKLVE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-07-02"
   }
  ]
