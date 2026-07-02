@@ -1,29 +1,77 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-02T06:28:53.774107+00:00",
+ "updated": "2026-07-02T11:25:30.717878+00:00",
  "items": [
   {
-   "title": "رائد تقني هندي يستثمر 30 مليون دولار لبناء منصة ذكاء اصطناعي منافسة لمايكروسوفت أوفيس",
-   "summary": "أطلق بهافين توراخيا منصة جديدة باسم \"نيو\" تعتمد على الذكاء الاصطناعي لتقديم بدائل عن تطبيقات مايكروسوفت أوفيس وجوجل وورك سبيس. يستثمر توراخيا من ماله الخاص لتطوير هذه المنصة التي تمثل مشروعه الخامس في مجال البرمجيات الموجهة للشركات.",
+   "title": "رائد تقني هندي يستثمر 30 مليون دولار لبناء بديل ذكي عن مكتب مايكروسوفت",
+   "summary": "أطلق رائد الأعمال الهندي بهافين توراخيا منصة جديدة باسم نيو تستهدف منافسة تطبيقات الإنتاجية من مايكروسوفت وجوجل، معتمدة على تقنيات الذكاء الاصطناعي. وهي تمثل مشروعه الخامس في مجال البرمجيات الموجهة للمؤسسات.",
    "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-02"
   },
   {
-   "title": "سهم ذكاء اصطناعي موصى به للاستثمار طويل الأمد",
-   "summary": "تحليل استثماري يستعرض خياراً سهمياً في قطاع الذكاء الاصطناعي يعتبره محللون مناسباً للاحتفاظ به لعقد من الزمن، بناءً على معايير أداء واستقرار مالي.",
+   "title": "أوبنإيه تدرس منح إدارة ترامب حصة من أرباح الذكاء الاصطناعي",
+   "summary": "طرحت شركة أوبنإيه فكرة إعطاء الحكومة الأمريكية حصة ملكية بنسبة 5 في المئة كمحاولة لتخفيف التوتر مع إدارة ترامب والرد على الانتقادات المتزايدة. يرى الرئيس التنفيذي سام ألتمان أن منح الجمهور مصلحة مالية مباشرة قد يعدل النقاش العام حول الشركة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "أمريكا اللاتينية والكاريبي توضع خارطة طريق إقليمية موحدة مع اليونسكو",
+   "summary": "وضعت دول أمريكا اللاتينية والكاريبي خارطة طريق إقليمية مشتركة بالتعاون مع منظمة اليونسكو، بهدف تنسيق جهودها في مجالات التعليم والثقافة والتنمية المستدامة على المستوى الإقليمي.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWpDU0o4aVJUZGpWZUJWTl9IZnRBbVc5ME1tR3Bob0FQS3c1ZnFmcUtEOW80VVZzOWR1V05vc1ZfV0l4V19maWRFLTQtaEcyVXE0QXJTV2RIZEpqSlBHY01kT2c1OUJZdF8xNTJ0d3RBYW9FY2dJSmRCOTRaVlRFZkE1Z05PWnUxeGlDdnVjRnlwLVdNSzhlR1JnN3lOQnRwWmtQUUM2Zmd2cGN0dnoyblp1SExMa0g2eUtKbkpTTHpKbkt5SjRR?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "سهم في مجال الذكاء الاصطناعي يستحق الاستثمار طويل الأجل",
+   "summary": "حددت تقارير استثمارية سهماً متخصصاً في قطاع الذكاء الاصطناعي يتمتع بآفاق نمو طويلة الأجل وقدرة على تحقيق عوائد مستقرة للمستثمرين.",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQME9uNHV2MzZhM3JZSW85Y2lFSVlJZzhVellPZ2duM0xQVTBfNmdjWTJ6WXFIaFFpR3pVbllyaGFnUjBVTTBTaENFMExWX0FKdzJOcmtHbDhvM0lXT3o1Rlp0alBPeGhGRFFDd2Zhak40WHEyYXlhMGhWNDBUWVRERkhzS29SMkdmU2k1SzBVMHREUmZaUVA4eFU3cVJHTnZPWUE?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-02"
   },
   {
-   "title": "تطبيقات الذكاء الاصطناعي في الطباعة الإنتاجية",
-   "summary": "تقرير متخصص يبحث دور تقنيات الذكاء الاصطناعي في تحسين عمليات الطباعة الصناعية والتجارية وتأثيرها على كفاءة الإنتاج والجودة.",
+   "title": "الخطأ الشائع: الاعتماد على الذكاء الاصطناعي كحل سريع",
+   "summary": "اتضح أن شركة فورد وليست وحدها وقعت في فخ توقع حلول فورية من تقنيات الذكاء الاصطناعي، لكن الواقع يشير إلى ضرورة استراتيجيات تطبيق أطول مدى وأكثر تعقيداً.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZHhZeDJENUlzSU1jdmJaRTlld24yRXUyeFBPejNGOW5Fc0J6UTBkck9ldHk5NFVBRFY3bFJrRGRpZ0JJRTBDVE02cVpxRWZRQVhnbHBCN19fQ1FNVE12TWt4dmhUMGxUUFZ4Y0ZMYVU5ell1Q1lWeU5IdnhUNDdacFJXOWxnYTFMdm44UnRjVGxNMFVPVzVmc3JZejVFVFM3M2p4YmE2Qy1Sdw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "الذكاء الاصطناعي يدخل قطاع الطباعة الاحترافية",
+   "summary": "تطبيقات الذكاء الاصطناعي بدأت تؤثر على عمليات الطباعة الصناعية والاحترافية، مما يسهم في تحسين جودة الإنتاج والكفاءة التشغيلية.",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWm1paDlOY0NyNVVNRTBIaEVsTVJ4dThSX216bTVzX1FEYkxhQ3pFaWNHVk9IVm1iT2xRejE5YndEeVNCMjR2dXJiRDdYVlB0Z2dWQUpkTXlFdzRWc1NReFhHdlE0VWhyUEE4NHhVclZQNnhEakhjQmRGTE1rSUhVU25xb3N3cHB3VXp2RnNuTQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "أوبن إيه آي تجري مفاوضات أولية لمنح الحكومة الأمريكية نسبة من أسهمها",
+   "summary": "تشير تقارير إلى أن شركة أوبن إيه آي في مراحل حوار مبكرة مع الحكومة الأمريكية حول احتمالية منحها حصة ملكية بنسبة 5 بالمئة، وهي خطوة قد تعكس رغبة في تعزيز الإشراف الحكومي على الشركة.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXdDM0xqUWpsNGxvS0NWd2RXRE5XVXZISXE3ZXE3VGtxNFNEUmhXNXA4bGNLekhtZlYwVjlUNDY3TWVIaktpZjBuY0NLYmtnWF9CbFFLRnRtVmdDcXlzd1h0X1hHR3F6YVdxSGRaQ0dCcnR5R3N2VUk5WmMxM3RWY3BiWEpXcEpQdlk5dWQtbnE0V0dKLVE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "نموذج ذكاء اصطناعي صيني منخفض التكلفة يضيّق الفجوة مع نظرائه الأمريكيين",
+   "summary": "تطور نموذج ذكاء اصطناعي صيني جديد بتكاليف أقل يحقق أداءً تنافسياً في مقاييس الأداء العالمية. يعكس هذا التقدم سباق عالمي متسارعاً على تطوير أنظمة ذكاء اصطناعي متقدمة وفعّالة من حيث التكلفة.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "أوبن إيه آي تعرض حصة بنسبة 5% على إدارة ترامب",
+   "summary": "قدمت شركة أوبن إيه آي عرضاً لتخصيص 5% من ملكيتها للإدارة الأمريكية الجديدة. يأتي هذا العرض في سياق تحركات استراتيجية لتعزيز العلاقات مع صناع السياسة الأمريكيين.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVFSLVZmZnlwTE9XTWNBVmo0WXFobFR5ZUgzODhuQTlZTlJVRnZlMElQT00zMTRLTVRzeVpINlpndkF5bFB1QTZhV0l6SXByMW1UVHpYZm02Z2RQVWJDaDZiU2JBcUdYbi0wenh5ck0xQWpVSnJTX3FhZ0Qwa2xkdEZkRm8?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-02"
   },
   {
@@ -59,16 +107,16 @@ window.NEWS_DATA = {
    "date": "2026-07-02"
   },
   {
-   "title": "سبيس إكس تعرض نموذجاً أولياً لجهاز ذكاء اصطناعي يشبه الهاتف الذكي",
-   "summary": "كشفت تقارير أن شركة سبيس إكس عرضت على المستثمرين جهازاً يعمل بالذكاء الاصطناعي بشكل مشابه للهاتف المحمول، مما يعكس طموح الشركة للتوسع في مجال الاتصالات اللاسلكية والخدمات المحمولة.",
+   "title": "سبيس إكس تكشف عن نموذج أولي لجهاز ذكاء اصطناعي يشبه الهاتف الذكي",
+   "summary": "طورت سبيس إكس نموذجاً أولياً لجهاز ذكاء اصطناعي محمول يشبه الهاتف، عرضته على المستثمرين مؤخراً. قد يشير هذا التطور إلى خطط الشركة للتوسع في مجال الاتصالات اللاسلكية والخدمات المتنقلة.",
    "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-01"
   },
   {
-   "title": "أشتون كوتشر يترك صندوق \"ساوند فينتشرز\" لتأسيس شركة استثمار جديدة مع مورجان بيلر",
-   "summary": "يرحل الممثل والمستثمر أشتون كوتشر من صندوق ساوند الذي اشتهر باستثماراته في شركات الذكاء الاصطناعي الرائدة، ليركز الصندوق الجديد على البنية التحتية والطاقة التي تدعم هذه الشركات بدلاً من الشركات ذاتها.",
+   "title": "أشتون كوتشر يترك صندوق إستثمارات لتأسيس صندوق رأسمالي جديد",
+   "summary": "غادر رائد الأعمال أشتون كوتشر صندوق Sound Ventures لإطلاق صندوق استثمار جديد مع مورغان بيلر. يركز الصندوق الجديد على البنية التحتية والطاقة التي تدعم شركات الذكاء الاصطناعي، بدلاً من شركات المختبرات نفسها.",
    "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -80,54 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "فينيس إيه آي تصل لقيمة مليار دولار بتمويل 65 مليون دولار وتحقق أرباحاً",
-   "summary": "أداة جديدة ظهرت باسم فينيس إيه آي، منصة ذكاء اصطناعي تركز على الخصوصية، حققت مكانة الشركات الناشئة قيمة المليار دولار. تتمتع المنصة بربحية فعلية مع إيرادات سنوية تتجاوز 70 مليون دولار.",
-   "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "مساعد جيميني سبارك الذكي من جوجل متاح الآن على نظام ماك",
-   "summary": "أطلقت جوجل مساعدها الذكي جيميني سبارك على حواسيب ماك بميزات محسّنة تتضمن تتبعاً فوري ودعماً لتطبيقات إضافية. يعمل المساعد على مدار الساعة لتنفيذ المهام المعقدة.",
-   "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "جوجل تطرح مكبر صوت ذكياً متقدماً لكن جيميني لم يبلغ النضج المطلوب",
-   "summary": "طورت جوجل مكبر صوت ذكياً بجودة عالية، إلا أن مساعدها الذكي جيميني لم يصل بعد إلى مستوى النضج الكافي ليقدم القيمة المتوقعة. تسعى المتاجر الذكية منذ سنوات للبحث عن تطبيقات جديدة تبرر وجودها خارج الموسيقى والمنبهات.",
-   "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "أنثروبيك تستعيد خدمة كلود فيبل 5 بعد توقف طويل",
-   "summary": "بعد تفاوضات مع إدارة ترامب، حصلت شركة أنثروبيك على الموافقة لإعادة تفعيل نموذج كلود فيبل 5 عالمياً. أعلنت الشركة عن خطتها لاستعادة الوصول للمستخدمين اعتباراً من الأربعاء عبر منصات كلود المختلفة وخدمات أمازون ويب سيرفيسز.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "ناشئة تسعى لتحرير نماذج اللغة من الاستجابات الموحدة",
-   "summary": "تكشف دراسة أن نماذج اللغة الكبرى تميل لتقديم إجابات متشابهة لأسئلة عشوائية بسبب التدريب المتشابه. تركز الناشئة على حل هذه المشكلة بإضفاء تنوع حقيقي على استجابات الذكاء الاصطناعي.",
-   "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "الولايات المتحدة ترفع القيود عن نماذج أنثروبيك المتقدمة عالمياً",
-   "summary": "رفعت الولايات المتحدة القيود المفروضة على نماذج فيبل وميثوس المتقدمة من أنثروبيك، مما يسمح بإطلاقها على المستوى العالمي. يأتي القرار بعد اجتيازها اختبارات السلامة المطلوبة.",
-   "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
    "date": "2026-07-01"
   }
  ]
