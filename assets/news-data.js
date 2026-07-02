@@ -1,34 +1,90 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-01T22:12:07.688033+00:00",
+ "updated": "2026-07-02T06:28:53.774107+00:00",
  "items": [
   {
-   "title": "سبايس إكس تعرض جهازاً ذكياً بتصميم يشبه الهاتف المحمول",
-   "summary": "كشفت سبايس إكس عن نموذج أولي لجهاز ذكي أمام المستثمرين قبل طرحها العام، بتصميم يحاكي الهواتف الذكية. يشير هذا إلى اهتمام الشركة بالتوسع في مجال الاتصالات اللاسلكية بجانب أنشطتها الفضائية.",
+   "title": "رائد تقني هندي يستثمر 30 مليون دولار لبناء منصة ذكاء اصطناعي منافسة لمايكروسوفت أوفيس",
+   "summary": "أطلق بهافين توراخيا منصة جديدة باسم \"نيو\" تعتمد على الذكاء الاصطناعي لتقديم بدائل عن تطبيقات مايكروسوفت أوفيس وجوجل وورك سبيس. يستثمر توراخيا من ماله الخاص لتطوير هذه المنصة التي تمثل مشروعه الخامس في مجال البرمجيات الموجهة للشركات.",
+   "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "سهم ذكاء اصطناعي موصى به للاستثمار طويل الأمد",
+   "summary": "تحليل استثماري يستعرض خياراً سهمياً في قطاع الذكاء الاصطناعي يعتبره محللون مناسباً للاحتفاظ به لعقد من الزمن، بناءً على معايير أداء واستقرار مالي.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQME9uNHV2MzZhM3JZSW85Y2lFSVlJZzhVellPZ2duM0xQVTBfNmdjWTJ6WXFIaFFpR3pVbllyaGFnUjBVTTBTaENFMExWX0FKdzJOcmtHbDhvM0lXT3o1Rlp0alBPeGhGRFFDd2Zhak40WHEyYXlhMGhWNDBUWVRERkhzS29SMkdmU2k1SzBVMHREUmZaUVA4eFU3cVJHTnZPWUE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "تطبيقات الذكاء الاصطناعي في الطباعة الإنتاجية",
+   "summary": "تقرير متخصص يبحث دور تقنيات الذكاء الاصطناعي في تحسين عمليات الطباعة الصناعية والتجارية وتأثيرها على كفاءة الإنتاج والجودة.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWm1paDlOY0NyNVVNRTBIaEVsTVJ4dThSX216bTVzX1FEYkxhQ3pFaWNHVk9IVm1iT2xRejE5YndEeVNCMjR2dXJiRDdYVlB0Z2dWQUpkTXlFdzRWc1NReFhHdlE0VWhyUEE4NHhVclZQNnhEakhjQmRGTE1rSUhVU25xb3N3cHB3VXp2RnNuTQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "سهم ذكاء اصطناعي بانخفاض 30%: هل يستحق الشراء؟",
+   "summary": "تحليل استثماري يقيّم فرصة شراء سهم متراجع في قطاع الذكاء الاصطناعي، مستعرضاً المؤشرات الأساسية والتوقعات المستقبلية له.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd0FkaS1zb2hybzFPa3VycFlIVklHRzJwQ0h0a2gwa1k0cG00dmtNVXhsanZ5MVVhZUlQLXVJOV9SbHZrOUZfTnRybkU5Y0w0SXVMVndOcDJHLVZOYTBVUlN0aWE4ejd1Y2tSV19EaEt4S19tZXBid0JUMUN4TXF2YVUxS2xoNUNCVm9JbnB3ZHBJY29EcHFCcg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "OpenAI تعرض حصة من أسهمها لإدارة ترامب لتخفيف الضغوط",
+   "summary": "تقرر OpenAI تقديم 5% من أسهمها لإدارة ترامب كخطوة لتحسين علاقاتها مع الحكومة والتخفيف من الضغوط التنظيمية والسياسية عليها.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmlORndTRDBueEJHV25lbTl2ejNISG9xT09Vbk01NzNCNnoxNmpIdVZJeUdHV19qWU9IUWdncnQ3Q1BYRjZ3SFJCaE53REFzYVN2em1TbldqYi03eklMaFRJVk9NVm9XM2F3My1xN2k1czcxQU9uOG9fSWFHa1oxRUVzRFk4QmI2Smd4cG9wZTN0OURZTkZOQ2dsOHdzWW8wYTFEQ0V6Q3lKR1NSYS1YcWVaMFJYQdIBuwFBVV95cUxPWEdwWkRiR25HQmRfNTB5VG10bElQUDYzb3lQQ3UxNHU5dmd2UTRDdmxfeHdoMkZza21yTEhOWWI3NGxxVlJXOHp0T25fT2FDYXhfX0RzM2l6c1ppZXpkLVNFMHlfVVBDWTJvVW5EQndfcUpIWDZVdDlVR3gwTjFxTXl0LUktRUl1RmtGaFBuN1FJQnRSMDY3X0dMLW9GQmJPemdBUE1US29ELTdFcFBrM2diMmV3RjZpQzM0?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "OpenAI تقترح منح إدارة ترامب حصة بنسبة 5%",
+   "summary": "وسائل إعلام تفيد بأن OpenAI طرحت فكرة تسليم حصة 5% من الشركة للإدارة الأمريكية الجديدة كمسعى للتوافق مع السلطات.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUNkeGxUSzgzdlZ3STBUWGtaU3pHVUFhUWlCYWh6MVZKVjNnckJRTVBiNFF0d0ZvTjB0OWtGcWtxR1ZIY1lLVUdtSHQ4LXY3MUQ4ZHNIdkFyMzRuOXZkaEVqMDBaTjRkeXYzcGNTVWg2TEwxWUNVVFJDcEtSbUFnd2J1NzVJLXJPX3lHcG1icFh3YmxqMDR0cS1qTW85ZnpQeXBwdUNuQjBETmIw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "اختتام نزاع Anthropic حول الخرافات: بداية معركة تنظيم الذكاء الاصطناعي",
+   "summary": "انتهاء الجدل حول نموذج Anthropic الخاص بـ الخرافات يعكس تطوراً أوسع في الصراع السياسي والتنظيمي حول كيفية التحكم بتطور تقنيات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONGxtLW5LemZKSFktSWtMcFNfa0YycHpsSzdWM1lKMmx0RG1PQ1U4dTliRmlKSk1VYXpWMWxGUElNUWNLSTFKWmJXOVV4a1RBMVVMeEFXSnZlODBWS2pPRzFLcVR4UDVGaHZ0SXE5YWxydjk3VlVZbEV2R3J1NW9UdUU0Mm8ybm83Y1g2TWpXUjlXNE03ZDd0cDhoOW0zUFowUVRFTnFka0xKSVBlWWZ6VVZ5ckI?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "سبيس إكس تعرض نموذجاً أولياً لجهاز ذكاء اصطناعي يشبه الهاتف الذكي",
+   "summary": "كشفت تقارير أن شركة سبيس إكس عرضت على المستثمرين جهازاً يعمل بالذكاء الاصطناعي بشكل مشابه للهاتف المحمول، مما يعكس طموح الشركة للتوسع في مجال الاتصالات اللاسلكية والخدمات المحمولة.",
    "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-01"
   },
   {
-   "title": "أشتون كاتشر يترك صندوق Sound Ventures لتأسيس شركة استثمار جديدة",
-   "summary": "يترك النجم أشتون كاتشر صندوقه الاستثماري Sound Ventures ليؤسس مع مورغان بيلر شركة استثمار جديدة تركز على البنية التحتية والطاقة التي تدعم شركات الذكاء الاصطناعي، بدلاً من الاستثمار المباشر في المختبرات الرائدة.",
+   "title": "أشتون كوتشر يترك صندوق \"ساوند فينتشرز\" لتأسيس شركة استثمار جديدة مع مورجان بيلر",
+   "summary": "يرحل الممثل والمستثمر أشتون كوتشر من صندوق ساوند الذي اشتهر باستثماراته في شركات الذكاء الاصطناعي الرائدة، ليركز الصندوق الجديد على البنية التحتية والطاقة التي تدعم هذه الشركات بدلاً من الشركات ذاتها.",
    "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-01"
   },
   {
-   "title": "كلاودفليير تفرض سياسة جديدة لدفع شركات الذكاء الاصطناعي مقابل محتوى الناشرين",
-   "summary": "حددت كلاودفليير موعداً نهائياً في 15 سبتمبر لشركات الذكاء الاصطناعي لفصل برامج الزحف المستخدمة للبحث عن تلك المخصصة للتدريب والوكلاء، وإلا ستواجه حجباً افتراضياً على العديد من مواقع الناشرين.",
+   "title": "كلاودفلير تفرض على شركات الذكاء الاصطناعي الدفع مقابل محتوى الناشرين",
+   "summary": "أعطت كلاودفلير شركات الذكاء الاصطناعي حتى 15 سبتمبر لفصل برامج الزحف المخصصة لمحركات البحث عن تلك المستخدمة لتدريب الذكاء الاصطناعي، وإلا ستواجه حجباً افتراضياً على عديد من مواقع الناشرين.",
    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-01"
   },
   {
-   "title": "منصة فينيس إيه آي تحقق مكانة اليونيكورن برفع استثماري بـ 65 مليون دولار",
-   "summary": "وصلت منصة فينيس إيه آي التي تركز على الخصوصية لتقييم يونيكورن، بعد جمعها 65 مليون دولار في جولة تمويل أولى. تحقق المنصة أرباحاً بالفعل مع إيرادات سنوية تتجاوز 70 مليون دولار حسب تصريح الرئيس التنفيذي.",
+   "title": "فينيس إيه آي تصل لقيمة مليار دولار بتمويل 65 مليون دولار وتحقق أرباحاً",
+   "summary": "أداة جديدة ظهرت باسم فينيس إيه آي، منصة ذكاء اصطناعي تركز على الخصوصية، حققت مكانة الشركات الناشئة قيمة المليار دولار. تتمتع المنصة بربحية فعلية مع إيرادات سنوية تتجاوز 70 مليون دولار.",
    "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -72,62 +128,6 @@ window.NEWS_DATA = {
    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
    "source": "Ars Technica AI",
    "tag": "تقنية",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "أداة مساعد تصميم بمحرك ذكاء اصطناعي",
-   "summary": "أداة جديدة ظهرت باسم Adam CAD Copilot، وهي مساعد يعتمد على الذكاء الاصطناعي لدعم مصممي الرسومات والهندسة في تسريع عملياتهم. تهدف إلى تحسين إنتاجية المصممين من خلال أتمتة المهام الروتينية واقتراحات ذكية أثناء التصميم.",
-   "url": "https://www.producthunt.com/products/adam-cad-copilot",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "جامعة ويسكونسن تطلق كلية متخصصة للحوسبة والذكاء الاصطناعي",
-   "summary": "أعلنت جامعة ويسكونسن-ماديسون عن إنشاء كلية جديدة مخصصة للحوسبة والذكاء الاصطناعي، وهي خطوة تعكس الأهمية المتزايدة لهذه التخصصات في التعليم العالي. تسعى الكلية إلى تدريب الكوادر المتخصصة وإجراء البحوث المتقدمة في هذا المجال.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFk3N2hnN0d4MHo5bmFJUW9NMm92WERQYThJR1RERm5NMXQtTkJKRkl4UW5LMHlSanNTYkVhN045RGFndmVCMEhEcEQ2cEh4RHZ0aTNVM2ZPcjdFbDFJYnhsbzEwV1dVbFQ3VGVfNzNSVF9HMWxwSk9uZlVNdlBtZEcxRjhkOVFfU05UaHRvSFVoT0stOHNLZnlHUHJJNnI2b1VyNTJWMmQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "دور الذكاء الاصطناعي في بناء مجتمعات صديقة لكبار السن",
-   "summary": "تسلط جامعة روتجرز الضوء على أهمية تطبيقات مثل وسائل التواصل ومكالمات الفيديو والذكاء الاصطناعي في تحسين جودة حياة المسنين. تؤكد الدراسة كيف يمكن لهذه التقنيات تقليل العزلة والشعور بالوحدة لدى كبار السن وتعزيز تفاعلهم الاجتماعي.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGVQdXIzZHlnVUhaQkdNeDg2bjZIcVNsa3cxUFc0Sk5Pc3JHbGpRMzB2dGlhdmpBTERkMTVCc0U0Z1gySE53M1NERkE2TDB4UFRFSXdBd0VXdlh1dVNQSm5HbGxFVkdYV2VrX1hjT1RUZHk3QzJqbEN1WkpTNlo5M3Z0QVMxdFVWZXZVdEtLcWpkOVc2WG91Y3M1alBzQWlpUTNZWmhQWExrZW04ZGhMWHBTSQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "منصة Builders Stage تعود إلى مؤتمر TechCrunch Disrupt 2026",
-   "summary": "ستستضيف منصة Builders في مؤتمر TechCrunch Disrupt 2026 أكثر من 10 آلاف مؤسس وصاحب مشروع ومستثمر لمناقشات عملية حول بناء الشركات الناشئة وتطويرها. سيتمكن المسجلون من الاستفادة من حسومات تصل إلى 330 دولار على رسوم الاشتراك.",
-   "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "ميتا تنافس عمالقة السحابة ببيع خدمات الحوسبة الذكية الزائدة",
-   "summary": "تعد شركة ميتا لإطلاق خدمة بنية تحتية سحابية توفر للعملاء إمكانية الوصول إلى موارد الحوسبة والنماذج القائمة على الذكاء الاصطناعي. هذه الخطوة ستجعلها منافساً مباشراً للعمالقة الكبار مثل أمازون وجوجل وميكروسوفت في سوق خدمات السحابة.",
-   "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "مبتكر بروتوكولات الإنترنت الأب يودّع حياته المهنية",
-   "summary": "سيترك فينتون سيرف، أحد المؤسسين الرئيسيين للبروتوكولات التي تشكل أساس الإنترنت، منصبه كرئيس السفراء الرقميين في جوجل الأسبوع المقبل. يمثل هذا الخروج نهاية فصل طويل من الريادة التقنية التي امتدت لعقود.",
-   "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "المؤسسة الوطنية للعلوم تُعلن عن مراكز تنسيق متخصصة في الذكاء الاصطناعي",
-   "summary": "تستعد المؤسسة الوطنية للعلوم الأمريكية لإطلاق مراكز تنسيق موزعة في مختلف الولايات لدعم أبحاث وتطبيقات الذكاء الاصطناعي. تهدف هذه المراكز إلى تعزيز التعاون بين الجامعات والمؤسسات البحثية والصناعة في مجال تطوير تقنيات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFZTOE9fclJSWkJIVmR5cl95NVhBXy1iVjl1Qk80dDhya0tXTC12Slh2cXBnbjJOVGhNcHFEcEJRSWpqb2I2dEM4QTl1eGVOdnczRlFPLS1GZHhKQTJyZ1VmWnFsVkZTcllONk1XUWZ4ZWZkVGtzOXJ1Z3BOR0tSeERzeV9lUjcydHluYXViMHdhc3pnSVY2Yng4LUpMSHpLdFdIMExBOUI2amR0T0JvM2dB?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-01"
   }
  ]
