@@ -1,13 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-03T11:24:18.280653+00:00",
+ "updated": "2026-07-03T16:18:33.960486+00:00",
  "items": [
   {
-   "title": "الذكاء الاصطناعي في ابتكار الغذاء",
-   "summary": "تسلط الأضواء على دور الذكاء الاصطناعي في تطوير حلول غذائية جديدة وتحسين عمليات الإنتاج الغذائي. يعكس هذا التوجه اهتمام الصناعة بدمج التقنيات الذكية لمعالجة التحديات الغذائية العالمية.",
+   "title": "أنثروبك تدخل مجال تطوير الأدوية عبر منصة ذكاء اصطناعي متخصصة",
+   "summary": "أعلنت شركة أنثروبك عن منصة جديدة تُدعى كلود ساينس موجهة للباحثين العلميين، تجمع الأدوات والبيانات المتفرقة في بيئة موحدة وتولد الرسوم البيانية والمخططات البصرية، ما يفتح آفاقاً جديدة لتطبيقات الذكاء الاصطناعي في البحث العلمي والصيدلي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "منجرني تكشف عن جهاز مسح طبي مستقبلي لكن بدون إثباتات عملية واضحة",
+   "summary": "نشرت شركة منجرني المتخصصة في توليد الصور مقطعاً خلف الكواليس لجهاز مسح بالموجات فوق الصوتية مستحدث تخطط لنشره في منشآت صحية وسبا، غير أنها لم تقدم حتى الآن براهين تجريبية قوية على فعالية هذا الجهاز.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "آخر أخبار تقنيات التسويق المدعومة بالذكاء الاصطناعي",
+   "summary": "تغطية شاملة للأخبار والإصدارات الحديثة في مجال تطبيقات الذكاء الاصطناعي على قطاع التسويق الرقمي، تتضمن التطورات التكنولوجية والحلول المبتكرة التي تحسّن كفاءة الحملات التسويقية.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "عملاق رقائق الذكاء الاصطناعي يعزز أرباحه بخطوة جديدة قد تدفع أسهمه للارتفاع",
+   "summary": "شركة رائدة في تصنيع معالجات الذكاء الاصطناعي تسجل أداء ربحياً قوياً، وتعلن عن خطوة استراتيجية جديدة قد تؤثر إيجاباً على قيمة أسهمها في السوق.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUdsM016U09qbzE5X0R1LWZJTjZZNTZWYUI2RGRWQmlKbER2WkZvUGlqYWcyUjNPb0ZKTjgwVGt3UFVpMTNYN1VjZkQzeWtONS03TTVmU19wNk0wQ3kwT25fLXl6TUNWSjlHc2xLRGk4b3RZYTlOVTBIUmF2d01tU1RKTWo3TTE1WVNoODl4blJOcVpDdUhjc256Q21kRldKaTJSXw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "الذكاء الاصطناعي في خدمة الابتكار الغذائي",
+   "summary": "استخدام تقنيات الذكاء الاصطناعي في تحسين وابتكار المنتجات والعمليات الغذائية، مما يساهم في تطوير حلول جديدة في قطاع الصناعات الغذائية والزراعية.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMG1mV0ZMUTk3UzAzRlVxRTRBdWFrOFdRUnlITXRWUER0OHl4a2VUOWhyTld3RHV0ZWtXUnRsSVNmTHFwaXRYR0ZMMUNudVFQVlE4RGEtMllNZW53a3R3?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "عملاق رقائق الذكاء الاصطناعي يعزز أرباحه بخطوة جديدة قد تدفع أسهمه للارتفاع",
+   "summary": "شركة رائدة في تصنيع معالجات الذكاء الاصطناعي تسجل أداء ربحياً قوياً، وتعلن عن خطوة استراتيجية جديدة قد تؤثر إيجاباً على قيمة أسهمها في السوق.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVZ5RUFQSVhmZDIzc1p5X2ZGVVotMFFIMXNEMUxUZUxleHdjbWRSS0x1T1dvVFBKd1BVc083THh4M1ViT09Vb2M1X3U4NWY3SXpwcFNNX0w5b25PWlEtTXAtRjY3Z3FZWWxybk1VNnZnYnlVellONzVPdVVxQlRWR1lfYi1PZnF1RDdYUmhJWnp0dGF5ZXhMNA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "قائمة فوربس لأفضل 50 شركة ذكاء اصطناعي لعام 2026",
+   "summary": "نشرت مجلة فوربس قائمة سنوية تضم أبرز الشركات العاملة في مجال الذكاء الاصطناعي، تعكس أهم اللاعبين والمبتكرين في هذا القطاع سريع النمو.",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "الصحفية كارين هاو تناقش سام ألتمان وأوبن إيه آي والدفع \"شبه الديني\" نحو الذكاء الاصطناعي",
+   "summary": "تحليل نقدي من الصحفية كارين هاو حول توجهات قيادة أوبن إيه آي وسام ألتمان في الترويج للذكاء الاصطناعي، وكيفية اتخاذ هذا الدفع طابعاً شبه ديني يتجاوز الحسابات التقنية والعملية المعروفة.",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTZ2pKc2dJTWtnTENqV08xUnMxbGxnMm0xYjFPYnJMb3pOd09vQUhYRFdaUEhUM2IwUktMaVdmeVNNQV8wRnVpdmNzUjlqREdud3MwV3NUa2hYVEc1QW5IbVJ0T2JDV19vZmxJTmFoVmU4VkRSbThsdElSYmc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "أنثروبيك تفصّل آليات الحماية الأمنية في كلود 5 وإطار عملها لاختبار الثغرات",
+   "summary": "تقدم أنثروبيك تفاصيل إضافية عن التدابير الأمنية المدمجة في نسخة كلود 5 والإطار المنهجي الذي تستخدمه لاختبار واكتشاف نقاط الضعف المحتملة في النموذج.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "جيميني على أندرويد أوتو لا يزال يعاني من مشكلة لم تحلّها جوجل",
+   "summary": "يشير تقرير إلى أن جيميني على منصة أندرويد أوتو يستمر في الاحتفاظ بمشكلة معينة لم تتمكن جوجل من حلها حتى الآن، مما يؤثر على تجربة المستخدم في السيارات الذكية.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWHFKYXBaVlNEODNvdXd6TWdVZkRHVWtXWHN1Njgwd3pYV0pnZmVETnBZN0dIVDNzdW5KbmlULXRpVk4waTZtc3M4LUJXY0VETEJYR2dzckg1VlB6VlZiM0d1bHNBeTAwLWk3dFVCT3BQSVB3QVhWb1B0Wlo5RVVsWVJkdW0?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "أنثروبيك تسعى لسدّ الثغرات التي تمكّن الوصول الصيني إلى كلود",
+   "summary": "تتخذ أنثروبيك إجراءات لإغلاق الفجوات الأمنية والتقنية التي قد تسمح بوصول جهات صينية إلى نموذج كلود، في خطوة لحماية حدود الوصول الجغرافي والسياسات المفروضة.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-03"
   },
   {
@@ -35,22 +115,6 @@ window.NEWS_DATA = {
    "date": "2026-07-03"
   },
   {
-   "title": "معايير أمان إضافية في نموذج Fable 5 وإطار الاختبار الأمني",
-   "summary": "أعلنت Anthropic عن تعزيزات أمنية جديدة في نموذجها Fable 5، مصحوبة بإطار عمل لاختبار نقاط الضعف والثغرات. تهدف هذه الإجراءات إلى تحسين الموثوقية والحماية ضد الاستخدام الضار للنماذج اللغوية الكبيرة.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-03"
-  },
-  {
-   "title": "Anthropic تسد الثغرات التي تمكّن الوصول الصيني إلى Claude",
-   "summary": "تتحرك Anthropic لإغلاق قنوات تمكّن المستخدمين الصينيين من الالتفاف حول القيود الجغرافية والسياسية المفروضة على نموذج Claude. تعكس هذه الخطوة تعقيدات الامتثال الدولي والسيطرة على توزيع التقنيات الحساسة.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-03"
-  },
-  {
    "title": "علي بابا تمنع موظفيها من استخدام أداة البرمجة من Anthropic",
    "summary": "قررت شركة علي بابا الصينية منع منسوبيها من الاستفادة من أداة البرمجة التي طورتها شركة Anthropic، وفقاً لمصادر إعلامية. يعكس القرار تصعيداً محتملاً في النزاع التنافسي بين الشركات الصينية والغربية في مجال الذكاء الاصطناعي.",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
@@ -65,70 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-07-03"
-  },
-  {
-   "title": "أحدث أخبار تقنيات التسويق المدعومة بالذكاء الاصطناعي",
-   "summary": "مجموعة من الأخبار والإصدارات الجديدة في مجال التسويق الرقمي المدعوم بتقنيات الذكاء الاصطناعي، تغطي أدوات وحلول حديثة تستهدف تحسين فعالية الحملات التسويقية والعمليات الترويجية.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-03"
-  },
-  {
-   "title": "منافسة الذكاء الاصطناعي تكشف عن ضعف التقليد في وادي السيليكون",
-   "summary": "تحليل لكيفية أن سباق شركات التكنولوجيا في مجال الذكاء الاصطناعي يعكس ميلاً نحو محاكاة استراتيجيات المنافسين بدلاً من تطوير حلول مبتكرة حقيقية، مما يشير إلى قصور في الابتكار الأصلي داخل الصناعة.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZkZyZy0tQVpvRVRReXZQa004UWtDZE81T3ZlS19KZkU3UVJDSHVETmxQM2tFZzRQaTI2M0c5YmQ4ZzEtblBUdk43RkhZc0pldDV1Yk8xbXdjaC1nUm5vd3Yzakc1LWdOTGxia0ZtOVg2MW4tYVNmRXNtOEhKOU9pVUdtSUEzYWoydTRQQzFxM1ZmSFgzaUtVUUx0MFAxbmFrdV9VXzVhYUZRUQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-03"
-  },
-  {
-   "title": "الذكاء الاصطناعي يساعد الشركات على تقليل الحجوزات الملغاة والغياب عن المواعيد",
-   "summary": "تطبيقات الذكاء الاصطناعي بدأت تساعد الجهات التجارية في التنبؤ بالعملاء الذين قد لا يحضرون مواعيدهم وتقليل الإلغاءات الأخيرة، مما يحسّن من كفاءة جدولة المواعيد والخدمات.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRW9rS3phaXZtLUJMX3ZPR25VYU5laGhTSGd6bXU4NU9YTWF0X3E2UTR3Zm9KU0NEQVAwRHlnZVJPem5WVjl0Q1FUR05ET1NiOWtvWTV2bUlJaHFSM1plbHlPbTYyTTB2RURiME04dEpZdDl5bDU4SFRLUjhEMTlkVjMyeTUwQzJHbUt3UG82OUotOUo0QTRBN2dfU3JjR1UxVFBwdFRBWEo1aWtyRHlkSFlPU04?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-03"
-  },
-  {
-   "title": "زوكربيرج: تطور الوكلاء الذكيين أبطأ من التوقعات",
-   "summary": "أشار مؤسس ميتا مارك زوكربيرج خلال اجتماع داخلي إلى أن وتيرة تطور تقنيات الوكلاء الذكية لم تكن بالسرعة المأمولة. يدل التصريح على تراجع توقعات القطاع بشأن معدل التقدم في هذا المجال الحساس.",
-   "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "الإفراط في الترويج للذكاء الاصطناعي يظهر جلياً في اكتتاب جيرسي مايكس",
-   "summary": "في مثال ساخر على الإفراط في ربط الشركات بالذكاء الاصطناعي، ظهرت إشارات لتقنيات الذكاء الاصطناعي في وثائق اكتتاب سلسلة ساندويتشات محلية. يعكس الأمر كيف أصبحت كلمة \"الذكاء الاصطناعي\" علامة تسويقية تُستخدم بلا ضابط حتى للشركات التقليدية.",
-   "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "ميتا تطلق تطبيق الألعاب التجريبي Pocket بدعم الذكاء الاصطناعي",
-   "summary": "أداة جديدة ظهرت باسم Pocket من تطوير ميتا، وهي تطبيق تجريبي يتيح للمستخدمين إنشاء وتبادل ألعاب تفاعلية صغيرة برمجتها بواسطة الذكاء الاصطناعي من خلال الأوامر النصية البسيطة.",
-   "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "أنثروبيك تبحث مع سامسونج عن تطوير رقاقة ذكاء اصطناعي مخصصة",
-   "summary": "تسعى شركة أنثروبيك للتعاون مع سامسونج بشأن تطوير معالج مخصص للذكاء الاصطناعي، في خطوة تأتي بعد أسبوع من إعلان OpenAI عن شريحتها الخاصة بالشراكة مع برودكوم. يعكس هذا الاتجاه سباقاً متسارعاً بين شركات التكنولوجيا الكبرى لبناء أجهزة متخصصة تدعم تطبيقاتها في مجال الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "OpenAI تقترح التبرع بـ 5% من أسهمها لصندوق الثروة السيادي الأمريكي",
-   "summary": "اقترح الرئيس التنفيذي لـ OpenAI تخصيص 5% من أسهم الشركة لصندوق ثروة سيادي تابع للولايات المتحدة، بهدف إتاحة فرصة للعموم الاستفادة من الأرباح المالية الناجمة عن ثورة الذكاء الاصطناعي. يعيد الاقتراح فتح نقاش حول توزيع الأرباح والمكاسب المالية من تطور التقنيات الذكية.",
-   "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-02"
   }
  ]
 };
