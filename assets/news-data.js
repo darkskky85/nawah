@@ -1,7 +1,71 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-03T06:20:24.263827+00:00",
+ "updated": "2026-07-03T11:24:18.280653+00:00",
  "items": [
+  {
+   "title": "الذكاء الاصطناعي في ابتكار الغذاء",
+   "summary": "تسلط الأضواء على دور الذكاء الاصطناعي في تطوير حلول غذائية جديدة وتحسين عمليات الإنتاج الغذائي. يعكس هذا التوجه اهتمام الصناعة بدمج التقنيات الذكية لمعالجة التحديات الغذائية العالمية.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMG1mV0ZMUTk3UzAzRlVxRTRBdWFrOFdRUnlITXRWUER0OHl4a2VUOWhyTld3RHV0ZWtXUnRsSVNmTHFwaXRYR0ZMMUNudVFQVlE4RGEtMllNZW53a3R3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "احتيال معزز بالذكاء الاصطناعي يستهدف السكان في منطقة أكرون",
+   "summary": "يحذر التقرير من استخدام المحتالين لتقنيات الذكاء الاصطناعي في عمليات احتيالية موجهة ضد السكان بهدف سرقة أموالهم والبيانات الشخصية. يعكس ذلك المخاطر الأمنية المتزايدة المرتبطة بتطبيقات هذه التقنيات بطرق ضارة.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaWdhUXB3RHliSEEtV0ZmWjFoM01lRUhvd0ZsT04tSnM1QThQQjRRWmNEZ2RkSDJEU1pHZkZjal8yWlRaOFR2Rk5uRlBlTmppWlc4YVJhc1lZYXdLSUk3clZsYjVseV96cTBDa0pJRGhGd2lZeGNnNWZld3RzV1pMNUR2emRiWDJkUEx0RU42cUhsclE1UVloQUNWSGlSSUJoSFhHT20tdEN1OTFZ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "خطة الأرجنتين للشركات المدارة بالذكاء الاصطناعي تواجه تحديات بشرية",
+   "summary": "تسعى الأرجنتين لتطبيق نماذج أعمال معتمدة على الذكاء الاصطناعي، لكن الخطط تواجه حقائق عملية تستلزم الحفاظ على العنصر البشري. يشير هذا إلى التوترات بين الطموح التقني والواقع المؤسسي والاقتصادي.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSU9ZWGtkWXpRSEJsRFVXWGYyZ1p5R1lad04yMXFWcXNTRUxld1d2NXJhTDFaQ0M5bnY0ZUdQNlhIOTZYZTZFbDAyY0dRSHFoV3hsOXlPWm53ZGNHUGM1VnpQLTJMOHVraURnZXF6R2pGNGFSZExRMVZ6T01qb2FnWEVQZTlzYTFXelhET29GeWVpYVhmcWtOeTdzWnQ0VGF2X2Zv?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "تقديرات إنفاقية ضخمة للذكاء الاصطناعي حتى عام 2030",
+   "summary": "تتوقع شركة إنفيديا أن ينمو الإنفاق الرأسمالي العالمي على الذكاء الاصطناعي ليصل إلى مستويات قياسية خلال السنوات القادمة. يعكس هذا التوقع الطلب الكبير على البنية التحتية التقنية والرقائق المتقدمة اللازمة لتطوير نماذج الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWkotTFhKbGk1NHl5dlZBdWRjTGdwbGIzcDZBcm9mYnc5bUwwb3N5WVRBcEFUQXRSY2wyNmlrVHExR3ZhR2ljMENnS240b2lvVjFnQVYzR1ZmOG9KTElUWFpiSUdndEhvQ1lQRmZxTEx2T3BiWVdRMlhxWW1pT2h5ZnVXa0JaZmpQQndnZEdzZUxUNmNFQzUxMA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "معايير أمان إضافية في نموذج Fable 5 وإطار الاختبار الأمني",
+   "summary": "أعلنت Anthropic عن تعزيزات أمنية جديدة في نموذجها Fable 5، مصحوبة بإطار عمل لاختبار نقاط الضعف والثغرات. تهدف هذه الإجراءات إلى تحسين الموثوقية والحماية ضد الاستخدام الضار للنماذج اللغوية الكبيرة.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "Anthropic تسد الثغرات التي تمكّن الوصول الصيني إلى Claude",
+   "summary": "تتحرك Anthropic لإغلاق قنوات تمكّن المستخدمين الصينيين من الالتفاف حول القيود الجغرافية والسياسية المفروضة على نموذج Claude. تعكس هذه الخطوة تعقيدات الامتثال الدولي والسيطرة على توزيع التقنيات الحساسة.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "علي بابا تمنع موظفيها من استخدام أداة البرمجة من Anthropic",
+   "summary": "قررت شركة علي بابا الصينية منع منسوبيها من الاستفادة من أداة البرمجة التي طورتها شركة Anthropic، وفقاً لمصادر إعلامية. يعكس القرار تصعيداً محتملاً في النزاع التنافسي بين الشركات الصينية والغربية في مجال الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "Anthropic تغلق الثغرات التي استخدمتها الشركات الصينية للوصول إلى Claude",
+   "summary": "تعمل Anthropic على إغلاق الطرق الملتفة التي اعتمدت عليها الشركات الصينية للوصول إلى نموذج Claude الخاص بها. تشير الخطوة إلى جهود متزايدة لفرض قيود جغرافية على الوصول للتكنولوجيا المتقدمة.",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNEliQ2JDeEJyR2phZ205eWNoODR1bEpPQVctbVMtWG1IcjRWNlg0U1h3Y1BxR0tyYjBuM29RMzNRaHJqaHI3cENPQ3poN1VZZXVfUlg5S2lCZ1hIc0tkSWgwNko3WWRFdHo3NWpCeVhUdzAtTkxkVU5mOTYxclVJdlRZTmlwd1VIZFBhSXFkXzlMMkVFLXdJZUNJOXBoTTJzZjd6MjlveE9uMFlCUG1FNkFCVTZpVmVkX2lTQWJGZExYaFM2WXVJaTdWeFl3SkE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-03"
+  },
   {
    "title": "أحدث أخبار تقنيات التسويق المدعومة بالذكاء الاصطناعي",
    "summary": "مجموعة من الأخبار والإصدارات الجديدة في مجال التسويق الرقمي المدعوم بتقنيات الذكاء الاصطناعي، تغطي أدوات وحلول حديثة تستهدف تحسين فعالية الحملات التسويقية والعمليات الترويجية.",
@@ -27,24 +91,16 @@ window.NEWS_DATA = {
    "date": "2026-07-03"
   },
   {
-   "title": "أنثروبيك تكشف عن إجراءات الأمن السيبراني في نموذج Fable 5 وإطار عملها للاختبارات الأمنية",
-   "summary": "شركة أنثروبيك قدّمت تفاصيل إضافية حول آليات حماية نموذجها الجديد من الهجمات والاستخدام الضار، بما يشمل إطار عمل مخصص لاختبار مدى استقراره أمام محاولات التجاوز.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-03"
-  },
-  {
-   "title": "زوكربيرج يعترف أمام الموظفين بأن تقدم وكلاء الذكاء الاصطناعي أبطأ من التوقعات",
-   "summary": "أفاد تقرير عن اجتماع داخلي بأن الرئيس التنفيذي لـ ميتا أقرّ بأن مشاريع تطوير الذكاء الاصطناعي لم تحقق التقدم السريع الذي كان يتوقعه، مما يشير إلى تحديات أكبر في هذا المجال.",
+   "title": "زوكربيرج: تطور الوكلاء الذكيين أبطأ من التوقعات",
+   "summary": "أشار مؤسس ميتا مارك زوكربيرج خلال اجتماع داخلي إلى أن وتيرة تطور تقنيات الوكلاء الذكية لم تكن بالسرعة المأمولة. يدل التصريح على تراجع توقعات القطاع بشأن معدل التقدم في هذا المجال الحساس.",
    "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-02"
   },
   {
-   "title": "إدراج جيرسي مايك للاكتتاب العام يكشف بالغ المبالغة في حديث الذكاء الاصطناعي",
-   "summary": "طلب اكتتاب عام من سلسلة ساندويتشات جيرسي مايك تضمّن إشارات متعددة إلى الذكاء الاصطناعي رغم أن طبيعة نشاطها التجاري لا تتطلبه، مما يعكس مدى انتشار الإفراط في الحديث عن الذكاء الاصطناعي في الأسواق المالية.",
+   "title": "الإفراط في الترويج للذكاء الاصطناعي يظهر جلياً في اكتتاب جيرسي مايكس",
+   "summary": "في مثال ساخر على الإفراط في ربط الشركات بالذكاء الاصطناعي، ظهرت إشارات لتقنيات الذكاء الاصطناعي في وثائق اكتتاب سلسلة ساندويتشات محلية. يعكس الأمر كيف أصبحت كلمة \"الذكاء الاصطناعي\" علامة تسويقية تُستخدم بلا ضابط حتى للشركات التقليدية.",
    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -70,62 +126,6 @@ window.NEWS_DATA = {
    "title": "OpenAI تقترح التبرع بـ 5% من أسهمها لصندوق الثروة السيادي الأمريكي",
    "summary": "اقترح الرئيس التنفيذي لـ OpenAI تخصيص 5% من أسهم الشركة لصندوق ثروة سيادي تابع للولايات المتحدة، بهدف إتاحة فرصة للعموم الاستفادة من الأرباح المالية الناجمة عن ثورة الذكاء الاصطناعي. يعيد الاقتراح فتح نقاش حول توزيع الأرباح والمكاسب المالية من تطور التقنيات الذكية.",
    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "OpenAI تعرض على إدارة ترامب حصة بنسبة 5% من عوائد الذكاء الاصطناعي",
-   "summary": "طرحت OpenAI فكرة منح حكومة الولايات المتحدة نسبة ملكية بـ 5% كآلية لتخفيف التوترات مع إدارة ترامب والتصدي للانتقادات المتزايدة ضد قطاع الذكاء الاصطناعي. يرى الرئيس التنفيذي أن تمكين الجمهور بمصلحة مالية في الشركة قد يساهم في تقليل المعارضة الشعبية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "تحقيق التميز التشغيلي بمساعدة الذكاء الاصطناعي",
-   "summary": "تستعرض المقالة كيفية استخدام أطر عمل مثل لين سكس سيجما وإدارة عمليات الأعمال لتحسين الكفاءة التشغيلية، وكيف يمكن للذكاء الاصطناعي تعزيز هذه الأساليب المنهجية. تركز على أهمية الجمع بين الصرامة الإحصائية والتنظيم الهندسي للعمليات مع قدرات الذكاء الاصطناعي الحديثة.",
-   "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "مايكروسوفت تؤسس قسماً متخصصاً لنشر تطبيقات الذكاء الاصطناعي برصيد 2.5 مليار دولار",
-   "summary": "أنشأت مايكروسوفت فريقاً جديداً متخصصاً في نشر وتطبيق حلول الذكاء الاصطناعي على نطاق واسع، واستثمرت 2.5 مليار دولار في المبادرة، منضمة بذلك إلى عمالقة الصناعة الآخرين الذين بدأوا في بناء فرق مشابهة.",
-   "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "تطبيق الذكاء الاصطناعي في تشغيل البنية الأساسية الضخمة",
-   "summary": "يركز الخبر على دور الذكاء الاصطناعي في القطاعات الحيوية التي تعتمد على البنية التحتية والاستمرارية التشغيلية والسلامة. بعيداً عن التطبيقات الموجهة للمستهلك، يحقق الذكاء الاصطناعي نتائج جوهرية في إدارة الأنظمة الفيزيائية المعقدة.",
-   "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "ترامب يحصل على حصة بنسبة 5% من OpenAI، أقل من المطالب السابقة",
-   "summary": "تشير التقارير إلى أن الرئيس ترامب حصل على نسبة ملكية محدودة من OpenAI بنسبة 5%، وهي أقل من النسب المقترحة سابقاً. يأتي هذا وسط حوارات جارية بين الإدارة الأمريكية وقيادة الشركة.",
-   "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "منصة إكس تشكل خطراً على خصوصية الأمريكيين بحسب الدعاة",
-   "summary": "حذّرت جماعات دفاع عن الخصوصية لجنة التجارة الفيدرالية من مخاطر منصة إكس التابعة لإيلون ماسك. طالبوا اللجنة برفض محاولات إلغاء الإشراف على المنصة وسط مخاوف تتعلق بتطبيقات الذكاء الاصطناعي.",
-   "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "رائد تقنية هندي يستثمر 30 مليون دولار في تطوير بديل ذكي لتطبيقات مايكروسوفت",
-   "summary": "أطلق رجل الأعمال الهندي بهافن تورخيا مشروعه الخامس المسمى Neo، وهو منصة تجمع بين الذكاء الاصطناعي والبرامج المكتبية، لمنافسة مايكروسوفت أوفيس وتطبيقات جوجل في قطاع البرامج الموجهة للمؤسسات.",
-   "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-02"
