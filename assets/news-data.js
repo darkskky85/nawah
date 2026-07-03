@@ -1,37 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-02T21:57:23.424270+00:00",
+ "updated": "2026-07-03T06:20:24.263827+00:00",
  "items": [
   {
-   "title": "شركة ساندويتش تثير نقاش حول مبالغة صناعة الذكاء الاصطناعي في الترويج",
-   "summary": "في وثائق طرح أسهمها للاكتتاب العام، أشارت شركة جيرسي مايكس للساندويتش إلى الذكاء الاصطناعي رغم أنها متخصصة في بيع الطعام، مما يعكس الاتجاه المتزايد للشركات نحو ربط أنشطتها بهذه التكنولوجيا بحثاً عن جاذبية استثمارية بغض النظر عن الصلة الحقيقية.",
+   "title": "أحدث أخبار تقنيات التسويق المدعومة بالذكاء الاصطناعي",
+   "summary": "مجموعة من الأخبار والإصدارات الجديدة في مجال التسويق الرقمي المدعوم بتقنيات الذكاء الاصطناعي، تغطي أدوات وحلول حديثة تستهدف تحسين فعالية الحملات التسويقية والعمليات الترويجية.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "منافسة الذكاء الاصطناعي تكشف عن ضعف التقليد في وادي السيليكون",
+   "summary": "تحليل لكيفية أن سباق شركات التكنولوجيا في مجال الذكاء الاصطناعي يعكس ميلاً نحو محاكاة استراتيجيات المنافسين بدلاً من تطوير حلول مبتكرة حقيقية، مما يشير إلى قصور في الابتكار الأصلي داخل الصناعة.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZkZyZy0tQVpvRVRReXZQa004UWtDZE81T3ZlS19KZkU3UVJDSHVETmxQM2tFZzRQaTI2M0c5YmQ4ZzEtblBUdk43RkhZc0pldDV1Yk8xbXdjaC1nUm5vd3Yzakc1LWdOTGxia0ZtOVg2MW4tYVNmRXNtOEhKOU9pVUdtSUEzYWoydTRQQzFxM1ZmSFgzaUtVUUx0MFAxbmFrdV9VXzVhYUZRUQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "الذكاء الاصطناعي يساعد الشركات على تقليل الحجوزات الملغاة والغياب عن المواعيد",
+   "summary": "تطبيقات الذكاء الاصطناعي بدأت تساعد الجهات التجارية في التنبؤ بالعملاء الذين قد لا يحضرون مواعيدهم وتقليل الإلغاءات الأخيرة، مما يحسّن من كفاءة جدولة المواعيد والخدمات.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRW9rS3phaXZtLUJMX3ZPR25VYU5laGhTSGd6bXU4NU9YTWF0X3E2UTR3Zm9KU0NEQVAwRHlnZVJPem5WVjl0Q1FUR05ET1NiOWtvWTV2bUlJaHFSM1plbHlPbTYyTTB2RURiME04dEpZdDl5bDU4SFRLUjhEMTlkVjMyeTUwQzJHbUt3UG82OUotOUo0QTRBN2dfU3JjR1UxVFBwdFRBWEo1aWtyRHlkSFlPU04?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "أنثروبيك تكشف عن إجراءات الأمن السيبراني في نموذج Fable 5 وإطار عملها للاختبارات الأمنية",
+   "summary": "شركة أنثروبيك قدّمت تفاصيل إضافية حول آليات حماية نموذجها الجديد من الهجمات والاستخدام الضار، بما يشمل إطار عمل مخصص لاختبار مدى استقراره أمام محاولات التجاوز.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "زوكربيرج يعترف أمام الموظفين بأن تقدم وكلاء الذكاء الاصطناعي أبطأ من التوقعات",
+   "summary": "أفاد تقرير عن اجتماع داخلي بأن الرئيس التنفيذي لـ ميتا أقرّ بأن مشاريع تطوير الذكاء الاصطناعي لم تحقق التقدم السريع الذي كان يتوقعه، مما يشير إلى تحديات أكبر في هذا المجال.",
+   "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "إدراج جيرسي مايك للاكتتاب العام يكشف بالغ المبالغة في حديث الذكاء الاصطناعي",
+   "summary": "طلب اكتتاب عام من سلسلة ساندويتشات جيرسي مايك تضمّن إشارات متعددة إلى الذكاء الاصطناعي رغم أن طبيعة نشاطها التجاري لا تتطلبه، مما يعكس مدى انتشار الإفراط في الحديث عن الذكاء الاصطناعي في الأسواق المالية.",
    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-02"
   },
   {
-   "title": "ميتا تطلق تطبيقاً تجريبياً لتوليد الألعاب التفاعلية باستخدام النصوص",
-   "summary": "أطلقت ميتا تطبيقاً باسم بوكت يسمح للمستخدمين بإنشء وتبادل ألعاب صغيرة تفاعلية من خلال كتابة أوامر نصية، وتشتغل الأداة بتقنيات الذكاء الاصطناعي لترجمة هذه الأوامر إلى ألعاب قابلة للعب.",
+   "title": "ميتا تطلق تطبيق الألعاب التجريبي Pocket بدعم الذكاء الاصطناعي",
+   "summary": "أداة جديدة ظهرت باسم Pocket من تطوير ميتا، وهي تطبيق تجريبي يتيح للمستخدمين إنشاء وتبادل ألعاب تفاعلية صغيرة برمجتها بواسطة الذكاء الاصطناعي من خلال الأوامر النصية البسيطة.",
    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-02"
   },
   {
-   "title": "أنثروبيك تتفاوض مع سامسونج حول تطوير شريحة ذكاء اصطناعي مخصصة",
-   "summary": "تسعى شركة أنثروبيك للتعاون مع سامسونج في بناء معالج متخصص للذكاء الاصطناعي، متابعة بذلك الخطوة التي اتخذتها أوبن إيه آي مع برودكوم في الأسابيع السابقة، في إطار سعي الشركات الكبرى لتطوير الأجهزة المخصصة لتطبيقاتها.",
+   "title": "أنثروبيك تبحث مع سامسونج عن تطوير رقاقة ذكاء اصطناعي مخصصة",
+   "summary": "تسعى شركة أنثروبيك للتعاون مع سامسونج بشأن تطوير معالج مخصص للذكاء الاصطناعي، في خطوة تأتي بعد أسبوع من إعلان OpenAI عن شريحتها الخاصة بالشراكة مع برودكوم. يعكس هذا الاتجاه سباقاً متسارعاً بين شركات التكنولوجيا الكبرى لبناء أجهزة متخصصة تدعم تطبيقاتها في مجال الذكاء الاصطناعي.",
    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-02"
   },
   {
-   "title": "أوبن إيه آي تقترح مشاركة الحكومة الأمريكية في أرباح نموها",
-   "summary": "اقترح الرئيس التنفيذي لأوبن إيه آي توزيع 5% من أسهم الشركة على صندوق الثروة السيادي الأمريكي، بهدف تمكين الجمهور من الاستفادة المالية من نمو قطاع الذكاء الاصطناعي وتخفيف التوترات السياسية والانتقادات العامة حول تركيز الأرباح.",
+   "title": "OpenAI تقترح التبرع بـ 5% من أسهمها لصندوق الثروة السيادي الأمريكي",
+   "summary": "اقترح الرئيس التنفيذي لـ OpenAI تخصيص 5% من أسهم الشركة لصندوق ثروة سيادي تابع للولايات المتحدة، بهدف إتاحة فرصة للعموم الاستفادة من الأرباح المالية الناجمة عن ثورة الذكاء الاصطناعي. يعيد الاقتراح فتح نقاش حول توزيع الأرباح والمكاسب المالية من تطور التقنيات الذكية.",
    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "OpenAI تعرض على إدارة ترامب حصة بنسبة 5% من عوائد الذكاء الاصطناعي",
+   "summary": "طرحت OpenAI فكرة منح حكومة الولايات المتحدة نسبة ملكية بـ 5% كآلية لتخفيف التوترات مع إدارة ترامب والتصدي للانتقادات المتزايدة ضد قطاع الذكاء الاصطناعي. يرى الرئيس التنفيذي أن تمكين الجمهور بمصلحة مالية في الشركة قد يساهم في تقليل المعارضة الشعبية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-02"
+  },
+  {
+   "title": "تحقيق التميز التشغيلي بمساعدة الذكاء الاصطناعي",
+   "summary": "تستعرض المقالة كيفية استخدام أطر عمل مثل لين سكس سيجما وإدارة عمليات الأعمال لتحسين الكفاءة التشغيلية، وكيف يمكن للذكاء الاصطناعي تعزيز هذه الأساليب المنهجية. تركز على أهمية الجمع بين الصرامة الإحصائية والتنظيم الهندسي للعمليات مع قدرات الذكاء الاصطناعي الحديثة.",
+   "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
    "date": "2026-07-02"
   },
   {
@@ -40,22 +96,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "أوبن إيه آي تعرض تقديم حصة للحكومة الأمريكية من عائدات الذكاء الاصطناعي",
-   "summary": "أشارت أوبن إيه آي إلى إمكانية منح إدارة ترامب حصة ملكية بنسبة 5% من الشركة لتسهيل التفاهمات السياسية وتقليل الانتقادات العامة، على أساس أن إعطاء الجمهور مصلحة مالية مباشرة قد يعزز الدعم الشعبي للقطاع.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "تحقيق التميز التشغيلي بمساعدة الذكاء الاصطناعي",
-   "summary": "يستعرض الخبر كيفية استخدام أطر عمل مثل Lean Six Sigma وإدارة العمليات التجارية لتحقيق الكفاءة العملياتية. يوضح كيف يسهم الذكاء الاصطناعي في تنظيم العمليات المعقدة وتطبيق الصرامة الإحصائية والتحكم بالجودة بشكل متقدم.",
-   "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
    "date": "2026-07-02"
   },
   {
@@ -88,46 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "إجراءات Basedash لأتمتة العمليات",
-   "summary": "أداة جديدة ظهرت باسم Basedash Actions تركز على توفير إمكانيات أتمتة للعمليات الإدارية والبيانات. تسعى الأداة لتسهيل تنفيذ المهام المتكررة بكفاءة أكبر عبر واجهة موحدة.",
-   "url": "https://www.producthunt.com/products/basedash",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "وجهة نظر متفائلة حول مستقبل الذكاء الاصطناعي",
-   "summary": "نشرت منصة Lawfare دراسة تقدم قراءة متفائلة بشأن تطور الذكاء الاصطناعي وآثاره. تركز الدراسة على الجوانب الإيجابية المحتملة للتقنية رغم التحديات القانونية والأخلاقية المعروفة.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUVoYmRXSV9fajZDbGEwQVA2STJEQWwxLVJBcTZqd2ttY3AyTWFGMzdEU1dpdFhhTDBZbVptcTc2aTQxRV90UGhBbkhMZ3VCU1hSN1A1Z2JhUXdVZXRNMlpmeGhMVE9pOFhDWEFsd2pqUHR3enRLbXU4ZVk0NUpPbl9xUE5jMThvS3lwWkJR?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "الأمم المتحدة تصدر تقريراً حول الذكاء الاصطناعي قبل مؤتمرها العالمي",
-   "summary": "أطلقت لجنة الأمم المتحدة المعنية بالذكاء الاصطناعي تقريراً شاملاً استعداداً لمؤتمر عالمي قادم. يستعرض التقرير الاتجاهات الحالية والتوصيات المتعلقة بحوكمة التقنيات الذكية على الصعيد الدولي.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVktZOUo5eS1zWThsaGRRNkVMcVZoZENNa2k4Qm1KaldoeTRfNjRtSWhKZkNaVkNEUmN4djlSMmZjTVRXZ1pCZ1JRbVlJaWNBRXNuTUFHUk9pTkN6V3FvalVGWXEyY3laUVYyZnFfSDQxeWhySWRVUF80UEYtTFY3RzBoU3phNTloZWRqbm91VHMzNVJ3SUg1QlJUWUZPWGdNbndraUd4TVF0TjVZ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "أمريكا اللاتينية والكاريبي توضع خارطة طريق إقليمية موحدة مع اليونسكو",
-   "summary": "وضعت دول أمريكا اللاتينية والكاريبي خارطة طريق إقليمية مشتركة بالتعاون مع منظمة اليونسكو، بهدف تنسيق جهودها في مجالات التعليم والثقافة والتنمية المستدامة على المستوى الإقليمي.",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWpDU0o4aVJUZGpWZUJWTl9IZnRBbVc5ME1tR3Bob0FQS3c1ZnFmcUtEOW80VVZzOWR1V05vc1ZfV0l4V19maWRFLTQtaEcyVXE0QXJTV2RIZEpqSlBHY01kT2c1OUJZdF8xNTJ0d3RBYW9FY2dJSmRCOTRaVlRFZkE1Z05PWnUxeGlDdnVjRnlwLVdNSzhlR1JnN3lOQnRwWmtQUUM2Zmd2cGN0dnoyblp1SExMa0g2eUtKbkpTTHpKbkt5SjRR?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-02"
-  },
-  {
-   "title": "سهم في مجال الذكاء الاصطناعي يستحق الاستثمار طويل الأجل",
-   "summary": "حددت تقارير استثمارية سهماً متخصصاً في قطاع الذكاء الاصطناعي يتمتع بآفاق نمو طويلة الأجل وقدرة على تحقيق عوائد مستقرة للمستثمرين.",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQME9uNHV2MzZhM3JZSW85Y2lFSVlJZzhVellPZ2duM0xQVTBfNmdjWTJ6WXFIaFFpR3pVbllyaGFnUjBVTTBTaENFMExWX0FKdzJOcmtHbDhvM0lXT3o1Rlp0alBPeGhGRFFDd2Zhak40WHEyYXlhMGhWNDBUWVRERkhzS29SMkdmU2k1SzBVMHREUmZaUVA4eFU3cVJHTnZPWUE?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-02"
   }
  ]
