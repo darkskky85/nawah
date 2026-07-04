@@ -1,7 +1,47 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-04T10:48:16.719587+00:00",
+ "updated": "2026-07-04T15:53:15.012815+00:00",
  "items": [
+  {
+   "title": "ميسترال إيه آي: المنصة التي تسعى لنشر الذكاء الاصطناعي المتقدم",
+   "summary": "شركة ميسترال إيه آي، التي تطور نماذج ذكاء اصطناعي مفتوحة المصدر، حصلت على تمويل كبير منذ تأسيسها عام 2023. تهدف الشركة إلى جعل تقنيات الذكاء الاصطناعي المتطورة في متناول الجميع، مما يمثل منافسة واضحة للاعبين الكبار في السوق.",
+   "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-04"
+  },
+  {
+   "title": "فرص استثمارية جديدة في أسهم الذكاء الاصطناعي للمستثمرين المتأخرين",
+   "summary": "يناقش التقرير فرصاً استثمارية في قطاع الذكاء الاصطناعي للمستثمرين الذين لم يشاركوا في الموجة الأولى من أسهم هذا القطاع. يركز على خيارات استثمارية جريئة قد توفر عوائد محتملة في السوق المتنامية.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdklmUGcxYnliei1fakQ3c19SQWJmeHpodHotb01QdXE3LTFCSnNlaTZPYzFYaVJxdFR6NFBOdUpObjl4OXM3Y0lFN1VKLWJ1QUMzZXZNNWU0X0ZqdFlUVDFlRlRRSVlDcjc0RFh3SzN5VFJrVHdnMzhqV2djZkdLY2VLMkZURHd2dDZfYkFfaVo4VUp0MXB2OERMV3N0NUR2cTg1dVQyNWQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-04"
+  },
+  {
+   "title": "كيف ساعد الذكاء الاصطناعي مشروعاً صغيراً على النمو السريع",
+   "summary": "تسلط الدراسة الضوء على دور الذكاء الاصطناعي في تسريع نمو شركة صغيرة وتوسع أنشطتها التجارية. يوضح المثال كيف يمكن لتقنيات الذكاء الاصطناعي أن تمكّن الشركات الناشئة من التنافسية والتطور.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEhsMnNsNTVEQ29fZ1pGMzB6ZzNyZHgxWmUwaGp5Z0JxeGpUS3hCNUw5NHZ1NTFLVDFJUjd1bFZoQmpfRFFMMEQtZXVadnFmc01yaUpwSFl0Njc4X2Jsc1ZmYWdXcHdMRkJfUi1wLVNzNHQzcGhfNThMV2RLYU5faW1SSUE2ZXExV25uOERMSG5XNG43UHBmbmM4c2hkSVlNT0tNVFNvandxempMejF1MmZYWWF3SGRueVJ2dlllUV8?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-04"
+  },
+  {
+   "title": "نموذج ديب سيك الجديد: مقارنة شاملة مع المساعدات الذكية الرائدة",
+   "summary": "يقدم التقرير مقارنة تفصيلية بين نموذج ديب سيك الإصدار الرابع والنماذج الذكية الأخرى الشهيرة مثل تشات جي بي تي وكلود وجيميني، موضحاً الفروقات في القدرات والأداء.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXRWZ1ZVaXI5MDBqdWtjLWc0VFB4Y1hMRl84M0FCQ1haa3JvRjBNVnQtUzlxYm5lcm9ScUx3QXVPV2ZjcGoyRWo5Njk1NnEwdXVIZ09ScDd5aFpJLU1JblpObkRIbENvcFh4ZDl6ZkNSVHVuZW9nLUZzNFdiSThyVWlaeF9JeDlI?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-04"
+  },
+  {
+   "title": "تراجع أوبن إيه آي عن زيارة موقع استثماري بريطاني يثير تساؤلات حول التزامها",
+   "summary": "أثار عدم زيارة شركة أوبن إيه آي لموقع استثماري رئيسي في المملكة المتحدة أسئلة حول جدية نواياها بشأن المشروعات الاستثمارية هناك. يعكس التطور توتراً محتملاً حول خطط الشركة في السوق البريطانية والالتزام بالاستثمارات المعلنة.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2tQWXRkeWVkSjJ2RXZ3LWdBZnRoeko3MnR2RHVVLVlWQXc3NllsbnpSaUJ0NC04Rndkb1ZtLXBBU1pZdENaRGlrNjE5TGk3N2pJR3VGblhpSnAxWG1pRFdXRFNBdmxaZ0Zya1NkeXQ5N2pzVy1rLWV5aDhETGYyZ3ZWSHlmODFhRHBoTGtKYjd5enF0RWo3aFFGWWJTVWV5RmxndTgzd21DNkNfdC1JUUZjOU5DZF9XdmM0?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-04"
+  },
   {
    "title": "غلاز من ريكاست: أداة جديدة لحماية الفنون من الذكاء الاصطناعي",
    "summary": "أداة جديدة ظهرت باسم Glaze من شركة Raycast، تهدف إلى حماية الأعمال الفنية والمحتويات الإبداعية من استخدامها في تدريب نماذج الذكاء الاصطناعي دون إذن. تعمل الأداة على تعديل البيانات الرقمية بطرق غير مرئية للعين البشرية لتقليل فعالية استخراج البيانات.",
@@ -51,19 +91,27 @@ window.NEWS_DATA = {
    "date": "2026-07-04"
   },
   {
-   "title": "قاموس شامل لمصطلحات الذكاء الاصطناعي",
-   "summary": "مع انتشار تطبيقات الذكاء الاصطناعي، ظهرت مئات المصطلحات والتعبيرات الجديدة في المجال. يقدّم هذا القاموس تعريفات لأهم الكلمات والعبارات التي قد يصادفها المتابعون في هذا المجال المتسارع.",
+   "title": "قاموس شامل لمصطلحات الذكاء الاصطناعي الأساسية",
+   "summary": "مع تسارع انتشار تقنيات الذكاء الاصطناعي، ظهرت موجة من المصطلحات والمفاهيم الجديدة. يجمع هذا القاموس تعريفات للكلمات والعبارات الأساسية التي يواجهها المتابعون والعاملون في المجال.",
    "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-03"
   },
   {
-   "title": "سباق المتصفحات يتجاوز محركات البحث.. أبرز البدائل أمام كروم وسفاري",
-   "summary": "تزايد الاهتمام بمتصفحات بديلة تحاول المنافسة مع المتصفحات السائدة. يعكس هذا التطور رغبة المستخدمين في خيارات متنوعة توفر ميزات مختلفة تتجاوز محركات البحث التقليدية.",
+   "title": "معركة المتصفحات تتجاوز البحث: بدائل متنوعة لكروم وسفاري",
+   "summary": "تعددت خيارات المتصفحات البديلة التي تسعى لمنافسة المتصفحات الرئيسية مثل كروم وسفاري. يستعرض التقرير مجموعة من أفضل هذه البدائل المتاحة حالياً في السوق.",
    "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "مجتمع الروايات المشجعة ينقسم ضد الذكاء الاصطناعي وضد نفسه",
+   "summary": "اندلعت حركة جديدة داخل مجتمع الروايات المشجعة للقضاء على المؤلفين الذين يستخدمون أدوات الذكاء الاصطناعي، إلا أن طرق الكشف المستخدمة تثير شكوكاً حول دقتها. يهدد الصراع بإلحاق الضرر بكتّاب أبرياء وسط معارضة واسعة لاستخدام أدوات مثل كلود وتشات جي بي تي.",
+   "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-07-03"
   },
   {
@@ -80,54 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-07-03"
-  },
-  {
-   "title": "ميتا تستعد لإطلاق نموذج ذكاء اصطناعي متقدم في مجال البرمجة قريباً",
-   "summary": "أشارت ميتا إلى أنها ستطلق نموذج ذكاء اصطناعي جديداً يتمتع بقدرات متقدمة في البرمجة والكود في المستقبل القريب، مما يعكس استمرار السباق التنافسي بين الشركات الكبرى في تطوير نماذج متخصصة.",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVY5d2gyYUNXMnNPcnVnV1J6MWRwV2FrY1J6MlBrazN2Mm9xekhXTUFRNUtkQmhFZnUxMmoxNDNkdk5lR3ZJdVFGQTBmeUF5VGNJVGs1akNwUy0tdFc1NmVlSTg5X01zVmVZdXNNNERKZ1AtaXNPMzdpZmk5MlJ2VjAxa25QZWQ0NE5KdVJFMUJHQmYydjFMYk9yX3I?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-03"
-  },
-  {
-   "title": "دور الذكاء الاصطناعي في عصر مصفوفة التلسكوبات الراديوية العملاقة",
-   "summary": "يستعرض المقال الأهمية المتزايدة للذكاء الاصطناعي في معالجة البيانات الضخمة من التلسكوبات الراديوية العملاقة وتحليل الإشارات الفضائية. يعكس ذلك الحاجة الملحة لتقنيات متقدمة لفهم الكون والبحث عن الحياة خارج الأرض.",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzViSjgwcWpLWG1BSWFSZE9GaGllWFNqNWdhdkJGZUpzV3oySzNHbW0tdXZCLTFjZWE4aUgxbU5wTm9HUzRKZXJNdVhQOW10UEFCVm5FZ1ZmV3JTUk5YY2N3VmJ4Tzh2a1BLbUd5empiWG02NFdtMmxTWEU4bmhrOVNDdjFSU00ySF91ZlY3OXI?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-03"
-  },
-  {
-   "title": "عملاق شرائح الذكاء الاصطناعي يتخذ خطوة قد تعزز أداء أسهمه بقوة",
-   "summary": "يتناول التقرير حركة استراتيجية جديدة لشركة رائدة في تصنيع معالجات الذكاء الاصطناعي، وهي شركة معروفة بربحيتها العالية. قد تكون هذه الخطوة بمثابة حافز لزيادة قيمة أسهمها في الأسواق المالية.",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUdsM016U09qbzE5X0R1LWZJTjZZNTZWYUI2RGRWQmlKbER2WkZvUGlqYWcyUjNPb0ZKTjgwVGt3UFVpMTNYN1VjZkQzeWtONS03TTVmU19wNk0wQ3kwT25fLXl6TUNWSjlHc2xLRGk4b3RZYTlOVTBIUmF2d01tU1RKTWo3TTE1WVNoODl4blJOcVpDdUhjc256Q21kRldKaTJSXw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-03"
-  },
-  {
-   "title": "مقارنة استثمارية: أبجفابت مقابل ميكرون في سوق الذكاء الاصطناعي",
-   "summary": "مقالة تحليلية تقارن بين خيارَي استثمار في قطاع الذكاء الاصطناعي، وتفحص أداء شركتي أبجفابت وميكرون التكنولوجي، لمساعدة المستثمرين على فهم الفرص والمخاطر في كل منهما.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSnJfa2UtM3ljUktodHJaVDNINHpFdkZfbkhBSzhkRTZKbm14cmFQbEhIaXdwdHJ2Qk9aYkIwUlgzNHBQdk1WWnlSX1BBN2hYMHBheFJKSVctdDhrZjJPOTJMZTFHQ0dtYUw4UTNqTVUwYV9Edjl2ZDJqVUh1OUxaRkU5MlphMzBRMHhSc2I4b0gxSUZXRGxnMQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-03"
-  },
-  {
-   "title": "تطبيقات الذكاء الاصطناعي في تطوير صناعة الغذاء",
-   "summary": "دراسة علمية تستكشف دور التقنيات الذكية في تحسين عمليات الابتكار الغذائي، من تطوير منتجات جديدة إلى تحسين الجودة والاستدامة في القطاع الغذائي العالمي.",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMG1mV0ZMUTk3UzAzRlVxRTRBdWFrOFdRUnlITXRWUER0OHl4a2VUOWhyTld3RHV0ZWtXUnRsSVNmTHFwaXRYR0ZMMUNudVFQVlE4RGEtMllNZW53a3R3?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-03"
-  },
-  {
-   "title": "أبل تشارك أبحاثها في مؤتمر التعلم الآلي الدولي 2026",
-   "summary": "إعلان عن مساهمة أبل في المؤتمر الدولي الرائد للتعلم الآلي، حيث ستعرض الشركة نتائج أبحاثها وتساهم في النقاشات العلمية حول تطورات التقنية.",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdTNsRU5ReFhLdDQxdjJPNTJ6X3pIWXMxNXFLdDJsbG5SQ0xUdWdsbGdLdldWc0Q3SmNvMTRhUDhqVTZjQ3FhNENLdm90enZLWEQ3VDIzSjR6clEtMTNEbUx4aVBrTU9KY0ZwQw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-03"
   }
  ]
