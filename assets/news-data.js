@@ -1,7 +1,47 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-05T10:57:27.293742+00:00",
+ "updated": "2026-07-05T15:59:29.492160+00:00",
  "items": [
+  {
+   "title": "ممرضات في مستشفى مونتيفيوري يرفعن صوتهن ضد خطط استبدالهن بتقنيات ذكاء اصطناعي",
+   "summary": "اعترضت نقابة الممرضات في برونكس على نية مستشفى مونتيفيوري استخدام برامج ذكاء اصطناعي لتقليل الاعتماد على الممرضات البشريات. تؤكد الممرضات على أهمية العنصر البشري في الرعاية الطبية، وتحذرن من تأثير هذا التحول على جودة الخدمات الصحية.",
+   "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQbEJNY243dDJYVmd5eWJ4TGNhTDFSajBBNnQ5YmVNbVdrSHlTOXdHQlpSd2RkblpJeTJUVG8zaGRuRlZfZjJJcmtrUVByc2RvRld2X2RWQllpd1dDdUtCbngxVkIyVXhQQVJNMnJROS0yaTRaTWFSTzlvQk9oc0wwcXY4eGVSbmhKdXhyN3RfdnR0ekRGTXlhYl9jbVBUOVR5SFg2R044Y0JmQUpNbjQ2OFBKczFBRkJCQWJVRnN4cmtKS09rSm1TbF9uNUNwcFBEWGFLYWNIcUVlU1ZEUF9XdHhudWYyY0lXVHhTcEJfRU1ZeTRrT1RZY1owb2VXU3lpUk44d1BvMVJiVVBBb0VyRlRNZDlRcTRrWkI3c2RvRnk1ZS1zSDVZRTJSVUcyMEFiVE1NRHZMVEtTdVlxaW5Vc29zeHdVNGNlWnVmUU5SMzRXOHpLeXBlaks2TkNkVkdwZW94NFFRNzlVeHowMG9HajllcmNPelhnTFlmeVdXNHA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "هل يختبر الذكاء الاصطناعي الوعي والشعور؟ الفروقات الفلسفية والعملية",
+   "summary": "يتناول النقاش الفلسفي والعلمي ما إذا كانت أنظمة الذكاء الاصطناعي قادرة على خبرة الوعي بالمعنى الحقيقي، أم أنها تحاكي سلوكيات ذكية دون شعور حقيقي. الفرق بين هذين المفهومين له تأثيرات عميقة على الأخلاقيات والمسؤولية.",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2NXOXBMLXJYam51LUpBem5mSVVsZUJkRFJSVVk4cFlmeUFWT29tNm1Xa2YydWxEZlRWOFBJT3RJRlh6cnVTVlNUOHJfM0IxTDVQelY3Z1RUMUtXYlB0SWFBYlZ0YllpUXVCUk5Jc2V4bGs1eG0wTkdzT1hoRzRjTWp0MWJhSGpSYk1HU1RLbGl2UVJiVTRwc2Ixal9tbWZMNGVkc0EwbmVza2V0RFlzUXJ1X3pTUDNVR20tcHdrR2Y1ZXFIZ05XYWNsRlhDWGxNRFJJR2xnM1BORDVpTk0xMg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "أسهم SoftBank تنخفض مع توقعات تأجيل الطرح العام الأولي لـ OpenAI",
+   "summary": "انعكس احتمال تأجيل خطط OpenAI لطرح أسهمها للعامة على أداء أسهم SoftBank التي تمتلك استثمارات كبيرة في الشركة. يعكس هذا التراجع تأثر السوق المالية بتطورات قطاع الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGbWp2RGxSZ2V6dkNQVXpka1Bham5lVGFlMlM1WngtYnhJWjZSUDNwMFBmTXBuWEE4eTdRTXlXVEdhNDZMZ3NidkRPSFYxQS1TWmJrWi1YeGI0UXktSU1kZEdXU1VQR3liYVE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "علي بابا تحظر موظفيها من استخدام Claude الذي طورته Anthropic",
+   "summary": "قررت شركة علي بابا منع موظفيها من الوصول إلى نموذج Claude الذي طورته شركة Anthropic، في خطوة تعكس قيود محتملة على الأدوات الأجنبية. تشير التقارير إلى أن Anthropic نفسها كانت تفضل عدم استخدام الشركة الصينية للأداة.",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbzRtQmVsYkFINmY1SW9TY3hrbzEtcFVteHh3eWtGWTc2bVEydXBPc1JZSkVUVS1Vb2k3QlhsTFVmVTFQSUJYNjBKRWVIVC1DdlN1RDFTb0ZiaG5VVVdKeE5TcXFOWXZKMGNUOXhKcHF0am54V3paRmZHc2lhOWdqSVB0MHpLT0I4cTJrN1NmTmtDM3Q1VklUQ1V0SzRjczVhbGJPckxZM1Jzc09VTi01Qi1kTV9hSUYwZmJPcUZSb2xGeWZ3S21SSmpfUkY4ZS1YMVE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "سام ألتمان يشترط تقييماً بتريليون دولار على الأقل لطرح OpenAI العام",
+   "summary": "أعلن الرئيس التنفيذي لـ OpenAI أن أي طرح عام أولي بتقييم أقل من تريليون دولار سيعتبر غير قابل للنقاش. يعكس هذا الموقف طموحات الشركة المالية العالية وسط نقاشات حول أفضل خيارات الاستثمار للمستثمرين.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdV9pMlVET0JKTHdRRGN3VUVMSy1KZGQyMnRVWGR2eUpONTVmcjd0dHZGcVRTREtQZ3ppalY0V3ZLaVlBaGZoQ3VsRU5rRktFblBGbFV3UkpNdmhiR2NneTJKWTNJWUlYMkNjdlRnZ0VEOHV0c05ETUh1d09EY2hqM2FXTHZEdWRZUjhlREhfNFgxTVdJX1VHMQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-05"
+  },
   {
    "title": "الخدمة الصحية البريطانية تسرّع نشر الذكاء الاصطناعي لتقليل أوقات الانتظار",
    "summary": "تسعى الخدمة الصحية الوطنية البريطانية إلى توسيع استخدام تقنيات الذكاء الاصطناعي في مراكزها الطبية بهدف تقليل فترات انتظار المرضى وتحسين جودة الرعاية الصحية المقدمة لملايين البريطانيين. يأتي هذا الإجراء كخطوة استراتيجية لتعزيز كفاءة النظام الصحي وتخفيف الضغط على المنشآت الطبية.",
@@ -24,22 +64,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd2Myc2FNVTFTNWtoTk5KRWtGTC02M3JCY2o2ZHhEMXQwRDlyX0dtR1FJSXZNWERid2lVdXJtTzNhQlNIVkN5elNIYlZCOG1LS0N2RWFud2lKOFpEcU1oeWhMVnBlVlZMVlk1QkdOZUJrczlCR29jNEM5VDBHbS1DazNsN1g5dTcydnpMMVZqU3RhVG1rMkRPVDFkdTZsWGNvQXVPVmxPQWNCV3lfSkVCY3FkdDlHNHA4MXN0OUdUeWtHWGs?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "أسهم SoftBank تنخفض بعد تأجيل متوقع لطرح OpenAI العام",
-   "summary": "انعكس الحديث عن تأجيل محتمل لطرح OpenAI في البورصة سلباً على أداء أسهم SoftBank، المستثمر الرئيسي في الشركة. يعكس الانخفاض حساسية سوق الأسهم تجاه تطورات قطاع الذكاء الاصطناعي الناشئ.",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGbWp2RGxSZ2V6dkNQVXpka1Bham5lVGFlMlM1WngtYnhJWjZSUDNwMFBmTXBuWEE4eTdRTXlXVEdhNDZMZ3NidkRPSFYxQS1TWmJrWi1YeGI0UXktSU1kZEdXU1VQR3liYVE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "متطلبات تقييم OpenAI: بين طموح سام ألتمان واختيارات المستثمرين",
-   "summary": "رفع سام ألتمان، مؤسس OpenAI، سقف توقعات التقييم عند طرح الشركة للاكتتاب العام إلى تريليون دولار أو أعلى. تطرح مقالة استثمارية مقارنة بين OpenAI وشركات أخرى مثل SpaceX لتقييم الفرص الاستثمارية المتاحة.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdV9pMlVET0JKTHdRRGN3VUVMSy1KZGQyMnRVWGR2eUpONTVmcjd0dHZGcVRTREtQZ3ppalY0V3ZLaVlBaGZoQ3VsRU5rRktFblBGbFV3UkpNdmhiR2NneTJKWTNJWUlYMkNjdlRnZ0VEOHV0c05ETUh1d09EY2hqM2FXTHZEdWRZUjhlREhfNFgxTVdJX1VHMQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-07-05"
   },
   {
@@ -67,32 +91,32 @@ window.NEWS_DATA = {
    "date": "2026-07-05"
   },
   {
-   "title": "إعلان جوجل يتخيل وثيقة الاستقلال الأمريكية مع مساعدة الذكاء الاصطناعي",
-   "summary": "أطلقت جوجل حملة إعلانية بتصور معاصر لوثيقة الاستقلال الأمريكية، تسأل: ماذا لو كان الآباء المؤسسون يملكون الوصول إلى أدوات Google Workspace؟ يجمع الإعلان بين السياق التاريخي والتطبيقات العملية للذكاء الاصطناعي في بيئة العمل.",
+   "title": "إعلان جوجل يتخيل إعلان الاستقلال الأمريكي مكتوباً بمساعدة الذكاء الاصطناعي",
+   "summary": "أطلقت جوجل حملة إعلانية تستعرض سيناريو افتراضياً: ماذا لو كان الآباء المؤسسون للولايات المتحدة يملكون إمكانية الاستفادة من أدوات Google Workspace المدعومة بالذكاء الاصطناعي. الإعلان يجمع بين التاريخ والخيال لترويج تطبيقات الإنتاجية.",
    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-04"
   },
   {
-   "title": "Midjourney تطالب استوديوهات هوليوود بالإفصاح عن استخدامها للذكاء الاصطناعي",
-   "summary": "في سياق نزاع قانوني مستمر، تسعى منصة Midjourney لإجبار ثلاثة استوديوهات هوليووديين على الكشف عن كيفية استخدامهم للذكاء الاصطناعي في عملياتهم. يعكس الموقف تصاعداً في الخلافات حول شفافية استخدام تقنيات الذكاء الاصطناعي في الصناعة الإبداعية.",
+   "title": "ميدجرني تطالب استوديوهات هوليوود بالإفصاح عن استخدامها للذكاء الاصطناعي",
+   "summary": "في إطار نزاع قانوني جارٍ، تسعى شركة ميدجرني لإجبار ثلاثة استوديوهات هوليوودية على الكشف عن كيفية استخدامها تقنيات الذكاء الاصطناعي، بهدف الحصول على معلومات حول ممارساتهم في هذا المجال.",
    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-04"
   },
   {
-   "title": "علي بابا تمنع موظفيها من استخدام أداة كلود كود",
-   "summary": "قررت شركة علي بابا الصينية تصنيف أداة كلود كود كبرنامج عالي الخطورة ومنع استخدامها من قبل موظفيها. يعكس هذا القرار اهتمام الشركات الكبرى بمراقبة أدوات الذكاء الاصطناعي وتقييم مخاطرها الأمنية.",
+   "title": "علي بابا تحظر الموظفين من استخدام كلود كود",
+   "summary": "صنّفت شركة علي بابا تطبيق كلود كود من قِبل أنثروبيك ضمن برامج عالية الخطورة، مما دفعها لتحديد استخدامه داخل الشركة، في خطوة تعكس اهتمام الشركات بالتحكم في أدوات الذكاء الاصطناعي التي يستخدمها موظفوها.",
    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-04"
   },
   {
-   "title": "ميسترال إيه آي: الشركة الناشئة التي تسعى لجعل الذكاء الاصطناعي في متناول الجميع",
-   "summary": "شركة ميسترال إيه آي متخصصة في تطوير نماذج ذكاء اصطناعي مفتوحة المصدر، وتنافس خدمات الشركات العملاقة مثل أوبن إيه آي. حصلت على تمويلات كبيرة منذ تأسيسها عام 2023، بهدف توفير تكنولوجيا الذكاء الاصطناعي المتقدمة للعموم.",
+   "title": "ما هي ميسترال؟ دليل شامل عن منافسة أوبن إيه آي الناشئة",
+   "summary": "ميسترال هي شركة متخصصة في تطوير نماذج ذكاء اصطناعي مفتوحة المصدر، حصلت على تمويل كبير منذ تأسيسها عام 2023، وتسعى لتوفير تقنيات الذكاء الاصطناعي المتقدمة للجميع بدلاً من حصرها لدى عدد قليل من الشركات الكبرى.",
    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -104,30 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGFMWVRTUTB1Mm9LMFJBUFQ1RjZ1ckJRSi1JMmtQQWxEVFZNOUlPYW5NYkJmeF9BNU0zaERVdmh1TDVBVGhSZXMwaG5HR0dPeTlmOEt4VE5uNl8weFR4OHlwdlRjNlJBUzd4cWItNGxNWEx5ZHJzc0lUOEcwWmpKbXhpTWlWUENFNVk1akJ1M05hWVhWcUQ2NDZEeXhaaWY5dEE?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "دورة ذاكرة الذكاء الاصطناعي تشهد نمواً متسارعاً",
-   "summary": "سوق ذاكرة الحواسيب المخصصة لتطبيقات الذكاء الاصطناعي يشهد طلباً متزايداً، مما يفتح فرصاً استثمارية محتملة حتى للمستثمرين أصحاب رؤوس أموال محدودة في هذا القطاع الناشئ والسريع النمو.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcER4NHRGdF9OUW1HLXJpU3FiamhtZVZqZHBmcmhnVDdMbFVxOTZOSHFtZlcxLURNUFBHdTF0QXg4OVVSVl9WSWNyTkdtQlVRdVFhN255WlBtc3RMZGhZaldBRExGTkFESXpHRkVqa2pIVTJSeGhmN0dCamxkVzhlVERZR05lOVl4ZTBreEJXaEY4WmpCT0xEaHBpT1FCR1J1bEI1dkpaN2FvX1d5?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "الولايات المتحدة تفرض قيوداً على وصول منصة أنثروبيك للذكاء الاصطناعي",
-   "summary": "فرضت الحكومة الأمريكية قيوداً على إمكانية الوصول إلى خدمات شركة أنثروبيك للذكاء الاصطناعي، ما أثار مخاوف دولية بشأن مستقبل النفاذ العادل لتقنيات الذكاء الاصطناعي على الصعيد العالمي.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1pyYUZJRzVZeXJNeTBoZncxMVMwTWtIUnk5M21hRnExZVJ4MkNWM21TZHIybFV3Ui1LVDV3XzFaczFiT3M4MEtKeVl3Mi1CYmVPMUxReExHR1dlV2hDSWYwM2w4YTdDYXVsYWpTMHNTekpRdDZ0Tng0ZmZudUV0RXZQcjV1dmtTSXRv0gGLAUFVX3lxTFA2dDUtVWVvdkFtTEFucVN2RU84dGItdVBTakRSd3dDTFBubWExNVh6T3hFVGpsbzJXMlFqZEhnMEZZcTM1SU91OVVOLVBDOTBYVHQ4a3pVeXpuWE05UVk5Z3QySDZUc2NEa1EzUU0tSFZIUGJHWUJEcjRHaDYyclVOR05rVEoxSVNDZ1U?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "الذكاء الاصطناعي يساعد في استكشاف تاريخ المناخ القديم",
-   "summary": "يستخدم الباحثون تقنيات الذكاء الاصطناعي لتحليل البيانات المناخية التاريخية واستعادة معلومات عن أنماط المناخ في الماضي. هذا يساعد على فهم أفضل لتطور المناخ عبر الحقب الزمنية المختلفة.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84NVVjcnJhRjhPWk1NTDhEX04yY2JpSzE3U011M19BQnViMTRKaXFWMWdhdGw5a2FqQ1h1NVY2RDFQSVVSZG12VUxnUklQRVdEZDhBRXdMTE9aaG8zZ0JtUXU0MURiSTlT?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-04"
   }
  ]
