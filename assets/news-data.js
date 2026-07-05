@@ -1,13 +1,45 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-05T06:28:43.032356+00:00",
+ "updated": "2026-07-05T10:57:27.293742+00:00",
  "items": [
   {
-   "title": "الخدمة الصحية البريطانية توسّع استخدام الذكاء الاصطناعي لتقليل أوقات الانتظار",
-   "summary": "تسرّع الخدمة الصحية الوطنية البريطانية من نشر تطبيقات الذكاء الاصطناعي في عملياتها لتخفيف الضغط على المرضى وتحسين جودة الرعاية. يأتي هذا الإجراء كخطوة لمعالجة تراكم قوائم الانتظار والتحديات المزمنة في النظام الصحي.",
+   "title": "الخدمة الصحية البريطانية تسرّع نشر الذكاء الاصطناعي لتقليل أوقات الانتظار",
+   "summary": "تسعى الخدمة الصحية الوطنية البريطانية إلى توسيع استخدام تقنيات الذكاء الاصطناعي في مراكزها الطبية بهدف تقليل فترات انتظار المرضى وتحسين جودة الرعاية الصحية المقدمة لملايين البريطانيين. يأتي هذا الإجراء كخطوة استراتيجية لتعزيز كفاءة النظام الصحي وتخفيف الضغط على المنشآت الطبية.",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZGwtcXpiTU5BQl9RSmVoRWpScExBYVVTaDNMRHJCYkFuMGgwd3NCR3RCamk0ZHV1cG1jckpzRDF0cHVHY0VOVll0R2dxeVM2ekx2TTAwMzU5SU1NRUx4M3lTNjJ5SmlBWGo0cktteDE2NWtQSHEtMURGSE5IT2RpU2F2M0toM1ZHV0dpWjQ0TU54amZvOFRRU21oR0d5UW1YLWVYamdtdEV2MmZxdHdIaElJTjRVSkhZMUMtVTFFeFZBcG1vaUxGd0xHZUNnN3pfa2xTbXVrcERtOFFpQUHSAd4BQVVfeXFMTWRsLXF6Yk1OQUJfUUplaEVqUnBMQWFVU2gzTERyQmJBbjBoMHdzQkd0QmppNGR1dXBtY3JKc0QxdHB1R2NFTlZZdEdncXlTNnpMdk0wMDM1OUlNTUVMeDN5UzYyeUppQVhqNHJLbXgxNjVrUEhxLTFERkhOSE9kaVNhdjNLaDNWR1dHaVo0NE1OeGpmbzhUUVNtaEdHeVFtWC1lWGpnbXRFdjJmcXR3SGhJSU40VUpIWTFDLVUxRXhWQXBtb2lMRndMR2VDZzd6X2tsU211a3BEbThRaUFB?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "وكالات السيارات تعتمد الذكاء الاصطناعي لأتمتة المكالمات وحجز الخدمات والتدريب",
+   "summary": "تتجه وكالات بيع السيارات نحو استخدام تقنيات الذكاء الاصطناعي في أتمتة عمليات متعددة، منها معالجة المكالمات الواردة وجدولة مواعيد الصيانة والتدريب على العمليات المالية. يعكس هذا التوجه تحولاً متسارعاً في القطاع نحو رقمنة العمليات التقليدية.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTHl4d3RWbm1vZEZuVFNhZmh5UVM4ZFdkNDY3N1RYSGJyZlZ5Qm9xQnhzWU04YWgtbTJxbXE1SXhDWU9iNEp6WTN3Y0d2b2FMOU1QVHR6S2dwTEQ2LU5mOU0zQllQQThROW94T0FVWWdtT3RLSkFRb0V4aTBwLWRmMg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "المسؤولية الأبوية في عصر الحوارات الذكية: لماذا يستخدم المراهقون برامج الذكاء الاصطناعي",
+   "summary": "تثير مقالة رأي قضية انتشار استخدام المراهقين لتطبيقات الحوار المدعومة بالذكاء الاصطناعي، موجهة النقد إلى الأهالي بدلاً من الشباب أنفسهم. تركز على دور الكبار في فهم وتنظيم علاقة الأجيال الناشئة بهذه الأدوات.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd2Myc2FNVTFTNWtoTk5KRWtGTC02M3JCY2o2ZHhEMXQwRDlyX0dtR1FJSXZNWERid2lVdXJtTzNhQlNIVkN5elNIYlZCOG1LS0N2RWFud2lKOFpEcU1oeWhMVnBlVlZMVlk1QkdOZUJrczlCR29jNEM5VDBHbS1DazNsN1g5dTcydnpMMVZqU3RhVG1rMkRPVDFkdTZsWGNvQXVPVmxPQWNCV3lfSkVCY3FkdDlHNHA4MXN0OUdUeWtHWGs?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "أسهم SoftBank تنخفض بعد تأجيل متوقع لطرح OpenAI العام",
+   "summary": "انعكس الحديث عن تأجيل محتمل لطرح OpenAI في البورصة سلباً على أداء أسهم SoftBank، المستثمر الرئيسي في الشركة. يعكس الانخفاض حساسية سوق الأسهم تجاه تطورات قطاع الذكاء الاصطناعي الناشئ.",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGbWp2RGxSZ2V6dkNQVXpka1Bham5lVGFlMlM1WngtYnhJWjZSUDNwMFBmTXBuWEE4eTdRTXlXVEdhNDZMZ3NidkRPSFYxQS1TWmJrWi1YeGI0UXktSU1kZEdXU1VQR3liYVE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "متطلبات تقييم OpenAI: بين طموح سام ألتمان واختيارات المستثمرين",
+   "summary": "رفع سام ألتمان، مؤسس OpenAI، سقف توقعات التقييم عند طرح الشركة للاكتتاب العام إلى تريليون دولار أو أعلى. تطرح مقالة استثمارية مقارنة بين OpenAI وشركات أخرى مثل SpaceX لتقييم الفرص الاستثمارية المتاحة.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdV9pMlVET0JKTHdRRGN3VUVMSy1KZGQyMnRVWGR2eUpONTVmcjd0dHZGcVRTREtQZ3ppalY0V3ZLaVlBaGZoQ3VsRU5rRktFblBGbFV3UkpNdmhiR2NneTJKWTNJWUlYMkNjdlRnZ0VEOHV0c05ETUh1d09EY2hqM2FXTHZEdWRZUjhlREhfNFgxTVdJX1VHMQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-05"
   },
   {
@@ -35,35 +67,43 @@ window.NEWS_DATA = {
    "date": "2026-07-05"
   },
   {
-   "title": "إعلان جوجل يتخيل إعلان الاستقلال مصاغاً بمساعدة الذكاء الاصطناعي",
-   "summary": "أطلقت جوجل حملة إعلانية تستكشف سيناريواً افتراضياً حول كيف قد يبدو إعلان استقلال أمريكا لو كان مؤسسو البلاد متمتعين بإمكانيات أدوات جوجل الحديثة المدعومة بالذكاء الاصطناعي.",
+   "title": "إعلان جوجل يتخيل وثيقة الاستقلال الأمريكية مع مساعدة الذكاء الاصطناعي",
+   "summary": "أطلقت جوجل حملة إعلانية بتصور معاصر لوثيقة الاستقلال الأمريكية، تسأل: ماذا لو كان الآباء المؤسسون يملكون الوصول إلى أدوات Google Workspace؟ يجمع الإعلان بين السياق التاريخي والتطبيقات العملية للذكاء الاصطناعي في بيئة العمل.",
    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-04"
   },
   {
-   "title": "ميدجرني تطلب من استوديوهات هوليوود الكشف عن استخدامها للذكاء الاصطناعي",
-   "summary": "سعت شركة ميدجرني في إطار نزاع قانوني مستمر مع ثلاثة استوديوهات هوليوودية إلى إجبارها على الإفصاح عن كيفية استخدامها لتقنيات الذكاء الاصطناعي بنفسها، بهدف كشف التناقضات في مواقفهم تجاه الأدوات المدعومة بالذكاء الاصطناعي.",
+   "title": "Midjourney تطالب استوديوهات هوليوود بالإفصاح عن استخدامها للذكاء الاصطناعي",
+   "summary": "في سياق نزاع قانوني مستمر، تسعى منصة Midjourney لإجبار ثلاثة استوديوهات هوليووديين على الكشف عن كيفية استخدامهم للذكاء الاصطناعي في عملياتهم. يعكس الموقف تصاعداً في الخلافات حول شفافية استخدام تقنيات الذكاء الاصطناعي في الصناعة الإبداعية.",
    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-04"
   },
   {
-   "title": "علي بابا تحظر موظفيها من استخدام كود كلود",
-   "summary": "صنفت شركة علي بابا الصينية أداة كود كلود كبرنامج عالي الخطورة، وأصدرت حظراً على موظفيها من استخدامه في العمليات الداخلية.",
+   "title": "علي بابا تمنع موظفيها من استخدام أداة كلود كود",
+   "summary": "قررت شركة علي بابا الصينية تصنيف أداة كلود كود كبرنامج عالي الخطورة ومنع استخدامها من قبل موظفيها. يعكس هذا القرار اهتمام الشركات الكبرى بمراقبة أدوات الذكاء الاصطناعي وتقييم مخاطرها الأمنية.",
    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-04"
   },
   {
-   "title": "ميسترال إيه آي: المنصة المفتوحة التي تحدّي الذكاء الاصطناعي الاحتكاري",
-   "summary": "شركة ميسترال إيه آي المتخصصة في نماذج الذكاء الاصطناعي مفتوحة المصدر حققت تمويلات كبيرة منذ تأسيسها عام 2023، بهدف جعل تقنيات الذكاء الاصطناعي المتقدمة متاحة للجميع بدلاً من احتكارها من قبل شركات معدودة.",
+   "title": "ميسترال إيه آي: الشركة الناشئة التي تسعى لجعل الذكاء الاصطناعي في متناول الجميع",
+   "summary": "شركة ميسترال إيه آي متخصصة في تطوير نماذج ذكاء اصطناعي مفتوحة المصدر، وتنافس خدمات الشركات العملاقة مثل أوبن إيه آي. حصلت على تمويلات كبيرة منذ تأسيسها عام 2023، بهدف توفير تكنولوجيا الذكاء الاصطناعي المتقدمة للعموم.",
    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-04"
+  },
+  {
+   "title": "ميسترال إيه آي: معلومات شاملة عن منافس أوبن إيه آي الناشئ",
+   "summary": "شركة ميسترال إيه آي متخصصة في تطوير نماذج ذكاء اصطناعي مفتوحة المصدر، وتنافس خدمات الشركات العملاقة مثل أوبن إيه آي. حصلت على تمويلات كبيرة منذ تأسيسها عام 2023، بهدف توفير تكنولوجيا الذكاء الاصطناعي المتقدمة للعموم.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGFMWVRTUTB1Mm9LMFJBUFQ1RjZ1ckJRSi1JMmtQQWxEVFZNOUlPYW5NYkJmeF9BNU0zaERVdmh1TDVBVGhSZXMwaG5HR0dPeTlmOEt4VE5uNl8weFR4OHlwdlRjNlJBUzd4cWItNGxNWEx5ZHJzc0lUOEcwWmpKbXhpTWlWUENFNVk1akJ1M05hWVhWcUQ2NDZEeXhaaWY5dEE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-04"
   },
   {
@@ -72,14 +112,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcER4NHRGdF9OUW1HLXJpU3FiamhtZVZqZHBmcmhnVDdMbFVxOTZOSHFtZlcxLURNUFBHdTF0QXg4OVVSVl9WSWNyTkdtQlVRdVFhN255WlBtc3RMZGhZaldBRExGTkFESXpHRkVqa2pIVTJSeGhmN0dCamxkVzhlVERZR05lOVl4ZTBreEJXaEY4WmpCT0xEaHBpT1FCR1J1bEI1dkpaN2FvX1d5?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "ميسترال إيه آي: الشركة الناشئة التي تنافس الرائدين في مجال الذكاء الاصطناعي",
-   "summary": "ميسترال إيه آي تقدم نماذج ذكاء اصطناعي مفتوحة المصدر وحصلت على تمويل كبير منذ إنشاؤها في 2023، بهدف توفير تقنيات الذكاء الاصطناعي المتقدمة للجميع دون قيود احتكارية.",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGFMWVRTUTB1Mm9LMFJBUFQ1RjZ1ckJRSi1JMmtQQWxEVFZNOUlPYW5NYkJmeF9BNU0zaERVdmh1TDVBVGhSZXMwaG5HR0dPeTlmOEt4VE5uNl8weFR4OHlwdlRjNlJBUzd4cWItNGxNWEx5ZHJzc0lUOEcwWmpKbXhpTWlWUENFNVk1akJ1M05hWVhWcUQ2NDZEeXhaaWY5dEE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-07-04"
   },
   {
@@ -96,38 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84NVVjcnJhRjhPWk1NTDhEX04yY2JpSzE3U011M19BQnViMTRKaXFWMWdhdGw5a2FqQ1h1NVY2RDFQSVVSZG12VUxnUklQRVdEZDhBRXdMTE9aaG8zZ0JtUXU0MURiSTlT?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "الذكاء الاصطناعي يسهّل انطلاق ونمو مشروع صغير",
-   "summary": "استفادت شركة صغيرة من تقنيات الذكاء الاصطناعي لتسريع بدء عملياتها وتحقيق توسع سريع. يعكس هذا الاتجاه دور متنامٍ للذكاء الاصطناعي في دعم المشاريع الناشئة والصغيرة في تحسين كفاءتها التشغيلية.",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEhsMnNsNTVEQ29fZ1pGMzB6ZzNyZHgxWmUwaGp5Z0JxeGpUS3hCNUw5NHZ1NTFLVDFJUjd1bFZoQmpfRFFMMEQtZXVadnFmc01yaUpwSFl0Njc4X2Jsc1ZmYWdXcHdMRkJfUi1wLVNzNHQzcGhfNThMV2RLYU5faW1SSUE2ZXExV25uOERMSG5XNG43UHBmbmM4c2hkSVlNT0tNVFNvandxempMejF1MmZYWWF3SGRueVJ2dlllUV8?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "DeepSeek V4: مقارنة شاملة مع نماذج الذكاء الاصطناعي الرائدة",
-   "summary": "أطلقت DeepSeek إصدارها الرابع الجديد، وتحليلات متقابلة تقيس أداؤه مقابل نماذج محترفة أخرى مثل ChatGPT وClaude وGemini. يمثل هذا المقارنة خطوة مهمة لفهم الفروقات بين الأنظمة المختلفة وقدراتها المتنوعة.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXRWZ1ZVaXI5MDBqdWtjLWc0VFB4Y1hMRl84M0FCQ1haa3JvRjBNVnQtUzlxYm5lcm9ScUx3QXVPV2ZjcGoyRWo5Njk1NnEwdXVIZ09ScDd5aFpJLU1JblpObkRIbENvcFh4ZDl6ZkNSVHVuZW9nLUZzNFdiSThyVWlaeF9JeDlI?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "تحديثات تطبيق Gemini مع خدمات Google AI Plus و AI Pro",
-   "summary": "أضافت Google ميزات جديدة لتطبيق Gemini متزامنة مع خطط الاشتراك المدفوعة Google AI Plus و AI Pro. تعزز هذه الترقيات من تجربة المستخدم وتوفر وظائف متقدمة للمشتركين.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80LW1rZnhiVWpNNGhYbDV1VWV3SjJ1d3dtcGJiY2xaVkE4blJ0VlpQWXJjWFI2UVRGME9wWlRzNDVEME5SVlI0Z0Q4QWVCaVo3V2RtcnRPci1FZnRXbllMaTFJRTV1SW1hOEMxOUgwMXRUQndjVWU0?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "دعوة لحكومة واشنطن لقبول عرض الأسهم من OpenAI",
-   "summary": "طرحت مقالة رأي تقترح على السلطات الأمريكية الاستجابة لعرض OpenAI بخصوص حصة ملكية في الشركة. يرى الكاتب أن هذا الخطوة قد توازن بين الاهتمام الحكومي بتطور الذكاء الاصطناعي وحماية المصالح العامة.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZmUxVG5maGY5QnNzWUc0RUZsT2hJS3NHdkpscEY2aVFkRDhEa1NIOXc5TFQzaC1mQlVycTdxcjN6dlQtekFpOU1GSGZSanV6endfRWwtSFJ6czRxMC0yRnJsVm50YUV0T3psYlBMLXBXQk43dWtMLXYtdWVNVDIwU0Y4eDZxdkpScmhGX1RHRmVNX0o1WWZPQUtlV21zYVk?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-07-04"
   }
  ]
