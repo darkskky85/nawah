@@ -1,45 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-04T21:45:38.160701+00:00",
+ "updated": "2026-07-05T06:28:43.032356+00:00",
  "items": [
   {
-   "title": "إعلان جوجل يتخيّل إعلان الاستقلال لو كان معدّاً بمساعدة الذكاء الاصطناعي",
-   "summary": "أطلقت جوجل إعلاناً تجارياً يسأل سؤالاً فلسفياً: ماذا لو كان الآباء المؤسسون الأمريكيون يملكون إمكانية الوصول لأدوات جوجل ووركسبيس؟ الإعلان يمزج بين التاريخ والتكنولوجيا الحديثة بطريقة خفيفة الظل.",
+   "title": "الخدمة الصحية البريطانية توسّع استخدام الذكاء الاصطناعي لتقليل أوقات الانتظار",
+   "summary": "تسرّع الخدمة الصحية الوطنية البريطانية من نشر تطبيقات الذكاء الاصطناعي في عملياتها لتخفيف الضغط على المرضى وتحسين جودة الرعاية. يأتي هذا الإجراء كخطوة لمعالجة تراكم قوائم الانتظار والتحديات المزمنة في النظام الصحي.",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZGwtcXpiTU5BQl9RSmVoRWpScExBYVVTaDNMRHJCYkFuMGgwd3NCR3RCamk0ZHV1cG1jckpzRDF0cHVHY0VOVll0R2dxeVM2ekx2TTAwMzU5SU1NRUx4M3lTNjJ5SmlBWGo0cktteDE2NWtQSHEtMURGSE5IT2RpU2F2M0toM1ZHV0dpWjQ0TU54amZvOFRRU21oR0d5UW1YLWVYamdtdEV2MmZxdHdIaElJTjRVSkhZMUMtVTFFeFZBcG1vaUxGd0xHZUNnN3pfa2xTbXVrcERtOFFpQUHSAd4BQVVfeXFMTWRsLXF6Yk1OQUJfUUplaEVqUnBMQWFVU2gzTERyQmJBbjBoMHdzQkd0QmppNGR1dXBtY3JKc0QxdHB1R2NFTlZZdEdncXlTNnpMdk0wMDM1OUlNTUVMeDN5UzYyeUppQVhqNHJLbXgxNjVrUEhxLTFERkhOSE9kaVNhdjNLaDNWR1dHaVo0NE1OeGpmbzhUUVNtaEdHeVFtWC1lWGpnbXRFdjJmcXR3SGhJSU40VUpIWTFDLVUxRXhWQXBtb2lMRndMR2VDZzd6X2tsU211a3BEbThRaUFB?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "تدريب الأجيال الجديدة للازدهار في عصر الذكاء الاصطناعي",
+   "summary": "تحليل يستعرض الاستراتيجيات والمهارات اللازمة لإعداد الشباب ليكونوا مهيئين للتعامل مع تطورات الذكاء الاصطناعي وتأثيره على سوق العمل والمجتمع.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMm9Ra1NfQnlJLU1heVN4X3FnMXJ3YjJvOUZiUEVwV1luX3FGeEUyUnU0NkZsRElSc1E4SlAtZndPMGlGR1kweHpkcmNWdDg3T1FiX3RPa0RVcEZtR09naktnNWE1MnZ0R1dJcktrcTFhS18wTW9CZ2VFUTZ5bklLM2VpLVlLSGxmSTB6NEU3aUtadWRCTGstZTB2b3M3YjA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "فندق تشويس إنترناشيونال يضم قائداً في مجال الذكاء الاصطناعي إلى مجلس إدارته",
+   "summary": "عينت شركة تشويس هوتلز الخبير علي كشاورز، المتخصص في الذكاء الاصطناعي، عضواً في مجلس الإدارة بهدف تعزيز استراتيجياتها التكنولوجية في قطاع الفنادق والضيافة.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWdyN3FpZ2x2cEE1U0c1R1pvU1VzQXhRMS1uOXJGb0NGREoyUFA2OVNnaDJVLW5wSmdKTkdoWHFNYWtuMWdvNVJtc2ZuNDFHSG1JbXktUGN2d1RQUXlzWHhka3dPWVhOdXE2R2x2VXQ5LUZxX2hIWHJqaEJjejBqdVFGakhCcS1ESGM1YjNiOVVHNVpQSTZNRGF3VG12OFNOQUNYbjhPSFJpRVRrREItcFdwMmVNSXR0RDA5dHM1bjZqQQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "القيود الأمريكية الجديدة على نماذج ذكاء اصطناعي متقدمة",
+   "summary": "فرضت الولايات المتحدة قيوداً على الوصول إلى نماذج ذكاء اصطناعي متطورة من شركة أوبن إيه آي، بعد اتخاذ إجراء مماثل تجاه شركة أنثروپك، ما يعكس اهتماماً حكومياً متزايداً بالتحكم في توزيع التكنولوجيات الحساسة.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSklLcUVtUDFJMFRIUWhGUENYakVRNGtJeTV4MUdoMHl1ZDdHQ0ZueVNtYTdtY0dzNmFRcTZCUVZ6OHFxT2VwSU1aQ1FfUzczdGRscUFCczN6NFc3ZWl2WTFfZURVV1Vnb01FUHR0N0E2UDNqSVVHbFBTV3pZdVBmNkExY2ZwTjJRQ0Y2OXh5T0x4YTNPeGc3ZjZCd3JoOXVCRkVaMjNiaG9vVDAzZWJoQmFNSDBUQ2VhZnFjc0psbw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "إعلان جوجل يتخيل إعلان الاستقلال مصاغاً بمساعدة الذكاء الاصطناعي",
+   "summary": "أطلقت جوجل حملة إعلانية تستكشف سيناريواً افتراضياً حول كيف قد يبدو إعلان استقلال أمريكا لو كان مؤسسو البلاد متمتعين بإمكانيات أدوات جوجل الحديثة المدعومة بالذكاء الاصطناعي.",
    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-04"
   },
   {
-   "title": "ميدجيرني تطالب استوديوهات هوليوود بالكشف عن تفاصيل استخدامها للذكاء الاصطناعي",
-   "summary": "في إطار نزاع قانوني مستمر، تسعى شركة ميدجيرني لإجبار ثلاثة استوديوهات هوليوودية على الإفصاح عن كيفية استخدامهم لأدوات الذكاء الاصطناعي. الخطوة تأتي كجزء من معركة أوسع حول حقوق الملكية الفكرية والاستخدام المسؤول للتكنولوجيا في الصناعة الترفيهية.",
+   "title": "ميدجرني تطلب من استوديوهات هوليوود الكشف عن استخدامها للذكاء الاصطناعي",
+   "summary": "سعت شركة ميدجرني في إطار نزاع قانوني مستمر مع ثلاثة استوديوهات هوليوودية إلى إجبارها على الإفصاح عن كيفية استخدامها لتقنيات الذكاء الاصطناعي بنفسها، بهدف كشف التناقضات في مواقفهم تجاه الأدوات المدعومة بالذكاء الاصطناعي.",
    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-04"
   },
   {
-   "title": "علي بابا تمنع موظفيها من استخدام كود كلود",
-   "summary": "صنفت شركة علي بابا الصينية برنامج كود كلود كبرنامج ذي مخاطر عالية، وأصدرت تعميماً يحظر استخدامه من قبل الموظفين. القرار يعكس حرصاً من الشركات الكبرى على التحكم بالأدوات التي يستخدمها فريقوها.",
+   "title": "علي بابا تحظر موظفيها من استخدام كود كلود",
+   "summary": "صنفت شركة علي بابا الصينية أداة كود كلود كبرنامج عالي الخطورة، وأصدرت حظراً على موظفيها من استخدامه في العمليات الداخلية.",
    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-04"
   },
   {
-   "title": "ميسترال إيه آي: المنصة المفتوحة التي تنافس أوبن إيه آي",
-   "summary": "ميسترال إيه آي شركة فرنسية متخصصة في نماذج الذكاء الاصطناعي مفتوحة المصدر، تأسست سنة 2023 وجمعت استثمارات كبيرة. تسعى الشركة لجعل تكنولوجيات الذكاء الاصطناعي المتقدمة في متناول الجميع بدلاً من حصرها في أيدي شركات كبيرة.",
+   "title": "ميسترال إيه آي: المنصة المفتوحة التي تحدّي الذكاء الاصطناعي الاحتكاري",
+   "summary": "شركة ميسترال إيه آي المتخصصة في نماذج الذكاء الاصطناعي مفتوحة المصدر حققت تمويلات كبيرة منذ تأسيسها عام 2023، بهدف جعل تقنيات الذكاء الاصطناعي المتقدمة متاحة للجميع بدلاً من احتكارها من قبل شركات معدودة.",
    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-04"
   },
   {
-   "title": "دورة الذاكرة في الذكاء الاصطناعي توفر فرصاً استثمارية جديدة",
-   "summary": "يشهد سوق الذاكرة المخصصة للذكاء الاصطناعي نمواً متسارعاً يخلق فرصاً استثمارية بميزانيات محدودة. يمكن للمستثمرين الاستفادة من هذا الطلب المتزايد على أجهزة التخزين عالية السعة دون الحاجة لاستثمارات كبرى.",
+   "title": "دورة ذاكرة الذكاء الاصطناعي تشهد نمواً متسارعاً",
+   "summary": "سوق ذاكرة الحواسيب المخصصة لتطبيقات الذكاء الاصطناعي يشهد طلباً متزايداً، مما يفتح فرصاً استثمارية محتملة حتى للمستثمرين أصحاب رؤوس أموال محدودة في هذا القطاع الناشئ والسريع النمو.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcER4NHRGdF9OUW1HLXJpU3FiamhtZVZqZHBmcmhnVDdMbFVxOTZOSHFtZlcxLURNUFBHdTF0QXg4OVVSVl9WSWNyTkdtQlVRdVFhN255WlBtc3RMZGhZaldBRExGTkFESXpHRkVqa2pIVTJSeGhmN0dCamxkVzhlVERZR05lOVl4ZTBreEJXaEY4WmpCT0xEaHBpT1FCR1J1bEI1dkpaN2FvX1d5?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-07-04"
+  },
+  {
+   "title": "ميسترال إيه آي: الشركة الناشئة التي تنافس الرائدين في مجال الذكاء الاصطناعي",
+   "summary": "ميسترال إيه آي تقدم نماذج ذكاء اصطناعي مفتوحة المصدر وحصلت على تمويل كبير منذ إنشاؤها في 2023، بهدف توفير تقنيات الذكاء الاصطناعي المتقدمة للجميع دون قيود احتكارية.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGFMWVRTUTB1Mm9LMFJBUFQ1RjZ1ckJRSi1JMmtQQWxEVFZNOUlPYW5NYkJmeF9BNU0zaERVdmh1TDVBVGhSZXMwaG5HR0dPeTlmOEt4VE5uNl8weFR4OHlwdlRjNlJBUzd4cWItNGxNWEx5ZHJzc0lUOEcwWmpKbXhpTWlWUENFNVk1akJ1M05hWVhWcUQ2NDZEeXhaaWY5dEE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-04"
+  },
+  {
+   "title": "الولايات المتحدة تفرض قيوداً على وصول منصة أنثروبيك للذكاء الاصطناعي",
+   "summary": "فرضت الحكومة الأمريكية قيوداً على إمكانية الوصول إلى خدمات شركة أنثروبيك للذكاء الاصطناعي، ما أثار مخاوف دولية بشأن مستقبل النفاذ العادل لتقنيات الذكاء الاصطناعي على الصعيد العالمي.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1pyYUZJRzVZeXJNeTBoZncxMVMwTWtIUnk5M21hRnExZVJ4MkNWM21TZHIybFV3Ui1LVDV3XzFaczFiT3M4MEtKeVl3Mi1CYmVPMUxReExHR1dlV2hDSWYwM2w4YTdDYXVsYWpTMHNTekpRdDZ0Tng0ZmZudUV0RXZQcjV1dmtTSXRv0gGLAUFVX3lxTFA2dDUtVWVvdkFtTEFucVN2RU84dGItdVBTakRSd3dDTFBubWExNVh6T3hFVGpsbzJXMlFqZEhnMEZZcTM1SU91OVVOLVBDOTBYVHQ4a3pVeXpuWE05UVk5Z3QySDZUc2NEa1EzUU0tSFZIUGJHWUJEcjRHaDYyclVOR05rVEoxSVNDZ1U?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-04"
   },
   {
@@ -78,54 +126,6 @@ window.NEWS_DATA = {
    "title": "دعوة لحكومة واشنطن لقبول عرض الأسهم من OpenAI",
    "summary": "طرحت مقالة رأي تقترح على السلطات الأمريكية الاستجابة لعرض OpenAI بخصوص حصة ملكية في الشركة. يرى الكاتب أن هذا الخطوة قد توازن بين الاهتمام الحكومي بتطور الذكاء الاصطناعي وحماية المصالح العامة.",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZmUxVG5maGY5QnNzWUc0RUZsT2hJS3NHdkpscEY2aVFkRDhEa1NIOXc5TFQzaC1mQlVycTdxcjN6dlQtekFpOU1GSGZSanV6endfRWwtSFJ6czRxMC0yRnJsVm50YUV0T3psYlBMLXBXQk43dWtMLXYtdWVNVDIwU0Y4eDZxdkpScmhGX1RHRmVNX0o1WWZPQUtlV21zYVk?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "فرص استثمارية جديدة في أسهم الذكاء الاصطناعي للمستثمرين المتأخرين",
-   "summary": "يناقش التقرير فرصاً استثمارية في قطاع الذكاء الاصطناعي للمستثمرين الذين لم يشاركوا في الموجة الأولى من أسهم هذا القطاع. يركز على خيارات استثمارية جريئة قد توفر عوائد محتملة في السوق المتنامية.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdklmUGcxYnliei1fakQ3c19SQWJmeHpodHotb01QdXE3LTFCSnNlaTZPYzFYaVJxdFR6NFBOdUpObjl4OXM3Y0lFN1VKLWJ1QUMzZXZNNWU0X0ZqdFlUVDFlRlRRSVlDcjc0RFh3SzN5VFJrVHdnMzhqV2djZkdLY2VLMkZURHd2dDZfYkFfaVo4VUp0MXB2OERMV3N0NUR2cTg1dVQyNWQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "تراجع أوبن إيه آي عن زيارة موقع استثماري بريطاني يثير تساؤلات حول التزامها",
-   "summary": "أثار عدم زيارة شركة أوبن إيه آي لموقع استثماري رئيسي في المملكة المتحدة أسئلة حول جدية نواياها بشأن المشروعات الاستثمارية هناك. يعكس التطور توتراً محتملاً حول خطط الشركة في السوق البريطانية والالتزام بالاستثمارات المعلنة.",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2tQWXRkeWVkSjJ2RXZ3LWdBZnRoeko3MnR2RHVVLVlWQXc3NllsbnpSaUJ0NC04Rndkb1ZtLXBBU1pZdENaRGlrNjE5TGk3N2pJR3VGblhpSnAxWG1pRFdXRFNBdmxaZ0Zya1NkeXQ5N2pzVy1rLWV5aDhETGYyZ3ZWSHlmODFhRHBoTGtKYjd5enF0RWo3aFFGWWJTVWV5RmxndTgzd21DNkNfdC1JUUZjOU5DZF9XdmM0?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "غلاز من ريكاست: أداة جديدة لحماية الفنون من الذكاء الاصطناعي",
-   "summary": "أداة جديدة ظهرت باسم Glaze من شركة Raycast، تهدف إلى حماية الأعمال الفنية والمحتويات الإبداعية من استخدامها في تدريب نماذج الذكاء الاصطناعي دون إذن. تعمل الأداة على تعديل البيانات الرقمية بطرق غير مرئية للعين البشرية لتقليل فعالية استخراج البيانات.",
-   "url": "https://www.producthunt.com/products/glaze-4",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "من النظرية إلى التطبيق: تقدمات في الأنظمة والأطر متعددة الوكلاء - نيتشر",
-   "summary": "نشرت مجلة نيتشر العلمية ملفاً خاصاً يركز على التطورات الحديثة في مجال الأنظمة والأطر متعددة الوكلاء التي تعتمد على الذكاء الاصطناعي. يغطي الملف الانتقال من الأساليب النظرية البحتة إلى التطبيقات العملية الفعلية في هذا المجال.",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VSERGWVpET3I3SzRBaWJ3ZkdpUkV1VGItVkZPLWtLdDlveWxmOHRJMU5weHZQN0E0ZUtWSjM5YWYyZVhNb280MlVSVnVhNFJVOXhUb2tuSVNCVWFOby04LTF5SlJEX01zMi0w?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "إيدي: نظام الذكاء الاصطناعي الذي يمثل رد قطاع البيع بالتجزئة على تشات جي بي تي",
-   "summary": "ظهور نظام ذكاء اصطناعي متخصص باسم إيدي موجه لقطاع البيع بالتجزئة، يهدف لتوفير قدرات مشابهة لتلك التي يقدمها تشات جي بي تي لكن مصمم خصيصاً لاحتياجات العاملين والمتاجر في هذا المجال.",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzd2TFlYZ0ZRVk9CU0pHOVJSdGV1VTNkMzJQaGhRTmRzNTZveHZialFFOUdlSHM5Ni0tNkZsM3pqaUo1YmxmVkJUeG5jNFpycEhrRGNwYWlEM3FjT2c1WEJLdnBiLWd6SFJXY2p2QUcwdHJIbGowNGh1MnRuTmJUMHFZMUZfOFFtaVJTOTVpWkZ4bkwtdkw1S0twWjBramFuQktv?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-04"
-  },
-  {
-   "title": "شركة أنثروبك تسعى للتعاون مع سامسونج الكورية لتطوير رقاقة ذكاء اصطناعي مخصصة",
-   "summary": "تستكشف شركة أنثروبك إمكانية التعاون مع العملاق التكنولوجي الكوري الجنوبي سامسونج بهدف تصميم وتطوير معالج متخصص يدعم تطبيقات وأنظمة الذكاء الاصطناعي الخاصة بها.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZF9aSlNYNWJvblNUYm5SRnpnRkZWUk1UbEVIcW5LclBuc05PQ0lZMkdIb3JwWmNfNDJHcFhUaU9CTDVMNklDaDA1Y1Z4Q0xJRGx3NG9rX0ZvYzF4WUxHNktlQldMZnFfV29mV3VmRkZqeUMya2hBanE3bHBsMmJMX1BQcTFDUEtub3BvNnFrRUFTc29RQ1ppRXJIONIBoAFBVV95cUxNODNpSWktRTdVQlNWRVY1VDJudF84bXRVZm1SQU5aNFJ6R3R2RzZrcGJpQW55b1Y3Tm1PMWtBb2Vnd1BfaTZCVUFMUldGS1lSc25VTDhaM3REbXdyQXZxcUdUMkluTmQ1bXR2N28yTWs5bEZvdkNhX0hFcVNIcGJuZGFFMHFQa3NoOWNXYkswMFZrWFNSd2VNM3FIQmxyWFgz?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-07-04"
