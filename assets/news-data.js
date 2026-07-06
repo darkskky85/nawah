@@ -1,21 +1,85 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-06T17:36:53.924545+00:00",
+ "updated": "2026-07-06T22:05:49.663311+00:00",
  "items": [
   {
-   "title": "جوجل تستخدم بيانات المستخدمين لتدريب ذكائها الاصطناعي.. إليك طريقة الامتناع",
-   "summary": "غيّرت جوجل إعدادات الخصوصية لديها بما يسمح باستخدام المزيد من بيانات المستخدمين في تدريب أنظمتها الذكية. يمكن للمستخدمين رفض هذا الخيار من خلال تعديل إعدادات الخصوصية في حسابهم.",
+   "title": "الرئيس التنفيذي لفيرسيل يناقش فصل نماذج الذكاء الاصطناعي عن الوكلاء الذكيين",
+   "summary": "أشار رئيس فيرسيل إلى أن التركيز على الأداء الإنتاجي يفرض مراعاة نسبة السعر إلى الأداء عند اختيار حلول الذكاء الاصطناعي، ما يؤثر على طريقة تصميم الأنظمة وفصل مكوناتها.",
+   "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "إمكانية تخصيص سرعة ونبرة صوت مساعد سيري في أحدث إصدارات iOS",
+   "summary": "أضافت أبل خيارات جديدة لتخصيص خصائص صوت سيري، بما يعكس جهود الشركة لجعل المساعد أكثر طبيعية وتشخصاً مع إعادة بنائه حول تقنيات الذكاء الاصطناعي التوليدي.",
+   "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "تتبع تصريحات شركات التكنولوجيا الكبرى بشأن تسريح الموظفين المرتبط بالذكاء الاصطناعي في 2026",
+   "summary": "توثيق مستمر لقرارات تسريح الموظفين في كبرى شركات التكنولوجيا خلال السنة الحالية، والتي أشارت الشركات فيها إلى الذكاء الاصطناعي كعامل رئيسي في هذه القرارات.",
+   "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "كيفية منع جوجل من استخدام بيانات المستخدمين لتدريب نماذج الذكاء الاصطناعي",
+   "summary": "غيّرت جوجل سياسات الخصوصية بما يسمح لها بحفظ كميات أكبر من بيانات المستخدمين، بما في ذلك الصور والملفات والتسجيلات، لتحسين نماذج الذكاء الاصطناعي لديها، وهناك طرق للاعتراض على هذا الإجراء.",
    "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-06"
   },
   {
-   "title": "مايكروسوفت تسرح حوالي 5 آلاف موظف من أقسام إكس بوكس والمبيعات",
-   "summary": "أعلنت مايكروسوفت عن تسريح نحو 4800 موظف يمثلون 2.1% من قوتها العاملة، مع تركيز الإجراء على قسم إكس بوكس والمبيعات التجارية. يأتي هذا الإجراء ضمن موجة تسريحات متتالية تثير قلقاً من استبدال الذكاء الاصطناعي للوظائف البشرية.",
+   "title": "مايكروسوفت تسرح ما يقارب 5 آلاف موظف من قسمي Xbox والمبيعات التجارية",
+   "summary": "أعلنت مايكروسوفت عن تسريح حوالي 4800 موظف يمثلون 2.1% من القوى العاملة العالمية، مع تركيز الخفض على أقسام الألعاب والمبيعات، وسط مخاوف متزايدة من استبدال الذكاء الاصطناعي للعمالة البشرية.",
    "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "مايكروسوفت تسرّح أكثر من 4800 موظف مع بداية السنة المالية الجديدة",
+   "summary": "أعلنت مايكروسوفت عن فصل حوالي 4800 موظف، بما يمثل نحو 2.1% من قوتها العاملة، وذلك بعد عام واحد من تسريح 9100 موظف. تركزت التسريحات الجديدة في الأقسام التجارية بشكل أساسي.",
+   "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "الأثرياء الأمريكيون يوكلون الذكاء الاصطناعي بتعليم أطفالهم بدلاً من المدارس التقليدية",
+   "summary": "رغم انعدام ثقة معظم الأمريكيين بالذكاء الاصطناعي، يتجه عدد من الأسر الثرية إلى الاستعانة به كبديل عن التعليم التقليدي، حيث تقدم شركات متخصصة خدمات تعليم قائمة على أنظمة ذكاء اصطناعي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "إعلان غوغل يتخيل مؤسسي أمريكا يحتضنون الذكاء الاصطناعي",
+   "summary": "أطلقت غوغل إعلاناً تسويقياً لخدماتها يصور سيناريو افتراضي حول استخدام مؤسسي الدولة الأمريكية الأولين لأدوات التعاون وتقنية Gemini في صياغة إعلان الاستقلال، لكن الإعلان لقي انتقادات واسعة لمحتواه.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "حصة الأسرة الأمريكية المتوقعة من ثروة OpenAI",
+   "summary": "يعود التركيز مجدداً على وعد الرئيس التنفيذي لـ OpenAI بمشاركة الأمريكيين في الثروات الناتجة عن الذكاء الاصطناعي، حيث أثارت النقاشات حول كيفية تحقيق هذا الوعد وتوزيع الفوائد الاقتصادية.",
+   "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "مراقب مخفي لـ Claude يثير قلق المستخدمين رغم موقف Anthropic المعارض للمراقبة",
+   "summary": "اتهمت مستخدمون شركة Anthropic بممارسة المراقبة بعد اكتشاف أداة تتبع خفية في Claude، بينما أشار المهندسون إلى أن هذا كان بمثابة تجربة انتهت.",
+   "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
    "date": "2026-07-06"
   },
   {
@@ -24,38 +88,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "مايكروسوفت تعلن تسريح 4800 موظف مع بدء السنة المالية الجديدة",
-   "summary": "أطلقت مايكروسوفت موجة تسريح جديدة تطال 4800 موظف بنسبة 2.1% من إجمالي القوى العاملة، بعد تسريحات سابقة بحوالي سنة. يؤثر الإجراء بشكل أساسي على أقسام تجارية معينة بالشركة.",
-   "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "الأثرياء الأميركيون يعهدون بتعليم أطفالهم إلى الذكاء الاصطناعي",
-   "summary": "يلجأ بعض الأثرياء الأميركيين إلى منصات تعليمية مدعومة بالذكاء الاصطناعي بدلاً من المدارس التقليدية. يعكس هذا الاتجاه اختلافاً واضحاً عن الثقة المحدودة التي يبديها معظم الأميركيين تجاه تقنيات الذكاء الاصطناعي.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "إعلان غوغل يتخيّل مؤسسي أمريكا يعتنقون الذكاء الاصطناعي",
-   "summary": "أطلقت غوغل إعلاناً تروّج فيه لأدوات التعاون Workspace وGemini بتصوير فانتازي يجمع بين الآباء المؤسسين وتكنولوجيا الذكاء الاصطناعي، بدعوى أنهم كانوا سيستخدمونها لصياغة إعلان الاستقلال. الإعلان أثار انتقادات على وسائل التواصل لافتقاره إلى الرقي.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "انثروبيك تواجه انتقادات بعد كشف أداة تتبع خفية لـ كلود",
-   "summary": "انكشف أن انثروبيك طوّرت أداة تتبع مستخدمين بينما تُعلن علنياً موقفها المعارض للمراقبة الرقمية، مما أثار احتجاجات المستخدمين. أكد مهندس بالشركة أن هذا 'المشروع التجريبي' توقف عن العمل.",
-   "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
    "date": "2026-07-06"
   },
   {
@@ -96,38 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORG9DQ3dhS0c3c1RuYXJXZHhrMjZsTU1HWmVZLVg1VWJ4Vi1RdHNTVVVfdjI4Z3ZqWUpiNkZuSmFqME9rd2NISEVhSGxXNE41cjhXeEtBdWNVaHowLTk3MjJ0aFRCeFc2Y29qVE5kc1hvT0JZcEVJdFNFUGx5bFp0NGZJcm9SdkNrajMtZWtGX0s5WkpkU3NKTkdPczRWM2dPX0l3dVIzLV9vbHpKZFE0NHEyeXhjVTZTWU1SWFp3Y0hnbnlkeFBBaWxxOW5Xc3dUXzRyUm9VdnZBTVFxREh3?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "الذكاء الاصطناعي وتأثيره على التكنولوجيا الحيوية: حوار مع رئيس Anthropic",
-   "summary": "أجرت منصة STAT حواراً مع الرئيس التنفيذي لشركة Anthropic حول دور الذكاء الاصطناعي في تطوير مجال التكنولوجيا الحيوية والعقاقير. تناول الحوار الآفاق المستقبلية والتحديات المتعلقة باستخدام هذه التقنيات في البحث الطبي والحيوي.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VMGNMbDZSS3ppUkRBeWZjU3JjWkpxRk9ZR19uWXJFN3F6aW42V0xkUUR1SnFwb0xXMmRyaXRsbm8yX0ZBbDgyYzFuU3pwQXJZS3UzVkhjbFl1bkZqOVRzNER5ejlidW9fY0laNWNwSjNQdw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "Anthropic توقع عقد استئجار لمركز بيانات في كنتاكي",
-   "summary": "أعلنت شركة Anthropic عن توقيعها عقد استئجار لمركز بيانات جديد تابع لشركة TeraWulf في ولاية كنتاكي. يعكس هذا التوسع احتياجات الشركة المتزايدة للبنية التحتية الحاسوبية اللازمة لتطوير وتشغيل نماذج الذكاء الاصطناعي الضخمة.",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uWmt6bW41bEk0UFlabS1SWFBTenhraVNLLXdpUng3RWNXY2lPbEg4LUUwLWdRa0NFZXAtd1Y4R2RrVHhPWlJGSlRvODZObXR4NGx1aDlRcHRHRjdWemFUWUZzU2VxVFN0a0NwS0dmQXVWdGFwQW4yRmln?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "الصراع الخفي بين الولايات المتحدة والصين لكشف أسرار برامج الدردشة الذكية",
-   "summary": "تكشف صحيفة واشنطن بوست عن جهود متواصلة من قبل الولايات المتحدة والصين للسيطرة على نماذج الذكاء الاصطناعي والبرامج الحوارية والحصول على معلوماتها الحساسة. يعكس الموضوع التنافس الجيوسياسي المتنامي حول تطوير وأمان تقنيات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmZBQTlSQUxtV2sza2lTd1dTelc1OFRRNkhEOFhmNjRfVXRwRzlkUnI0ejRvazgtZDVoXzVENTZaT3FnUVo0UWU3WWYzZm1sdHozYW84Z2VMdmVUVjdaUjhKZXhtOFRzVWpWXy1hWEZpUDYyMnk3M0Jhc2tZUlVZVDRTSU1wbFRqM0Z6UW02cXlqYktKZEpTU1pwaHhMQVRBazh5R2ZJR3ZTRzh4bFpCXzdENGlyVHVUNVYtVTF1MnVYdUNucWZV?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "Anthropic توفر أدوات ذكاء اصطناعي للحكومة الكاليفورنية",
-   "summary": "أعلنت شركة Anthropic عن توفير أدوات وحلول قائمة على الذكاء الاصطناعي لحكومة ولاية كاليفورنيا. يمثل هذا التعاون خطوة نحو تطبيق تقنيات الذكاء الاصطناعي في القطاع الحكومي وتحسين كفاءة الخدمات العامة.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVlXLVVsNWJNMU9md3EyVGpETUQ2MXJ0Xzh0eG5CSGVzWnFjZGxtVXNVX2poNXpKMHBDVG5aanVDQnEyaUhhX3VhQ3BET3ZMdjVLbElPeHg1ZzZMLWV6d3NfWkp4cjZla1dBS1hwVEhJZlVMYnJtTnVQQnVDMmFDazdRWklEUQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-07-06"
   }
  ]
