@@ -1,13 +1,77 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-06T06:59:21.112681+00:00",
+ "updated": "2026-07-06T12:34:51.716659+00:00",
  "items": [
   {
-   "title": "توظيف الذكاء الاصطناعي لتعزيز العملية العلمية والإنتاج الأكاديمي",
-   "summary": "يستعرض المقال آليات استخدام تقنيات الذكاء الاصطناعي في دعم البحث العلمي وتحسين الإنتاجية الأكاديمية، من خلال تطبيقات عملية تساعد الباحثين على تسريع عملياتهم البحثية وزيادة جودة مخرجاتهم.",
+   "title": "الأثرياء الأمريكيون يلجأون للذكاء الاصطناعي في تعليم أطفالهم",
+   "summary": "بينما يعبّر معظم الأمريكيين عن عدم ثقتهم بالذكاء الاصطناعي، يختار عدد من العائلات الثرية استخدام منصات تعليمية قائمة على الذكاء الاصطناعي بديلاً عن المدارس التقليدية. تركز هذه الحركة على الاستثمار في تكنولوجيا جديدة لتحسين الفرص التعليمية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "إعلان غوغل يصور مؤسسي الولايات المتحدة وهم يستخدمون الذكاء الاصطناعي",
+   "summary": "أطلقت غوغل إعلاناً لخدماتها التعاونية يتخيل سيناريو تاريخياً يجمع مؤسسي الدولة الأمريكية معاً لصياغة إعلان الاستقلال بمساعدة أدوات الذكاء الاصطناعي من غوغل. الإعلان أثار انتقادات بشأن ملاءمته الفنية والثقافية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "الأمم المتحدة تطالب بحوكمة عاجلة للذكاء الاصطناعي والأسلحة المستقلة",
+   "summary": "أطلق الأمين العام للأمم المتحدة دعوة عاجلة لوضع أطر حوكمة شاملة لتطبيقات الذكاء الاصطناعي، خاصة في المجالات العسكرية والأسلحة المستقلة. يأتي هذا في سياق تزايد المخاوف العالمية حول التداعيات الأمنية والأخلاقية لتطور هذه التقنيات دون إشراف دولي كافٍ.",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVWl4MXFOV253U1dKa3lqMzlFYTdlZWpZT0E0eXZlWC03d0dKR3FxdDZVQWZxT21Uc2gzekM0cmRwTjVKc3BjRG9CR1FiZlZzQWFyV3k5MA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "الذكاء الاصطناعي في تطوير برامج التغذية الشخصية المتقدمة",
+   "summary": "يستكشف البحث العلمي كيفية توظيف الذكاء الاصطناعي وخوارزميات التعلم الآلي في تصميم برامج غذائية دقيقة مخصصة لاحتياجات الأفراد. يعكس هذا التوجه تطوراً نحو طب وقائي أكثر دقة يعتمد على تحليل البيانات الشخصية والجينية.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vN2k5ZDZjR3NJR1ZqajlIZHBUZEE1SG5ZVDczb2NZMjZvcG90QWpJRWl6VWhIQ0tZbTcwei1mcTF3MGp0cGpPY3RpVTBUM2pRRjZDNk1fZThVN0dMV21v?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "دور الذكاء الاصطناعي في تعزيز جودة البحث العلمي والمخرجات الأكاديمية",
+   "summary": "يناقش الخبراء سبل استخدام الذكاء الاصطناعي لتحسين العمليات البحثية وزيادة فعالية الإنتاج الأكاديمي. يشمل ذلك تحسين دقة التحليلات وتسريع دورات البحث وتقليل الأخطاء البشرية في المراحل المختلفة.",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORG9DQ3dhS0c3c1RuYXJXZHhrMjZsTU1HWmVZLVg1VWJ4Vi1RdHNTVVVfdjI4Z3ZqWUpiNkZuSmFqME9rd2NISEVhSGxXNE41cjhXeEtBdWNVaHowLTk3MjJ0aFRCeFc2Y29qVE5kc1hvT0JZcEVJdFNFUGx5bFp0NGZJcm9SdkNrajMtZWtGX0s5WkpkU3NKTkdPczRWM2dPX0l3dVIzLV9vbHpKZFE0NHEyeXhjVTZTWU1SWFp3Y0hnbnlkeFBBaWxxOW5Xc3dUXzRyUm9VdnZBTVFxREh3?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "الذكاء الاصطناعي وتأثيره على التكنولوجيا الحيوية: حوار مع رئيس Anthropic",
+   "summary": "أجرت منصة STAT حواراً مع الرئيس التنفيذي لشركة Anthropic حول دور الذكاء الاصطناعي في تطوير مجال التكنولوجيا الحيوية والعقاقير. تناول الحوار الآفاق المستقبلية والتحديات المتعلقة باستخدام هذه التقنيات في البحث الطبي والحيوي.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VMGNMbDZSS3ppUkRBeWZjU3JjWkpxRk9ZR19uWXJFN3F6aW42V0xkUUR1SnFwb0xXMmRyaXRsbm8yX0ZBbDgyYzFuU3pwQXJZS3UzVkhjbFl1bkZqOVRzNER5ejlidW9fY0laNWNwSjNQdw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "Anthropic توقع عقد استئجار لمركز بيانات في كنتاكي",
+   "summary": "أعلنت شركة Anthropic عن توقيعها عقد استئجار لمركز بيانات جديد تابع لشركة TeraWulf في ولاية كنتاكي. يعكس هذا التوسع احتياجات الشركة المتزايدة للبنية التحتية الحاسوبية اللازمة لتطوير وتشغيل نماذج الذكاء الاصطناعي الضخمة.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uWmt6bW41bEk0UFlabS1SWFBTenhraVNLLXdpUng3RWNXY2lPbEg4LUUwLWdRa0NFZXAtd1Y4R2RrVHhPWlJGSlRvODZObXR4NGx1aDlRcHRHRjdWemFUWUZzU2VxVFN0a0NwS0dmQXVWdGFwQW4yRmln?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "الصراع الخفي بين الولايات المتحدة والصين لكشف أسرار برامج الدردشة الذكية",
+   "summary": "تكشف صحيفة واشنطن بوست عن جهود متواصلة من قبل الولايات المتحدة والصين للسيطرة على نماذج الذكاء الاصطناعي والبرامج الحوارية والحصول على معلوماتها الحساسة. يعكس الموضوع التنافس الجيوسياسي المتنامي حول تطوير وأمان تقنيات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmZBQTlSQUxtV2sza2lTd1dTelc1OFRRNkhEOFhmNjRfVXRwRzlkUnI0ejRvazgtZDVoXzVENTZaT3FnUVo0UWU3WWYzZm1sdHozYW84Z2VMdmVUVjdaUjhKZXhtOFRzVWpWXy1hWEZpUDYyMnk3M0Jhc2tZUlVZVDRTSU1wbFRqM0Z6UW02cXlqYktKZEpTU1pwaHhMQVRBazh5R2ZJR3ZTRzh4bFpCXzdENGlyVHVUNVYtVTF1MnVYdUNucWZV?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "Anthropic توفر أدوات ذكاء اصطناعي للحكومة الكاليفورنية",
+   "summary": "أعلنت شركة Anthropic عن توفير أدوات وحلول قائمة على الذكاء الاصطناعي لحكومة ولاية كاليفورنيا. يمثل هذا التعاون خطوة نحو تطبيق تقنيات الذكاء الاصطناعي في القطاع الحكومي وتحسين كفاءة الخدمات العامة.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVlXLVVsNWJNMU9md3EyVGpETUQ2MXJ0Xzh0eG5CSGVzWnFjZGxtVXNVX2poNXpKMHBDVG5aanVDQnEyaUhhX3VhQ3BET3ZMdjVLbElPeHg1ZzZMLWV6d3NfWkp4cjZla1dBS1hwVEhJZlVMYnJtTnVQQnVDMmFDazdRWklEUQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-06"
   },
   {
@@ -24,14 +88,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUG02YzhzdkQ1a01IMjVTSk82XzlVUDAwOXRfak9hM0xSUDU3S0FYMVNJRXg0VmJoOG5oeGdkZGNFdWowY2VjX1hLazJMQWRZcWVpY3VONnF3Y3Noa0FPbDh1TkdRMFBrY1ZxbmlKMHRqQjBTMzJpSXlZeDUzQVYtTnhrQ0x5WWc2OVpFR3NNQS1DV3JPSGtuRQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "شركة أنثروبك توفر أدوات ذكاء اصطناعي لحكومة كاليفورنيا",
-   "summary": "أعلنت شركة أنثروبك عن توفير حلول قائمة على الذكاء الاصطناعي لاستخدام الجهات الحكومية في ولاية كاليفورنيا.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVlXLVVsNWJNMU9md3EyVGpETUQ2MXJ0Xzh0eG5CSGVzWnFjZGxtVXNVX2poNXpKMHBDVG5aanVDQnEyaUhhX3VhQ3BET3ZMdjVLbElPeHg1ZzZMLWV6d3NfWkp4cjZla1dBS1hwVEhJZlVMYnJtTnVQQnVDMmFDazdRWklEUQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-07-06"
   },
   {
@@ -67,67 +123,11 @@ window.NEWS_DATA = {
    "date": "2026-07-05"
   },
   {
-   "title": "الأثرياء الأمريكيون يتجهون للذكاء الاصطناعي لتعليم أطفالهم",
-   "summary": "رغم عدم ثقة معظم الأمريكيين بالذكاء الاصطناعي، يختار بعض الأسر الثرية استخدام أدوات ذكاء اصطناعي بدلاً من المدارس التقليدية لتعليم أبنائهم. شركات متخصصة مثل Forge Prep تقدم حلولاً تعليمية قائمة على تقنيات الذكاء الاصطناعي للنخب الاقتصادية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "إعلان جوجل الجديد يعيد تخيل مؤسسي الدستور الأمريكي مع الذكاء الاصطناعي",
-   "summary": "أطلقت جوجل إعلاناً تجارياً لخدمات Workspace يصور مؤسسي الولايات المتحدة وهم يستخدمون أدوات التعاون وتقنية Gemini لصياغة إعلان الاستقلال. الإعلان استقبل انتقادات واسعة بسبب محاولته دمج السياق التاريخي مع عروض المنتجات الحديثة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-05"
-  },
-  {
    "title": "توقعات بمضاعفة قيمة سهم ذكاء اصطناعي قبل نهاية 2026",
    "summary": "يتوقع محللون أن يشهد سهم متخصص في قطاع الذكاء الاصطناعي ارتفاعاً ملحوظاً قد يصل إلى المضاعفة خلال السنوات القادمة، استناداً إلى عوامل السوق والتطورات التكنولوجية المتسارعة.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3FZS0RpRlBrS1c4RllOcXV3Zk9KazRaSHFxM3JKNG9oS21iSG1uQVo2ek5hNFF5YW90Q0cwc2FxcDQ1TG5LaG1HZ1hHaVdNX1MtSGZSVEhzUENBdHZ0cUhNVEZ6eHBqcElzaEgxSkcyX1duVHg1MHRwRktielVYNnpXQkc2SHNDazNHT1M1VHdIYUV1aDQ3RmlrS1pYTlVZTk1uNVpwN19yTk9W?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "كيف يمكن للذكاء الاصطناعي تحويل الشركات الصغيرة",
-   "summary": "أوضحت أكاديمية تجارية كيفية استفادة المشاريع الصغيرة من تطبيقات الذكاء الاصطناعي في تحسين عملياتها وزيادة كفاءتها الإنتاجية والتنافسية في السوق.",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNanJYYkNubnMzcFJKUmVNWk1uN043ckRjYkpNeENvSHZmOVcteFZlcjF4OXRyNVplS0ZNeGNteEJidW91QjdWbjNoYTY5VFpCN1dtNENtdnRKOXM0T3JlN3poRWJnU202bExGR19uRnhTcXJHS3NrZFYxeE1SVnVqX044bzFSV1ZqaHJZTjhQWTVRZzhiTVVwWXpuOWJNQUVPOW9udXFhZDQtTkdPbGxZeE1SdktHUHlaTUJwMWgtUGVmcDJZOWlHbUprTWhodlJQNXBYVXhiM0V3c0xHQl9ucjNSOWJZVDM1S29DTnk1NFNxakRodjkw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "الأمم المتحدة تدعو لتنظيم عالمي للذكاء الاصطناعي وسط تحذيرات من أضرار كارثية",
-   "summary": "تسعى المنظمات الدولية لوضع إطار تنظيمي موحد لتطوير واستخدام تقنيات الذكاء الاصطناعي، في ظل تنبيهات من خبراء حول المخاطر المحتملة على المجتمعات والأمن.",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wRnVPT1YyTXBENHBlZEFnOUZDLUNfdXdjczBfTzlGSFgydExNTXhDZEc4Z2Z6bmhycVgwSGoxQ0lDelhod01UbkZEbUNpUnQxZWQwLVFrbw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "شركات الذكاء الاصطناعي تحظى باهتمام متزايد من الجهات السياسية الأمريكية",
-   "summary": "تشهد قطاع شركات الذكاء الاصطناعي اهتماماً متسارعاً من السلطات التشريعية والتنفيذية الأمريكية، مع تزايد النقاشات حول تنظيم القطاع والاستثمار فيه.",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LVzh3U295OTFpbTVpNUwyR2hXSGg1Y19wN2tDRnZvRTI4dkVJNTRvbHgxWE1nS05pX0U2SzVjczdVd3RvUExLTG9yQ2pVSWNuX3daVGhoc3g1X19HYV9oVVI3RUE0RUJjNWJ6d1lKdjd0a2s4Sk1KSmtR?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "أوبن إيه آي تقترب من الأوساط السياسية الأمريكية",
-   "summary": "تسعى شركة أوبن إيه آي لتعميق علاقاتها مع صناع القرار في واشنطن، في خطوة تعكس اهتمام الشركة بالتأثير على السياسات المتعلقة بالذكاء الاصطناعي على المستوى الفيدرالي.",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwbzczQy00Y0FtRGVVOThKZDJERmFfdFRlMjBweDRKeERsbV9JYTh1V19ZNklKZ2hQNWRtWmY2SWVaSnpTdjVDa1JjYWNPaWtiWG1IVEdHbllUY1hVYTRqcnJhdGlXTEhGVnk5cg?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "لحظة جديدة للذكاء الاصطناعي الصيني",
-   "summary": "يشهد قطاع الذكاء الاصطناعي الصيني تطورات تذكر بالنجاح السابق لتطبيق ديب سيك، حيث تظهر شركات محلية جديدة قدرات تنافسية في السوق العالمية.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkQjlXcXFlVHdNakFicDBfSnhQZVJnNEZaWE5SNVI4Mmc0Qk1WTC1GX3B4bWVzb1JYZEJkbnRNU1pnYTFlcGhzbGt4aXN2VUNqMnl0OFNMVkdsQlVyNlJ3Vk0wUUV5bGt3?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-07-05"
   }
  ]
