@@ -1,27 +1,83 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-06T12:34:51.716659+00:00",
+ "updated": "2026-07-06T17:36:53.924545+00:00",
  "items": [
   {
-   "title": "الأثرياء الأمريكيون يلجأون للذكاء الاصطناعي في تعليم أطفالهم",
-   "summary": "بينما يعبّر معظم الأمريكيين عن عدم ثقتهم بالذكاء الاصطناعي، يختار عدد من العائلات الثرية استخدام منصات تعليمية قائمة على الذكاء الاصطناعي بديلاً عن المدارس التقليدية. تركز هذه الحركة على الاستثمار في تكنولوجيا جديدة لتحسين الفرص التعليمية.",
+   "title": "جوجل تستخدم بيانات المستخدمين لتدريب ذكائها الاصطناعي.. إليك طريقة الامتناع",
+   "summary": "غيّرت جوجل إعدادات الخصوصية لديها بما يسمح باستخدام المزيد من بيانات المستخدمين في تدريب أنظمتها الذكية. يمكن للمستخدمين رفض هذا الخيار من خلال تعديل إعدادات الخصوصية في حسابهم.",
+   "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "مايكروسوفت تسرح حوالي 5 آلاف موظف من أقسام إكس بوكس والمبيعات",
+   "summary": "أعلنت مايكروسوفت عن تسريح نحو 4800 موظف يمثلون 2.1% من قوتها العاملة، مع تركيز الإجراء على قسم إكس بوكس والمبيعات التجارية. يأتي هذا الإجراء ضمن موجة تسريحات متتالية تثير قلقاً من استبدال الذكاء الاصطناعي للوظائف البشرية.",
+   "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "محطة إف الباريسية تركز على دعم شركات الذكاء الاصطناعي الناشئة الأوروبية",
+   "summary": "تعزز محطة إف، المركز الاستثماري الباريسي المملوك للملياردير الفرنسي، برنامج معجِّل جديد مخصص لشركات الذكاء الاصطناعي. يهدف المركز لتعزيز مكانته كمنصة حاضنة لأكثر الشركات الناشئة الواعدة في المجال.",
+   "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "مايكروسوفت تعلن تسريح 4800 موظف مع بدء السنة المالية الجديدة",
+   "summary": "أطلقت مايكروسوفت موجة تسريح جديدة تطال 4800 موظف بنسبة 2.1% من إجمالي القوى العاملة، بعد تسريحات سابقة بحوالي سنة. يؤثر الإجراء بشكل أساسي على أقسام تجارية معينة بالشركة.",
+   "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "الأثرياء الأميركيون يعهدون بتعليم أطفالهم إلى الذكاء الاصطناعي",
+   "summary": "يلجأ بعض الأثرياء الأميركيين إلى منصات تعليمية مدعومة بالذكاء الاصطناعي بدلاً من المدارس التقليدية. يعكس هذا الاتجاه اختلافاً واضحاً عن الثقة المحدودة التي يبديها معظم الأميركيين تجاه تقنيات الذكاء الاصطناعي.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-07-06"
   },
   {
-   "title": "إعلان غوغل يصور مؤسسي الولايات المتحدة وهم يستخدمون الذكاء الاصطناعي",
-   "summary": "أطلقت غوغل إعلاناً لخدماتها التعاونية يتخيل سيناريو تاريخياً يجمع مؤسسي الدولة الأمريكية معاً لصياغة إعلان الاستقلال بمساعدة أدوات الذكاء الاصطناعي من غوغل. الإعلان أثار انتقادات بشأن ملاءمته الفنية والثقافية.",
+   "title": "إعلان غوغل يتخيّل مؤسسي أمريكا يعتنقون الذكاء الاصطناعي",
+   "summary": "أطلقت غوغل إعلاناً تروّج فيه لأدوات التعاون Workspace وGemini بتصوير فانتازي يجمع بين الآباء المؤسسين وتكنولوجيا الذكاء الاصطناعي، بدعوى أنهم كانوا سيستخدمونها لصياغة إعلان الاستقلال. الإعلان أثار انتقادات على وسائل التواصل لافتقاره إلى الرقي.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-07-06"
   },
   {
-   "title": "الأمم المتحدة تطالب بحوكمة عاجلة للذكاء الاصطناعي والأسلحة المستقلة",
-   "summary": "أطلق الأمين العام للأمم المتحدة دعوة عاجلة لوضع أطر حوكمة شاملة لتطبيقات الذكاء الاصطناعي، خاصة في المجالات العسكرية والأسلحة المستقلة. يأتي هذا في سياق تزايد المخاوف العالمية حول التداعيات الأمنية والأخلاقية لتطور هذه التقنيات دون إشراف دولي كافٍ.",
+   "title": "انثروبيك تواجه انتقادات بعد كشف أداة تتبع خفية لـ كلود",
+   "summary": "انكشف أن انثروبيك طوّرت أداة تتبع مستخدمين بينما تُعلن علنياً موقفها المعارض للمراقبة الرقمية، مما أثار احتجاجات المستخدمين. أكد مهندس بالشركة أن هذا 'المشروع التجريبي' توقف عن العمل.",
+   "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "أداة أوكتولينس لتحليل الصور ومعالجتها",
+   "summary": "أداة جديدة ظهرت باسم Octolens تُعنى بمعالجة الصور وتحليلها باستخدام تقنيات الذكاء الاصطناعي. تهدف الأداة إلى توفير إمكانيات متقدمة في رؤية الحاسوب وفهم محتوى الصور.",
+   "url": "https://www.producthunt.com/products/octolens-ai",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "الأمين العام للأمم المتحدة يطالب بتنظيم عاجل للذكاء الاصطناعي والأسلحة المستقلة",
+   "summary": "أطلق الأمين العام للأمم المتحدة دعوة عاجلة لوضع آليات حوكمة دولية للذكاء الاصطناعي والأسلحة الآلية المستقلة. أكد على ضرورة التعاون الدولي لضمان استخدام آمن وأخلاقي لهذه التقنيات وتجنب مخاطرها المحتملة.",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVWl4MXFOV253U1dKa3lqMzlFYTdlZWpZT0E0eXZlWC03d0dKR3FxdDZVQWZxT21Uc2gzekM0cmRwTjVKc3BjRG9CR1FiZlZzQWFyV3k5MA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "حملة سياسية أمريكية توظّف الذكاء الاصطناعي في استراتيجيتها الانتخابية",
+   "summary": "اعتمدت حملة بيلي الانتخابية على تقنيات الذكاء الاصطناعي كجزء من استراتيجيتها السياسية الحديثة. يعكس هذا التحول الدور المتزايد للذكاء الاصطناعي في العمليات الانتخابية والحملات الحزبية المعاصرة.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdy1RVUwtZkEtRnZhaVVHdWJEQ0V4Yk1NNGFpd0Z2MkN3YlFtMTJGQ0pFSzlVaVBhNmJKM0RLZmtEaTVuWEF2akJyakZoUlExTDl5djRFTUdhNHItYXpUb0NXMTBDcDNmVkFrQk5nVXFxX0JQcXRvOVNkcXRnMkFTZXFnaV9qazdVS1BQSkdLU1BYRWRIMGFHQWJNd2lmZVdTcnFiMHZB?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-06"
@@ -73,62 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-07-06"
-  },
-  {
-   "title": "الذكاء الاصطناعي في ساحات الصراع الحقيقية",
-   "summary": "تقرير يتناول تطبيقات الذكاء الاصطناعي وتأثيره المتنامي في الصراعات العسكرية والأمنية الفعلية حول العالم.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0twOW9aLWQwYzNXSHJVTEt6Y1dndkk0am1wVC1uVm1zcl9tVTBUTzh3eVJ6c3VUV1pmdk1NMGlocVhqbWxCcTNhQ3o0OVlSdTJ0ZGYxVGJQVjl5X0FpNFhGM2xuLVd0bnJSUHF0VURLRV9EMDU0a0QxN2p4ZzNqMFBWQzE?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "توقعات بأن شركة ذكاء اصطناعي ستكون الاستثمار الدائم التالي لبيركشاير هاثاواي",
-   "summary": "تحليل استثماري يرجح أن تختار شركة بيركشاير هاثاواي شركة متخصصة في الذكاء الاصطناعي كاستثمار طويل الأجل، على غرار استراتيجيتها التاريخية.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUG02YzhzdkQ1a01IMjVTSk82XzlVUDAwOXRfak9hM0xSUDU3S0FYMVNJRXg0VmJoOG5oeGdkZGNFdWowY2VjX1hLazJMQWRZcWVpY3VONnF3Y3Noa0FPbDh1TkdRMFBrY1ZxbmlKMHRqQjBTMzJpSXlZeDUzQVYtTnhrQ0x5WWc2OVpFR3NNQS1DV3JPSGtuRQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "التحديات التي تواجه أوبن آي وأنثروبك في الطروحات العامة",
-   "summary": "تحليل يناقش العوائق التنظيمية والقانونية والتنافسية التي قد تعيق خطط شركتي أوبن آي وأنثروبك للاكتتاب العام.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHdrUnpBd0c1Z0IxbkFrNUdkM1FJZlFhU3VnSVRCZVVLRU8zRjN2NURBdGxVYXdCQkc1UUthYTIzcHcyU0hkM21DOWpYbjVINUkyRWV6cDR5VGxteUVQazQ4TmhTME1nZHZyenJ6clVOVzBjMFJwS3VtWTR0alhweG9Pc1o?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "أنثروبك والبيت الأبيض لم يناقشا حصة حكومية في الشركة",
-   "summary": "نفت أنثروبك والبيت الأبيض وجود أي نقاشات بشأن حصول الحكومة على ملكية مباشرة في الشركة.",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0tFeDdyUU1NanA2WF9DbTByS2FKa3didEg3TTkzMXg5aXZPYVBLaS1iN3BNWVZPU0NvVzk5S3dNUHFDUVlCYTNEM2tVQmt1NjJCSGhNdldIcGZBMmFqZUtVekliVkFEeE1xZ0V6Q2M5VUYtZk94MEJsblBSanFzTDBQM2ZRcTNTS2NQekI1MnhyYTE2c3I5cmZfWUw3bjRaVTd6cUR4Ym1ZLUlmRWg0Vkk2ejVObEoxZTZDTzJGa2s?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "أوبن آي وأنثروبك تسرعان نحو الإدراج رغم تدقيق متزايد حول مدفوعات الرموز",
-   "summary": "تسعى الشركتان للطرح العام بينما تواجهان فحصاً متشدداً بشأن آليات التعويضات والرموز الخاصة بهما.",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOG9DZG5LNENteFpPaUxudUYtQk11bC00bHFUaW5rai1kcVU2WGh3cFROaEJRWTloTFRSVnVMTXpDMzZtWVhJN1pXZl9FMEJqV2QwYkc0RFJIMlhpV0ZvUmVQQWM1bkRwU0w1b0xxdDNUZEJiaFZWVHNqckFZRUdqYmxUVmdFMC1ZRmNxLWFYVksxdkxJMVJVTDBYcUl3aGF0SFRUQ054bnNwRklhS3k5djZncHRrTjZCSjc2SGRmdEdEc2twT2JMV1ZXd2x0SExUdVhsMHNWTzBIRHdPUkE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "أمازون توقف قبول عملاء جدد في منصة ميكانيكال تورك",
-   "summary": "أعلنت أمازون عن إيقاف قبول المستخدمين الجدد في خدمة ميكانيكال تورك، منصتها المتخصصة في توزيع المهام الصغيرة. قد تشير هذه الخطوة إلى نهاية قريبة لتلك الخدمة التي كانت توفر فرص عمل مرنة للآلاف حول العالم.",
-   "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "توقعات بمضاعفة قيمة سهم ذكاء اصطناعي قبل نهاية 2026",
-   "summary": "يتوقع محللون أن يشهد سهم متخصص في قطاع الذكاء الاصطناعي ارتفاعاً ملحوظاً قد يصل إلى المضاعفة خلال السنوات القادمة، استناداً إلى عوامل السوق والتطورات التكنولوجية المتسارعة.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3FZS0RpRlBrS1c4RllOcXV3Zk9KazRaSHFxM3JKNG9oS21iSG1uQVo2ek5hNFF5YW90Q0cwc2FxcDQ1TG5LaG1HZ1hHaVdNX1MtSGZSVEhzUENBdHZ0cUhNVEZ6eHBqcElzaEgxSkcyX1duVHg1MHRwRktielVYNnpXQkc2SHNDazNHT1M1VHdIYUV1aDQ3RmlrS1pYTlVZTk1uNVpwN19yTk9W?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-05"
   }
  ]
 };
