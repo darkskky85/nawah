@@ -1,18 +1,82 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-05T21:49:13.655962+00:00",
+ "updated": "2026-07-06T06:59:21.112681+00:00",
  "items": [
   {
-   "title": "أمازون توقف قبول عملاء جدد في منصة Mechanical Turk",
-   "summary": "أعلنت أمازون عن إيقافها لاستقبال مستخدمين جدد على منصة Mechanical Turk التي توفر مهاماً صغيرة يقوم بها العاملون البشريون. يشير الإجراء إلى احتمالية توجه الشركة نحو إعادة تقييم أو إغلاء خدمة كانت موجودة منذ سنوات طويلة.",
+   "title": "توظيف الذكاء الاصطناعي لتعزيز العملية العلمية والإنتاج الأكاديمي",
+   "summary": "يستعرض المقال آليات استخدام تقنيات الذكاء الاصطناعي في دعم البحث العلمي وتحسين الإنتاجية الأكاديمية، من خلال تطبيقات عملية تساعد الباحثين على تسريع عملياتهم البحثية وزيادة جودة مخرجاتهم.",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORG9DQ3dhS0c3c1RuYXJXZHhrMjZsTU1HWmVZLVg1VWJ4Vi1RdHNTVVVfdjI4Z3ZqWUpiNkZuSmFqME9rd2NISEVhSGxXNE41cjhXeEtBdWNVaHowLTk3MjJ0aFRCeFc2Y29qVE5kc1hvT0JZcEVJdFNFUGx5bFp0NGZJcm9SdkNrajMtZWtGX0s5WkpkU3NKTkdPczRWM2dPX0l3dVIzLV9vbHpKZFE0NHEyeXhjVTZTWU1SWFp3Y0hnbnlkeFBBaWxxOW5Xc3dUXzRyUm9VdnZBTVFxREh3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "الذكاء الاصطناعي في ساحات الصراع الحقيقية",
+   "summary": "تقرير يتناول تطبيقات الذكاء الاصطناعي وتأثيره المتنامي في الصراعات العسكرية والأمنية الفعلية حول العالم.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0twOW9aLWQwYzNXSHJVTEt6Y1dndkk0am1wVC1uVm1zcl9tVTBUTzh3eVJ6c3VUV1pmdk1NMGlocVhqbWxCcTNhQ3o0OVlSdTJ0ZGYxVGJQVjl5X0FpNFhGM2xuLVd0bnJSUHF0VURLRV9EMDU0a0QxN2p4ZzNqMFBWQzE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "توقعات بأن شركة ذكاء اصطناعي ستكون الاستثمار الدائم التالي لبيركشاير هاثاواي",
+   "summary": "تحليل استثماري يرجح أن تختار شركة بيركشاير هاثاواي شركة متخصصة في الذكاء الاصطناعي كاستثمار طويل الأجل، على غرار استراتيجيتها التاريخية.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUG02YzhzdkQ1a01IMjVTSk82XzlVUDAwOXRfak9hM0xSUDU3S0FYMVNJRXg0VmJoOG5oeGdkZGNFdWowY2VjX1hLazJMQWRZcWVpY3VONnF3Y3Noa0FPbDh1TkdRMFBrY1ZxbmlKMHRqQjBTMzJpSXlZeDUzQVYtTnhrQ0x5WWc2OVpFR3NNQS1DV3JPSGtuRQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "شركة أنثروبك توفر أدوات ذكاء اصطناعي لحكومة كاليفورنيا",
+   "summary": "أعلنت شركة أنثروبك عن توفير حلول قائمة على الذكاء الاصطناعي لاستخدام الجهات الحكومية في ولاية كاليفورنيا.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVlXLVVsNWJNMU9md3EyVGpETUQ2MXJ0Xzh0eG5CSGVzWnFjZGxtVXNVX2poNXpKMHBDVG5aanVDQnEyaUhhX3VhQ3BET3ZMdjVLbElPeHg1ZzZMLWV6d3NfWkp4cjZla1dBS1hwVEhJZlVMYnJtTnVQQnVDMmFDazdRWklEUQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "التحديات التي تواجه أوبن آي وأنثروبك في الطروحات العامة",
+   "summary": "تحليل يناقش العوائق التنظيمية والقانونية والتنافسية التي قد تعيق خطط شركتي أوبن آي وأنثروبك للاكتتاب العام.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHdrUnpBd0c1Z0IxbkFrNUdkM1FJZlFhU3VnSVRCZVVLRU8zRjN2NURBdGxVYXdCQkc1UUthYTIzcHcyU0hkM21DOWpYbjVINUkyRWV6cDR5VGxteUVQazQ4TmhTME1nZHZyenJ6clVOVzBjMFJwS3VtWTR0alhweG9Pc1o?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "أنثروبك والبيت الأبيض لم يناقشا حصة حكومية في الشركة",
+   "summary": "نفت أنثروبك والبيت الأبيض وجود أي نقاشات بشأن حصول الحكومة على ملكية مباشرة في الشركة.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0tFeDdyUU1NanA2WF9DbTByS2FKa3didEg3TTkzMXg5aXZPYVBLaS1iN3BNWVZPU0NvVzk5S3dNUHFDUVlCYTNEM2tVQmt1NjJCSGhNdldIcGZBMmFqZUtVekliVkFEeE1xZ0V6Q2M5VUYtZk94MEJsblBSanFzTDBQM2ZRcTNTS2NQekI1MnhyYTE2c3I5cmZfWUw3bjRaVTd6cUR4Ym1ZLUlmRWg0Vkk2ejVObEoxZTZDTzJGa2s?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "أوبن آي وأنثروبك تسرعان نحو الإدراج رغم تدقيق متزايد حول مدفوعات الرموز",
+   "summary": "تسعى الشركتان للطرح العام بينما تواجهان فحصاً متشدداً بشأن آليات التعويضات والرموز الخاصة بهما.",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOG9DZG5LNENteFpPaUxudUYtQk11bC00bHFUaW5rai1kcVU2WGh3cFROaEJRWTloTFRSVnVMTXpDMzZtWVhJN1pXZl9FMEJqV2QwYkc0RFJIMlhpV0ZvUmVQQWM1bkRwU0w1b0xxdDNUZEJiaFZWVHNqckFZRUdqYmxUVmdFMC1ZRmNxLWFYVksxdkxJMVJVTDBYcUl3aGF0SFRUQ054bnNwRklhS3k5djZncHRrTjZCSjc2SGRmdEdEc2twT2JMV1ZXd2x0SExUdVhsMHNWTzBIRHdPUkE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "أمازون توقف قبول عملاء جدد في منصة ميكانيكال تورك",
+   "summary": "أعلنت أمازون عن إيقاف قبول المستخدمين الجدد في خدمة ميكانيكال تورك، منصتها المتخصصة في توزيع المهام الصغيرة. قد تشير هذه الخطوة إلى نهاية قريبة لتلك الخدمة التي كانت توفر فرص عمل مرنة للآلاف حول العالم.",
    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-05"
   },
   {
-   "title": "إعلان جوجل يثير جدلاً بتصويره مؤسسي أمريكا يستخدمون الذكاء الاصطناعي",
-   "summary": "أطلقت جوجل إعلاناً ترويجياً لأدوات Workspace يتخيل سيناريو تاريخياً فكاهياً يجمع بين مؤسسي الولايات المتحدة وأدوات التعاون والذكاء الاصطناعي من جوجل. الإعلان لاقى انتقادات واسعة لأسلوبه الذي اعتبره كثيرون غير لائق وبعيداً عن الذوق الرفيع.",
+   "title": "الأثرياء الأمريكيون يتجهون للذكاء الاصطناعي لتعليم أطفالهم",
+   "summary": "رغم عدم ثقة معظم الأمريكيين بالذكاء الاصطناعي، يختار بعض الأسر الثرية استخدام أدوات ذكاء اصطناعي بدلاً من المدارس التقليدية لتعليم أبنائهم. شركات متخصصة مثل Forge Prep تقدم حلولاً تعليمية قائمة على تقنيات الذكاء الاصطناعي للنخب الاقتصادية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-05"
+  },
+  {
+   "title": "إعلان جوجل الجديد يعيد تخيل مؤسسي الدستور الأمريكي مع الذكاء الاصطناعي",
+   "summary": "أطلقت جوجل إعلاناً تجارياً لخدمات Workspace يصور مؤسسي الولايات المتحدة وهم يستخدمون أدوات التعاون وتقنية Gemini لصياغة إعلان الاستقلال. الإعلان استقبل انتقادات واسعة بسبب محاولته دمج السياق التاريخي مع عروض المنتجات الحديثة.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
    "source": "The Verge AI",
    "tag": "منتجات",
@@ -64,70 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkQjlXcXFlVHdNakFicDBfSnhQZVJnNEZaWE5SNVI4Mmc0Qk1WTC1GX3B4bWVzb1JYZEJkbnRNU1pnYTFlcGhzbGt4aXN2VUNqMnl0OFNMVkdsQlVyNlJ3Vk0wUUV5bGt3?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "ممرضات في مستشفى مونتيفيوري يرفعن صوتهن ضد خطط استبدالهن بتقنيات ذكاء اصطناعي",
-   "summary": "اعترضت نقابة الممرضات في برونكس على نية مستشفى مونتيفيوري استخدام برامج ذكاء اصطناعي لتقليل الاعتماد على الممرضات البشريات. تؤكد الممرضات على أهمية العنصر البشري في الرعاية الطبية، وتحذرن من تأثير هذا التحول على جودة الخدمات الصحية.",
-   "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQbEJNY243dDJYVmd5eWJ4TGNhTDFSajBBNnQ5YmVNbVdrSHlTOXdHQlpSd2RkblpJeTJUVG8zaGRuRlZfZjJJcmtrUVByc2RvRld2X2RWQllpd1dDdUtCbngxVkIyVXhQQVJNMnJROS0yaTRaTWFSTzlvQk9oc0wwcXY4eGVSbmhKdXhyN3RfdnR0ekRGTXlhYl9jbVBUOVR5SFg2R044Y0JmQUpNbjQ2OFBKczFBRkJCQWJVRnN4cmtKS09rSm1TbF9uNUNwcFBEWGFLYWNIcUVlU1ZEUF9XdHhudWYyY0lXVHhTcEJfRU1ZeTRrT1RZY1owb2VXU3lpUk44d1BvMVJiVVBBb0VyRlRNZDlRcTRrWkI3c2RvRnk1ZS1zSDVZRTJSVUcyMEFiVE1NRHZMVEtTdVlxaW5Vc29zeHdVNGNlWnVmUU5SMzRXOHpLeXBlaks2TkNkVkdwZW94NFFRNzlVeHowMG9HajllcmNPelhnTFlmeVdXNHA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "هل يختبر الذكاء الاصطناعي الوعي والشعور؟ الفروقات الفلسفية والعملية",
-   "summary": "يتناول النقاش الفلسفي والعلمي ما إذا كانت أنظمة الذكاء الاصطناعي قادرة على خبرة الوعي بالمعنى الحقيقي، أم أنها تحاكي سلوكيات ذكية دون شعور حقيقي. الفرق بين هذين المفهومين له تأثيرات عميقة على الأخلاقيات والمسؤولية.",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2NXOXBMLXJYam51LUpBem5mSVVsZUJkRFJSVVk4cFlmeUFWT29tNm1Xa2YydWxEZlRWOFBJT3RJRlh6cnVTVlNUOHJfM0IxTDVQelY3Z1RUMUtXYlB0SWFBYlZ0YllpUXVCUk5Jc2V4bGs1eG0wTkdzT1hoRzRjTWp0MWJhSGpSYk1HU1RLbGl2UVJiVTRwc2Ixal9tbWZMNGVkc0EwbmVza2V0RFlzUXJ1X3pTUDNVR20tcHdrR2Y1ZXFIZ05XYWNsRlhDWGxNRFJJR2xnM1BORDVpTk0xMg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "أسهم SoftBank تنخفض مع توقعات تأجيل الطرح العام الأولي لـ OpenAI",
-   "summary": "انعكس احتمال تأجيل خطط OpenAI لطرح أسهمها للعامة على أداء أسهم SoftBank التي تمتلك استثمارات كبيرة في الشركة. يعكس هذا التراجع تأثر السوق المالية بتطورات قطاع الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGbWp2RGxSZ2V6dkNQVXpka1Bham5lVGFlMlM1WngtYnhJWjZSUDNwMFBmTXBuWEE4eTdRTXlXVEdhNDZMZ3NidkRPSFYxQS1TWmJrWi1YeGI0UXktSU1kZEdXU1VQR3liYVE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "علي بابا تحظر موظفيها من استخدام Claude الذي طورته Anthropic",
-   "summary": "قررت شركة علي بابا منع موظفيها من الوصول إلى نموذج Claude الذي طورته شركة Anthropic، في خطوة تعكس قيود محتملة على الأدوات الأجنبية. تشير التقارير إلى أن Anthropic نفسها كانت تفضل عدم استخدام الشركة الصينية للأداة.",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbzRtQmVsYkFINmY1SW9TY3hrbzEtcFVteHh3eWtGWTc2bVEydXBPc1JZSkVUVS1Vb2k3QlhsTFVmVTFQSUJYNjBKRWVIVC1DdlN1RDFTb0ZiaG5VVVdKeE5TcXFOWXZKMGNUOXhKcHF0am54V3paRmZHc2lhOWdqSVB0MHpLT0I4cTJrN1NmTmtDM3Q1VklUQ1V0SzRjczVhbGJPckxZM1Jzc09VTi01Qi1kTV9hSUYwZmJPcUZSb2xGeWZ3S21SSmpfUkY4ZS1YMVE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "سام ألتمان يشترط تقييماً بتريليون دولار على الأقل لطرح OpenAI العام",
-   "summary": "أعلن الرئيس التنفيذي لـ OpenAI أن أي طرح عام أولي بتقييم أقل من تريليون دولار سيعتبر غير قابل للنقاش. يعكس هذا الموقف طموحات الشركة المالية العالية وسط نقاشات حول أفضل خيارات الاستثمار للمستثمرين.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdV9pMlVET0JKTHdRRGN3VUVMSy1KZGQyMnRVWGR2eUpONTVmcjd0dHZGcVRTREtQZ3ppalY0V3ZLaVlBaGZoQ3VsRU5rRktFblBGbFV3UkpNdmhiR2NneTJKWTNJWUlYMkNjdlRnZ0VEOHV0c05ETUh1d09EY2hqM2FXTHZEdWRZUjhlREhfNFgxTVdJX1VHMQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "الخدمة الصحية البريطانية تسرّع نشر الذكاء الاصطناعي لتقليل أوقات الانتظار",
-   "summary": "تسعى الخدمة الصحية الوطنية البريطانية إلى توسيع استخدام تقنيات الذكاء الاصطناعي في مراكزها الطبية بهدف تقليل فترات انتظار المرضى وتحسين جودة الرعاية الصحية المقدمة لملايين البريطانيين. يأتي هذا الإجراء كخطوة استراتيجية لتعزيز كفاءة النظام الصحي وتخفيف الضغط على المنشآت الطبية.",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZGwtcXpiTU5BQl9RSmVoRWpScExBYVVTaDNMRHJCYkFuMGgwd3NCR3RCamk0ZHV1cG1jckpzRDF0cHVHY0VOVll0R2dxeVM2ekx2TTAwMzU5SU1NRUx4M3lTNjJ5SmlBWGo0cktteDE2NWtQSHEtMURGSE5IT2RpU2F2M0toM1ZHV0dpWjQ0TU54amZvOFRRU21oR0d5UW1YLWVYamdtdEV2MmZxdHdIaElJTjRVSkhZMUMtVTFFeFZBcG1vaUxGd0xHZUNnN3pfa2xTbXVrcERtOFFpQUHSAd4BQVVfeXFMTWRsLXF6Yk1OQUJfUUplaEVqUnBMQWFVU2gzTERyQmJBbjBoMHdzQkd0QmppNGR1dXBtY3JKc0QxdHB1R2NFTlZZdEdncXlTNnpMdk0wMDM1OUlNTUVMeDN5UzYyeUppQVhqNHJLbXgxNjVrUEhxLTFERkhOSE9kaVNhdjNLaDNWR1dHaVo0NE1OeGpmbzhUUVNtaEdHeVFtWC1lWGpnbXRFdjJmcXR3SGhJSU40VUpIWTFDLVUxRXhWQXBtb2lMRndMR2VDZzd6X2tsU211a3BEbThRaUFB?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "وكالات السيارات تعتمد الذكاء الاصطناعي لأتمتة المكالمات وحجز الخدمات والتدريب",
-   "summary": "تتجه وكالات بيع السيارات نحو استخدام تقنيات الذكاء الاصطناعي في أتمتة عمليات متعددة، منها معالجة المكالمات الواردة وجدولة مواعيد الصيانة والتدريب على العمليات المالية. يعكس هذا التوجه تحولاً متسارعاً في القطاع نحو رقمنة العمليات التقليدية.",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTHl4d3RWbm1vZEZuVFNhZmh5UVM4ZFdkNDY3N1RYSGJyZlZ5Qm9xQnhzWU04YWgtbTJxbXE1SXhDWU9iNEp6WTN3Y0d2b2FMOU1QVHR6S2dwTEQ2LU5mOU0zQllQQThROW94T0FVWWdtT3RLSkFRb0V4aTBwLWRmMg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-05"
-  },
-  {
-   "title": "المسؤولية الأبوية في عصر الحوارات الذكية: لماذا يستخدم المراهقون برامج الذكاء الاصطناعي",
-   "summary": "تثير مقالة رأي قضية انتشار استخدام المراهقين لتطبيقات الحوار المدعومة بالذكاء الاصطناعي، موجهة النقد إلى الأهالي بدلاً من الشباب أنفسهم. تركز على دور الكبار في فهم وتنظيم علاقة الأجيال الناشئة بهذه الأدوات.",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd2Myc2FNVTFTNWtoTk5KRWtGTC02M3JCY2o2ZHhEMXQwRDlyX0dtR1FJSXZNWERid2lVdXJtTzNhQlNIVkN5elNIYlZCOG1LS0N2RWFud2lKOFpEcU1oeWhMVnBlVlZMVlk1QkdOZUJrczlCR29jNEM5VDBHbS1DazNsN1g5dTcydnpMMVZqU3RhVG1rMkRPVDFkdTZsWGNvQXVPVmxPQWNCV3lfSkVCY3FkdDlHNHA4MXN0OUdUeWtHWGs?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-05"
   }
  ]
