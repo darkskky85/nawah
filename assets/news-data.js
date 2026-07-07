@@ -1,7 +1,79 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-07T06:35:07.595074+00:00",
+ "updated": "2026-07-07T11:36:31.761633+00:00",
  "items": [
+  {
+   "title": "مركبات أمريكية مستقلة بدون قائد تشارك في العمليات العسكرية بأوكرانيا",
+   "summary": "نشرت شركة فورتيرا أكثر من مئة مركبة أرضية مستقلة في ساحة القتال الأوكرانية، مما يمثل أول استخدام عملياتي واسع النطاق لهذه التكنولوجيا في صراع مسلح فعلي. يعكس هذا التطور تقدماً سريعاً في تطبيقات الذكاء الاصطناعي العسكرية وقدرات الأتمتة في بيئات حقيقية.",
+   "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "العناصر الأساسية لبنية الذكاء الاصطناعي التي يحتاجها قادة تقنية المعلومات",
+   "summary": "مع تسارع تطور قدرات الذكاء الاصطناعي والتحول نحو أنظمة ذاتية الحكم، تواجه المؤسسات تحديات في اختيار الاستثمارات التقنية الصائبة. يناقش الموضوع الأسس المعمارية الضرورية التي تمكّن قادة التقنية من توسيع تطبيقات الذكاء الاصطناعي بمرونة وأمان في ظل التطور المستمر والمخاطر المرتبطة به.",
+   "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "أداة زوهو تيبلز لإدارة البيانات والجداول",
+   "summary": "أداة جديدة ظهرت باسم Zoho Tables تتيح للمستخدمين إنشاء وتنظيم قواعد بيانات وجداول بسهولة دون الحاجة لخبرة برمجية. توفر الأداة واجهة سهلة الاستخدام لتخزين ومعالجة البيانات بطريقة منظمة.",
+   "url": "https://www.producthunt.com/products/zoho-tables",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "مجلس الاستقرار المالي ينشر توصيات لممارسات آمنة في الذكاء الاصطناعي",
+   "summary": "أصدر مجلس الاستقرار المالي بيانًا بشأن أفضل الممارسات والمعايير الموصى بها لاستخدام الذكاء الاصطناعي في القطاع المالي. يهدف البيان إلى تعزيز التطبيق الآمن والمسؤول للتكنولوجيا مع تقليل المخاطر المرتبطة بها.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVmJ4Q2FHYW1lM0hoRkF5bTkzMl9FX0JKeFR4ZFBUblUyajRqRlNQdk9QTE5UTTc2eFVKT3RVNGIzZXdxVlFSOHBHcGdmWkFmMkNsV2xMV09IcGJQd25RRGlCWFpDRUxPV0VzSTRVUjEzSEhOZzNFQXN1X0VTVnp1a2NvekFoa0JsZVQzMlgtQTVfRDlTZEE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "تزايد استخدام الشرطة للذكاء الاصطناعي وسط غياب التشريعات الرقابية",
+   "summary": "تتسع جهات إنفاذ القانون لاعتماد تقنيات الذكاء الاصطناعي في عملياتها بينما تتأخر التشريعات واللوائح عن مواكبة هذا التطور. يثير هذا التباين مخاوف بشأن الشفافية والمساءلة والتأثيرات المحتملة على الحقوق الفردية.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY3AxMExmQlpFeFJfN2d3RU1pbWxpeE9fNzVSbGRNTG5GazFvbmxKaHZ1V0hDVWZSakQ4SnkyMHpqaUJ4SG1mSXZBc054bHNrVUFiSW1VTHgxeE1iMnJzZnZGS1d5c2pqd3cwVFlBUDhMWGtsWF93RDVoVWYyLUpnUXdhdjRKZ19wNWpocXktVVI4bVdRSk0wZ1cxTFhwVmUwT0ZBWjZn?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "الذكاء الاصطناعي يدخل قطاع الغسيل والتنظيف الآلي",
+   "summary": "يستعرض التقرير دور الذكاء الاصطناعي في تحسين عمليات الغسيل والمعالجة الحالية، وكذلك احتمالات تطبيقاته المستقبلية في الصناعة. توضح الدراسة كيف يمكن للتكنولوجيا تحسين الكفاءة وتقليل التكاليف في هذا القطاع.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR055czhtY0hBWlJ6RjNhcjIwTmpyTE1heXVGOVhwMnBXd0FrUUFReG1mZWx1RENsT0dHUHpyb2ZudDZxQjV4YXI4cEh6bDhPeFBHYWRMSjE2RnNGbmEwOHRDTkZBNDVMbmpaNVh1dFlRVHVhb2Z2WHk3NTN5djhUcVpTZ1ZWbUYzVm5YQjVHbEVYNlNxU0t6VXI0ZnNLV0E1QWZHZ1lEMkxhY0VlLXc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "أنثروبيك تؤكد أن كلود طور مجاله المستقل في معالجة المهام",
+   "summary": "ترى شركة أنثروبيك أن نموذج كلود حقق موقعًا متميزًا بين نماذج الذكاء الاصطناعي الأخرى من خلال قدراته الفريدة. تشير الشركة إلى أن النموذج تطور بطريقة جعلته يتفوق في مجالات معينة دون محاكاة مباشرة للمنافسين.",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "نماذج ذكاء اصطناعي صينية تكتسب أرضًا لدى الشركات الأمريكية",
+   "summary": "مع ارتفاع تكاليف خدمات نماذج مثل تشات جي بي تي وكلود، تتجه الشركات الأمريكية نحو تبني نماذج ذكاء اصطناعي صينية كبديل أقل تكلفة. يعكس هذا التحول تنافسية السوق المتزايدة وسعي الشركات لتحسين العلاقة بين الأداء والتكلفة.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDTSAYwBQVVfeXFMTWNWajVVa1E4LUFmSkxieEhfOGhPNHFDamRRUmRma0xOYzNVXzBKTThOSnVBS2RkY2JydlNoU1dQcHR4UU9qNmlINmptaXJnOTdhbWh5QXlwbDk4SzBXcUVYZUUtYy1YTG11bjREQ2xMMmNkelFMSDFJQjA0ZlJjajlxWGFpNGZQaGpnbXM?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "أنثروبك تعيّن تيريسا كارلسون لقيادة قطاع القطاع العام",
+   "summary": "عيّنت شركة أنثروبك الباحثة في الذكاء الاصطناعي تيريسا كارلسون في منصب قيادي مسؤول عن علاقاتها وتعاملاتها مع الجهات الحكومية والمؤسسات العامة.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWWc4WnZqNlJrVnRXMFlLREVYdEtyMThFcDNFWjE4YmxMd05TZ3U2bmJoT0tUNDhyV0RmdkV3SVZDSkJnX25qb3p6SlhPRTFXaVRPN2FnMEd5T2pVajh6aWUyTG5Vc0Q1VHJUVTVvSTBjcHBhVzNfRGR0VjJiMlRQQWpRbTZiakxxUldSbW1hUzFiMHNJcnJGVXRsb28wLThoOW1HX1pGUDl4NDR3bVZ3RmZRdFFDeU0?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-07"
+  },
   {
    "title": "سهم الذكاء الاصطناعي يحقق مستويات قياسية جديدة",
    "summary": "حققت إحدى شركات الذكاء الاصطناعي أعلى مستوى سعري لها عبر التاريخ، مما يثير نقاشاً في أوساط المستثمرين حول توقيت الدخول إلى هذا السهم في ظل الارتفاع المستمر لقيمته. يعكس هذا الأداء الاهتمام المتزايد بقطاع الذكاء الاصطناعي وتوقعات السوق الإيجابية حول مستقبله.",
@@ -19,32 +91,24 @@ window.NEWS_DATA = {
    "date": "2026-07-07"
   },
   {
-   "title": "كلود من أنثروبيك يطور قدرات تأملية خاصة به",
-   "summary": "تؤكد شركة أنثروبيك أن نموذج كلود الذكي يمتلك قدرات تفكيرية مستقلة تميزه عن أنظمة الذكاء الاصطناعي الأخرى. تشير الملاحظات إلى تطور متقدم في قدرات النموذج على المعالجة المعقدة.",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-07"
-  },
-  {
-   "title": "هجوم الفدية بالذكاء الاصطناعي لم يكتمل دون تدخل بشري",
-   "summary": "نفذ وكيل ذكاء اصطناعي عملية هجوم فدية حقيقية للمرة الأولى، لكن التفاصيل الجديدة تكشف أن البشر اختاروا الهدف وأعدوا البنية التحتية وقدموا بيانات معلنة. يوضح هذا أن الهجوم لم يكن مستقلاً تماماً كما بدا في البداية.",
+   "title": "هجوم فدية بالذكاء الاصطناعي لم يتخلَّ بعد عن العنصر البشري",
+   "summary": "نفّذ وكيل ذكاء اصطناعي جزءاً من هجوم فدية حقيقي للمرة الأولى، لكن تحقيقات أظهرت أن بشراً اختار الضحية وأعدّ البنية التحتية وزوّد بيانات معلومات الدخول المسروقة، ما يعني أن الهجوم لم يكن مستقلاً تماماً كما قد يُعتقد.",
    "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-06"
   },
   {
-   "title": "المستثمرون الأمريكيون سيصلون قريباً إلى أسهم إس كي هينيكس",
-   "summary": "تستفيد شركة إس كي هينيكس المتخصصة في الذاكرة من الطلب المتزايد المرتبط بالذكاء الاصطناعي. ستطرح الشركة أسهمها في السوق الأمريكية بقيمة تبلغ مليارات الدولارات في عملية طرح عام متوقع إجراؤها قريباً.",
+   "title": "صانع الذاكرة إس كيه هينيكس يطرح أسهمه في أميركا مستفيداً من طفرة الذكاء الاصطناعي",
+   "summary": "تستعد شركة إس كيه هينيكس الكورية لطرح عام للأسهم في الولايات المتحدة بقيمة مليارات الدولارات، بدفع من الطلب المتزايد على رقاقات الذاكرة الموجهة لتطبيقات الذكاء الاصطناعي.",
    "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-06"
   },
   {
-   "title": "الجدل حول فصل النماذج اللغوية عن الوكلاء الذكية",
-   "summary": "يناقش الرئيس التنفيذي لفيرسيل الحاجة إلى فصل النماذج اللغوية عن أنظمة الوكلاء عند التحسين للبيئات الإنتاجية. يركز النقاش على العلاقة بين الأداء والتكلفة في اختيار المكونات المناسبة.",
+   "title": "رئيس فيرسل يناقش فصل نماذج الذكاء الاصطناعي عن الوكلاء المستقلين",
+   "summary": "أوضح غييرمو راوتش الرئيس التنفيذي لشركة فيرسل أن الشركات عند تحسين أداء الخدمات الإنتاجية تركز على معادلة السعر والأداء، مؤكداً أهمية عدم ربط نماذج اللغة بوكلاء الذكاء الاصطناعي المستقلين.",
    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -64,70 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "نظارات ذكية: بين تصورات السينما والواقع الثقافي",
-   "summary": "تحليل لكيفية تشكيل صناعة الأفلام توقعات الجمهور حول تقنية النظارات الذكية، وكيف أظهرت سلسلة درامية على نتفليكس بشكل غير مقصود التحديات الثقافية الحقيقية المحيطة بهذه التكنولوجيا وتطبيقاتها في الحياة اليومية.",
-   "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "مايكروسوفت تسرح 4800 موظف في بداية سنتها المالية",
-   "summary": "أعلنت مايكروسوفت عن تسريح 4800 موظف يمثلون 2.1 بالمئة من قوتها العاملة، في تطور يأتي بعام من تسريحات سابقة بلغت حوالي 9100 موظف. تركزت التأثيرات في أقسام معينة من الشركة مع دخول السنة المالية الجديدة.",
-   "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "الأثرياء الأمريكيون يتجهون للذكاء الاصطناعي كبديل تعليمي لأطفالهم",
-   "summary": "بينما يعبر معظم الأمريكيين عن عدم ثقتهم بالذكاء الاصطناعي، يلجأ جزء من الطبقة الثرية إلى شركات متخصصة مثل Forge Prep لاستخدام الذكاء الاصطناعي كبديل عن المدارس التقليدية في تعليم أطفالهم.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "كيفية منع جوجل من استخدام بيانات المستخدمين لتدريب نماذج الذكاء الاصطناعي",
-   "summary": "غيّرت جوجل سياسات الخصوصية بما يسمح لها بحفظ كميات أكبر من بيانات المستخدمين، بما في ذلك الصور والملفات والتسجيلات، لتحسين نماذج الذكاء الاصطناعي لديها، وهناك طرق للاعتراض على هذا الإجراء.",
-   "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "مايكروسوفت تسرح ما يقارب 5 آلاف موظف من قسمي Xbox والمبيعات التجارية",
-   "summary": "أعلنت مايكروسوفت عن تسريح حوالي 4800 موظف يمثلون 2.1% من القوى العاملة العالمية، مع تركيز الخفض على أقسام الألعاب والمبيعات، وسط مخاوف متزايدة من استبدال الذكاء الاصطناعي للعمالة البشرية.",
-   "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "إعلان غوغل يتخيل مؤسسي أمريكا يحتضنون الذكاء الاصطناعي",
-   "summary": "أطلقت غوغل إعلاناً تسويقياً لخدماتها يصور سيناريو افتراضي حول استخدام مؤسسي الدولة الأمريكية الأولين لأدوات التعاون وتقنية Gemini في صياغة إعلان الاستقلال، لكن الإعلان لقي انتقادات واسعة لمحتواه.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "حصة الأسرة الأمريكية المتوقعة من ثروة OpenAI",
-   "summary": "يعود التركيز مجدداً على وعد الرئيس التنفيذي لـ OpenAI بمشاركة الأمريكيين في الثروات الناتجة عن الذكاء الاصطناعي، حيث أثارت النقاشات حول كيفية تحقيق هذا الوعد وتوزيع الفوائد الاقتصادية.",
-   "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "مراقب مخفي لـ Claude يثير قلق المستخدمين رغم موقف Anthropic المعارض للمراقبة",
-   "summary": "اتهمت مستخدمون شركة Anthropic بممارسة المراقبة بعد اكتشاف أداة تتبع خفية في Claude، بينما أشار المهندسون إلى أن هذا كان بمثابة تجربة انتهت.",
-   "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
    "date": "2026-07-06"
   }
  ]
