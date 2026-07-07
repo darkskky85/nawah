@@ -1,29 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-06T22:05:49.663311+00:00",
+ "updated": "2026-07-07T06:35:07.595074+00:00",
  "items": [
   {
-   "title": "الرئيس التنفيذي لفيرسيل يناقش فصل نماذج الذكاء الاصطناعي عن الوكلاء الذكيين",
-   "summary": "أشار رئيس فيرسيل إلى أن التركيز على الأداء الإنتاجي يفرض مراعاة نسبة السعر إلى الأداء عند اختيار حلول الذكاء الاصطناعي، ما يؤثر على طريقة تصميم الأنظمة وفصل مكوناتها.",
+   "title": "سهم الذكاء الاصطناعي يحقق مستويات قياسية جديدة",
+   "summary": "حققت إحدى شركات الذكاء الاصطناعي أعلى مستوى سعري لها عبر التاريخ، مما يثير نقاشاً في أوساط المستثمرين حول توقيت الدخول إلى هذا السهم في ظل الارتفاع المستمر لقيمته. يعكس هذا الأداء الاهتمام المتزايد بقطاع الذكاء الاصطناعي وتوقعات السوق الإيجابية حول مستقبله.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdllPWnAwci1uenRlT21PYlE0UFoyV3NQUDNpSHFiVXhlQmtYUF9rblFLRGdna1dkMFdra3RheGVIdFRDeUt4UjdsNnlSak8wbTZoMFJzY2FUaXVfVVlqdTd6dXBNN2wzMDNYck1GTm96Y1puejlhRFlZUUMzNFJ2R1RLLTRZeVpiZFQyYWlOZU9LTDVNUFB6QmFLajZ0NUxlSzk1clBnY3lwU3k5Umc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "دمج الذكاء الاصطناعي والبيولوجيا الاصطناعية والروبوتات لتحسين الإنزيمات",
+   "summary": "يجمع بحث جديد بين تقنيات الذكاء الاصطناعي والبيولوجيا الاصطناعية والروبوتات لتطوير وتحسين الإنزيمات. يسلّط هذا التطبيق الضوء على كيفية تعاون التخصصات المختلفة لحل مشاكل بيولوجية معقدة.",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1QtZ0MtckJrNVlYUGgwZDBtY095SGpEcER4dF9yeURia08wemdXd2tUR25LTmtTcGx1ek15M2ZBS3Z3eFVfOUhKWU1uVzlNeXB2QUp2UG5FaXJIRllNSEhJMDJveWNiNXdIck8weWRwY3V0SjZPcDg4NThULXZlV1dqYzdkYTlzZE5vbi1FXzdKelpUVHpUUkl2Y2xBMkl4YTJhdVNvOXFUeTlOd1Byd2pTNHc2OVd5TnYwSHEtWUt3QXVnQmfSAcYBQVVfeXFMUG9ULWdDLXJCazVZWFBoMGQwbWNPeUhqRHBEeHRfcnlEYmtPMHpnV3drVEduS05rU3BsdXpNeTNmQUt2d3hVXzlISllNblc5TXlwdkFKdlBuRWlySEZZTUhISTAyb3ljYjV3SHJPMHlkcGN1dEo2T3A4ODU4VC12ZVdXamM3ZGE5c2ROb24tRV83SnpaVFR6VFJJdmNsQTJJeGEyYXVTbzlxVHk5TndQcndqUzR3NjlXeU52MEhxLVlLd0F1Z0Jn?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "كلود من أنثروبيك يطور قدرات تأملية خاصة به",
+   "summary": "تؤكد شركة أنثروبيك أن نموذج كلود الذكي يمتلك قدرات تفكيرية مستقلة تميزه عن أنظمة الذكاء الاصطناعي الأخرى. تشير الملاحظات إلى تطور متقدم في قدرات النموذج على المعالجة المعقدة.",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "هجوم الفدية بالذكاء الاصطناعي لم يكتمل دون تدخل بشري",
+   "summary": "نفذ وكيل ذكاء اصطناعي عملية هجوم فدية حقيقية للمرة الأولى، لكن التفاصيل الجديدة تكشف أن البشر اختاروا الهدف وأعدوا البنية التحتية وقدموا بيانات معلنة. يوضح هذا أن الهجوم لم يكن مستقلاً تماماً كما بدا في البداية.",
+   "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "المستثمرون الأمريكيون سيصلون قريباً إلى أسهم إس كي هينيكس",
+   "summary": "تستفيد شركة إس كي هينيكس المتخصصة في الذاكرة من الطلب المتزايد المرتبط بالذكاء الاصطناعي. ستطرح الشركة أسهمها في السوق الأمريكية بقيمة تبلغ مليارات الدولارات في عملية طرح عام متوقع إجراؤها قريباً.",
+   "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "الجدل حول فصل النماذج اللغوية عن الوكلاء الذكية",
+   "summary": "يناقش الرئيس التنفيذي لفيرسيل الحاجة إلى فصل النماذج اللغوية عن أنظمة الوكلاء عند التحسين للبيئات الإنتاجية. يركز النقاش على العلاقة بين الأداء والتكلفة في اختيار المكونات المناسبة.",
    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-06"
   },
   {
-   "title": "إمكانية تخصيص سرعة ونبرة صوت مساعد سيري في أحدث إصدارات iOS",
-   "summary": "أضافت أبل خيارات جديدة لتخصيص خصائص صوت سيري، بما يعكس جهود الشركة لجعل المساعد أكثر طبيعية وتشخصاً مع إعادة بنائه حول تقنيات الذكاء الاصطناعي التوليدي.",
+   "title": "سيري تحصل على مرونة أكبر في التحكم بسرعة النطق والتعبير",
+   "summary": "توفر نسخة iOS 27 بيتا الجديدة للمستخدمين خيارات تخصيص سرعة نطق سيري وطريقة تعبيره. يأتي هذا ضمن جهود أبل الأوسع لإعادة بناء المساعد حول تقنيات الذكاء الاصطناعي التوليدي ليبدو أكثر طبيعية وشخصية.",
    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-06"
   },
   {
-   "title": "تتبع تصريحات شركات التكنولوجيا الكبرى بشأن تسريح الموظفين المرتبط بالذكاء الاصطناعي في 2026",
-   "summary": "توثيق مستمر لقرارات تسريح الموظفين في كبرى شركات التكنولوجيا خلال السنة الحالية، والتي أشارت الشركات فيها إلى الذكاء الاصطناعي كعامل رئيسي في هذه القرارات.",
+   "title": "تسريحات التكنولوجيا الكبرى في 2026 التي ربطت قراراتها بالذكاء الاصطناعي",
+   "summary": "مراجعة شاملة لموجات التسريح التي أعلنتها شركات تقنية كبرى خلال العام الحالي، حيث ركزت هذه الشركات على الذكاء الاصطناعي كسبب رئيسي لقراراتها الاقتصادية. تتبع زمني لأبرز عمليات التقليص في القوى العاملة عبر قطاع التكنولوجيا.",
    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "نظارات ذكية: بين تصورات السينما والواقع الثقافي",
+   "summary": "تحليل لكيفية تشكيل صناعة الأفلام توقعات الجمهور حول تقنية النظارات الذكية، وكيف أظهرت سلسلة درامية على نتفليكس بشكل غير مقصود التحديات الثقافية الحقيقية المحيطة بهذه التكنولوجيا وتطبيقاتها في الحياة اليومية.",
+   "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "مايكروسوفت تسرح 4800 موظف في بداية سنتها المالية",
+   "summary": "أعلنت مايكروسوفت عن تسريح 4800 موظف يمثلون 2.1 بالمئة من قوتها العاملة، في تطور يأتي بعام من تسريحات سابقة بلغت حوالي 9100 موظف. تركزت التأثيرات في أقسام معينة من الشركة مع دخول السنة المالية الجديدة.",
+   "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-06"
+  },
+  {
+   "title": "الأثرياء الأمريكيون يتجهون للذكاء الاصطناعي كبديل تعليمي لأطفالهم",
+   "summary": "بينما يعبر معظم الأمريكيين عن عدم ثقتهم بالذكاء الاصطناعي، يلجأ جزء من الطبقة الثرية إلى شركات متخصصة مثل Forge Prep لاستخدام الذكاء الاصطناعي كبديل عن المدارس التقليدية في تعليم أطفالهم.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-07-06"
   },
   {
@@ -40,22 +104,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "مايكروسوفت تسرّح أكثر من 4800 موظف مع بداية السنة المالية الجديدة",
-   "summary": "أعلنت مايكروسوفت عن فصل حوالي 4800 موظف، بما يمثل نحو 2.1% من قوتها العاملة، وذلك بعد عام واحد من تسريح 9100 موظف. تركزت التسريحات الجديدة في الأقسام التجارية بشكل أساسي.",
-   "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "الأثرياء الأمريكيون يوكلون الذكاء الاصطناعي بتعليم أطفالهم بدلاً من المدارس التقليدية",
-   "summary": "رغم انعدام ثقة معظم الأمريكيين بالذكاء الاصطناعي، يتجه عدد من الأسر الثرية إلى الاستعانة به كبديل عن التعليم التقليدي، حيث تقدم شركات متخصصة خدمات تعليم قائمة على أنظمة ذكاء اصطناعي.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-07-06"
   },
   {
@@ -80,54 +128,6 @@ window.NEWS_DATA = {
    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
    "source": "Ars Technica AI",
    "tag": "تقنية",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "محطة إف الباريسية تركز على دعم شركات الذكاء الاصطناعي الناشئة الأوروبية",
-   "summary": "تعزز محطة إف، المركز الاستثماري الباريسي المملوك للملياردير الفرنسي، برنامج معجِّل جديد مخصص لشركات الذكاء الاصطناعي. يهدف المركز لتعزيز مكانته كمنصة حاضنة لأكثر الشركات الناشئة الواعدة في المجال.",
-   "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "أداة أوكتولينس لتحليل الصور ومعالجتها",
-   "summary": "أداة جديدة ظهرت باسم Octolens تُعنى بمعالجة الصور وتحليلها باستخدام تقنيات الذكاء الاصطناعي. تهدف الأداة إلى توفير إمكانيات متقدمة في رؤية الحاسوب وفهم محتوى الصور.",
-   "url": "https://www.producthunt.com/products/octolens-ai",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "الأمين العام للأمم المتحدة يطالب بتنظيم عاجل للذكاء الاصطناعي والأسلحة المستقلة",
-   "summary": "أطلق الأمين العام للأمم المتحدة دعوة عاجلة لوضع آليات حوكمة دولية للذكاء الاصطناعي والأسلحة الآلية المستقلة. أكد على ضرورة التعاون الدولي لضمان استخدام آمن وأخلاقي لهذه التقنيات وتجنب مخاطرها المحتملة.",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVWl4MXFOV253U1dKa3lqMzlFYTdlZWpZT0E0eXZlWC03d0dKR3FxdDZVQWZxT21Uc2gzekM0cmRwTjVKc3BjRG9CR1FiZlZzQWFyV3k5MA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "حملة سياسية أمريكية توظّف الذكاء الاصطناعي في استراتيجيتها الانتخابية",
-   "summary": "اعتمدت حملة بيلي الانتخابية على تقنيات الذكاء الاصطناعي كجزء من استراتيجيتها السياسية الحديثة. يعكس هذا التحول الدور المتزايد للذكاء الاصطناعي في العمليات الانتخابية والحملات الحزبية المعاصرة.",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdy1RVUwtZkEtRnZhaVVHdWJEQ0V4Yk1NNGFpd0Z2MkN3YlFtMTJGQ0pFSzlVaVBhNmJKM0RLZmtEaTVuWEF2akJyakZoUlExTDl5djRFTUdhNHItYXpUb0NXMTBDcDNmVkFrQk5nVXFxX0JQcXRvOVNkcXRnMkFTZXFnaV9qazdVS1BQSkdLU1BYRWRIMGFHQWJNd2lmZVdTcnFiMHZB?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "الذكاء الاصطناعي في تطوير برامج التغذية الشخصية المتقدمة",
-   "summary": "يستكشف البحث العلمي كيفية توظيف الذكاء الاصطناعي وخوارزميات التعلم الآلي في تصميم برامج غذائية دقيقة مخصصة لاحتياجات الأفراد. يعكس هذا التوجه تطوراً نحو طب وقائي أكثر دقة يعتمد على تحليل البيانات الشخصية والجينية.",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vN2k5ZDZjR3NJR1ZqajlIZHBUZEE1SG5ZVDczb2NZMjZvcG90QWpJRWl6VWhIQ0tZbTcwei1mcTF3MGp0cGpPY3RpVTBUM2pRRjZDNk1fZThVN0dMV21v?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-06"
-  },
-  {
-   "title": "دور الذكاء الاصطناعي في تعزيز جودة البحث العلمي والمخرجات الأكاديمية",
-   "summary": "يناقش الخبراء سبل استخدام الذكاء الاصطناعي لتحسين العمليات البحثية وزيادة فعالية الإنتاج الأكاديمي. يشمل ذلك تحسين دقة التحليلات وتسريع دورات البحث وتقليل الأخطاء البشرية في المراحل المختلفة.",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORG9DQ3dhS0c3c1RuYXJXZHhrMjZsTU1HWmVZLVg1VWJ4Vi1RdHNTVVVfdjI4Z3ZqWUpiNkZuSmFqME9rd2NISEVhSGxXNE41cjhXeEtBdWNVaHowLTk3MjJ0aFRCeFc2Y29qVE5kc1hvT0JZcEVJdFNFUGx5bFp0NGZJcm9SdkNrajMtZWtGX0s5WkpkU3NKTkdPczRWM2dPX0l3dVIzLV9vbHpKZFE0NHEyeXhjVTZTWU1SWFp3Y0hnbnlkeFBBaWxxOW5Xc3dUXzRyUm9VdnZBTVFxREh3?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-06"
   }
  ]
