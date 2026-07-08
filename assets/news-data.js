@@ -1,134 +1,134 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-08T10:54:00.264436+00:00",
+ "updated": "2026-07-08T16:24:44.141400+00:00",
  "items": [
   {
-   "title": "شركة فرنسية متخصصة في الذكاء الاصطناعي تطلق أداة مجانية لتسريع معالجة النماذج",
-   "summary": "أطلقت شركة ZML الفرنسية برنامجاً جديداً باسم LLMD يهدف إلى خفض تكاليف تشغيل نماذج الذكاء الاصطناعي عبر أنواع مختلفة من المعالجات. تحظى الشركة بدعم من عالم الحاسوبيات الحائز على جائزة تورينج يان لوكان.",
+   "title": "شركة Prime Intellect تجمع 130 مليون دولار لتمكين المؤسسات من بناء وكلاء ذكاء اصطناعي خاصة بها",
+   "summary": "أغلقت شركة Prime Intellect جولة تمويل من الفئة الأولى برئاسة Radical Ventures، لتصل قيمتها إلى مليار دولار بعد عامين من التأسيس. تركز الشركة على توفير أدوات وخدمات تسهّل على المؤسسات تطوير وكلاء ذكاء اصطناعي مخصصة لاحتياجاتها.",
+   "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-08"
+  },
+  {
+   "title": "شركات ناشئة متخصصة في الذكاء الاصطناعي تحقق معدلات نمو في الإيرادات تتسارع بوتيرة متزايدة",
+   "summary": "يشهد سوق الشركات الناشئة في مجال الذكاء الاصطناعي نموّاً متفاوتاً، حيث تحقق بعض هذه الشركات معدلات نمو أسرع من غيرها بشكل ملحوظ. يعكس هذا الاتجاه الطلب المتزايد على حلول الذكاء الاصطناعي وقدرة بعض الشركات على الاستجابة السريعة لحاجات السوق.",
+   "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-08"
+  },
+  {
+   "title": "الرئيس التنفيذي السابق في OpenAI كيفن وايل ينضم إلى مجلس إدارة شركة Stoke Space",
+   "summary": "انضم كيفن وايل، الذي شغل منصباً تنفيذياً سابقاً في OpenAI، إلى مجلس إدارة شركة Stoke Space المتخصصة في تطوير صواريخ قابلة لإعادة الاستخدام. يعكس هذا التعيين اهتماماً متنامياً في وادي السيليكون بتقنيات الفضاء والنقل الفضائي المستدام.",
+   "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-08"
+  },
+  {
+   "title": "الشركة الفرنسية الناشئة ZML تطلق أداة مجانية لتسريع تشغيل نماذج الذكاء الاصطناعي على معالجات متعددة",
+   "summary": "أطلقت شركة ZML الفرنسية، والتي يؤيدها الحائز على جائزة تورينج يان لوكان، برنامجاً جديداً يهدف إلى تقليل تكاليف تشغيل نماذج الذكاء الاصطناعي. البرنامج يتيح تحسين الأداء عند استخدام معالجات وأجهزة متنوعة، مما يساهم في جعل تقنيات الذكاء الاصطناعي أكثر سهولة في الوصول.",
    "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-08"
   },
   {
-   "title": "شركة متخصصة بمعالجات الذكاء الاصطناعي تجمع مليار دولار برأسمال سوقي جديد",
-   "summary": "جمعت شركة SambaNova المتخصصة بتطوير معالجات الذكاء الاصطناعي تمويلاً بقيمة مليار دولار برأسمال سوقي يبلغ 11 مليار دولار. يأتي هذا التمويل بعد شهور قليلة من جولة استثمارية سابقة، وسط تكهنات سابقة بسعي إنتل لشرائها.",
+   "title": "شركة SambaNova لصناعة معالجات الذكاء الاصطناعي تجمع مليار دولار برأسمال سوقي بقيمة 11 مليار",
+   "summary": "أعلنت SambaNova عن جولة تمويل جديدة برأسمال سوقي قدره 11 مليار دولار، بعد بضعة أشهر من جولة تمويلية ضخمة سابقة. جاء هذا التمويل في حين كانت هناك تقارير عن محاولات Intel الاستحواذ على الشركة بسعر أقل بكثير.",
    "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-08"
   },
   {
-   "title": "ميتا تطلق نموذج ذكاء اصطناعي جديد لإنشاء صور تفاعلية عبر تطبيقاتها",
-   "summary": "أطلقت ميتا نموذج Muse Image من قسم Superintelligence Labs الخاص بها لإنشاء صور باستخدام الذكاء الاصطناعي. يعمل النموذج حالياً عبر تطبيق ميتا AI وإنستغرام وواتس أب، مع توقع توسيع الدعم ليشمل فيسبوك وماسنجر قريباً.",
+   "title": "نموذج Muse Image من Meta يدمج مستخدمي Instagram في صور مولّدة بالذكاء الاصطناعي",
+   "summary": "أطلقت Meta نموذج Muse Image لتوليد الصور، من تطوير قسم Superintelligence Labs بالشركة. يتولى النموذج الآن أدوات إنشاء الصور في تطبيق Meta AI وInstagram وWhatsApp، مع خطط للتوسع إلى Facebook وMessenger.",
    "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-07-08"
   },
   {
-   "title": "أطلس المعرفة من فيني",
-   "summary": "أداة جديدة ظهرت باسم Knowledge Atlas توفر منصة لتنظيم واسترجاع المعلومات والمعارف بطريقة منظمة. تساعد المستخدمين على بناء خريطة معرفية شاملة للمحتوى والبيانات المتعلقة بمجالات اهتمامهم.",
+   "title": "PopTask لأجهزة آبل",
+   "summary": "أداة جديدة ظهرت باسم PopTask موجهة لمستخدمي أجهزة آبل، تهدف إلى تيسير إدارة المهام والعمليات اليومية من خلال واجهة متكاملة مع نظام التشغيل.",
+   "url": "https://www.producthunt.com/products/poptask",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-08"
+  },
+  {
+   "title": "أداة سطر أوامر للعملاء الذكيين",
+   "summary": "أداة جديدة ظهرت باسم agents-cli توفر واجهة سطر أوامر لتشغيل وتطوير الوكلاء الذكيين، مما يتيح للمطورين التفاعل مع أنظمة الذكاء الاصطناعي من خلال أدوات سطر الأوامر التقليدية.",
+   "url": "https://www.producthunt.com/products/agents-cli",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-08"
+  },
+  {
+   "title": "نموذج Universal-3.5 Pro",
+   "summary": "أداة جديدة ظهرت باسم Universal-3.5 Pro، وهو نموذج ذكاء اصطناعي متعدد الاستخدامات يركز على تحسين الأداء والكفاءة في معالجة المهام المختلفة.",
+   "url": "https://www.producthunt.com/products/assemblyai",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-08"
+  },
+  {
+   "title": "Knowledge Atlas من Fini",
+   "summary": "أداة جديدة ظهرت باسم Knowledge Atlas وهي منتج من شركة Fini، تساعد على تنظيم وعرض المعارف والمعلومات بطريقة بصرية منظمة تسهل الوصول إليها والتنقل بينها.",
    "url": "https://www.producthunt.com/products/fini-2",
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
    "date": "2026-07-08"
   },
   {
-   "title": "أسهم الذكاء الاصطناعي والذاكرة الموصى بها للاستثمار في يوليو",
-   "summary": "تحليل مالي يركز على أسهم شركات متخصصة في تقنيات الذاكرة والرقائق المدعومة بالذكاء الاصطناعي. يقدم الخبر توصيات استثمارية مرتبطة بالطلب المتزايد على معالجات الذكاء الاصطناعي المتقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUN0YXFqRGEtZXNPeXkzSWFrVmUzZjhfZl9fb3ZxbUhCbllYMkZBa2JVbHdWaTFfZXpCb01CVFVxUkpTcnFTaDA4al9vRkJtTTFSWE8tei1ENlNPQ1JJbFhwY2xjQU1lRVNheE1DdnNaQmZwTlludGx5UUstVzFoSHVRNk1QRGNsSS1PWl8yd2lvbnNsMnVZTFdBMWtyZUhR?oc=5",
+   "title": "منصة Eodly",
+   "summary": "أداة جديدة ظهرت باسم Eodly، وهي منصة موجهة نحو أتمتة العمليات وتحسين الإنتاجية عبر توفير حلول ذكية متكاملة للعاملين والمؤسسات.",
+   "url": "https://www.producthunt.com/products/eodly",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-08"
+  },
+  {
+   "title": "أسهم ذكاء اصطناعي على أعتاب انتعاش صيفي",
+   "summary": "تحليل مالي يشير إلى أن أسهماً متعثرة في قطاع الذكاء الاصطناعي قد تشهد ارتفاعات ملحوظة خلال الموسم الصيفي القادم، بناءً على توقعات السوق والمؤشرات الاقتصادية الحالية.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamlHYXdMSVRtSWRPUjFocG9mSEhhb0pZT3BTWnp0a0VhNTBrLU9rV0NLajlQeUhSOXpGYnhhQ3lzUllyU2pkRWRFZVlGMmx4VW1mRk9lRTJKOUNBOXp4Z2ZPTFFwazc3Sy1vcFZjNEplT2RiSHM2MEtJQ1ZlYlQ5YkotOFVzLWJpMkk0dElwYUg2NWpydURCNTNnbUFKaEpvNDRMdQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-08"
   },
   {
-   "title": "فرص استثمارية في أسهم الذكاء الاصطناعي وتقنيات الذاكرة",
-   "summary": "نصائح استثمارية موجهة للمهتمين بقطاع الذكاء الاصطناعي تتناول اختيار الأسهم ذات الصلة بتقنيات الذاكرة والمعالجات. يركز التقرير على الفرص المتاحة في السوق المرتبطة بنمو الطلب على البنية التحتية للذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVQ4NGl6TXprOUtfX0x3TVFVcEtaMmdaTl93TUZBUnBFUlhjTU1kM3oxc1V1dzRQX0J0aWpBVnRVeXlkbHVDVnd3d2QyRzlQRzZmX3g4ekFpQkpWZ25YTHRvRmxQNnQ3enRJazQxM0dBeUNYdFNHYm1PbEcwNFRKSmt4X2JvQmtkck5IMGFZNGRlTnU0Z004?oc=5",
+   "title": "سهمان من قطاع الذكاء الاصطناعي ينتظران ارتفاعاً قويّاً في الأشهر القادمة",
+   "summary": "تحليل مالي يشير إلى أن شركتي ذكاء اصطناعي متضررتين من تراجعات سابقة قد تشهدان انعكاساً إيجابياً في أدائهما المالي خلال الفترة المقبلة، مع توقعات بعودة قوية لأسهمهما.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVRjVEFxV05WaUVMUnZyOG91N0VNQVA1Z0t5MGV1bUJmdDVQMkYxSWRsVV9LV0hhbmF3OVhvalFTOUJoZ3dLaHNYLTEwZ2R5alJjX0pKV0N4REFtZkFEM3VlUnhiRFNONnBQcklpcW9PMVRaMjc5T21WZ2pkcWMtSTdkWWdUd2JyX2puc055RWt5MFpxanc?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-08"
   },
   {
-   "title": "من تكييف الهواء إلى الذكاء الاصطناعي: الشركات التي تستفيد من صناعة التبريد",
-   "summary": "تقرير يستعرض كيفية استفادة الشركات من الطلب على حلول التبريد المتقدمة، خاصة مع احتياجات مراكز البيانات ومنصات الذكاء الاصطناعي المتزايدة. يسلط الضوء على الفرص الاقتصادية الناشئة من ربط تقنيات التبريد بالبنية التحتية الرقمية.",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUnFxNG5reVhmNWZwUjhFUVk4OGp3SEMwX2xIY3ZpRmpZU2xFaEFXTGtwc1Z2NmFiWkpJb1ZpUV9vamFnN1c2cUxnYm44eFdEdTRveGpCMV9PakF6Yng3Y2VpMDJQbk1XYzdKNkcyNWpKd1NrU2syRXRGZFBiejBfSnh0c09sMnZhbkhtcEdyWUF2S3NlSV82ZmhlNkhpLTNJd3pRMTlGSXpzWkdQbjJSS1VQdXBLTFlsTTlwR1o3RUlySks4cnBSemUzU2FkUUgxTVlmYUJlckZRaEpUQVhWeVhwYk5wYlVRU3FEU3BNYVNTelJf0gGIAkFVX3lxTE1EY1RieUhoaTVJdmNtcTFIc1FValJNMVd1YnhQX1VEZXR1VTVpT1EtM2VhNnR6T0Z6ZlNQYXYtR1cyVjlKYnhCcEwwMHFtNmQ5LWtkYzBOQ2lIMnN4TVh6b0dnZDFBWmt5RVZZaUkyVG91Q1FDcldmc09KSkd5NlQ0OFNRQURidDB3TkVoRjB0UUN0bkRTMHdpTlc5TnNVWW8yektYbW5HOEd5d1lNeFdVcWpBM2JrZzA5Z0dHNEhpaElZa3pDaUU1UjlOSFpBXzUyZXpiNVZDV0g5WlVFMThfN3RISEl2eHB3ZUFpb1h5VTBYaWowbkZnRGFOMlBSdDhyUmRlRUpLbA?oc=5",
+   "title": "مزاد علني يعتمد على الذكاء الاصطناعي لتطوير عمليات البيع",
+   "summary": "استخدم متخصص في المزادات العلنية تقنيات الذكاء الاصطناعي لتحسين إدارة أعماله، مما ساعده على تعزيز الكفاءة والوصول إلى عملاء جدد في مجال التسويق الزراعي.",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOc05yaTF2RUF3M2dZakRXVVlUSVloSXdZQ2xmdU1oTWk3TlVSN3Bpdmt3Y19PWG52eF9LRDA2RENrZVdZLUtBbHpidE1NT0szWi1vMG9NMWR2VmdMT2paSGxSM01nblpQOWtNRjZhNDRIN2RNQnl3amFXU3M5dlFJd051bHhwY0ZxNURvbVhObm1WczN0UGFOX0lVbnB2Sm1ZdXdBZjFjV3FjMHBYVjQyRWtINERvT01Ga2t2c1FLajRZZy05eTJoZ1BCbzU0Z19PdUsxaVlUZkFONU9VTDU3d3paQl9FWURFSzF3WnFKdkhSVUZjSncyMUpnZXZOSDlrOWc?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-08"
   },
   {
-   "title": "هل تساعد قرارات الكونغرس الصين على الفوز في سباق الذكاء الاصطناعي",
-   "summary": "تحليل سياسي يناقش تأثير القرارات التشريعية الأمريكية على التنافسية بين الولايات المتحدة والصين في مجال الذكاء الاصطناعي. يرصد المقال كيف قد تؤدي بعض السياسات غير المقصودة إلى تعزيز الموقف الصيني في هذا المجال الحيوي.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHQ2UUFHeWtfQk9Ec0NwV1BkYkxhc3FFRnByTDhiYWtoeGpvRHo0emNwVXlyc0JOYWdJSmJXOExyYS1VMU13Y3NORUdPZzA2VGhoTExaQ05BRXZtb19oRUN6cUYzRVhXcG1LN3gyd19qTFVONmhCTmUxNHNvZ1pRb1dsaC02WjJIdmF0LXlJUkdtTXkzNTNV0gGcAUFVX3lxTE0zcUhVc0lzNzdnbmFfQUlRR1Jaenlaam9qT1BUMEttX0RhRUJDZjdERzR1RHFONzByNW9CSkoya2pfWF9yVEktSmJyTkI0ZFdmT1ZuOVROOFFWSk1FeGVhcGM4UmJGeGNVREVkaGdEc2prSEJrZFZUX3VMOTRTRGtYYnZfdHRMMnFRUkQ0bGhROHdyX1VvUDE5Y0gwSw?oc=5",
+   "title": "حماية خدمات أمازون للذكاء الاصطناعي باستخدام جدران الحماية السحابية",
+   "summary": "توضيح تقني حول كيفية تأمين منصة Bedrock من أمازون ووقت التشغيل الخاص بها باستخدام خدمة AWS WAF لمنع الهجمات الإلكترونية والتهديدات الأمنية.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFZFR1hnSkRBWE5US1dQeTZKY3hmRzE0X25YSWd2SE1BMThhYjUxbzRaaGFDTTMtVFFSclFBZ1YyZHZpN0Uwc3VrRTNoT2xNak5oMTNBMHRMaEh5R2J2Yk5XWEVEbElxbkxnRk9kbnA2MkR4blM4YWVZUTdsc1dfUzI4WXZXNi1TN2hnb0p5M1dqZVppRU9NclRyNDlHOFp4UmtZ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-08"
   },
   {
-   "title": "الشراكات بين القطاعين العام والخاص ستقود الابتكار في عصر الذكاء الاصطناعي",
-   "summary": "يؤكد المنتدى الاقتصادي العالمي أن التعاون بين الحكومات والشركات الخاصة سيصبح محركاً أساسياً للابتكار التكنولوجي في مجال الذكاء الاصطناعي. يعكس هذا الاتجاه الحاجة المتزايدة للموارد المشتركة والخبرات المتنوعة لتطوير تطبيقات ذكاء اصطناعي فعّالة.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0otTXoyQ0gtck5nOEd1TzNRWEJNejJEYU8zSU1ld2wtelhIa2tlTmYtVmo4NEwxVDI3NDN4cWhEZWd1OUNFQzRDbTRBck91bzVfVGtKT242N1RuZmwxeHB4bU5WVkhQRUZHYmlGbWNJb09IUHpIZmNVbGhLcHBGQ2VIbW1EWnd6T2FTWnNha0FtQmNMaG15TWwwaGNhZzZkRjJuUFZ5a0x3S3E5czlOUDRzdkRQTERTZzR3ek13?oc=5",
+   "title": "تحالف عالمي لحماية حقوق الأطفال في عصر الذكاء الاصطناعي",
+   "summary": "أطلقت منظمة يونيسيف تحالفاً دولياً يهدف إلى ضمان حماية الأطفال من الأثار السلبية المحتملة لتطبيقات الذكاء الاصطناعي، والعمل على وضع معايير أخلاقية وقانونية لاستخدامها.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkZOcmNVQk0tSU5yQkk1U1EzdmQ1QUk4Q1J1RWdOdDB0NFBWT2o1dTRhZElmWTVmYTJhd0pGUVJCMEREVkRmTENzTGN4cl9wNkMtcGRoVDZ3X0FhOWxuYkRmSzVpVV90R2l1SkJwTFBnMmVUQ1VrV2dhTlRvUk92cXJQNUZCdEpBQ29nWXdKdUhzd0FiZU42RXlldFk5QndRd3JSVW5TMzljUXl6bUhXQVNQLV96eU0?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-08"
-  },
-  {
-   "title": "إدارة ترامب تلغي القيود المفروضة على نموذج GPT 5.6 من أوبن إيه آي",
-   "summary": "أعلنت إدارة ترامب عن إزالة التقييدات السابقة التي كانت تحكم تطوير وتوزيع نموذج GPT 5.6 التابع لشركة أوبن إيه آي. يأتي هذا القرار ضمن سياسة أوسع نحو تسهيل تطور قطاع الذكاء الاصطناعي في الولايات المتحدة.",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1FRRGcyemJMc1RsLWZmcGlSZTBuakxJU09mS0k0dW5pLUthb1YzZ01uZURoQTdGR3RUVzhMRDN4Q1JwaWQtVVBkbWt6Ykx3bkpOM3hJMlozLWRFQS13Q3Jrakk3S0FuQThlUg?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "الصين تحذر من مخاطر تكنولوجية متعلقة بـ Claude Code من أنثروبك",
-   "summary": "أطلقت الصين تحذيرات بشأن المخاطر المحتملة المرتبطة بأداة Claude Code المطورة من قبل شركة أنثروبك. يركز التحذير على القلق حول الآثار الأمنية والتكنولوجية المرتبطة بهذه الأداة المتقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "أوبن إيه آي تستعد لإطلاق نموذج GPT الأكثر قدرة بعد تأخر في الطرح",
-   "summary": "بعد تأخر في الجدول الزمني للإطلاق، تتجهز أوبن إيه آي لتقديم نسخة جديدة من نموذج GPT تتمتع بقدرات متقدمة. يعكس هذا الإطلاق استمرار السباق التنافسي الشديد بين الشركات الرائدة في مجال الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "ميتا تطلق مولد صور ذكاء اصطناعي جديد وسط انتقادات حول استخدام صور المستخدمين",
-   "summary": "أطلقت ميتا نموذج توليد صور جديد يُدعى Muse Image يدعم تطبيقات متنوعة في الإعلانات والتصميم وإنشاء محتوى للمبدعين. لكن المستخدمين عبروا عن قلقهم حول استخدام صورهم الشخصية في تدريب النموذج دون موافقة صريحة.",
-   "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-07"
-  },
-  {
-   "title": "نماذج الذكاء الاصطناعي مفتوحة المصدر لا تهدد شركات الأبحاث الكبرى حالياً",
-   "summary": "نجاح نماذج الذكاء الاصطناعي مفتوحة المصدر لا يأتي على حساب معامل البحث الرائدة، بل يبدو أن كلا الاتجاهين يغطي مرحلة مختلفة من دورة حياة التكنولوجيا ذاتها.",
-   "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-07"
-  },
-  {
-   "title": "مايكروسوفت تنضم لاتجاه خفض نفقات الذكاء الاصطناعي بالاعتماد على نماذجها الخاصة",
-   "summary": "تسعى مايكروسوفت إلى تقليل إنفاقها على الذكاء الاصطناعي بالاستثمار أكثر في تطوير نماذجها الخاصة، متابعة بذلك خطى عمالقة وادي السيليكون الآخرين.",
-   "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-07"
-  },
-  {
-   "title": "ديسكورد تعترف بخلل في نظام التعديل الآلي أدى لحظر مستخدمين بالخطأ",
-   "summary": "اكتشفت منصة ديسكورد عطلاً في أداة التعديل المدعومة بالذكاء الاصطناعي تسببت في حظر حسابات منذ شهر مايو بسبب صور غير ضارة، وتم إصلاح المشكلة بعد حظر حوالي 200 مستخدم إضافي نهاية الأسبوع.",
-   "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-07"
   }
  ]
 };
