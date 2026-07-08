@@ -1,37 +1,69 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-07T22:03:48.646286+00:00",
+ "updated": "2026-07-08T05:41:09.634317+00:00",
  "items": [
   {
-   "title": "نماذج الذكاء الاصطناعي مفتوحة المصدر لا تهدد الشركات الرائدة حالياً",
-   "summary": "يشير التحليل إلى أن نجاح نماذج الذكاء الاصطناعي مفتوحة المصدر لا يأتي على حساب المختبرات المتقدمة، بل يبدو أن كل منها يخدم مرحلة مختلفة من دورة حياة النموذج، مما يسمح بتعايش الاثنين في السوق.",
+   "title": "ميتا تطلق مولد صور ذكاء اصطناعي جديد وسط انتقادات حول استخدام صور المستخدمين",
+   "summary": "أطلقت ميتا نموذج توليد صور جديد يُدعى Muse Image يدعم تطبيقات متنوعة في الإعلانات والتصميم وإنشاء محتوى للمبدعين. لكن المستخدمين عبروا عن قلقهم حول استخدام صورهم الشخصية في تدريب النموذج دون موافقة صريحة.",
+   "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "نماذج الذكاء الاصطناعي مفتوحة المصدر لا تهدد شركات الأبحاث الكبرى حالياً",
+   "summary": "نجاح نماذج الذكاء الاصطناعي مفتوحة المصدر لا يأتي على حساب معامل البحث الرائدة، بل يبدو أن كلا الاتجاهين يغطي مرحلة مختلفة من دورة حياة التكنولوجيا ذاتها.",
    "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-07"
   },
   {
-   "title": "مايكروسوفت تقلل نفقاتها على الذكاء الاصطناعي بالاعتماد على نماذجها الخاصة",
-   "summary": "انضمت مايكروسوفت إلى الشركات التكنولوجية الكبرى في خفض تكاليف استثماراتها بمجال الذكاء الاصطناعي، من خلال التركيز على تطوير واستخدام نماذجها الخاصة بدلاً من الاعتماد على جهات خارجية.",
+   "title": "مايكروسوفت تنضم لاتجاه خفض نفقات الذكاء الاصطناعي بالاعتماد على نماذجها الخاصة",
+   "summary": "تسعى مايكروسوفت إلى تقليل إنفاقها على الذكاء الاصطناعي بالاستثمار أكثر في تطوير نماذجها الخاصة، متابعة بذلك خطى عمالقة وادي السيليكون الآخرين.",
    "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-07"
   },
   {
-   "title": "ديسكورد يعترف بخلل في نظام الإشراف الآلي أدى لحظر مستخدمين بالخطأ",
-   "summary": "أقرت منصة ديسكورد بوجود عطل في أداة الإشراف المدعومة بالذكاء الاصطناعي أدت إلى حظر حسابات مستخدمين بشكل خاطئ بسبب صور آمنة، وقد استمرت المشكلة منذ مايو قبل أن يتم إصلاحها.",
+   "title": "ديسكورد تعترف بخلل في نظام التعديل الآلي أدى لحظر مستخدمين بالخطأ",
+   "summary": "اكتشفت منصة ديسكورد عطلاً في أداة التعديل المدعومة بالذكاء الاصطناعي تسببت في حظر حسابات منذ شهر مايو بسبب صور غير ضارة، وتم إصلاح المشكلة بعد حظر حوالي 200 مستخدم إضافي نهاية الأسبوع.",
    "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-07"
   },
   {
-   "title": "خدمة كلود للعمل التعاوني تتوسع إلى الهواتف والويب",
-   "summary": "أداة جديدة تتيح للمستخدمين بدء المهام من حواسيبهم والحصول على التحديثات عليها الهواتف الذكية، مع إمكانية استكمال النتائج لاحقاً حتى بعد إغلاق الجهاز.",
+   "title": "منصة كلود كووورك توسع خدماتها للأجهزة المحمولة والويب",
+   "summary": "يمكن للمستخدمين الآن بدء المهام على أجهزتهم المكتبية والحصول على تحديثات الحالة على الهواتف الذكية، مما يسمح باستكمال العمل لاحقاً حتى عند إغلاق الحاسوب المحمول.",
    "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "نموذج ميتا الجديد يدمج صور مستخدمي إنستغرام في صور مُولَّدة بالذكاء الاصطناعي",
+   "summary": "أطلقت ميتا أول نموذج توليد صور من قسم الذكاء الخارق التابع لها، حيث يدعم أداة ميوز إيميج التطبيقات عبر ميتا إيه آي وإنستغرام وواتساب، مع توسع متوقع لفيسبوك وماسنجر.",
+   "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "أنثروبيك تطرح منصة كلود كووورك على الأجهزة المحمولة والويب",
+   "summary": "بدأت منصة كلود كووورك بالتوفر على الأجهزة المحمولة والمتصفحات للمرة الأولى، مع البدء الفوري لمشتركي الخطة الممتازة وتوسع تدريجي للمستخدمين الآخرين خلال الأسابيع القادمة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "المكونات الأساسية لبنية الذكاء الاصطناعي التي يحتاجها قادة التكنولوجيا",
+   "summary": "مع تطور قدرات الذكاء الاصطناعي والتوجه نحو الأنظمة الذاتية، تتوسع المؤسسات في حالات الاستخدام. يواجه قادة التكنولوجيا تحديات في اختيار الاستثمارات التي ستحافظ على قيمتها، خاصة مع التطور المستمر للتكنولوجيا والمخاطر المرتبطة به.",
+   "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
    "date": "2026-07-07"
   },
   {
@@ -40,30 +72,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-07"
-  },
-  {
-   "title": "نموذج ميتا الجديد يدمج مستخدمي إنستاجرام في الصور المولدة بالذكاء الاصطناعي",
-   "summary": "أطلقت ميتا نموذج إنشاء صور جديد من قسمها المتخصص، يتيح دمج صور المستخدمين الآخرين في الصور المولدة بالذكاء الاصطناعي، وهو متوفر الآن في تطبيق ميتا وإنستاجرام وواتس آب.",
-   "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-07"
-  },
-  {
-   "title": "منصة Claude Cowork تصل إلى الهواتف الذكية والويب",
-   "summary": "أطلقت Anthropic منصة Claude Cowork على الأجهزة المحمولة والويب للمرة الأولى، حيث بدأت التوسع أولاً لمشتركي Max ثم ستصل تدريجياً لمستخدمي الخطط الأخرى خلال الأسابيع القادمة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-07"
-  },
-  {
-   "title": "العناصر الأساسية لعمارة الذكاء الاصطناعي لقادة التقنية",
-   "summary": "مع تسارع تطور قدرات الذكاء الاصطناعي والتحول نحو الأنظمة الذاتية، تواجه المؤسسات تحديات في توسيع حالات الاستخدام والتعامل مع المخاطر الناشئة، مما يتطلب من قادة التقنية اتخاذ قرارات استثمارية صحيحة بالنظر للتطور السريع.",
-   "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
    "date": "2026-07-07"
   },
   {
@@ -120,14 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2hsbG52T01yZFNCUmNQN2k5alNLaWtEOFZNTmdzeVVFWU5sY0JuZDFXTEhNMElPZnNtSkV2cFc3NzZ1WnNSaWstMV85RFNzX01vTUs5cm4ySUVUSGF4SGtkX3NKYVZ2VWV6Z1g0TlFkdUNwcWo2QnVabldkeUJCM2ZHNlM1cENTb2txa3hQZExRc2lKTG1ITmlZcFhQUVVGM1RaRDNablozV01HT2fSAbMBQVVfeXFMTXpDczJJT3JlLUlIX2hPZmZ5N1BDNWxKSm5ZcTBmelpia3NERFZhX3pzdm5kY0NNa0VZeFdkSVRUV1p1RkhRcHM5THY5azZRUk56MUFYS3BVWF9oZUFuOTBJLVQybFJVWW8zT3hJTEpxQXdEQlUxS09EM3VVeXFFUk1na2t1NWdZZkJZaEFlMkFvY0F4MlJFQmlIN1VxT2lId3kwZExIZ3ROX3VvRE9FaVZGZ0E?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-07"
-  },
-  {
-   "title": "أنثروبيك توظف قيادية سابقة في مايكروسوفت وأمازون لقطاع الحكومة الأميركية",
-   "summary": "عينت شركة أنثروبيك تيريزا كارلسون، التي عملت في مايكروسوفت وخدمات أمازون السحابية، لقيادة جهودها في التعامل مع الجهات الحكومية والمؤسسات العامة الأميركية.",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUluUmlMeWtmYkxCeUJNRFlVZlJuN0xfUTg2djYwMjM5aENreHpNSHhLelBwNnN3dFJCTXo2Z19HYXhVcmNic2hlb2JvaXJoNWYzcVM3T09xSy04aFktUkQ1VTI2RWVUWXIxVjY0MGlFVDF3a25oaDdDX1hsdnEwYnpUYzdhS05kQU54OA?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-07-07"
   }
  ]
