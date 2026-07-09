@@ -1,133 +1,133 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-08T21:57:20.547342+00:00",
+ "updated": "2026-07-09T06:33:23.640912+00:00",
  "items": [
   {
-   "title": "كاشف الصور المزيفة من جوجل يفضح صورة مزعومة لماكونيل",
-   "summary": "انتشرت صورة تظهر السيناتور الأمريكي ميتش ماكونيل في حالة صحية حرجة، لكن تقنية كشف التزييف من جوجل أثبتت أنها صورة مولدة بالذكاء الاصطناعي. يوضح هذا دور الأدوات التكنولوجية في التحقق من صحة المحتوى البصري في عصر انتشار التزييفات الرقمية.",
+   "title": "أداة جديدة لإدارة المهام على أجهزة آبل",
+   "summary": "أداة جديدة ظهرت باسم PopTask موجهة لمستخدمي منتجات آبل، تساعد في تنظيم وتتبع المهام اليومية عبر الأجهزة المختلفة بواجهة متكاملة مع النظام البيئي لآبل.",
+   "url": "https://www.producthunt.com/products/poptask",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "منصة Willow Frontier Pro للذكاء الاصطناعي المتقدم",
+   "summary": "أداة جديدة ظهرت باسم Willow Frontier Pro موجهة للعمل مع نماذج ذكاء اصطناعي متطورة، توفر إمكانيات معالجة متقدمة للمستخدمين المحترفين في مجال تطوير وتطبيق حلول الذكاء الاصطناعي.",
+   "url": "https://www.producthunt.com/products/willow-voice",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "منصة Compendium لإدارة المعرفة والبيانات",
+   "summary": "أداة جديدة ظهرت باسم Compendium تركز على جمع وتنظيم المعلومات والبيانات، مما يسهل الوصول إليها والتعامل معها في بيئة عمل موحدة.",
+   "url": "https://www.producthunt.com/products/compendium-2",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "أداة سطر أوامر agents-cli للذكاء الاصطناعي",
+   "summary": "أداة جديدة ظهرت باسم agents-cli توفر واجهة سطر أوامر للعمل مع وكلاء ذكاء اصطناعي، تمكّن المطورين من التفاعل والتحكم في أنظمة الذكاء الاصطناعي عبر محطة طرفية.",
+   "url": "https://www.producthunt.com/products/agents-cli",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "منصة LemonLime للتعليم والتقييم الآلي",
+   "summary": "أداة جديدة ظهرت باسم LemonLime تساعد في عمليات التقييم والتصحيح الآلي، مما يوفر وقتاً وجهداً في تقويم الأداء الأكاديمي والتعليمي.",
+   "url": "https://www.producthunt.com/products/lemonlime",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "جامعة فريسنو ستيت تطلق برنامج تخصص في الذكاء الاصطناعي",
+   "summary": "أطلقت جامعة فريسنو ستيت برنامج تخصص جديد في الذكاء الاصطناعي متاحاً للطلاب من جميع التخصصات، بهدف توسيع فرص التعليم في مجال الذكاء الاصطناعي وزيادة الوعي بتطبيقاته المختلفة.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd1RjZVpISVJjbTRmOFdWNWZHOWZhMWtQTGZ4V2FUUlg5c04wd2NhaXl5dmlpVElFVWhWVEtYbWdSelF5ZUMwWEpnZHdQQ05WQnYwTnlsaVJEaEs1SnplQS01VDRsbnFaVEpaWGdZTTJzODJ5LTFTLTNxUmo4RVVLSW1CakhBNy1Cckl3Y1l1UG5iVjFHMS1OMEZLMG13VHRyN1FrYkRrXzBvcXg5OVFZ0gG0AUFVX3lxTE14QUdZdXo0YmcxSS1TX0VCUDJWY1M0Y3I0aDR1QXhINmpZekhUOG1mQzNoTThvSkZoSmE0ZXdiNnlmZjdYN0JVZ3BZTXF3dmRueUc4LVlfY29mNGlBZmJ1X2gwRGx2VzBia0o1UTRibG1zc2F6dU5YQWtjaWJnWk91YThDby1SODkwMmQzemtCaXdEWGNGMmMzWVlnMV9tZU5UOXRqNEN5cVp1eVNydzl1eXliZg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "خبير بجامعة ماريلاند يناقش مستقبل طب الأسنان الرقمي والذكاء الاصطناعي",
+   "summary": "ألقى متخصص من جامعة ماريلاند بولتيمور محاضرة حول دور الذكاء الاصطناعي في تطوير تطبيقات طب الأسنان الرقمية، موضحاً كيفية إسهام هذه التقنيات في تحسين التشخيص والعلاج وتجربة المريض في العيادات الحديثة.",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcHpCY2V6TWNMM2xDN3ZnZ1dZamFETE9nRm1xb2c0dGh1TW9tQXExNWJjREI3X3V2bkdCSkg1VERhYUhpa0ZubGlZNUxQSDZPaTZuQjVLb2dKWVgtblhvWGh0S3o4UlVFaDdwdjVtQmVGZHpFQ1ctQXR0SXdVeEY2UU1sUXN3OXhaci1UX2kzOGJ1NFNjd09KMTlZOHdxSXZsemNSSXJ5UnRoY29XR3NtdG1CMHRsamNBZ1NCMk1rUzdKU01ETFZPWFFtLXM?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "دراسة تحذر من مخاطر الذكاء الاصطناعي الحواري على الصحة النفسية",
+   "summary": "نشرت دراسة تحليلية مراجعة شاملة لمخاطر الأنظمة الحوارية للذكاء الاصطناعي على الصحة النفسية، واقترحت آلية تسمى \"حلقة التغذية الراجعة الوهمية\" قد تسهم في تفاقم بعض الاضطرابات النفسية لدى المستخدمين المعرضين للخطر.",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZm1SWHRuSmlSRDA4SWY0Rlp2U2JHQkVqUHJFdTRjbzllR1AxVDVHUU9XbDJCVXBhT0ZPcGJmRUNicDdET3cwaFZCV0NHcmdSZ0l4YlhsbV9Ud3E0a3J1NkpZcEJjVl9FQ3hJR0lnSk9ucWRpUTkyc05HZ1hQaHVnOGplUTBabW1QYlktOXZZVFhUazlCaG5FN052aGI5WHlLY0NnV2k4azJ0eTRWVlVIc1l3cGptdlRBWFZPcVRJRGRoZnVMaURQWFZEaTVvb09rM2c3NTZUVFhBZjBINmRfNGVfdWoxR1pqVW93QWJLWjhNdmJVaUlxVW03U3pySXlTYjNfRUlmcGo2N3MwWEJWSm93?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "الصين تكتشف ثغرات أمنية في نموذج Claude من Anthropic",
+   "summary": "أعلنت السلطات الصينية عن اكتشافها ثغرات أمنية في نموذج اللغة Claude التابع لشركة Anthropic، مما يثير نقاشات حول معايير الأمن السيبراني وعمليات التدقيق الدولية لأنظمة الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnhuNTk2eXJ6MFM2WmREY0pSNFN1REdpZXRFVU5FNElsTl9ZNFJ1YjFXQ084M19hN3FXWTFlY2ZDRnFLLWFXZGRybkhSa2hFbUtKRDJJUDR0QlNQcUZVZTVfOWRUUHRGenNleHFfcy1oS0NYVmN6QThLMjFBWF9qMDlwZ1hnNTE0cVAzNm1nNl9sOEVnM1Q0Vkg1WUNDQTlwUGVvWWsxRlVLVFNxS1ctVw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "منصة Lovable تسعى لمضاعفة تقييمها إلى 13.2 مليار دولار",
+   "summary": "تجري شركة Lovable محادثات لجمع جولة تمويل بقيمة 300 مليون دولار بقيادة صندوق Menlo Ventures، بهدف مضاعفة تقييمها. تركز الشركة على تطوير أدوات تسهل بناء التطبيقات باستخدام الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-08"
+  },
+  {
+   "title": "نظام كشف التزييف من Google يكشف صورة مزيفة لسيناتور أمريكي",
+   "summary": "استُخدمت أداة Google للكشف عن الصور المزيفة الناتجة عن الذكاء الاصطناعي للتحقق من صحة صورة بدت توضح السيناتور ميتش ماكونيل في حالة صحية حرجة، مما أثبت أنها مزيفة تماماً وتم إنشاؤها بواسطة أدوات توليد صور اصطناعية.",
    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-08"
   },
   {
-   "title": "xAI تطلق نسخة محسّنة من نموذج جروك 4.5",
-   "summary": "أصدرت شركة إيلون ماسك xAI نسخة محدثة من نموذج الذكاء الاصطناعي جروك، وصفها مؤسسها بأنها تحقق كفاءة أعلى وتكلفة أقل مقارنة بنماذج ذكاء اصطناعي قوية أخرى في السوق.",
+   "title": "SpaceX تطلق نموذج Grok 4.5 الأحدث من نماذج الذكاء الاصطناعي",
+   "summary": "أطلقت شركة SpaceX نسخة محدثة من نموذج Grok وصفها إيلون ماسك بأنها تنتمي لفئة نماذج متقدمة مثل Opus، وتعد بأداء قوي مع تكاليف أقل وكفاءة أعلى مقارنة بالنماذج المنافسة الأخرى.",
    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-08"
   },
   {
-   "title": "شركة ناشئة تراهن على بيانات ألعاب الفيديو لتطوير الروبوتات الذكية",
-   "summary": "تعتقد شركة General Intuition أن ملايين ساعات بيانات ألعاب الفيديو يمكن أن تدرب نماذج أساسية لذكاء فيزيائي متقدم، مما يقلل الحاجة إلى بيانات واقعية كثيفة لبناء روبوتات أكثر ذكاءً.",
+   "title": "شركة ناشئة تراهن على لحظة تحول جديدة في مجال الروبوتات",
+   "summary": "تسعى شركة General Intuition إلى تطوير نماذج أساسية للذكاء الاصطناعي الفيزيائي بالاستفادة من ملايين ساعات بيانات ألعاب الفيديو، بهدف تمكين تطوير روبوتات ذكية بكفاءة أعلى دون الحاجة إلى كميات ضخمة من بيانات العالم الحقيقي.",
    "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-08"
   },
   {
-   "title": "جوجل فوتوز تضيف أداة ذكية لإعادة مزج مقاطع الفيديو",
-   "summary": "أداة جديدة ظهرت باسم Video Remix في جوجل فوتوز، تمكن المستخدمين من تحسين مقاطع الفيديو بإضاءة سينمائية، تبديل الخلفيات، وإضافة تأثيرات فنية بقوة الذكاء الاصطناعي.",
+   "title": "خدمة Google Photos تضيف أداة جديدة لتحسين الفيديوهات بتقنيات ذكاء اصطناعي",
+   "summary": "أطلقت Google ميزة جديدة تتيح لمستخدمي صور Google تحرير مقاطع الفيديو بطرق متعددة، مثل تحسين الإضاءة في المشاهد الغامقة أو تبديل الخلفيات أو إضافة تأثيرات فنية مختلفة للفيديو بسهولة.",
    "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-08"
   },
   {
-   "title": "الألعاب الرقمية قد تكون أفضل من الإنترنت لتدريب نماذج الذكاء الاصطناعي",
-   "summary": "يرى رئيس تنفيذي لشركة متخصصة في الذكاء الاصطناعي أن نماذج اللغة الكبيرة وحدها لا تكفي لتحقيق ذكاء اصطناعي عام، وأن بيانات الألعاب توفر فهماً أفضل لحركة الأشياء عبر الزمان والمكان، وهي مهارة أساسية للذكاء الفيزيائي.",
-   "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "تحديث صوتي لتشات جي بي تي يحسّن من الاستماع والفهم",
-   "summary": "أطلقت OpenAI نسخة محسّنة من وضع الصوت في ChatGPT بنموذج جديد يحاكي التحاور الطبيعي بين الأشخاص، بقدرة أفضل على عدم المقاطعة واحترام فترات الصمت من قبل المستخدم.",
+   "title": "وضع الصوت المحسّن في ChatGPT يقلل المقاطعات غير الضرورية",
+   "summary": "طورت OpenAI نموذج صوتي محدثاً لـ ChatGPT يحاكي التحدث مع شخص حقيقي، بحيث يقلل من مقاطعته للمستخدم ويمنحه وقتاً للاستمرار في الكلام عند التوقف المؤقت، ما يوفر تجربة حوارية أكثر طبيعية.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-07-08"
   },
   {
-   "title": "نموذج Muse Image من ميتا يدمج مستخدمي إنستغرام في الصور الاصطناعية",
-   "summary": "أطلقت ميتا نموذج توليد صور ذكي من قسم Superintelligence Labs، يعمل الآن عبر تطبيق ميتا AI والإنستغرام والواتساب، مع توسع مخطط للفيسبوك والماسنجر. يتيح النموذج دمج صور المستخدمين الآخرين في الصور المولدة بذكاء اصطناعي.",
+   "title": "نموذج Meta الجديد يدمج مستخدمي Instagram في الصور المولدة بالذكاء الاصطناعي",
+   "summary": "أطلقت Meta نموذج Muse Image من قسم الذكاء الاصطناعي الخارق، وهو يدعم أدوات توليد الصور عبر تطبيق Meta AI وإنستاغرام وواتساب، مع توسع مخطط قريب إلى فيسبوك وماسنجر، ويتيح دمج صور مستخدمي إنستاغرام الآخرين في الصور المُنتجة.",
    "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "جوجل تحدّث معايير Android Bench بنماذج لغة جديدة والجيميني يتخلف عن الأداء",
-   "summary": "طورت جوجل معايير Android Bench لتقييم نماذج اللغة، وتدعو المطورين للمساهمة في تطويرها. يشير التحديث إلى تأخر نموذج Gemini في المقارنات الأخيرة مع نماذج منافسة.",
-   "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "Google Photos تضيف أداة ذكاء اصطناعي لإعادة تحرير الفيديوهات",
-   "summary": "أطلقت Google Photos ميزة جديدة تعتمد على الذكاء الاصطناعي تتيح لمستخدميها إعادة ترتيب وتعديل مقاطع الفيديو بطرق مختلفة. الأداة توفر خيارات متعددة لتحويل الفيديوهات الموجودة وإضافة تأثيرات بصرية جديدة عليها.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnR6akNtWEtWUHVBZnhWV2M2UGtaVEZ1WW9SYTl3RFJQckNpaWtQOFNwaEtJTUY0UUdWS1lQVFoxTE4tYnV6aTNRbWw1S2RKNXc1Ym5BQVRFd1VJRU90NThtZXJwNFRTOGFyRkNVOFlXREhxbWVQQVVzdHA4RHJJT19KRWNIdw?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "مؤسس منصة الذكاء الاصطناعي الأخلاقي يؤكد أهمية الحديث عن الإمكانيات الإيجابية",
-   "summary": "أكد مؤسس مشروع معني بالاستخدامات الإنسانية للذكاء الاصطناعي على ضرورة تسليط الضوء على الفوائد المحتملة للتكنولوجيا بجانب الحديث عن مخاطرها. دعا إلى توازن في النقاشات العامة حول تطبيقات الذكاء الاصطناعي في الصحة والتعليم والمجالات الاجتماعية الأخرى.",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaEZZYjZrbDdaX1B4dWhJeXZJamluWkFmMmliaVhYMkhLZVZiLV9zbzFLRFB3YTBydUprNkxZeE15bFlCT1R0bFJVQzdxR0lBZFFMRTFqazhsZXBZMno4ajBZM3dINlVVRmpJcTVMX2RXM25XU25Sc09OUmNteWpQdlZPRU5hMjFwcklCa1V5dmk5a2dCSWhNVmFNbVBOeWIwYUhsUm1kY2MzQ2F4RmhMN1dtODFFZ0s0dGJ2NnhRdFVHa0xiRV9xYlRvQVZlMms?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "جامعة سيراكيوز تطلق منهاجاً تعليمياً شاملاً في الذكاء الاصطناعي",
-   "summary": "أعلنت جامعة سيراكيوز عن مجموعة برامج أكاديمية متكاملة مخصصة لتدريس الذكاء الاصطناعي بمستويات مختلفة. تغطي البرامج جوانب نظرية وعملية متعددة لتأهيل الطلاب للعمل في مجالات تطبيق التكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0lEb05PWkxtQXFyYVo0cDR5aWdqeUdLTm1XT3JmeW45bnFUYzhYa2theTVUTVNUcGk0UWdwNkxxYy1DajFFeFozLTNsTVBzNUZ4ZzdyZXJJck84YTJnU3ZfbUlCZUJIbk9nc09NNmhsX3hUNmtvSnBKd0pKajlBRzlyTk40WEctamxPa2RtWXE2ODYtSzA2QkV3eDJCQVByMEcxV2pkSGRyQQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "شركة Prime Intellect تجمع 130 مليون دولار لتمكين المؤسسات من بناء وكلاء ذكاء اصطناعي خاصة بها",
-   "summary": "أغلقت شركة Prime Intellect جولة تمويل من الفئة الأولى برئاسة Radical Ventures، لتصل قيمتها إلى مليار دولار بعد عامين من التأسيس. تركز الشركة على توفير أدوات وخدمات تسهّل على المؤسسات تطوير وكلاء ذكاء اصطناعي مخصصة لاحتياجاتها.",
-   "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "شركات ناشئة متخصصة في الذكاء الاصطناعي تحقق معدلات نمو في الإيرادات تتسارع بوتيرة متزايدة",
-   "summary": "يشهد سوق الشركات الناشئة في مجال الذكاء الاصطناعي نموّاً متفاوتاً، حيث تحقق بعض هذه الشركات معدلات نمو أسرع من غيرها بشكل ملحوظ. يعكس هذا الاتجاه الطلب المتزايد على حلول الذكاء الاصطناعي وقدرة بعض الشركات على الاستجابة السريعة لحاجات السوق.",
-   "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "الرئيس التنفيذي السابق في OpenAI كيفن وايل ينضم إلى مجلس إدارة شركة Stoke Space",
-   "summary": "انضم كيفن وايل، الذي شغل منصباً تنفيذياً سابقاً في OpenAI، إلى مجلس إدارة شركة Stoke Space المتخصصة في تطوير صواريخ قابلة لإعادة الاستخدام. يعكس هذا التعيين اهتماماً متنامياً في وادي السيليكون بتقنيات الفضاء والنقل الفضائي المستدام.",
-   "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "الشركة الفرنسية الناشئة ZML تطلق أداة مجانية لتسريع تشغيل نماذج الذكاء الاصطناعي على معالجات متعددة",
-   "summary": "أطلقت شركة ZML الفرنسية، والتي يؤيدها الحائز على جائزة تورينج يان لوكان، برنامجاً جديداً يهدف إلى تقليل تكاليف تشغيل نماذج الذكاء الاصطناعي. البرنامج يتيح تحسين الأداء عند استخدام معالجات وأجهزة متنوعة، مما يساهم في جعل تقنيات الذكاء الاصطناعي أكثر سهولة في الوصول.",
-   "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "شركة SambaNova لصناعة معالجات الذكاء الاصطناعي تجمع مليار دولار برأسمال سوقي بقيمة 11 مليار",
-   "summary": "أعلنت SambaNova عن جولة تمويل جديدة برأسمال سوقي قدره 11 مليار دولار، بعد بضعة أشهر من جولة تمويلية ضخمة سابقة. جاء هذا التمويل في حين كانت هناك تقارير عن محاولات Intel الاستحواذ على الشركة بسعر أقل بكثير.",
-   "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-07-08"
   }
  ]
