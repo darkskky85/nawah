@@ -1,7 +1,95 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-09T11:48:41.204749+00:00",
+ "updated": "2026-07-09T17:10:48.165554+00:00",
  "items": [
+  {
+   "title": "إنفيديا تواجه تحديات السوق الذي أنشأته بنفسها",
+   "summary": "انخفضت قيمة أسهم إنفيديا بنسبة 15% منذ ذروتها في مايو، رغم استمرار توقعات نمو إيراداتها. يعكس هذا التراجع التنافس المتزايد في سوق الحوسبة الذي ساهمت الشركة في خلقه.",
+   "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "لوحة تحكم جديدة من كلود تعزز الاعتماد على الذكاء الاصطناعي",
+   "summary": "أطلقت أنثروبيك لوحة تحكم Reflect لتصور استخدام الذكاء الاصطناعي، لكنها في الوقت ذاته تعمق الاعتماد على روبوت كلود في المهام اليومية للمستخدمين.",
+   "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "ثلاث عمالقة ذكاء اصطناعي تجاوز قيمتها كل خروج تكنولوجي الربع قرن الماضي",
+   "summary": "من المتوقع أن تولد الاكتتابات العامة المرتقبة لأنثروبيك وأوبن إيه آي وسبيس إكس قيمة أكبر من مجموع جميع خروج الشركات الأمريكية المدعومة برأس مال استثماري منذ عام 2000.",
+   "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "أداة تطوير الذكاء الاصطناعي مفتوحة المصدر أولاما تجمع 65 مليون دولار وتتجاوز 9 ملايين مستخدم",
+   "summary": "حصلت منصة أولاما على تمويل بدعم من Benchmark لتسهيل تشغيل نماذج ذكاء اصطناعي على أجهزة المستخدمين الشخصية. حققت الأداة شهرة واسعة بين المطورين بحصولها على آلاف النجوم والفروع على منصة جيت هب.",
+   "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "كاراكتر إيه آي تدخل إنتاج الدراما بشخصيات تفاعلية",
+   "summary": "أطلقت منصة Character.AI إنتاجات درامية خاصة بها تسمح للمستخدمين بمحادثة شخصيات العرض والتفاعل معهم بشكل مباشر. يمثل هذا توظيفاً مبتكراً لقدرات النظام الأساسية في مجال المحتوى الترفيهي.",
+   "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "تحديثات الأمان في ويندوز 11 ستصبح أكثر شمولاً بدعم الذكاء الاصطناعي",
+   "summary": "أعلنت مايكروسوفت استخدام الذكاء الاصطناعي لتحديد الثغرات الأمنية مبكراً، مما سيؤدي لزيادة عدد إصلاحات الأمان المضمنة في كل إصدار تحديث دوري لنظام ويندوز 11.",
+   "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "أوبن إيه آي تطلق GPT-5.6 للعامة بعد موافقة حكومية وتكشف عن ChatGPT Work",
+   "summary": "حصلت أوبن إيه آي على الموافقة من إدارة ترامب لإطلاق نموذج GPT-5.6 للجمهور، بعد فترة اختبار محدودة اقتصرت على المؤسسات المعتمدة حكومياً. بمناسبة الإطلاق، أعلنت الشركة عن خدمة جديدة باسم ChatGPT Work موجهة للعمل المؤسسي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "ميتا تؤكد جاهزية نموذجها الذكي للمنافسة في مجال البرمجة",
+   "summary": "أطلقت ميتا نسخة محسّنة من نموذج Muse Spark للبرمجة، تُدعى Muse Spark 1.1، وفتحت الوصول أمام المطورين عبر واجهة برمجية جديدة. يأتي هذا بعد دخول الشركة سباق الذكاء الاصطناعي بنموذجها الأول في نيسان، وتعد النسخة الجديدة بتحسينات جوهرية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "Anthropic تطلق ميزة استعراض السنة لمستخدمي Claude",
+   "summary": "اتجهت Anthropic نحو الاستفادة من شهرة ميزات استعراض السنة، مثل Spotify Wrapped، بإطلاق ميزة \"reflect\" على روبوت Claude. تسمح الميزة للمستخدمين برؤية تحليل شامل لبيانات استخدامهم على مدار العام الماضي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "Character.AI تدخل سوق الدراما القصيرة بمسلسلات تفاعلية",
+   "summary": "أعلنت Character.AI عن منصة جديدة تسمى c.ai Series لعرض مقاطع فيديو قصيرة حلقية قابلة للمشاهدة والتفاعل عبر الهواتف الذكية. يمثل هذا توسعاً لمنصة المنتدى بما يتجاوز الكتب والرسوم والدراما الصوتية التفاعلية.",
+   "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "آخر أخبار تقنيات التسويق المدعومة بالذكاء الاصطناعي",
+   "summary": "تجميع شامل لأحدث المستجدات والإصدارات في مجال تقنيات التسويق التي تستخدم الذكاء الاصطناعي، يغطي الأدوات والحلول والاتجاهات الناشئة في القطاع.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-09"
+  },
   {
    "title": "جامعة فريسنو تطلق برنامج تخصص في الذكاء الاصطناعي للطلاب من جميع التخصصات",
    "summary": "أطلقت جامعة فريسنو برنامج تخصص ثانوي في الذكاء الاصطناعي متاحاً لطلاب مختلف التخصصات الأكاديمية، بهدف توسيع إمكانية الوصول إلى تعليم الذكاء الاصطناعي خارج التخصصات التقنية البحتة.",
@@ -41,94 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-07-09"
-  },
-  {
-   "title": "الصين تكتشف ثغرات أمنية في نموذج كلود من أنثروبيك",
-   "summary": "أفادت السلطات الصينية بأنها حددت عدداً من الثغرات الأمنية في نموذج كلود التابع لشركة أنثروبيك. يثير الكشف أسئلة حول مدى أمان الأنظمة الذكية وسبل معالجة المخاطر الأمنية المحتملة.",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnhuNTk2eXJ6MFM2WmREY0pSNFN1REdpZXRFVU5FNElsTl9ZNFJ1YjFXQ084M19hN3FXWTFlY2ZDRnFLLWFXZGRybkhSa2hFbUtKRDJJUDR0QlNQcUZVZTVfOWRUUHRGenNleHFfcy1oS0NYVmN6QThLMjFBWF9qMDlwZ1hnNTE0cVAzNm1nNl9sOEVnM1Q0Vkg1WUNDQTlwUGVvWWsxRlVLVFNxS1ctVw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "أداة Daybreak من أوبن إيه آي تستخدم الذكاء الاصطناعي للكشف عن الثغرات الأمنية",
-   "summary": "طورت أوبن إيه آي أداة جديدة باسم Daybreak تعتمد على الذكاء الاصطناعي للمساعدة في تحديد وكشف الثغرات الأمنية في الأنظمة والبرمجيات.",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Uczd2N0FrTTZtYkdFNlJZWG9BQV9yaWF4cVM4dlUtb09nLXZzMV92MEtuMW1NSEVNc1IyemVMSTVmSTlmSWlKOFdPUlFMZnBoWWM0RWIzaw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "أداة جديدة لإدارة المهام على أجهزة آبل",
-   "summary": "أداة جديدة ظهرت باسم PopTask موجهة لمستخدمي منتجات آبل، تساعد في تنظيم وتتبع المهام اليومية عبر الأجهزة المختلفة بواجهة متكاملة مع النظام البيئي لآبل.",
-   "url": "https://www.producthunt.com/products/poptask",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "منصة Willow Frontier Pro للذكاء الاصطناعي المتقدم",
-   "summary": "أداة جديدة ظهرت باسم Willow Frontier Pro موجهة للعمل مع نماذج ذكاء اصطناعي متطورة، توفر إمكانيات معالجة متقدمة للمستخدمين المحترفين في مجال تطوير وتطبيق حلول الذكاء الاصطناعي.",
-   "url": "https://www.producthunt.com/products/willow-voice",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "منصة Compendium لإدارة المعرفة والبيانات",
-   "summary": "أداة جديدة ظهرت باسم Compendium تركز على جمع وتنظيم المعلومات والبيانات، مما يسهل الوصول إليها والتعامل معها في بيئة عمل موحدة.",
-   "url": "https://www.producthunt.com/products/compendium-2",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "أداة سطر أوامر agents-cli للذكاء الاصطناعي",
-   "summary": "أداة جديدة ظهرت باسم agents-cli توفر واجهة سطر أوامر للعمل مع وكلاء ذكاء اصطناعي، تمكّن المطورين من التفاعل والتحكم في أنظمة الذكاء الاصطناعي عبر محطة طرفية.",
-   "url": "https://www.producthunt.com/products/agents-cli",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "منصة LemonLime للتعليم والتقييم الآلي",
-   "summary": "أداة جديدة ظهرت باسم LemonLime تساعد في عمليات التقييم والتصحيح الآلي، مما يوفر وقتاً وجهداً في تقويم الأداء الأكاديمي والتعليمي.",
-   "url": "https://www.producthunt.com/products/lemonlime",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "دراسة تحذر من مخاطر الذكاء الاصطناعي الحواري على الصحة النفسية",
-   "summary": "نشرت دراسة تحليلية مراجعة شاملة لمخاطر الأنظمة الحوارية للذكاء الاصطناعي على الصحة النفسية، واقترحت آلية تسمى \"حلقة التغذية الراجعة الوهمية\" قد تسهم في تفاقم بعض الاضطرابات النفسية لدى المستخدمين المعرضين للخطر.",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZm1SWHRuSmlSRDA4SWY0Rlp2U2JHQkVqUHJFdTRjbzllR1AxVDVHUU9XbDJCVXBhT0ZPcGJmRUNicDdET3cwaFZCV0NHcmdSZ0l4YlhsbV9Ud3E0a3J1NkpZcEJjVl9FQ3hJR0lnSk9ucWRpUTkyc05HZ1hQaHVnOGplUTBabW1QYlktOXZZVFhUazlCaG5FN052aGI5WHlLY0NnV2k4azJ0eTRWVlVIc1l3cGptdlRBWFZPcVRJRGRoZnVMaURQWFZEaTVvb09rM2c3NTZUVFhBZjBINmRfNGVfdWoxR1pqVW93QWJLWjhNdmJVaUlxVW03U3pySXlTYjNfRUlmcGo2N3MwWEJWSm93?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "شركة Lovable تسعى لمضاعفة قيمتها إلى 13.2 مليار دولار",
-   "summary": "تستعد شركة Lovable لجولة تمويل بقيمة 300 مليون دولار بقيادة صندوق Menlo Ventures، بما يرفع تقييمها إلى ضعف القيمة الحالية. تعكس هذه الخطوة ثقة المستثمرين بنمو القطاع التقني السريع.",
-   "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "أداة من غوغل تكشف صورة زعيم جمهوري مزيفة",
-   "summary": "استخدمت أداة كشف الصور المزيفة التابعة لغوغل في التحقق من صورة منسوبة لعضو بمجلس الشيوخ الأمريكي، وتبين أنها من إنتاج الذكاء الاصطناعي. يسلط الحادث الضوء على أهمية أدوات التحقق من الصور المولدة آلياً في العصر الحالي.",
-   "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-08"
-  },
-  {
-   "title": "xAI تطلق نموذج Grok 4.5 الأحدث",
-   "summary": "أطلقت شركة xAI التابعة لإيلون ماسك نسخة محسنة من نموذج Grok بهدف توفير خيار أكثر كفاءة وأقل تكلفة مقارنة بالنماذج الذكية الأخرى المتاحة. يأتي الإطلاق كجزء من سباق متنامٍ لتطوير نماذج ذكاء اصطناعي متقدمة بأسعار منخفضة.",
-   "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-08"
   }
  ]
 };
