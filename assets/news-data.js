@@ -1,21 +1,85 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-10T11:41:32.676283+00:00",
+ "updated": "2026-07-10T16:49:54.325776+00:00",
  "items": [
   {
-   "title": "OpenAI تختار نماذج GPT 5.6 لتشغيل تطبيقات Microsoft Copilot 365",
-   "summary": "ستستمر عائلة نماذج OpenAI الجديدة في تزويد مجموعة تطبيقات Microsoft للإنتاجية والعمل. يعكس هذا التطور استمرار التعاون بين الشركتين في تطوير حلول الذكاء الاصطناعي للبيئات المهنية.",
+   "title": "OpenAI تؤكد أن GPT 5.6 هو النموذج المفضّل لتطبيقات مايكروسوفت الإنتاجية",
+   "summary": "أعلنت OpenAI أن عائلتها الجديدة من نماذج الذكاء الاصطناعي ستستمر في تشغيل مجموعة تطبيقات مايكروسوفت الموجهة للعمل والإنتاجية. يعكس هذا الاختيار استمرار الشراكة بين الشركتين في تطوير حلول ذكاء اصطناعي متقدمة.",
    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-10"
   },
   {
-   "title": "انبعاثات كربونية لـ Microsoft ترتفع بنسبة 25 في المئة",
-   "summary": "أظهر تقرير الاستدامة لعام 2026 أن انبعاثات Microsoft الكربونية ارتفعت بنسبة 25 في المئة خلال 2025 لتصل إلى 34 مليون طن متري. يشير الارتفاع إلى تحديات في تحقيق الأهداف المناخية المعلنة من قبل الشركة.",
+   "title": "رئيس إنستاغرام: إذا لم تُرِد محتوى ذكاء اصطناعي فلا تضعه في ملفك الشخصي",
+   "summary": "قال آدم موسيري رئيس إنستاغرام إن المنصة لا تنوي حجب محتوى الذكاء الاصطناعي بالكامل، لكن يمكن للمستخدمين تجنب رؤيته في خيوطهم. أشار موسيري إلى أن القرار يتعلق بتوفير خيارات للمستخدمين بدلاً من فرض سياسة موحدة بشأن المحتوى المُولَّد بالذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "شركة Sunrun تستقطب أصحاب المنازل لاستضافة مراكز حسابية للذكاء الاصطناعي",
+   "summary": "أطلقت شركة Sunrun المتخصصة في الطاقة الشمسية برنامج تجريبي يدفع لأصحاب المنازل مقابل وضع وحدات حسابية للذكاء الاصطناعي داخل منازلهم. يُعتبر هذا النهج الموزع بديلاً عن بناء مراكز بيانات تقليدية مركزية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "انبعاثات الكربون في مايكروسوفت ترتفع بنسبة 25 بالمئة خلال السنة الماضية",
+   "summary": "كشفت تقرير مايكروسوفت للاستدامة لعام 2026 أن انبعاثات الكربون لديها زادت بنسبة 25 بالمئة في 2025، محققة 34 مليون طن متري. يُشير الارتفاع إلى تحديات الشركة في تحقيق أهدافها المناخية الطموحة في سياق توسعها في مجال الذكاء الاصطناعي.",
    "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "الذكاء الاصطناعي في أخبار ABC",
+   "summary": "تغطية شاملة لأحدث التطورات والأخبار المتعلقة بمجال الذكاء الاصطناعي من خلال منصة ABC News، تتضمن الأخبار العاجلة والفيديوهات الحديثة حول تقنيات وتطبيقات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "الذكاء الاصطناعي العصبي الرمزي في الطب",
+   "summary": "نشر في مجلة Nature حول دور الذكاء الاصطناعي الذي يجمع بين النماذج العصبية والمنطق الرمزي في تطبيقات طبية، مما يوفر نهجاً هجيناً لتحسين تشخيص العلاج والقرارات الطبية.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54WHhQZjlNWjRNRVB4eTJKQ3dRZVpQRklSenJHU0lWcE5CSHN2R3FPS0RrWGpXNDNzbG9IUk40VXhTLW5jNzZBMm1hbVhFbElzalFVY1dBXzZhM2tyWmt3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "سوق الذكاء الاصطناعي التوليدي في قطاع المرافق العامة",
+   "summary": "تقرير تسويقي يستعرض نمو سوق تطبيقات الذكاء الاصطناعي التوليدي في قطاع المرافق العامة، ويبرز دور الشركات الكبرى مثل مايكروسوفت وIBM وNVIDIA ومحللي الصناعة الرئيسيين.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlFFRHh5UEZIRE1jb1FRdTMyWkx2Y1dXYUVCOEZzYnhFYkRYcWR6ZzVXOWpud29FakljUWJQMWlBRnc1M3M2ekVtWENTRzA4ckF0LW10NFhwdUZqQ2xPX3lLLXRvcGlHemdTa0VUMHoxeXQ2V29MR0FMV3c2WER1Q1FJZUdYVnRxNDBPWTgyaUl6OGJ0UHZFSjJZVnE2NFVFb25LRThET0VjcnpiRzRNNA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "الذكاء الاصطناعي ومنافسة الدول الكبرى: هل ننزلق نحو حرب باردة تقنية؟",
+   "summary": "يتناول التقرير دور الذكاء الاصطناعي المتزايد في التنافس الجيوسياسي بين القوى العظمى، وكيف أصبحت السيطرة على هذه التكنولوجيا محورًا استراتيجيًا رئيسًا في العلاقات الدولية، مما يثير تساؤلات حول احتمالية دخول العالم حقبة جديدة من التوترات بين الدول.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNalNvSm1vb0pPSHZhbDRrU0lVQklNV2ZCVG1oTm1GZEI0ajNRdTl1eFRqNUpzUWRuSS1vVDlLMXI4RTBad1FRRXZBYTZfWWNzdG9ZYjFYTmpqakQ5ZHFMM3FiZ0g0ZTh5MnEyZUkxWnMwelVmVVpCTlJEUXdncFJiNzNMYXF0cDJTX01mTw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "الذكاء الاصطناعي يفرض تحديات جديدة على الحملات الانتخابية بمنطقة مينيسوتا",
+   "summary": "تواجه الحملات السياسية في مينيسوتا تحديات متنامية بسبب استخدام تقنيات الذكاء الاصطناعي، بما يشمل قضايا التضليل والمعلومات المزيفة والرسائل المخصصة، مما يستدعي حوارًا حول تنظيم استخدام هذه التقنيات في العملية الديمقراطية.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUlFR1ZaN3ZSOWZOMFBQM3BRanUxODU4RjVlZjZuZG9KSElIdFdwdlJSczA0bC1lVHdnZWpNZVlZM1BvbEZrNWl6bXFicldHSHhjWUs3VzhyWTREdTlaekFSZ3JUSjNjcWoxUmgtUVdxZW96SEpDYS1xakt2NzR6d3JRUE03bms1bHFDLTZHb0s2NExOTWgzbzJBbmRCNlJ2UXM0Z0wyNy1vQm8?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "أوبن أيه آي وجوجل تبيعان نماذج ذكاء اصطناعي لشركات صينية معاقبة",
+   "summary": "كشفت تقارير أن كلا الشركتين وفرتا خدمات وتقنيات ذكاء اصطناعي لمؤسسات صينية مدرجة على قوائم العقوبات الأمريكية، مما يثير تساؤلات حول الالتزام بالضوابط المفروضة والمسؤولية الأخلاقية في توزيع التقنيات الحساسة.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHA4ZGhDX2txSlRteVpJbTZXWUZRUFpWTURzWTZBeVo2dFBpYU4wOVlPd3l6Zzc2VjNWSFJxajlXaUxnQUFMejVxMmM2YS1TbHRURjJNQzJlU1BFQkdpSzVHOFd0LUliazlPcnp1YXB6cGIzaEZwaklVeldyR0J5VXZGX0g?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-10"
   },
   {
@@ -24,22 +88,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "الذكاء الاصطناعي الرمزي العصبي في الطب",
-   "summary": "يستكشف البحث المنشور في مجلة Nature كيف يدمج الذكاء الاصطناعي الرمزي العصبي بين قدرات التعلم العميق والمنطق الرياضي لتطبيقات طبية. يُظهر هذا الدمج إمكانات في تحسين دقة التشخيص والعلاج الطبي من خلال الجمع بين مرونة الشبكات العصبية وقابلية تفسير الأنظمة الرمزية.",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54WHhQZjlNWjRNRVB4eTJKQ3dRZVpQRklSenJHU0lWcE5CSHN2R3FPS0RrWGpXNDNzbG9IUk40VXhTLW5jNzZBMm1hbVhFbElzalFVY1dBXzZhM2tyWmt3?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "سباق الذكاء الاصطناعي: عنصر جديد في التنافس بين القوى الكبرى",
-   "summary": "يناقش التحليل كيف أصبح الذكاء الاصطناعي محوراً أساسياً في التنافس الاستراتيجي بين الدول الكبرى، مشابهاً لديناميكيات الحرب الباردة السابقة. يعكس هذا الاتجاه أهمية السيطرة التكنولوجية والقدرات الابتكارية في تشكيل موازين القوى العالمية.",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNalNvSm1vb0pPSHZhbDRrU0lVQklNV2ZCVG1oTm1GZEI0ajNRdTl1eFRqNUpzUWRuSS1vVDlLMXI4RTBad1FRRXZBYTZfWWNzdG9ZYjFYTmpqakQ5ZHFMM3FiZ0g0ZTh5MnEyZUkxWnMwelVmVVpCTlJEUXdncFJiNzNMYXF0cDJTX01mTw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-10"
   },
   {
@@ -75,59 +123,11 @@ window.NEWS_DATA = {
    "date": "2026-07-10"
   },
   {
-   "title": "مغادرة فيجي سيمو منصبها التنفيذي الثاني في أوبن إيه آي",
-   "summary": "أعلنت فيجي سيمو، الرئيسة التنفيذية الثانية في شركة أوبن إيه آي، عن تركها منصبها بدوام كامل بعد إجازة طبية امتدت أطول من المتوقع. يأتي هذا الإجراء في وقت حساس للشركة وسط استعدادات محتملة لطرح أسهم عام وسباق تنافسي مع شركة أنثروبك في السوق المؤسسية.",
+   "title": "فيجي سيمو تترك منصبها كنائبة الرئيس التنفيذي في أوبن أيه آي",
+   "summary": "استقالت فيجي سيمو من منصب النائب الثاني في الشركة بعد إجازة طبية استغرقت وقتًا أطول من المتوقع، تاركة فراغًا قياديًا في وقت حساس وسط طموحات الشركة للاكتتاب العام والمنافسة المتزايدة مع منافسيها في سوق الذكاء الاصطناعي.",
    "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "أوبن إيه آي تطلق عائلة جديدة من نماذجها بجيبي تي 5.6",
-   "summary": "قدمت أوبن إيه آي عائلة جديدة من النماذج اللغوية تتضمن تحسينات في مجالات متعددة بما فيها الأمان السيبراني. تهدف هذه النماذج إلى توسيع قدرات المنصة عبر تطبيقات عملية متنوعة.",
-   "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "شركة ناشئة متخصصة في وكلاء ذكية تستخدم تقنيتها الخاصة لجمع 100 مليون دولار",
-   "summary": "استخدمت شركة ليزر، المتخصصة في بناء وكلاء ذكية للمؤسسات، وكيلها الذكي الخاص لإدارة جولة تمويل بقيمة 100 مليون دولار بنجاح. يعكس هذا الإنجاز فعالية منتج الشركة وقدرته على تنفيذ مهام معقدة بشكل مستقل.",
-   "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "أوبن إيه آي توقف متصفح الويب القائم على الذكاء الاصطناعي لكن تطموحاتها البرمجية تتسع",
-   "summary": "أوقفت أوبن إيه آي خدمة متصفحها المدعوم بالذكاء الاصطناعي بعد أقل من سنة، إلا أنها تنقل بعض مميزات التصفح الذكي إلى تطبيقها على سطح المكتب وإضافة متصفح كروم، مما يشير إلى استمرار اهتمامها بهذا المجال بأشكال مختلفة.",
-   "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "فيجي سيمو تتنحى عن قيادة مشروع الذكاء العام في OpenAI بسبب مرض صحي",
-   "summary": "أعلنت فيجي سيمو، الرئيسة التنفيذية لمشروع الذكاء العام في OpenAI، عن تنحيها عن منصبها بدوام كامل للانتقال إلى دور مستشارة بدوام جزئي. يأتي هذا القرار بعد إجازة طبية أخذتها سابقاً بسبب حالة عصبية مناعية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "إيقاف متصفح ChatGPT أطلس قبل مرور عام على إطلاقه",
-   "summary": "تعتزم OpenAI إيقاف متصفح ChatGPT أطلس، الذي كان مصمماً لتنفيذ المهام نيابة عن المستخدمين، بعد أقل من عام من إطلاقه في أكتوبر. قررت الشركة التخلي عن المشروع كجزء من استراتيجيتها الجديدة المركزة على خدمات العمل.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "مايكروسوفت ستزيد عدد التحديثات الأمنية الشهرية للويندوز",
-   "summary": "أعلنت مايكروسوفت أنها تستخدم الذكاء الاصطناعي لاكتشاف المشاكل الأمنية المحتملة في وقت أبكر، مما سيؤدي إلى زيادة عدد إصلاحات الأمان المضمنة في كل إصدار تحديث أمني. هذا سيحسن الحماية ضد التهديدات السيبرانية المتطورة.",
-   "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-07-09"
   }
  ]
