@@ -1,21 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-09T22:12:39.587850+00:00",
+ "updated": "2026-07-10T06:31:51.790289+00:00",
  "items": [
   {
-   "title": "شركة ناشئة متخصصة في وكلاء ذكاء اصطناعي تستخدم وكيلها الخاص لجمع 100 مليون دولار",
-   "summary": "استخدمت شركة Lyzr المتخصصة في بناء وكلاء ذكاء اصطناعي للمؤسسات، وكيلها الذاتي للقيام بعملية جمع التمويل البالغة 100 مليون دولار، مما يعكس فعالية المنتج على أرض الواقع.",
+   "title": "OpenAI تؤكد أن GPT 5.6 هو النموذج الأساسي لتطبيقات Microsoft 365",
+   "summary": "ستستمر عائلة نماذج OpenAI الجديدة في تشغيل مجموعة تطبيقات Microsoft المخصصة للعمل والإنتاجية. يأتي هذا وسط تكهنات حول العلاقة بين الشركتين، لكن الخطوة تؤكد استمرار التعاون بينهما.",
+   "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "انبعاثات كربون Microsoft ترتفع بنسبة 25 في المئة",
+   "summary": "ارتفعت انبعاثات Microsoft الكربونية في 2025 بما نسبته 25 في المئة، لتصل إلى 34 مليون طن متري وفقاً لتقرير الاستدامة. يعكس هذا تحدياً متكرراً للشركة في الوفاء بأهدافها المناخية الموضوعة مسبقاً.",
+   "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "جامعة شيكاغو للقانون تمنع الأجهزة الذكية في محاضرات الطلاب الجدد ضمن استراتيجية الذكاء الاصطناعي",
+   "summary": "قررت كلية الحقوق بجامعة شيكاغو منع استخدام الهواتف والحواسيب المحمولة في قاعات الدراسة للسنة الأولى، وذلك كجزء من خطتها لمعالجة تأثيرات الذكاء الاصطناعي على التعليم القانوني والتركيز على الفهم العميق والحوار المباشر بين الطلاب والأساتذة.",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaDN5UzhibVdaTVpGekd2dElCS21lSkdiSXNxTmJWRUhBU1dqdDlKa3BBbUt1dkdJYzVYRFpKbzNRVVFFc0tnQmxOWTBJTHFmOXBZd3RJRkMtTU5KWkpvQnJzZGFOM0xJSW5zdVQzLThoQTlqSUVsTWxpcThGc1ZNWGNuQjhQS0F0SHpMd0lqMnZ3ZWpQbC1zeTlTeGJTLVFfeXkyOE45NEViM2xYeTRDdGRYN19HcXNZTzVMZk5vMDFoSVM5TG1WWWtKWFVLR2ppeTJNNFlWVWZCRWtTM0VYdVFQNXdmZ9IB6wFBVV95cUxNaXlnNHJURERDdkVsTFF6ck9pdWFQcHBFTW4zejdzMmRrR0lmbDJSeDZjTXo4RG5LQzV1TEljUl9QM1F2LXg3VmRaM0Y1T3F1QXV3akV6TThIcXY5NWcxSFRod0ktT2pJWVF0M1RQTXZfaV9mTGt6YWg4ZXJuY2VveGI4aWVnRkVSWWF4MDdNdklBZk5ydmJmZ1V4clhyQjhtNmZweHh2Vk85WkdTSkw0d0pzQnhTbDRYX0R1d3cyV2hJZjlNVENsSFJIb1RPMllDZlJudTlieG9DTDNBRFpUa0VLV25wWUxNLWtr?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "رئيسة العمليات في أوبن إيه آي تستقيل من منصبها التنفيذي",
+   "summary": "تنحت فيدجي سيمو عن دورها الكامل كثاني أعلى موظفة في أوبن إيه آي بعد إجازة طبية امتدت أطول من المتوقع، مما خلق فراغاً قيادياً في وقت حرج يشهد المؤسسة تحضيراتها لاكتتاب عام محتمل ومنافستها المتزايدة لشركة أنثروبك في سوق المؤسسات.",
+   "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "أوبن إيه آي تطلق عائلة نماذج جديدة بمواصفات محسّنة",
+   "summary": "أعلنت أوبن إيه آي عن إطلاق عائلة نماذج جديدة توفر تحسينات في عدة مجالات من بينها الأمن السيبراني والقدرات المتقدمة الأخرى.",
+   "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "شركة ناشئة تستخدم وكيل ذكاء اصطناعي في جمع تمويل بقيمة 100 مليون دولار",
+   "summary": "استخدمت شركة ليزر المتخصصة في بناء وكلاء ذكاء اصطناعي للمؤسسات وكيلها الخاص لإدارة جولة تمويل بقيمة 100 مليون دولار، مما يعكس فاعلية التكنولوجيا التي تطورها في التطبيقات العملية الحقيقية.",
    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-09"
   },
   {
-   "title": "OpenAI توقف متصفحها الذكي لكن طموحاتها في المتصفحات الوكيلة مستمرة",
-   "summary": "أعلنت OpenAI عن إيقاف متصفحها المدعوم بالذكاء الاصطناعي بعد أقل من سنة من إطلاقه، لكنها تنقل بعض ميزات التصفح الوكيل إلى تطبيقها على سطح المكتب وامتداد Chrome.",
+   "title": "أوبن إيه آي توقف متصفح الويب القائم على الذكاء الاصطناعي لكن تطموحاتها البرمجية تتسع",
+   "summary": "أوقفت أوبن إيه آي خدمة متصفحها المدعوم بالذكاء الاصطناعي بعد أقل من سنة، إلا أنها تنقل بعض مميزات التصفح الذكي إلى تطبيقها على سطح المكتب وإضافة متصفح كروم، مما يشير إلى استمرار اهتمامها بهذا المجال بأشكال مختلفة.",
    "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "فيجي سيمو تتنحى عن قيادة مشروع الذكاء العام في OpenAI بسبب مرض صحي",
+   "summary": "أعلنت فيجي سيمو، الرئيسة التنفيذية لمشروع الذكاء العام في OpenAI، عن تنحيها عن منصبها بدوام كامل للانتقال إلى دور مستشارة بدوام جزئي. يأتي هذا القرار بعد إجازة طبية أخذتها سابقاً بسبب حالة عصبية مناعية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "إيقاف متصفح ChatGPT أطلس قبل مرور عام على إطلاقه",
+   "summary": "تعتزم OpenAI إيقاف متصفح ChatGPT أطلس، الذي كان مصمماً لتنفيذ المهام نيابة عن المستخدمين، بعد أقل من عام من إطلاقه في أكتوبر. قررت الشركة التخلي عن المشروع كجزء من استراتيجيتها الجديدة المركزة على خدمات العمل.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "جوجل تضع علامة على الإعلانات المنتجة باستخدام الذكاء الاصطناعي",
+   "summary": "أطلقت جوجل ميزة جديدة تتيح للمستخدمين معرفة ما إذا تم إنشاء أو تحرير الإعلانات باستخدام الذكاء الاصطناعي عبر البحث والاكتشاف و يوتيوب. تظهر العلامة ضمن قسم \"كيفية إنشاء هذا الإعلان\" في مركز الإعلانات الشخصية لديهم.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "مايكروسوفت ستزيد عدد التحديثات الأمنية الشهرية للويندوز",
+   "summary": "أعلنت مايكروسوفت أنها تستخدم الذكاء الاصطناعي لاكتشاف المشاكل الأمنية المحتملة في وقت أبكر، مما سيؤدي إلى زيادة عدد إصلاحات الأمان المضمنة في كل إصدار تحديث أمني. هذا سيحسن الحماية ضد التهديدات السيبرانية المتطورة.",
+   "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-07-09"
   },
   {
@@ -43,30 +115,6 @@ window.NEWS_DATA = {
    "date": "2026-07-09"
   },
   {
-   "title": "متصفح ChatGPT انتهى مشروعه قبل أن يكتمل",
-   "summary": "أوقفت OpenAI متصفحها Atlas الذي كان يقوم بمهام نيابة عن المستخدم، بعد أقل من سنة على إطلاقه، ضمن موجة من التحديثات أعلنتها الشركة حول خدماتها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "غوغل تُظهر للمستخدمين الإعلانات المصنوعة بالذكاء الاصطناعي",
-   "summary": "أضافت غوغل علامة جديدة في مركز إدارة الإعلانات تشير إلى ما إذا تم إنشاء أو تعديل الإعلان باستخدام الذكاء الاصطناعي، وتظهر العلامة في قسم \"كيفية صنع هذا الإعلان\" على محرك البحث وتطبيق ديسكفر وموقع يوتيوب.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "مايكروسوفت تُعظّم حجم تحديثات الأمان الأسبوعية لويندوز 11",
-   "summary": "تستخدم مايكروسوفت الآن الذكاء الاصطناعي لاكتشاف مشاكل الأمان في وقت أبكر، مما سيؤدي إلى زيادة عدد التحديثات الأمنية المضمّنة في كل إصدار دوري، بهدف حماية أفضل ضد التهديدات المتطورة.",
-   "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-09"
-  },
-  {
    "title": "أوبن إيه آي تطلق GPT-5.6 للجمهور بعد موافقة حكومية وتعلن ChatGPT Work",
    "summary": "أطلقت أوبن إيه آي نموذج GPT-5.6 للاستخدام العام بعد الحصول على موافقة إدارة ترامب، بعد أسبوعين من إطلاقه المحدود للمنظمات الموافق عليها حكومياً، وأعلنت عن منتج جديد يُدعى ChatGPT Work.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
@@ -80,54 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "Anthropic تكتشف فضاءً خفياً يُظهر كيفية تفكير Claude",
-   "summary": "طورت شركة Anthropic أداة تقدم رؤية غير مسبوقة عن آليات عمل نماذج اللغة الكبيرة من الداخل أثناء إجابتها على الأسئلة وتنفيذها للمهام، مما يكشف جوانب متعددة من سلوكها.",
-   "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "إنفيديا تواجه تحديات السوق الذي أنشأته بنفسها",
-   "summary": "انخفضت قيمة أسهم إنفيديا بنسبة 15% منذ ذروتها في مايو، رغم استمرار توقعات نمو إيراداتها. يعكس هذا التراجع التنافس المتزايد في سوق الحوسبة الذي ساهمت الشركة في خلقه.",
-   "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "لوحة تحكم جديدة من كلود تعزز الاعتماد على الذكاء الاصطناعي",
-   "summary": "أطلقت أنثروبيك لوحة تحكم Reflect لتصور استخدام الذكاء الاصطناعي، لكنها في الوقت ذاته تعمق الاعتماد على روبوت كلود في المهام اليومية للمستخدمين.",
-   "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "ثلاث عمالقة ذكاء اصطناعي تجاوز قيمتها كل خروج تكنولوجي الربع قرن الماضي",
-   "summary": "من المتوقع أن تولد الاكتتابات العامة المرتقبة لأنثروبيك وأوبن إيه آي وسبيس إكس قيمة أكبر من مجموع جميع خروج الشركات الأمريكية المدعومة برأس مال استثماري منذ عام 2000.",
-   "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "أداة تطوير الذكاء الاصطناعي مفتوحة المصدر أولاما تجمع 65 مليون دولار وتتجاوز 9 ملايين مستخدم",
-   "summary": "حصلت منصة أولاما على تمويل بدعم من Benchmark لتسهيل تشغيل نماذج ذكاء اصطناعي على أجهزة المستخدمين الشخصية. حققت الأداة شهرة واسعة بين المطورين بحصولها على آلاف النجوم والفروع على منصة جيت هب.",
-   "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-09"
-  },
-  {
-   "title": "كاراكتر إيه آي تدخل إنتاج الدراما بشخصيات تفاعلية",
-   "summary": "أطلقت منصة Character.AI إنتاجات درامية خاصة بها تسمح للمستخدمين بمحادثة شخصيات العرض والتفاعل معهم بشكل مباشر. يمثل هذا توظيفاً مبتكراً لقدرات النظام الأساسية في مجال المحتوى الترفيهي.",
-   "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-07-09"
   }
  ]
