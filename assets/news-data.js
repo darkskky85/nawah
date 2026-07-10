@@ -1,34 +1,74 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-10T16:49:54.325776+00:00",
+ "updated": "2026-07-10T21:50:05.690286+00:00",
  "items": [
   {
-   "title": "OpenAI تؤكد أن GPT 5.6 هو النموذج المفضّل لتطبيقات مايكروسوفت الإنتاجية",
-   "summary": "أعلنت OpenAI أن عائلتها الجديدة من نماذج الذكاء الاصطناعي ستستمر في تشغيل مجموعة تطبيقات مايكروسوفت الموجهة للعمل والإنتاجية. يعكس هذا الاختيار استمرار الشراكة بين الشركتين في تطوير حلول ذكاء اصطناعي متقدمة.",
+   "title": "أبل تقاضي OpenAI بتهمة سرقة أسرار تجارية",
+   "summary": "رفعت أبل دعوى قضائية ضد OpenAI متهمة إياها بسرقة أسرار تجارية من خلال موظفين سابقين في الشركة الأولى. تؤكد أبل أن القيادة العليا في OpenAI قادت هذا السلوك المخالف للقانون.",
+   "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "الذكاء الاصطناعي مفتوح المصدر أكثر أهمية من أي وقت مضى",
+   "summary": "يؤكد الرئيس التنفيذي لشركة Hugging Face أن نماذج الذكاء الاصطناعي مفتوحة المصدر تشهد نموًا سريعًا. تعمل المنصة كمستودع لمشاركة ونزول النماذج والبيانات، وباتت تُستخدم من قبل حوالي نصف شركات Fortune 500.",
+   "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "SK Hynix تجمع 26.5 مليار دولار في أكبر طرح أسهم أجنبي بتاريخ الولايات المتحدة",
+   "summary": "شهدت السوق الأمريكية أكبر طرح أسهم لشركة أجنبية بعد نجاح SK Hynix في جمع 26.5 مليار دولار. تواجه الشركة ضغوطًا لبناء مصانع إنتاجية جديدة في الولايات المتحدة وسط الطلب المتزايد على رقائق الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "الشركات تتجه نحو امتلاك نماذج الذكاء الاصطناعي بدلاً من استئجاؤها",
+   "summary": "يرى رئيس Hugging Face أن الاتجاه العام للشركات بات نحو بناء وامتلاك حلول الذكاء الاصطناعي الخاصة بها. يعكس هذا التحول الحاجة المتزايدة للاستقلالية والتحكم في التكنولوجيا بدلاً من الاعتماد على خدمات مؤجرة.",
+   "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "OpenAI تؤكد أن GPT 5.6 هو النموذج المفضل لتطبيقات Microsoft Copilot 365",
+   "summary": "أعلنت OpenAI عن استمرار تعاونها مع مايكروسوفت حيث ستقدم عائلتها الجديدة من نماذج الذكاء الاصطناعي لتشغيل تطبيقات الإنتاجية في بيئة العمل.",
    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-10"
   },
   {
-   "title": "رئيس إنستاغرام: إذا لم تُرِد محتوى ذكاء اصطناعي فلا تضعه في ملفك الشخصي",
-   "summary": "قال آدم موسيري رئيس إنستاغرام إن المنصة لا تنوي حجب محتوى الذكاء الاصطناعي بالكامل، لكن يمكن للمستخدمين تجنب رؤيته في خيوطهم. أشار موسيري إلى أن القرار يتعلق بتوفير خيارات للمستخدمين بدلاً من فرض سياسة موحدة بشأن المحتوى المُولَّد بالذكاء الاصطناعي.",
+   "title": "أبل تقاضي OpenAI بسبب سرقة أسرار الأجهزة",
+   "summary": "تشكو أبل من أن موظفين سابقين بها، والعاملين حالياً في OpenAI، قاموا بسرقة أسرار تجارية خاصة بها. تشير الدعوى إلى وجود نمط منظم من السرقة يشمل عدة موظفين انتقلوا من أبل إلى الشركة المتخصصة بالذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "رئيس إنستاغرام: من لا يريد محتوى ذكاء اصطناعي يمكنه إزالته من تغذيته",
+   "summary": "أكّد آدم موسيري، رئيس إنستاغرام، أن المنصة لن تقوم بحجب محتوى الذكاء الاصطناعي بشكل عام، لكن المستخدمين الذين لا يفضلونه بإمكانهم عدم ظهوره في تغذيتهم. يعكس الموقف التوازن الذي تسعى المنصات لتحقيقه بين دعم التكنولوجيا الجديدة واحترام تفضيلات المستخدمين.",
    "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-07-10"
   },
   {
-   "title": "شركة Sunrun تستقطب أصحاب المنازل لاستضافة مراكز حسابية للذكاء الاصطناعي",
-   "summary": "أطلقت شركة Sunrun المتخصصة في الطاقة الشمسية برنامج تجريبي يدفع لأصحاب المنازل مقابل وضع وحدات حسابية للذكاء الاصطناعي داخل منازلهم. يُعتبر هذا النهج الموزع بديلاً عن بناء مراكز بيانات تقليدية مركزية.",
+   "title": "شركة طاقة تعرض الأجر مقابل استضافة وحدات ذكاء اصطناعي في المنازل",
+   "summary": "تسعى شركة Sunrun لتوسيع نشاطها نحو مراكز البيانات بطريقة مبتكرة، حيث تطلق برنامج تجريبي يدفع للعملاء مقابل تثبيت وحدات حوسبة موزعة في منازلهم. يهدف البرنامج لتوزيع الموارد الحسابية على نطاق واسع مع الاستفادة من البنية المنزلية الموجودة.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-07-10"
   },
   {
-   "title": "انبعاثات الكربون في مايكروسوفت ترتفع بنسبة 25 بالمئة خلال السنة الماضية",
-   "summary": "كشفت تقرير مايكروسوفت للاستدامة لعام 2026 أن انبعاثات الكربون لديها زادت بنسبة 25 بالمئة في 2025، محققة 34 مليون طن متري. يُشير الارتفاع إلى تحديات الشركة في تحقيق أهدافها المناخية الطموحة في سياق توسعها في مجال الذكاء الاصطناعي.",
+   "title": "انبعاثات كربون مايكروسوفت ترتفع بنسبة 25% خلال العام الماضي",
+   "summary": "أظهرت تقارير مايكروسوفت للاستدامة أن انبعاثات الكربون للشركة ارتفعت 25% في عام 2025، لتصل إلى 34 مليون طن متري. يشير الارتفاع إلى تحديات متزايدة في محاولة الشركة الموازنة بين توسع عمليات الذكاء الاصطناعي وأهدافها المناخية الطموحة.",
    "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
    "source": "The Verge AI",
    "tag": "منتجات",
@@ -89,46 +129,6 @@ window.NEWS_DATA = {
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-07-10"
-  },
-  {
-   "title": "أسهم ذكاء اصطناعي بفرص استثمارية مع تراجعات سعرية",
-   "summary": "تشير التقارير إلى انخفاض أسعار بعض الأسهم في قطاع الذكاء الاصطناعي بنسب تتراوح بين 16 و28 بالمائة، مما قد يعكس تقييمات سعرية محتملة للمستثمرين. يرى محللون أن هذه التراجعات قد تمثل نقاطاً للدخول للمهتمين بهذا القطاع.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWM4M09MTHBQMmdTN1d4enJ2Zk5kV29sNDlEQ1Fka0kwcFE5bTM1bGxRMWFoejM0SGc2bkEtUVRwY3dySEZmbl8tMXNUaFUtQjJaZVBhT3RaTG0xdldwRWtMR3FDS2o0YklFX2FSdmlQbGtKcUN2b053eFlGYlJMcDNfcnJ6cHpjeVRGTVVVb2V0blBFNjJTTjBhYmdBSmh1Sl9CZjI2aTY?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "مقارنة بين محتوى يوتيوب وروبوتات الدردشة في معالجة مشاكل أطفال طبية",
-   "summary": "درست دراسة بحثية جودة المعلومات المتاحة على يوتيوب مقابل الإجابات المقدمة من روبوتات دردشة ذكية حول خلل وظائف قاع الحوض عند الأطفال. تهدف الدراسة لفهم كيفية تقديم كل منصة للمعلومات الطبية والفروقات في الدقة والشمولية.",
-   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNbGJacjE3Q2k3YUdRdTNNR2xRNzRtRGJ3aVJCR2l0T0Uxd0xYWlJ3LXlOV3FqR1liLUp0by04TF9OemtQaGlPUUdpeGo5R1FrTFVILUVqMDFqR1hfNHY2dS1va3FXZzh3WGVjTFhmV3lWUENVVDNLRlVSLVMzYWFmQXNHeS1HUF9EeWdBYWtjQTN1VUZrVHY0SkduSjl6U250MlJ3dVQxZEdYdWxYVGR0ZHlMMGRSbzlpeDFYZTBJQzcwLVZDeXZ6OU9fdXlzaE9BQmFGMHlUUjdQRGRsWDlLdk01M0pCdFcyQWpXNFpQRG54VU5fTmgteGhVMFp5OG9HanBJUXk1YmJ3OTFGT2RrUERUQjY3UGQtaWh2cTFJWThSbHM4SWh2RVROYWhDYVMyN0xCejdTRHoyaW8?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "الذكاء الاصطناعي التوليدي في قطاع المرافق العامة",
-   "summary": "يشهد سوق المرافق العامة توجهاً متزايداً نحو اعتماد تقنيات الذكاء الاصطناعي التوليدي في عملياتها. تعكس هذه التطورات سعي الشركات لتحسين الكفاءة والخدمات المقدمة للعملاء عبر تطبيقات ذكية متقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQYjR2SzA1d1l1RTNjZW5RYWZfcFJCbFg1akJpZkhxdnF3aUpDRlBSTHpUUDhUMXZCeE9xSnNJMkpPUGx4eC00Y3RsWU9YdDRwQXI0Vk5qbGdiT1hoTVNsMHR6dFVTaDZKVUJFU05qeFhjQ3NzMjItdmZ3RE83Q3gzRTYxV2tFU3VMamlXSGJ0VnZ2dzc4RFBuUl9aNjR0cHdjVnBqdC1kOGJXdUZDNkhueHJYdTRocGk1emJ0RzY5Smo1bUtnZjRQdUY2OVljT0lscHk5QnJqRGprdXRzdk5EcGtWbTI4STJNNklYYmJ4WDlhSlByM3NYMzN1Z3U3UDk4VUR2WVBHVENhTEViaFlyZnE5X2xwSTAxV1RZWHJFMzlEX3hjN2hQZl9tZm1CLVRlQWtYTlJ3?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "جامعة شيكاغو للقانون تمنع الأجهزة الذكية في محاضرات الطلاب الجدد ضمن استراتيجية الذكاء الاصطناعي",
-   "summary": "قررت كلية الحقوق بجامعة شيكاغو منع استخدام الهواتف والحواسيب المحمولة في قاعات الدراسة للسنة الأولى، وذلك كجزء من خطتها لمعالجة تأثيرات الذكاء الاصطناعي على التعليم القانوني والتركيز على الفهم العميق والحوار المباشر بين الطلاب والأساتذة.",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaDN5UzhibVdaTVpGekd2dElCS21lSkdiSXNxTmJWRUhBU1dqdDlKa3BBbUt1dkdJYzVYRFpKbzNRVVFFc0tnQmxOWTBJTHFmOXBZd3RJRkMtTU5KWkpvQnJzZGFOM0xJSW5zdVQzLThoQTlqSUVsTWxpcThGc1ZNWGNuQjhQS0F0SHpMd0lqMnZ3ZWpQbC1zeTlTeGJTLVFfeXkyOE45NEViM2xYeTRDdGRYN19HcXNZTzVMZk5vMDFoSVM5TG1WWWtKWFVLR2ppeTJNNFlWVWZCRWtTM0VYdVFQNXdmZ9IB6wFBVV95cUxNaXlnNHJURERDdkVsTFF6ck9pdWFQcHBFTW4zejdzMmRrR0lmbDJSeDZjTXo4RG5LQzV1TEljUl9QM1F2LXg3VmRaM0Y1T3F1QXV3akV6TThIcXY5NWcxSFRod0ktT2pJWVF0M1RQTXZfaV9mTGt6YWg4ZXJuY2VveGI4aWVnRkVSWWF4MDdNdklBZk5ydmJmZ1V4clhyQjhtNmZweHh2Vk85WkdTSkw0d0pzQnhTbDRYX0R1d3cyV2hJZjlNVENsSFJIb1RPMllDZlJudTlieG9DTDNBRFpUa0VLV25wWUxNLWtr?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "فيجي سيمو تترك منصبها كنائبة الرئيس التنفيذي في أوبن أيه آي",
-   "summary": "استقالت فيجي سيمو من منصب النائب الثاني في الشركة بعد إجازة طبية استغرقت وقتًا أطول من المتوقع، تاركة فراغًا قياديًا في وقت حساس وسط طموحات الشركة للاكتتاب العام والمنافسة المتزايدة مع منافسيها في سوق الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-09"
   }
  ]
 };
