@@ -1,37 +1,109 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-10T21:50:05.690286+00:00",
+ "updated": "2026-07-11T05:31:28.827196+00:00",
  "items": [
   {
-   "title": "أبل تقاضي OpenAI بتهمة سرقة أسرار تجارية",
-   "summary": "رفعت أبل دعوى قضائية ضد OpenAI متهمة إياها بسرقة أسرار تجارية من خلال موظفين سابقين في الشركة الأولى. تؤكد أبل أن القيادة العليا في OpenAI قادت هذا السلوك المخالف للقانون.",
+   "title": "موزيل سبارك 1.1 من ميتا",
+   "summary": "أداة جديدة ظهرت باسم موزيل سبارك، وهي نسخة محدّثة من منصة ميتا لتوليد المحتوى الإبداعي باستخدام نماذج الذكاء الاصطناعي. تستهدف الأداة تحسين قدرات المستخدمين على إنشاء نصوص وصور متنوعة بكفاءة أعلى.",
+   "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-11"
+  },
+  {
+   "title": "نظام تشغيل شيب من نوشن",
+   "summary": "أداة جديدة ظهرت باسم شيب أوإس، وهي منصة من نوشن توفر بيئة متكاملة لإدارة المشاريع والعمليات. يرمي النظام إلى تبسيط التعاون والإنتاجية من خلال واجهة موحدة.",
+   "url": "https://www.producthunt.com/products/notion",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-11"
+  },
+  {
+   "title": "محاضرة بيركلي: ماذا نخاطب عندما نتحدث إلى الذكاء الاصطناعي؟",
+   "summary": "محاضرة من جامعة كاليفورنيا بيركلي تستقصي الطبيعة الحقيقية للكائنات التي نتفاعل معها عند استخدام أنظمة الذكاء الاصطناعي. تسلط المحاضرة الضوء على الأسئلة الفلسفية حول ما إذا كنا نتحاور مع كيانات ذكية أم مجرد آليات احتمالية معقدة.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGJ1V0ZLTVFFNEEyX0RueDhyUEN5RngtM0RYYllYWDh4VTVJdzdqV2tOTmc1ZHdVMEczcDVzZ0F0S0ctakdvNGk0NjRrcnJTaDluUmxVVk0wM29ndUJPM3hTdGw0T0dldVRMSGJqN2lUWEZRSjRPR2l3MEFfM1g1SGtSVjRma0hMcmI5Z2ZXV3V6OE9hNTlqUXBn?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-11"
+  },
+  {
+   "title": "ميتا تلغي ميزة ذكاء اصطناعي مثيرة للجدل على إنستغرام بعد انتقادات واسعة",
+   "summary": "أوقفت ميتا ميزة تحرير صور ذكاء اصطناعي على إنستغرام بعد موجة انتقادات من المستخدمين. كانت الميزة تسمح باستخدام محتوى الحسابات العامة لتوليد صور بالذكاء الاصطناعي، لكن الشركة قررت إيقافها استجابة للتغذية الراجعة السلبية.",
+   "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "أبل ترفع دعوى قضائية ضد OpenAI بتهمة سرقة الأسرار التجارية",
+   "summary": "اتهمت أبل شركة OpenAI بسرقة أسرار تجارية، وتؤكد أن القيادات العليا بالشركة، بما فيهم موظف سابق طويل الأمد لديها، كانوا وراء هذا السلوك المزعوم. الدعوى تعكس تصعيداً في الخلافات بين عمالقة التكنولوجيا حول ملكية البيانات والابتكارات.",
    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-10"
   },
   {
-   "title": "الذكاء الاصطناعي مفتوح المصدر أكثر أهمية من أي وقت مضى",
-   "summary": "يؤكد الرئيس التنفيذي لشركة Hugging Face أن نماذج الذكاء الاصطناعي مفتوحة المصدر تشهد نموًا سريعًا. تعمل المنصة كمستودع لمشاركة ونزول النماذج والبيانات، وباتت تُستخدم من قبل حوالي نصف شركات Fortune 500.",
+   "title": "منصة Hugging Face: أهمية الذكاء الاصطناعي مفتوح المصدر تتزايد أكثر من أي وقت",
+   "summary": "ينمو قطاع الذكاء الاصطناعي مفتوح المصدر بسرعة، بحسب رئيس Hugging Face. أصبحت المنصة مشابهة لـ GitHub للذكاء الاصطناعي، حيث يشارك المطورون النماذج والبيانات المفتوحة، والتي يستخدمها الآن نحو نصف شركات Fortune 500 تقريباً.",
    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-10"
   },
   {
-   "title": "SK Hynix تجمع 26.5 مليار دولار في أكبر طرح أسهم أجنبي بتاريخ الولايات المتحدة",
-   "summary": "شهدت السوق الأمريكية أكبر طرح أسهم لشركة أجنبية بعد نجاح SK Hynix في جمع 26.5 مليار دولار. تواجه الشركة ضغوطًا لبناء مصانع إنتاجية جديدة في الولايات المتحدة وسط الطلب المتزايد على رقائق الذكاء الاصطناعي.",
+   "title": "SK Hynix تجمع 26.5 مليار دولار في أكبر طرح أسهم أجنبي بالتاريخ الأمريكي",
+   "summary": "حققت SK Hynix أكبر لحظة على وول ستريت في موجة انتشار شرائح الذكاء الاصطناعي. الآن تتعرض الشركة وسامسونج لضغوط لبناء مصانع جديدة في الولايات المتحدة لتلبية الطلب المتنامي على الشرائح.",
    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-10"
   },
   {
-   "title": "الشركات تتجه نحو امتلاك نماذج الذكاء الاصطناعي بدلاً من استئجاؤها",
-   "summary": "يرى رئيس Hugging Face أن الاتجاه العام للشركات بات نحو بناء وامتلاك حلول الذكاء الاصطناعي الخاصة بها. يعكس هذا التحول الحاجة المتزايدة للاستقلالية والتحكم في التكنولوجيا بدلاً من الاعتماد على خدمات مؤجرة.",
+   "title": "رئيس Hugging Face: لماذا الشركات تتخلى عن استئجار الذكاء الاصطناعي",
+   "summary": "يرى رئيس Hugging Face أن الشركات الكبرى بدأت تفضل امتلاك نماذج ذكاء اصطناعي خاصة بدلاً من الاعتماد على الخدمات المستأجرة. هذا التحول يعكس نضج القطاع وتزايد أهمية الذكاء الاصطناعي مفتوح المصدر الذي توفره منصات مثل Hugging Face.",
    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "ميتا تعطل ميزة إنستغرام التي تسمح بإنشاء صور عميقة للحسابات العامة",
+   "summary": "استجابة للانتقادات الشديدة، أطفأت ميتا ميزة أعلنت عنها لتوليد صور بالذكاء الاصطناعي بناءً على محتوى الحسابات العامة على إنستغرام. كانت الميزة تسمح باستخدام أي محتوى عام دون موافقة صريحة، مما أثار قلقاً حول الخصوصية والاستخدام غير المصرح به.",
+   "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "أبل تقاضي OpenAI بتهمة سرقة أسرار تقنية في الأجهزة",
+   "summary": "رفعت أبل دعوى قضائية ضد OpenAI متهمة الشركة بأن موظفيها السابقين لديها سرقوا أسرار تجارية تتعلق بخطط البرمجيات والأجهزة. تشير الشكوى إلى وجود نمط منظم من السرقة من قبل مهندسين انتقلوا من أبل إلى الشركة الناشئة المتخصصة بالذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "رئيس إنستغرام: إذا لم تُرِد محتوى ذكاء اصطناعي فلا تضعه في تغذيتك",
+   "summary": "أوضح آدم موسيري رئيس إنستغرام أن المنصة لن تحجب محتوى الذكاء الاصطناعي تماماً، لكن يمكن للمستخدمين الذين لا يفضّلونه تجنب ظهوره في تغذيتهم. يرى موسيري أن السبيل الأفضل هو إتاحة الخيار للمستخدمين بدلاً من الفلترة الكاملة للمحتوى المولّد بالذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "هل ستستضيف مراكز بيانات الذكاء الاصطناعي في منزلك؟",
+   "summary": "تختبر شركة Sunrun المتخصصة في الطاقة الشمسية برنامجاً جديداً يدفع للعملاء مقابل استضافة وحدات حوسبة موزعة لمراكز بيانات الذكاء الاصطناعي في منازلهم. تهدف المبادرة إلى نشر موارد حوسبية موزعة بدلاً من بناء مراكز بيانات مركزية ضخمة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-10"
+  },
+  {
+   "title": "انبعاثات الكربون لدى مايكروسوفت تقفز بنسبة 25 بالمئة",
+   "summary": "أظهر تقرير الاستدامة لمايكروسوفت في 2025 أن انبعاثاتها الكربونية ارتفعت بنسبة 25 بالمئة لتصل إلى 34 مليون طن متري. يشير الأداء إلى تراجع الشركة عن تحقيق أهدافها المناخية المعلنة مسبقاً بسبب زيادة الطلب على خوادم الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-07-10"
   },
   {
@@ -40,38 +112,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "أبل تقاضي OpenAI بسبب سرقة أسرار الأجهزة",
-   "summary": "تشكو أبل من أن موظفين سابقين بها، والعاملين حالياً في OpenAI، قاموا بسرقة أسرار تجارية خاصة بها. تشير الدعوى إلى وجود نمط منظم من السرقة يشمل عدة موظفين انتقلوا من أبل إلى الشركة المتخصصة بالذكاء الاصطناعي.",
-   "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "رئيس إنستاغرام: من لا يريد محتوى ذكاء اصطناعي يمكنه إزالته من تغذيته",
-   "summary": "أكّد آدم موسيري، رئيس إنستاغرام، أن المنصة لن تقوم بحجب محتوى الذكاء الاصطناعي بشكل عام، لكن المستخدمين الذين لا يفضلونه بإمكانهم عدم ظهوره في تغذيتهم. يعكس الموقف التوازن الذي تسعى المنصات لتحقيقه بين دعم التكنولوجيا الجديدة واحترام تفضيلات المستخدمين.",
-   "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "شركة طاقة تعرض الأجر مقابل استضافة وحدات ذكاء اصطناعي في المنازل",
-   "summary": "تسعى شركة Sunrun لتوسيع نشاطها نحو مراكز البيانات بطريقة مبتكرة، حيث تطلق برنامج تجريبي يدفع للعملاء مقابل تثبيت وحدات حوسبة موزعة في منازلهم. يهدف البرنامج لتوزيع الموارد الحسابية على نطاق واسع مع الاستفادة من البنية المنزلية الموجودة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "انبعاثات كربون مايكروسوفت ترتفع بنسبة 25% خلال العام الماضي",
-   "summary": "أظهرت تقارير مايكروسوفت للاستدامة أن انبعاثات الكربون للشركة ارتفعت 25% في عام 2025، لتصل إلى 34 مليون طن متري. يشير الارتفاع إلى تحديات متزايدة في محاولة الشركة الموازنة بين توسع عمليات الذكاء الاصطناعي وأهدافها المناخية الطموحة.",
-   "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-07-10"
   },
   {
@@ -88,46 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54WHhQZjlNWjRNRVB4eTJKQ3dRZVpQRklSenJHU0lWcE5CSHN2R3FPS0RrWGpXNDNzbG9IUk40VXhTLW5jNzZBMm1hbVhFbElzalFVY1dBXzZhM2tyWmt3?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "سوق الذكاء الاصطناعي التوليدي في قطاع المرافق العامة",
-   "summary": "تقرير تسويقي يستعرض نمو سوق تطبيقات الذكاء الاصطناعي التوليدي في قطاع المرافق العامة، ويبرز دور الشركات الكبرى مثل مايكروسوفت وIBM وNVIDIA ومحللي الصناعة الرئيسيين.",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlFFRHh5UEZIRE1jb1FRdTMyWkx2Y1dXYUVCOEZzYnhFYkRYcWR6ZzVXOWpud29FakljUWJQMWlBRnc1M3M2ekVtWENTRzA4ckF0LW10NFhwdUZqQ2xPX3lLLXRvcGlHemdTa0VUMHoxeXQ2V29MR0FMV3c2WER1Q1FJZUdYVnRxNDBPWTgyaUl6OGJ0UHZFSjJZVnE2NFVFb25LRThET0VjcnpiRzRNNA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "الذكاء الاصطناعي ومنافسة الدول الكبرى: هل ننزلق نحو حرب باردة تقنية؟",
-   "summary": "يتناول التقرير دور الذكاء الاصطناعي المتزايد في التنافس الجيوسياسي بين القوى العظمى، وكيف أصبحت السيطرة على هذه التكنولوجيا محورًا استراتيجيًا رئيسًا في العلاقات الدولية، مما يثير تساؤلات حول احتمالية دخول العالم حقبة جديدة من التوترات بين الدول.",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNalNvSm1vb0pPSHZhbDRrU0lVQklNV2ZCVG1oTm1GZEI0ajNRdTl1eFRqNUpzUWRuSS1vVDlLMXI4RTBad1FRRXZBYTZfWWNzdG9ZYjFYTmpqakQ5ZHFMM3FiZ0g0ZTh5MnEyZUkxWnMwelVmVVpCTlJEUXdncFJiNzNMYXF0cDJTX01mTw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "الذكاء الاصطناعي يفرض تحديات جديدة على الحملات الانتخابية بمنطقة مينيسوتا",
-   "summary": "تواجه الحملات السياسية في مينيسوتا تحديات متنامية بسبب استخدام تقنيات الذكاء الاصطناعي، بما يشمل قضايا التضليل والمعلومات المزيفة والرسائل المخصصة، مما يستدعي حوارًا حول تنظيم استخدام هذه التقنيات في العملية الديمقراطية.",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUlFR1ZaN3ZSOWZOMFBQM3BRanUxODU4RjVlZjZuZG9KSElIdFdwdlJSczA0bC1lVHdnZWpNZVlZM1BvbEZrNWl6bXFicldHSHhjWUs3VzhyWTREdTlaekFSZ3JUSjNjcWoxUmgtUVdxZW96SEpDYS1xakt2NzR6d3JRUE03bms1bHFDLTZHb0s2NExOTWgzbzJBbmRCNlJ2UXM0Z0wyNy1vQm8?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "أوبن أيه آي وجوجل تبيعان نماذج ذكاء اصطناعي لشركات صينية معاقبة",
-   "summary": "كشفت تقارير أن كلا الشركتين وفرتا خدمات وتقنيات ذكاء اصطناعي لمؤسسات صينية مدرجة على قوائم العقوبات الأمريكية، مما يثير تساؤلات حول الالتزام بالضوابط المفروضة والمسؤولية الأخلاقية في توزيع التقنيات الحساسة.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHA4ZGhDX2txSlRteVpJbTZXWUZRUFpWTURzWTZBeVo2dFBpYU4wOVlPd3l6Zzc2VjNWSFJxajlXaUxnQUFMejVxMmM2YS1TbHRURjJNQzJlU1BFQkdpSzVHOFd0LUliazlPcnp1YXB6cGIzaEZwaklVeldyR0J5VXZGX0g?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-10"
-  },
-  {
-   "title": "Google تضيف تصنيفات توضح استخدام الذكاء الاصطناعي في الإعلانات",
-   "summary": "أطلقت Google ميزة جديدة في \"مركز إعلاناتي\" تبين للمستخدمين إذا تم إنشاء أو تحرير إعلان باستخدام الذكاء الاصطناعي. تغطي الميزة الإعلانات على Google Search و Discover و YouTube، وتوفر شفافية أكبر حول طريقة صنع المحتوى الإعلاني.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-07-10"
   }
  ]
