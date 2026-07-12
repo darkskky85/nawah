@@ -1,7 +1,87 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-12T15:47:01.893780+00:00",
+ "updated": "2026-07-12T21:38:41.055506+00:00",
  "items": [
+  {
+   "title": "لورد تنتقد نظارات ريبان الذكية: ليست جذابة",
+   "summary": "انتقدت المغنية لورد نظارات الواقع المعزز من ريبان وميتا خلال أدائها بمهرجان مدريد، معبّرة عن رأيها بأن هذه التقنية تفتقر إلى الجاذبية. يعكس موقفها نقاشاً متزايداً حول القبول الثقافي لأجهزة الذكاء الاصطناعي القابلة للارتداء.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "برنامج آبل للسيارات ذاتية القيادة ترك إرثاً في تطوير معالجات الذكاء الاصطناعي",
+   "summary": "رغم فشل مشروع آبل لتطوير سيارة ذاتية القيادة، ساهم العمل عليه في تعزيز قدرات معالجات الشركة للذكاء الاصطناعي. احتاجت آبل إلى معالجات قوية تعمل مباشرة على الجهاز، وهو ما أسهم في تطور تقنياتها الحالية.",
+   "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "الذكاء الاصطناعي في حياتنا اليومية",
+   "summary": "تقرير يستعرض دور الذكاء الاصطناعي وتطبيقاته المتنوعة في الأنشطة والخدمات التي يستخدمها الأفراد يومياً، وكيفية تأثيره على جودة الحياة والعمليات اليومية المختلفة.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMERrWDNqMjVWXy1Fcnl5UmF4S0NNYlE2SXNfVkNSWmpGU1FjZUl4dW83ZmE2RUFVcVhObjVmNEdFRE9BN1Flb2U0TWEzd0F4b2JlaEtUWHZoVVpqUWZiM1FQcFhrMnlrSTBRZmFhNGVtX3BhTDIwUGxhWWI4SXBUVklGVlRoQmJTWVkyLU9n0gGTAUFVX3lxTE5rMkd5MXdEN1EwUmVQTHZ0aDAtcUtKdEZnRFdiYTlXQU5vblhYM0pheXVWNUdNM2JkbFh3aTRCbnNLMTFnaFdEd1FIS241S3J6SFRtNXFzRm52TURZaERXczdoYlgwdXNlLVdERXJLdGVRS3N2b3VpYmUwSi03dEpJb2RJUEZhb3diUmRtcVprSEtuWQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "التدقيق المستقل قد يكون مفتاح تنظيم الذكاء الاصطناعي في إلينوي",
+   "summary": "تناقش مقالة احتمالية الاعتماد على عمليات تدقيق مستقلة كآلية أساسية لتنظيم تطبيقات الذكاء الاصطناعي في ولاية إلينوي، بهدف ضمان السلامة والالتزام بمعايير الأمان والأخلاقيات.",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd3g0ckw5eTI3NHdfTFFCSXhoUzNuZ09WQmhXRjd5YU1EWWlYd2FjRExtOGttVXhXTjVJWlFhNmdkc3IzZmxzaGREVnZlbS1aMEtETHAwVWdfdzROaU9CNmlIY3FROGl0R1JKWTM2dHVVekk5MWo4R01qajMwRTdsdVZVWlo0QTFTU3M5VEgwbEd6blpCZk13ZTNDX0FSX1dsZW43djNVMHBjTkZNMDNMdWdfSGZRM2VXQXlHcF9xZm5HUUp4Snc4MUVSRVdxbEZrNGfSAdcBQVVfeXFMTzk2SXE0aUluWTFLX01LT2NJRGRSQUtOZ1plM0N1UXdEeUs3MVE5dlo3eng0bjJPSDFQZjFweTZsV2Y1elZnMkpDZTNmWmxqZ0FLaTF1MV9pRDhjSzV5VXZEM0VMa3dyX0xkUXhXMWcwdXpTd0R1QzhQRHhpa0h4SmwwaW5sSDhOM29BaktsQU9xbWpOV0hMTXB2cXJfZmVjdmpxWlMxZ2hEampMT0gxVXFhdnVkVTQtZEF4RGVpalgzQ2tyck1NNVEyQUZwT1pSdldfLTRlcGs?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "الجوانب المظلمة للذكاء الاصطناعي في حوار مع بول تريمبلي",
+   "summary": "حوار يتناول التأثيرات السلبية المحتملة للذكاء الاصطناعي والمخاطر المرتبطة به، حيث يشارك الكاتب بول تريمبلي وجهات نظره حول القضايا الأخلاقية والاجتماعية الناشئة عن هذه التكنولوجيا.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDNTVmw4T1NWU1hQRnMwQzRQQVVPSkFfVWZ3VDBNb29wVjQ4LUk5NDFQdUhwbTF2SU5KNlgwc0IxeE5mRmc0V0FnLUx1b3ZNTko0NUJ1dmoydjRUSjh1NU9uSl84a2RoUS1ibGgzaWlyU1pTQy1xNWtGXy1sOV9zdVREaWdmNHlLb2FJdlp6UENtQzBPSGVlNERlei1GaGszWGMyS0cyVWZmTzUwR2hGc2FjVHBPdVpj?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "الكونغرس الأمريكي ينبغي له نشر تقنيات الذكاء الاصطناعي بدلاً من حجبها",
+   "summary": "رأي يطالب الكونغرس بسياسة أكثر انفتاحاً تجاه تقنيات الذكاء الاصطناعي الأمريكية، بدلاً من احتكارها، لتعزيز الابتكار والتنافسية العالمية والاستفادة الأوسع من هذه التكنولوجيا.",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEZlQS1pZzFLTzdRYkFocHlJRnduYWlKdGRESmJqZjB3ZGEzMUpORFZUZXhabXN1d2ZVWGJDTjJFdE9iM0FLMVljOXFNbGNrNFhLWlNWejRfcUV1bDNVZ1FlenlBQkVUdFkxdTc0SzVUeGNvaVpCWjJwMDZzaGt6a2NCb9IBiAFBVV95cUxOX0JBbDEtOUJGcjFwQXcxVmJNdXVqOFRodU1nbUR4M2hJQjlwNC1lSkZwcnI4NFo2a0Zjak1laFhfVDZBZ1lVeGZNRF9fNjU3SGxoUXRsdzBGTlVzOHFlUnFCLUl3VnJtLXZBdFpSQzdXS3VtcUtqQ2tDdUdzNDNlcXlGcV84WDZ5?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "نقاشات حول سياسة OpenAI المالية والنماذج الحدودية",
+   "summary": "يناقش مقال متخصص عدة موضوعات تشمل احتمالية إعطاء OpenAI نسبة من أرباحها للحكومة، وتطور مفهوم المخاطر الكتلية، ومسألة التكاليف المنخفضة نسبياً للنماذج الذكاء الاصطناعي المتقدمة.",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZVpZUXpSeXNrdGVHNmtYWEFUT3JMV1JKV0t5cXpKUnpQTkpEcldLQXlqX0t4ZjdqSk5CVFBHNFBzb19qZVh5a2lCLUViYW5JZEtwSEhoMm56TXZKNUdBWm0xUE1FbnM0X2ZtdHBaY0lUMHM2QlNvV1VDVV9wRUxTRzY4Skt3QnhQR3FkTGhMS1lzTmE5Y3R3V0NSWS1oWllzbVVSNHhfdl9NQnhPaGxkNFFFcHpTTlozV29RNWpiWlduQTVua2lnQkgyWXZHS2ZnVWhwclFtZUw0Y01DMlFHQW1LZTk2cXhyZjZzSS15aXNZalEw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "أبل تقاضي OpenAI بتهمة سرقة أسرار تجارية عقب دمج ChatGPT",
+   "summary": "رفعت شركة أبل دعوى قضائية ضد OpenAI متهمة إياها بسرقة أسرار تجارية بعد إدراج الشركة تقنية ChatGPT في منتجاتها. يعكس النزاع التوترات المتزايدة حول حماية الملكية الفكرية في مجال الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGlEQ2tqTlhoQlg0MTFmWHZpUFh1VkhSSkpPZUluRnMzb2xRS0paLUZNQTYwd1JKUXg0aDRmWENqWTVSeEhpZ3FzRUVnNV8tY2NORjVzUkNDRXdwRXRHVlRlTnQyYlV1S0xmelRqakQ2RFZrZ2x2b051YnNDYVYxQzlTRlIxMUlNRS1MT2kzQVJtYkNZRkpUOExvaFA0WWFXSUw2aVJaQzZKekZzeVdtU3BmMjR0amZ0Smc?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "شركات الذكاء الاصطناعي الكبرى تواجه تحديات معروفة في البيئة الرقمية",
+   "summary": "تكتشف الشركات الرائدة في مجال الذكاء الاصطناعي مشاكل كانت معروفة بالفعل لدى مستخدمي الإنترنت. يشير هذا إلى فجوة بين ما تركز عليه هذه الشركات وما يعاني منه المستخدمون الفعليون.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEtyMlE1dXNvZmNiYi1vU2J6OC01VW5pSEVaLWZNX1FGa3BpZHhRVTI0SEF1QlNqbFg2NUdYTXpZRGFGUXpNcGctb2R1Mm01MVk2azNIS3VrQURUMTR1WV9wVG02UVFuR0Z1blBwTjBEUVlXUWxmeC1BZDlXNVBfcDFvRVB3LXR5VWcxc25KanIzVkpWaVZoaTk4REZLQWg3WjhLVE03LUE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "احتجاجات حاشدة أمام مقرات OpenAI وAnthropic في سان فرانسيسكو",
+   "summary": "نظّم مئات الأشخاص احتجاجات أمام مكاتب OpenAI وAnthropic في سان فرانسيسكو. عكست الاحتجاجات المخاوف المتزايدة من تأثير تكنولوجيات الذكاء الاصطناعي على المجتمع والعمالة.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTN6VzVIY0NldnZ2dW1WLVZCM2FaeUJVbW9IRXIwNVBkcGJZWTNZYjRfLXhFdTcyaVVNb04zclNHMnROVE1FYy1CWVBVM2xBd09XaVBlRERLd1g4RWRxak1hZDRYODRWOFlHMHpiM1RxcERrbVRza3Bya2JZTXpsVWdKdjlZVlM2NFE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-12"
+  },
   {
    "title": "شركة تاتا الهندية تخطط لتوظيف آلاف متخصص في نشر الذكاء الاصطناعي",
    "summary": "أعلنت شركة Tata Consultancy Services عن نيتها توظيف حتى 8900 مهندس متخصص في نشر حلول الذكاء الاصطناعي، بالإضافة إلى سعيها للاستحواذ على شركات متخصصة في مجال الذكاء الاصطناعي لتعزيز قدراتها التقنية في هذا المجال.",
@@ -35,14 +115,6 @@ window.NEWS_DATA = {
    "date": "2026-07-12"
   },
   {
-   "title": "احتجاجات ضد شركات الذكاء الاصطناعي في سان فرانسيسكو",
-   "summary": "تظاهر مئات الأشخاص أمام مكاتب شركتي OpenAI و Anthropic في سان فرانسيسكو للتعبير عن مخاوفهم بشأن تطوير وانتشار تقنيات الذكاء الاصطناعي وتأثيراتها الاجتماعية والأخلاقية.",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTN6VzVIY0NldnZ2dW1WLVZCM2FaeUJVbW9IRXIwNVBkcGJZWTNZYjRfLXhFdTcyaVVNb04zclNHMnROVE1FYy1CWVBVM2xBd09XaVBlRERLd1g4RWRxak1hZDRYODRWOFlHMHpiM1RxcERrbVRza3Bya2JZTXpsVWdKdjlZVlM2NFE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-12"
-  },
-  {
    "title": "أبل تقاضي OpenAI بخصوص انتهاك أسرار تجارية",
    "summary": "رفعت شركة أبل دعوى قضائية ضد OpenAI تتهمها بانتهاك أسرار تجارية فيما يتعلق بمساعيها في تطوير وتسويق أجهزة متخصصة في تطبيقات الذكاء الاصطناعي.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0NIM2tZczlNVFQ2VXgxbUJXbl9UMTNvNEtZeGs3M2xZQ1pRc3hjSjBvcDFrYVBGdHotWFRKQktlazhTbWVWMzBkU3UycXlkOXZnS0NybjlIMHZTbG9odG1hUFllcG4xcnFlOFdYWHg5MEZzYzZyTE5RaWlvTC1lVFl6Sm9kTmZacVNaa0lLdU5ORFI0NS1XeFdMRmJETzRV?oc=5",
@@ -56,78 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YTGhHb2IwcElVbHFsdnFVSHJlM1VzMW1hTHRoX0J0N19oSFJCX0NDTEhRS0ZjYnhKcnVfRmlXRm9JS1pMVDcxOC12ZWNzaVM0MGVzZldCbFcxTk9ZTG9jVTA2Z0syOXFH?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "ميتا تعلن عن استراتيجية جديدة في مجال الذكاء الاصطناعي",
-   "summary": "أعلنت ميتا عن خطتها الجديدة في مجال الذكاء الاصطناعي، والتي تركز على تطوير قدرات متقدمة ودمجها في منتجاتها. تعكس هذه الخطوة التزام الشركة بالاستثمار في تقنيات الذكاء الاصطناعي ومنافستها في هذا المجال سريع النمو.",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkJHWVV6WWp1ZlRYSEZ4NWMxOUwzVGhMTUNVUGRORUtyNWFWM1FyU05INVhVcVVmb0tzUHRlNW1HLU9NVDVwbmRnRjBTSFVCZzFxR3JTQ09Id2t5MzJjdHFmTnUyb25zcEZLYmtERFhWUGlyTGNmMUVOTVhyQTRkYjhjMzlGc0RHMVVQby1qV0hNUUtmQ0ZjUGRFa1RQdzQzdDI4?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "استخدام الذكاء الاصطناعي في كشف عدم استقرار الميكروسيتات في سرطان القولون",
-   "summary": "دراسة منهجية محدثة تفحص تطبيق الذكاء الاصطناعي في التنبؤ بحالات عدم استقرار الميكروسيتات من خلال تحليل الصور النسيجية الملونة بالهيماتوكسيلين والإيوسين. تهدف الدراسة إلى تقييم دقة هذا الأسلوب في تشخيص وتصنيف سرطانات القولون.",
-   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQUl9QZTZZUmp2MmZtV3lNUUV2TF9sUVlYNUJ1OGczVDQzbi1pdHZaV2p6QzJzRnkxT2VYWnV4UnVSV3BSd1lNZmUzMXpEZlR6elhfbmpaZEhwU1o1WnJVWFB4M3pzSUVXeHpzdlMzbjhtdzY2clA3MnFsOTJFcllvaXRXeGc1MUxNYW9rRzNvYzBmdUZTMk9WSUR5dnJfYk91RlNWemV1YmVPY2F6RllkdEtCX2RhU1hLcWZ0cEQzaUNnQ0FDRERQNFV5RDRXeHJ5MFRvUWNBb2dZUjREVk5YZGFqS09ReURzZ0QzR3llcTVtVWxPT2pjYm80NlJKUTVmSW43M29ZVGY3Y0FFSmkyMVBfRGFCUUhYSjhOV0VNdW1lQnNmZ1pCemc1b0c5cnptZUFPTkxlWHBldGhiYTNWYzZQX3F6Zl84Z2NzU0hFeW43dmtDS2pFSGhHckhxZk0?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "ميتا تكشف عن استراتيجية جديدة في مجال الذكاء الاصطناعي",
-   "summary": "أعلنت شركة ميتا عن خطة استراتيجية محدثة تتعلق بتطورها في مجال الذكاء الاصطناعي. تعكس الخطة توجهات الشركة المستقبلية نحو دمج هذه التكنولوجيا في منتجاتها وخدماتها.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXdCN01lLW5nNHJsLUVpMlRCNWlqZ3FGZ21GVUQ2WVRObFF0bC1mZk9GMGhwMlRISS1lTF81M2h0UFpvQVFvLWJZVWhyclBqeFFrMGxRRHNwejhVVDMtanBnUmkteHJJN1NoZFA3alNwNGtuVTZ4NUxid2hWVXRYa212OFBnejZmSUkxMURHc0xxQzEyYUlfRw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "Basedash تُطلق دعم بروتوكول SCIM لإدارة الهويات",
-   "summary": "أداة جديدة ظهرت باسم Basedash SCIM تُمكّن من إدارة حسابات المستخدمين بشكل موحّد عبر تطبيقات متعددة باستخدام بروتوكول SCIM القياسي، مما يُسهّل عمليات الحذف والإضافة والتحديث بين الأنظمة المختلفة.",
-   "url": "https://www.producthunt.com/products/basedash",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "Effects SDK - مجموعة أدوات تطويرية للمؤثرات البصرية",
-   "summary": "أداة جديدة ظهرت باسم Effects SDK توفّر مجموعة من أدوات البرمجة لدمج تأثيرات بصرية متقدمة داخل التطبيقات والمشاريع المختلفة دون الحاجة لخبرة عميقة في الرسومات.",
-   "url": "https://www.producthunt.com/products/effects-sdk",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "Kickbacks CLI - أداة سطر الأوامر لإدارة العائدات",
-   "summary": "أداة جديدة ظهرت باسم Kickbacks CLI تُتيح للمطورين التعامل مع عمليات حسابية أو إدارة بيانات مالية مباشرة من سطر الأوامر، مما يوفّر سهولة في التكامل مع سير العمل الآلي.",
-   "url": "https://www.producthunt.com/products/kickbacks-cli",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "ChatGPT Work - نسخة متخصصة من ChatGPT للعمل المؤسسي",
-   "summary": "إطلاق نسخة عمل من ChatGPT موجّهة للشركات والمؤسسات توفّر ميزات أمان وخصوصية معزّزة وإمكانيات تكامل مع الأنظمة الداخلية، مما يدعم الاستخدام المؤسسي الآمن للذكاء الاصطناعي.",
-   "url": "https://www.producthunt.com/products/chatgpt-work",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "StoryChief Connect - منصة تواصل لمحرري المحتوى",
-   "summary": "أداة جديدة ظهرت باسم StoryChief Connect تربط بين منصات نشر المحتوى المختلفة، مما يوفّر للمحررين واجهة موحّدة لإدارة النشر والمراجعات والتعاون بين الفريق.",
-   "url": "https://www.producthunt.com/products/storychief-io",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "دور الذكاء الاصطناعي في تعزيز الجاهزية الدفاعية",
-   "summary": "تقرير يستعرض كيفية إسهام تقنيات الذكاء الاصطناعي في تحسين الاستعداد والقدرات الدفاعية، من خلال تحليل البيانات والتنبؤ والأتمتة، وأثره على فعالية الأنظمة العسكرية والأمنية.",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0prQzdXN0Y5N01nUU1icWJrZ21BajlCQ3lqVWRSMm9acHAwREptdmhNY3QzZ0hmX1E4RHlPUzR5MmJpX09mNnpQZGw4S2NmWXFqck8xRGVwcWVaOHRxbnhRNC1WcnozdS1sUEJyNlo4VEpJZlRaMjRCdnRscG9IU3FfR1k2NllmcUs4YjhDdVhzRXpFd0J6UmtzMDJoYnhldlE?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-12"
   }
  ]
