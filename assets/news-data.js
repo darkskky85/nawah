@@ -1,13 +1,125 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-11T21:38:29.669972+00:00",
+ "updated": "2026-07-12T05:46:48.552345+00:00",
  "items": [
   {
-   "title": "OpenAI توسّع استخدام ChatGPT ليشمل الأسر والمسنين",
-   "summary": "تسعى OpenAI إلى تعميق حضور ChatGPT في الحياة العائلية بتعيين مدير منتج متخصص لبناء واجهات موجهة للعائلات والمسنين والمقدمين للرعاية، مما يعكس توجهاً نحو توسيع تطبيقات النموذج خارج السياق المهني.",
+   "title": "Basedash تُطلق دعم بروتوكول SCIM لإدارة الهويات",
+   "summary": "أداة جديدة ظهرت باسم Basedash SCIM تُمكّن من إدارة حسابات المستخدمين بشكل موحّد عبر تطبيقات متعددة باستخدام بروتوكول SCIM القياسي، مما يُسهّل عمليات الحذف والإضافة والتحديث بين الأنظمة المختلفة.",
+   "url": "https://www.producthunt.com/products/basedash",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "Effects SDK - مجموعة أدوات تطويرية للمؤثرات البصرية",
+   "summary": "أداة جديدة ظهرت باسم Effects SDK توفّر مجموعة من أدوات البرمجة لدمج تأثيرات بصرية متقدمة داخل التطبيقات والمشاريع المختلفة دون الحاجة لخبرة عميقة في الرسومات.",
+   "url": "https://www.producthunt.com/products/effects-sdk",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "Kickbacks CLI - أداة سطر الأوامر لإدارة العائدات",
+   "summary": "أداة جديدة ظهرت باسم Kickbacks CLI تُتيح للمطورين التعامل مع عمليات حسابية أو إدارة بيانات مالية مباشرة من سطر الأوامر، مما يوفّر سهولة في التكامل مع سير العمل الآلي.",
+   "url": "https://www.producthunt.com/products/kickbacks-cli",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "ChatGPT Work - نسخة متخصصة من ChatGPT للعمل المؤسسي",
+   "summary": "إطلاق نسخة عمل من ChatGPT موجّهة للشركات والمؤسسات توفّر ميزات أمان وخصوصية معزّزة وإمكانيات تكامل مع الأنظمة الداخلية، مما يدعم الاستخدام المؤسسي الآمن للذكاء الاصطناعي.",
+   "url": "https://www.producthunt.com/products/chatgpt-work",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "StoryChief Connect - منصة تواصل لمحرري المحتوى",
+   "summary": "أداة جديدة ظهرت باسم StoryChief Connect تربط بين منصات نشر المحتوى المختلفة، مما يوفّر للمحررين واجهة موحّدة لإدارة النشر والمراجعات والتعاون بين الفريق.",
+   "url": "https://www.producthunt.com/products/storychief-io",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "دور الذكاء الاصطناعي في تعزيز الجاهزية الدفاعية",
+   "summary": "تقرير يستعرض كيفية إسهام تقنيات الذكاء الاصطناعي في تحسين الاستعداد والقدرات الدفاعية، من خلال تحليل البيانات والتنبؤ والأتمتة، وأثره على فعالية الأنظمة العسكرية والأمنية.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0prQzdXN0Y5N01nUU1icWJrZ21BajlCQ3lqVWRSMm9acHAwREptdmhNY3QzZ0hmX1E4RHlPUzR5MmJpX09mNnpQZGw4S2NmWXFqck8xRGVwcWVaOHRxbnhRNC1WcnozdS1sUEJyNlo4VEpJZlRaMjRCdnRscG9IU3FfR1k2NllmcUs4YjhDdVhzRXpFd0J6UmtzMDJoYnhldlE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "ميتا تكشف عن استراتيجية جديدة في مجال الذكاء الاصطناعي",
+   "summary": "أعلنت ميتا بلاتفورمز عن استراتيجية محدّثة في مجال الذكاء الاصطناعي تركز على تطوير قدراتها التقنية في هذا المجال، وتعكس توجهات الشركة نحو الاستثمار المكثّف في هذه التكنولوجيا.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkJHWVV6WWp1ZlRYSEZ4NWMxOUwzVGhMTUNVUGRORUtyNWFWM1FyU05INVhVcVVmb0tzUHRlNW1HLU9NVDVwbmRnRjBTSFVCZzFxR3JTQ09Id2t5MzJjdHFmTnUyb25zcEZLYmtERFhWUGlyTGNmMUVOTVhyQTRkYjhjMzlGc0RHMVVQby1qV0hNUUtmQ0ZjUGRFa1RQdzQzdDI4?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "ناشطون معارضون يكثفون جهودهم ضد تطور الذكاء الاصطناعي",
+   "summary": "يزداد حراك ناشطي الحقوق والخصوصية ضد الانتشار السريع لتطبيقات الذكاء الاصطناعي، حيث يطالبون بمزيد من التنظيم والشفافية والمساءلة في هذا القطاع.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXo1TXoxQU5TdWtPRHh4eGJEWk5wOHExV1h6UG90X2dkZHVHQlJ4RFNycm8wemIxMnR3X1dpdElGaENtOXNvbms0blA1U3prX1NJTVJUc28xekw0allQMktXakptYUFpY191WERmdW1ZeTVMSk1qQUdHVktOVWFuOFZVVWVXRnhL?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "ميتا تعلن استراتيجية متطورة في الذكاء الاصطناعي",
+   "summary": "كشفت ميتا عن خطط طموحة لتوسيع استثماراتها وجهودها في تطوير تقنيات الذكاء الاصطناعي بما يعزز مكانتها في هذا المجال المتنامي.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXdCN01lLW5nNHJsLUVpMlRCNWlqZ3FGZ21GVUQ2WVRObFF0bC1mZk9GMGhwMlRISS1lTF81M2h0UFpvQVFvLWJZVWhyclBqeFFrMGxRRHNwejhVVDMtanBnUmkteHJJN1NoZFA3alNwNGtuVTZ4NUxid2hWVXRYa212OFBnejZmSUkxMURHc0xxQzEyYUlfRw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "احتجاجات واسعة ضد شركات الذكاء الاصطناعي في سان فرانسيسكو",
+   "summary": "شهدت مكاتب أوبن إيه آي وأنثروبك في سان فرانسيسكو احتجاجات حاشدة من ناشطين معارضين لتطوير تقنيات الذكاء الاصطناعي دون ضمانات كافية للسلامة والأخلاقيات.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTN6VzVIY0NldnZ2dW1WLVZCM2FaeUJVbW9IRXIwNVBkcGJZWTNZYjRfLXhFdTcyaVVNb04zclNHMnROVE1FYy1CWVBVM2xBd09XaVBlRERLd1g4RWRxak1hZDRYODRWOFlHMHpiM1RxcERrbVRza3Bya2JZTXpsVWdKdjlZVlM2NFE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "أوبن إيه آي توسع استهداف تطبيقات تشات جي بي تي للعائلات",
+   "summary": "تسعى أوبن إيه آي لتوسيع انتشار تطبيق تشات جي بي تي في البيئات المنزلية، حيث تبحث عن متخصصين في تطوير ميزات موجهة للعائلات والمُقدمين للرعاية والبالغين الأكبر سناً.",
    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-11"
+  },
+  {
+   "title": "التحقق من نموذج ذكاء اصطناعي متعدد الأنماط لسرطان الثدي",
+   "summary": "أظهرت دراسة تحقق من نموذج ذكاء اصطناعي متعدد المدخلات قدرته على التنبؤ بنتائج سرطان الثدي في مراحله الأولى، مما قد يساهم في تحسين التشخيص والعلاج في المجال الطبي.",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSkdQcnhUMHZra1pvZUJtNXVzY0RWcmVTQ3hWTEF1OU9wS095d3V6aC1QckFCQklWU25tZEZTX1A2bHl4ejJaSmYzRnpkel9STzRkTFRmZXM4N0xsM05FMG4zaVBLSWFqSVV4Y1g0UGtMV3BPUDQyV3hkenYycm9QdlpnR2lMMXJWRS1OSUFib2stMFJOM1hNYW5BRjdSelVLN1JXTmo3NnVHUE1pcFlRVU14NGhBX3FpUXJjQXYzWUY1REFuN09EWWtaQTdKN2VHMkdaR29KTmlldE5XZnRrNE00Z2JVMXdpRnpZSTJrWnlSZw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-11"
+  },
+  {
+   "title": "أبل تقاضي OpenAI بتهمة سرقة أسرار الشركة",
+   "summary": "رفعت أبل دعوى قضائية ضد OpenAI متهمة إياها بالاستيلاء على معلومات وأسرار خاصة بالشركة. تعكس الدعوى تصعيداً في النزاعات القانونية بين عمالقة التكنولوجيا حول حماية البيانات الحساسة والملكية الفكرية.",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-11"
+  },
+  {
+   "title": "لحظة تفاعل من مهندس بـ OpenAI تشعل فتيل النزاع القانوني مع أبل",
+   "summary": "يكشف التقرير عن دور تفاعل طريف من أحد مهندسي OpenAI في بدء السلسلة التي أدت لاحقاً للنزاع القانوني مع أبل. يسلط الضوء على كيفية أن الحوادث البسيطة قد تكون نقطة انطلاق لنزاعات قانونية كبرى بين الشركات.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVWZJTTBwTS14NTBEMFpsZUlQamxwcDNyZDNsTnVwNDVlRi1VZ1UwUnIzMWRKUDVfMVZUWFQ5QjUzelNJWFZ1TEhxU2RYNjZpZ1FEMTRac29TNzE5OUtsbl9KZzYyeGlIbi1KVVZLT1NTNFFWNEZYeFltRFNhTlYyOUxrY0tNSV9iYVBVOTdOMA?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-11"
+  },
+  {
+   "title": "أبل تطعن في توسع OpenAI الجهازي من خلال دعوى الأسرار التجارية",
+   "summary": "تركز دعوى أبل القانونية على احتجاجها ضد محاولات OpenAI دخول مجال الأجهزة والعتاد. تشير الدعوى إلى قلق أبل من استخدام OpenAI لمعلومات حساسة قد تكون حصلت عليها بطرق غير مشروعة في استراتيجيتها الجديدة.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0NIM2tZczlNVFQ2VXgxbUJXbl9UMTNvNEtZeGs3M2xZQ1pRc3hjSjBvcDFrYVBGdHotWFRKQktlazhTbWVWMzBkU3UycXlkOXZnS0NybjlIMHZTbG9odG1hUFllcG4xcnFlOFdYWHg5MEZzYzZyTE5RaWlvTC1lVFl6Sm9kTmZacVNaa0lLdU5ORFI0NS1XeFdMRmJETzRV?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-11"
   },
   {
@@ -16,118 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEZ4dkY5dnJXdm5KZHRyNFJMLXpqTVdLaWlwaUZSY1dRd0tYdWJhTTRLRnNsMEh3MGxqNFdqRDdkcjVNN3Y2NXpHQ3c5ME96Y0NrUzllQVlwcVA3R2l2dkFySFFGQTM2Y1VoeWlfUWtEbjhFYXl6RWZNUFp6dXJjTGg5RmotS1NWWVhmbFJhc0hrSFRvaWdqMkZPQXpaRWRSdmRTc3FuRFFBZw?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "ولاية إلينوي تصدر إرشادات لاستخدام الذكاء الاصطناعي في المدارس",
-   "summary": "أصدرت وزارة التعليم في ولاية إلينوي مجموعة من الإرشادات والمعايير الموجهة لاستخدام تقنيات الذكاء الاصطناعي داخل المؤسسات التعليمية. تهدف هذه الخطوة إلى ضمان الاستفادة الآمنة والفعالة من هذه التقنيات في العملية التعليمية.",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdjdTQkxDNGtjS3VsOXdicHJCcEJsQmZ3UFo5MTBMRDZzMzQzT0lKMUVZM0FfUXROdER4NXpkcHNsMzJtcnI5bjUyc0R0YTFSOWlTQkpKejE2dTExQzhYVVBQTHYtRXlybUY1MkdwVXVTanlvdlF0ZEJXMEhkeTJ0QmtLWHdBVmZQZGpDT3ZtTTFRdmc5M29haGJCUHl1SDN2S2FKdEMxT3l2NFFUTGpvMkRwSFB0UW5WTnIw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "اتجاهات الذكاء الاصطناعي في المؤسسات وسبل تعزيز اعتماده",
-   "summary": "تناقش دراسة من شركة سنوفليك الاتجاهات الحالية لتطبيق الذكاء الاصطناعي في البيئات المؤسسية والصناعية. تركز على حالات الاستخدام العملية والمتطلبات اللازمة للانتقال إلى المرحلة التالية من التبني الواسع.",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HcHVGNWpFVnhzZFFPZ25uVVFYOFZneUJ0M2lRSVEzWUQ3ZllJNkxkR1E4LWtpWWZxTENmbE5yVFVnODBMUE9RcDlwSEZTeG5tYjBVS2w5Wl9ET3R0cURIZ21YSzBGdHFYVnhuY3o5UndsbmZtOUR0TFk3V3dOQQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "انبعاثات مايكروسوفت المؤثرة على المناخ ترتفع بنسبة 25 بسبب الذكاء الاصطناعي",
-   "summary": "أظهرت البيانات ارتفاع انبعاثات الكربون من شركة مايكروسوفت بشكل ملحوظ، حيث ساهمت عمليات الذكاء الاصطناعي بشكل كبير في هذا الارتفاع. يثير هذا المؤشر تساؤلات حول الآثار البيئية لتوسيع استخدام تقنيات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGhMRlBXVTFEUFM4c2E3cU83QW03cVktVkZpYWdqNFpoQ01WR3hjak12emlIOUdYSFNfSlpkalNuWFlxRTIxREpUSFVqRFhoVEctcTlTYUwxM0VsckR6WGN0UFJ4N3V0UHJkU2o3ZGd4aEl2SmJpaXFKbmZveUpVQ04xQVNZZzdyRWtOX2xZOGxvaVZ0Wm5meUZNTHUtUQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "باحثون يدرسون دور الذكاء الاصطناعي في بناء السلام",
-   "summary": "شرع عدد من الباحثين والخبراء في فحص كيفية توظيف تقنيات الذكاء الاصطناعي في جهود السلام والتسوية النزاعات. تركز هذه الأبحاث على التطبيقات المحتملة والتحديات الأخلاقية المرتبطة بهذا المجال.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcFE4Q0dNRUR2N0NlZ2xzSDBHMnNhMUk2RGVlNjRVZm1tZ3M4elZOZlZ2LVVqcXBkbHR0Q1d6a3dNdXNpV1Q0c0t4UEhjelQwWTMxbmdSRFlOeUxrNUJrR25WcFNDeTlkUHZaZjI1NC1QQ2tqejBXZEVVdS0teUZFSFE3RkNpYmlfWFQ4b0h4aXJnX3kwdlRWTzRpbDdxZlJiQnZ3SURnaElQYm5BRV9oQURLUkxlZGxL?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "تصريح مهندس من OpenAI يشعل نزاعاً قانونياً محتملاً مع Apple",
-   "summary": "أثار تصريح من أحد مهندسي OpenAI جدلاً قد يؤدي إلى نزاع قانوني مع شركة Apple، بحسب تقرير من Bloomberg. التفاصيل المحددة حول طبيعة التصريح والنزاع لم تُوضّح بشكل كامل في السياق المتاح.",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekdUWlV4aXB3Umo3VHgwLVdjaUNpWHNvMW5fM0RoYUNnQ1I4amFqZEkyRjlSV2Nrb2Fma0xSNkVrbVFCSExCckJVdVJGblVrWnRnWXpHNGFVWWlYMW9vSUNsalpjUVNjZ1FiRm9IaGo2OVdBcjZ6U0owQS1EbXBtc3hwMzM1N0NSbzZka1NzZnJhbXVoNFlVcmhwTGlqOFU2a0REcG84LWl2X1JJeTV6ZUl0Z2VBZ0k?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "تأثيرات تأجيل طرح OpenAI للاكتتاب العام حتى 2027",
-   "summary": "يناقش التقرير السيناريوهات المحتملة إذا أرجلت OpenAI خطط طرحها للاكتتاب العام حتى عام 2027. التأخير قد يؤثر على استراتيجية الشركة المالية والاستثمارية في المدى المتوسط والطويل.",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1NzTGpoNGxFNW1QTFI5UmhSYVBaZE1NOHh0bXhmWXVCREpHWkd6T3VrLURSZW1TaHRnSC1JbzBHRTJRcWxxNktqOG9KN1BKSHFDRC1BQ3JPQTVEQWszM0Fld0I5ZWduWl95MUhGZWJPVEd3ZnFYZXRKSFBraEt2RXRJZ0NwUGIySF9uLV9sYTg?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "Google تطلق نموذج Gemini 3.5 Flash وتتيحه مجاناً",
-   "summary": "أطلقت Google نموذجاً جديداً من سلسلة Gemini يحمل اسم 3.5 Flash، وأتاحت للمستخدمين الوصول إليه بشكل مجاني. النموذج الجديد يمثل تطويراً في قدرات الذكاء الاصطناعي لدى الشركة.",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "رئيس قسم السلامة في OpenAI يغادر الشركة",
-   "summary": "أعلنت OpenAI عن رحيل رئيس قسم السلامة والأمان لديها. المغادرة تأتي في سياق تطورات تنظيمية وتغييرات قيادية متكررة في الشركة.",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQ3hmbzl1bzFjNmJ3dWs1WWNmNGYyTXpUVVQ3SEIxOXRXY0xDUjF0VUN3TXEyT1JpSVFfeDJRWkFKT1lNTjJPTWNjRU1FQlAwTEx5SHBJelhZRzI4Q0FXUi1MOVMtbThrTWc?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "دراسة تربط بين اعتماد الطلاب الطبيين على الذكاء الاصطناعي التوليدي والتفكير الناقد",
-   "summary": "أظهرت دراسة مقطعية أن اعتماد طلاب الطب على أدوات الذكاء الاصطناعي التوليدي قد يؤثر على تطور مهارات التفكير الناقد لديهم. تسلط الدراسة الضوء على الحاجة لموازنة استخدام هذه التقنيات مع الممارسات التعليمية التقليدية في المجال الطبي.",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSFVLeDRqd3ZkX1BLRFRwWFRHQ2I4alczQ2hGVFBrSXh5dGZLV2YwRHV5TXFEd3ZzLU1hNHFFakVRWEVkNVlqUk9iaXpiTW0xclpKQUwtb3dGWlp2QkcyUm1oeHdTOHVuQ01yLXVkbmdSdW9yeS1UWkZWeGhJNTJQSWRKOFpMOGZTUC1jX1lwVjF0YWhoeUJ2ZDEwSHRUWWZCU0xtc0tyeHZGdWJJcVJCMnFldFU3WXV3a3F6WHBKZS1kelRha3lwT1ljQ3lnbmFRZnNCX2xJb0tDaTQwZWhRNElsZGtJUGNCLTdaTzhBOEE0R3IzYTRxVXo2eGtkQzk2VFRXVXNkX1Q?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "معايير الأمان والحماية للذكاء الاصطناعي في المؤسسات التعليمية",
-   "summary": "يناقش المقال متطلبات الأمان الضرورية لاستخدام تطبيقات الذكاء الاصطناعي في المدارس، مركزاً على حماية الأطفال والبيانات الشخصية. يؤكد على أهمية وضع سياسات تنظيمية واضحة قبل توسيع نطاق استعمال هذه التقنيات في البيئة التعليمية.",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBua3dkNlk2YTJ1T0VKRHRZRURYRDUyMFRUVHZsT2xvZW5TUEs0a0d6eHpGOTdMam00ZmhsdF8wdWZXN0Y5SEJnYS1ZMDg0UGUwS1p2OTdLV2R0NDBkc182elFZekx5WkdnYlFnWlR3?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "الهيئة الفيدرالية للتجارة تقترح معايير جديدة لدقة أنظمة الذكاء الاصطناعي",
-   "summary": "قدمت لجنة التجارة الفيدرالية توجيهات سياسية تركز على منع القصور المتعمد في دقة أنظمة الذكاء الاصطناعي. تهدف الخطوة إلى حماية المستهلكين من الأنظمة المصممة بطريقة متعمدة لتقديم معلومات غير دقيقة.",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZHpjek1CU2RJbGhCVDZuYVJoZ2FxM0lkclNDTkpBakFpcTB6NWdMaVhsQ3lxemJ6TXZBYXotZWJNMmNZOVdmTDlUYmFiZVBDcE4wV1J0RTZYcWVQaXloNzhEcGZfTWZrOERDd0w4LTN5S2UySmFkeXozZlZJWGFzTjlWRkFsMkd4ZXhsSVBaaHJCcmQzVXN1bUpqc3BFSFE2LVU0NlUtRjlsTXBSZl82empqM2dsVkMySXB5Tk02TGV5T2JhZWlNdmlKQXZ4Znh0SjNwUGw5UHNDcHFEZFV3?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "أبل ترفع دعوى ضد OpenAI بتهمة سرقة أسرار تجارية",
-   "summary": "رفعت شركة أبل دعوى قضائية ضد OpenAI متهمة إياها بالاستيلاء على أسرار تجارية. يعكس هذا النزاع التوترات المتزايدة بين عمالقة التكنولوجيا حول استخدام البيانات والملكية الفكرية في تطوير تطبيقات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95SmlFMk5RQ0duYVgtRG9ZczN1MjZma18ya1BDTnV4bXp5Ti1DNkl1YU5pRUFEdjNMVFFpYS1LWThhMGFXMHNSSVRlMjJ4RDBURndqXzZCdlVyV2N3SGdRb0otS2FoMHNFbEJuWGQ2NklKMENVWEIwZA?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "تشات جي بي تي للعمل",
-   "summary": "منصة تجمع بين قدرات نموذج اللغة الذكي وأدوات إدارة العمل، لتمكين الفرق من أتمتة المهام والتعاون بكفاءة أعلى في بيئة عمل موحدة.",
-   "url": "https://www.producthunt.com/products/chatgpt-work",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "بيسدش ساهم: معيار إدارة الهويات",
-   "summary": "أداة جديدة ظهرت باسم Basedash SCIM، توفر واجهة لإدارة وتزامن هويات المستخدمين وصلاحياتهم عبر تطبيقات متعددة باستخدام معيار SCIM الموحد.",
-   "url": "https://www.producthunt.com/products/basedash",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
    "date": "2026-07-11"
   }
  ]
