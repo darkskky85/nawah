@@ -1,19 +1,67 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-12T10:17:50.264548+00:00",
+ "updated": "2026-07-12T15:47:01.893780+00:00",
  "items": [
   {
-   "title": "ميتا تعلن عن استراتيجية جديدة في مجال الذكاء الاصطناعي",
-   "summary": "أعلنت ميتا عن خطتها الجديدة في مجال الذكاء الاصطناعي، والتي تركز على تطوير قدرات متقدمة ودمجها في منتجاتها. تعكس هذه الخطوة التزام الشركة بالاستثمار في تقنيات الذكاء الاصطناعي ومنافستها في هذا المجال سريع النمو.",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkJHWVV6WWp1ZlRYSEZ4NWMxOUwzVGhMTUNVUGRORUtyNWFWM1FyU05INVhVcVVmb0tzUHRlNW1HLU9NVDVwbmRnRjBTSFVCZzFxR3JTQ09Id2t5MzJjdHFmTnUyb25zcEZLYmtERFhWUGlyTGNmMUVOTVhyQTRkYjhjMzlGc0RHMVVQby1qV0hNUUtmQ0ZjUGRFa1RQdzQzdDI4?oc=5",
+   "title": "شركة تاتا الهندية تخطط لتوظيف آلاف متخصص في نشر الذكاء الاصطناعي",
+   "summary": "أعلنت شركة Tata Consultancy Services عن نيتها توظيف حتى 8900 مهندس متخصص في نشر حلول الذكاء الاصطناعي، بالإضافة إلى سعيها للاستحواذ على شركات متخصصة في مجال الذكاء الاصطناعي لتعزيز قدراتها التقنية في هذا المجال.",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHVWMTZfdlZoNHBPbVhNSTktYk5yTzBaN3BOTWc2NjNhczhUWVJVTktLZld3WC0zeGEyREFDZk1kWkFjNzBFaXV0M3JSMC1mNFlPQU9DYy1palFFbTRoUFYxR1JZVDNRVmhCQzREYnMxOGd1cEFhNE9aeTFOVzhDTjF6UVY3b0RzUm5ReWIyQkQ2ZjF2OC1kNG40clpPNzhkTTJZOWJUckc0SUlaWVhaa1VFOVpkVXA3am9aY1I2bWlqODM3N2c?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-12"
   },
   {
-   "title": "دور الذكاء الاصطناعي في تعزيز الجاهزية العسكرية والدفاعية",
-   "summary": "يستعرض المقال كيف يمكن للذكاء الاصطناعي المساهمة في تحسين القدرات الدفاعية والعسكرية من خلال تطبيقات متعددة. يركز على الفرص التي يوفرها هذا التكنولوجيا لتعزيز الجاهزية والاستعداد في القطاع الدفاعي.",
+   "title": "الذكاء الاصطناعي يحسّن التنبؤ بعدم استقرار الحمض النووي في سرطان القولون",
+   "summary": "دراسة منهجية محدّثة تقيّم إمكانية استخدام تقنيات الذكاء الاصطناعي في تحليل الشرائح النسيجية للكشف عن عدم الاستقرار الميكروساتيلايتي في أورام القولون والمستقيم، مما قد يحسّن دقة التشخيص والتنبؤ بفعالية العلاجات.",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPZjZwMzlDdnBtNVJLQmRBRWo4ZXJlYW00QnlCT3EycWZuMDN0NGx1TlE4cUEzZmREWjF3MnA4UWt0QkNGTHkxYUhMT3QxSTZIM0xzN3YzNGlzYzF6bThHU0xqRWJOUjZCZUluYVJEVEVRYkZRUzU2MFpLeUVyeWRoTllJVmNEZ2lSZnpJcVN0TmljV3N0M2JxMml5MTlESmUwWDZ3NGk5enNGdlhjUGtGem55ZnF5QjFETHdKb2hpT0g4RjZlbDZuWU5PZkRVbHY3S09wMWVoa2dNdDI3TUZWSjd3WndlTlpnWnJVdWtnVm1ZalBJZUE1QUZwQmRZOGJOOFpEUFhqcjdycHEyY1B0bllremJ1c3k0R2NmNTZRRGI2OFpnZXNRM2ZHZFR4cEZOWC03WnJWUDh3UncweXowODJZY1dFZw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "الذكاء الاصطناعي يعزز جاهزية القطاع الدفاعي",
+   "summary": "تطبيقات الذكاء الاصطناعي توسّع من قدرات القطاع الدفاعي في المراقبة والتحليل والتنبؤ، مما يسهم في تحسين سرعة اتخاذ القرارات وتقليل التكاليف التشغيلية والعسكرية.",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlE3NGFudndWR0VWbGVCVEFpcjJiZHpSTXFRU3VPVVVtUXItRXQtS2pQbFZMbFJjcUJ4WDIwSmJjREgwZVBxWjBXbDE3RmtCaXljWkg3SURNblU4d2VzTnBCeDBkU2lsdmpRZXNtbk5LVTdpaGpzVzJrTzdQUnFEZG13UWIzT1VjUkoxQzhQRTRKTGt3UXpLbXFHbVJfYnBtc1Q5QkdKRTl2dw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "ولاية ميسيسيبي تطلق دليلاً حكومياً للذكاء الاصطناعي",
+   "summary": "أصدرت حكومة ولاية ميسيسيبي دليلاً شاملاً لتوجيه الجهات الحكومية والمؤسسات حول سبل تطبيق تقنيات الذكاء الاصطناعي بشكل مسؤول وفعّال في العمليات الإدارية والخدمات العامة.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFlUZzZ4Yk00ZzdPUzkzbHJ6WjU2bk5CYUNFNHVDd0tIVm1ubHo1dVROTW5lN1hrNXRoNTdKd1VvZV9RdzloazF2MXBzeUYxa0dZV2ViNlRlY1I1RWt2a3pWM2dRdXkwWkNXVTNOYURyVURuWXgteXB3RjJHNEFsQjRQVjdSYVpGNGxGUEF2QzdUXzNkUFBUT1BxejA3Sk5TMUtPQTFZQi1sc19Vd0E0?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "احتجاجات ضد شركات الذكاء الاصطناعي في سان فرانسيسكو",
+   "summary": "تظاهر مئات الأشخاص أمام مكاتب شركتي OpenAI و Anthropic في سان فرانسيسكو للتعبير عن مخاوفهم بشأن تطوير وانتشار تقنيات الذكاء الاصطناعي وتأثيراتها الاجتماعية والأخلاقية.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTN6VzVIY0NldnZ2dW1WLVZCM2FaeUJVbW9IRXIwNVBkcGJZWTNZYjRfLXhFdTcyaVVNb04zclNHMnROVE1FYy1CWVBVM2xBd09XaVBlRERLd1g4RWRxak1hZDRYODRWOFlHMHpiM1RxcERrbVRza3Bya2JZTXpsVWdKdjlZVlM2NFE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "أبل تقاضي OpenAI بخصوص انتهاك أسرار تجارية",
+   "summary": "رفعت شركة أبل دعوى قضائية ضد OpenAI تتهمها بانتهاك أسرار تجارية فيما يتعلق بمساعيها في تطوير وتسويق أجهزة متخصصة في تطبيقات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0NIM2tZczlNVFQ2VXgxbUJXbl9UMTNvNEtZeGs3M2xZQ1pRc3hjSjBvcDFrYVBGdHotWFRKQktlazhTbWVWMzBkU3UycXlkOXZnS0NybjlIMHZTbG9odG1hUFllcG4xcnFlOFdYWHg5MEZzYzZyTE5RaWlvTC1lVFl6Sm9kTmZacVNaa0lLdU5ORFI0NS1XeFdMRmJETzRV?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "شركة Anthropic تسعى لتحويل مجال اكتشاف الأدوية",
+   "summary": "تطمح شركة Anthropic لتطبيق تقنيات الذكاء الاصطناعي في تسريع عملية اكتشاف واستطلاع الأدوية الجديدة، غير أن خبراء الصناعة يؤكدون أن التحديات الحقيقية تبدأ بعد المرحلة البحثية الأولى.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YTGhHb2IwcElVbHFsdnFVSHJlM1VzMW1hTHRoX0J0N19oSFJCX0NDTEhRS0ZjYnhKcnVfRmlXRm9JS1pMVDcxOC12ZWNzaVM0MGVzZldCbFcxTk9ZTG9jVTA2Z0syOXFH?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "ميتا تعلن عن استراتيجية جديدة في مجال الذكاء الاصطناعي",
+   "summary": "أعلنت ميتا عن خطتها الجديدة في مجال الذكاء الاصطناعي، والتي تركز على تطوير قدرات متقدمة ودمجها في منتجاتها. تعكس هذه الخطوة التزام الشركة بالاستثمار في تقنيات الذكاء الاصطناعي ومنافستها في هذا المجال سريع النمو.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkJHWVV6WWp1ZlRYSEZ4NWMxOUwzVGhMTUNVUGRORUtyNWFWM1FyU05INVhVcVVmb0tzUHRlNW1HLU9NVDVwbmRnRjBTSFVCZzFxR3JTQ09Id2t5MzJjdHFmTnUyb25zcEZLYmtERFhWUGlyTGNmMUVOTVhyQTRkYjhjMzlGc0RHMVVQby1qV0hNUUtmQ0ZjUGRFa1RQdzQzdDI4?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-12"
@@ -32,22 +80,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXdCN01lLW5nNHJsLUVpMlRCNWlqZ3FGZ21GVUQ2WVRObFF0bC1mZk9GMGhwMlRISS1lTF81M2h0UFpvQVFvLWJZVWhyclBqeFFrMGxRRHNwejhVVDMtanBnUmkteHJJN1NoZFA3alNwNGtuVTZ4NUxid2hWVXRYa212OFBnejZmSUkxMURHc0xxQzEyYUlfRw?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "أبل تطعن في خطط أوبنإيه آي لتطوير الأجهزة من خلال دعوى بشأن أسرار تجارية",
-   "summary": "رفعت شركة أبل دعوى قانونية ضد أوبنإيه آي تتعلق بشكاوى حول الأسرار التجارية في سياق جهود الشركة الأخيرة لتطوير أجهزة متخصصة. تعكس الخطوة تزايد التوترات بين الشركات الكبرى حول ملكية التكنولوجيا والابتكار.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0NIM2tZczlNVFQ2VXgxbUJXbl9UMTNvNEtZeGs3M2xZQ1pRc3hjSjBvcDFrYVBGdHotWFRKQktlazhTbWVWMzBkU3UycXlkOXZnS0NybjlIMHZTbG9odG1hUFllcG4xcnFlOFdYWHg5MEZzYzZyTE5RaWlvTC1lVFl6Sm9kTmZacVNaa0lLdU5ORFI0NS1XeFdMRmJETzRV?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "احتجاجات على مقرات أوبنإيه آي وأنثروبيك في سان فرانسيسكو",
-   "summary": "شارك مئات الأشخاص في احتجاجات أمام مكاتب شركتي أوبنإيه آي وأنثروبيك في سان فرانسيسكو. عكست الاحتجاجات مخاوف المتظاهرين بشأن تطوير تكنولوجيا الذكاء الاصطناعي وآثارها المحتملة.",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTN6VzVIY0NldnZ2dW1WLVZCM2FaeUJVbW9IRXIwNVBkcGJZWTNZYjRfLXhFdTcyaVVNb04zclNHMnROVE1FYy1CWVBVM2xBd09XaVBlRERLd1g4RWRxak1hZDRYODRWOFlHMHpiM1RxcERrbVRza3Bya2JZTXpsVWdKdjlZVlM2NFE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-07-12"
   },
   {
@@ -97,38 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-12"
-  },
-  {
-   "title": "ناشطون معارضون يكثفون جهودهم ضد تطور الذكاء الاصطناعي",
-   "summary": "يزداد حراك ناشطي الحقوق والخصوصية ضد الانتشار السريع لتطبيقات الذكاء الاصطناعي، حيث يطالبون بمزيد من التنظيم والشفافية والمساءلة في هذا القطاع.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXo1TXoxQU5TdWtPRHh4eGJEWk5wOHExV1h6UG90X2dkZHVHQlJ4RFNycm8wemIxMnR3X1dpdElGaENtOXNvbms0blA1U3prX1NJTVJUc28xekw0allQMktXakptYUFpY191WERmdW1ZeTVMSk1qQUdHVktOVWFuOFZVVWVXRnhL?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "تشات جي بي تي يتوسع نحو الأسر والعائلات",
-   "summary": "تسعى أوبنإيه آي لتوسيع نطاق تطبيق تشات جي بي تي ليشمل استخدامات عائلية موجهة للآباء والمربين والبالغين الأكبر سناً. أعلنت الشركة عن توظيف مدير منتج مختص بتطوير تجارب مصممة لهذه الفئات المستهدفة.",
-   "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "نموذج ذكاء اصطناعي متعدد الأنماط يثبت فعاليته في التنبؤ بسرطان الثدي المبكر",
-   "summary": "أظهرت دراسة TIP12 نتائج إيجابية في اختبار نموذج ذكاء اصطناعي متعدد الأنماط للتنبؤ بمسار سرطان الثدي في مراحله المبكرة، خاصة في الحالات الموجبة للهرمونات والسالبة لـ HER2. يشير هذا التحقق العملي إلى إمكانية استخدام الذكاء الاصطناعي في تحسين دقة التشخيص والعلاج السريري.",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSkdQcnhUMHZra1pvZUJtNXVzY0RWcmVTQ3hWTEF1OU9wS095d3V6aC1QckFCQklWU25tZEZTX1A2bHl4ejJaSmYzRnpkel9STzRkTFRmZXM4N0xsM05FMG4zaVBLSWFqSVV4Y1g0UGtMV3BPUDQyV3hkenYycm9QdlpnR2lMMXJWRS1OSUFib2stMFJOM1hNYW5BRjdSelVLN1JXTmo3NnVHUE1pcFlRVU14NGhBX3FpUXJjQXYzWUY1REFuN09EWWtaQTdKN2VHMkdaR29KTmlldE5XZnRrNE00Z2JVMXdpRnpZSTJrWnlSZw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-11"
-  },
-  {
-   "title": "أبل تقاضي OpenAI بتهمة سرقة الأسرار التجارية",
-   "summary": "رفعت أبل دعوى قضائية ضد OpenAI متهمة إياها بسرقة معلومات وأسرار خاصة بالشركة. تأتي الخطوة القانونية في سياق تصاعد الخلافات بين شركات التكنولوجيا الكبرى بشأن استخدام البيانات والملكية الفكرية في تطوير أنظمة الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-11"
   }
  ]
 };
