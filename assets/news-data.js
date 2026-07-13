@@ -1,21 +1,69 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-12T21:38:41.055506+00:00",
+ "updated": "2026-07-13T05:57:22.660573+00:00",
  "items": [
   {
-   "title": "لورد تنتقد نظارات ريبان الذكية: ليست جذابة",
-   "summary": "انتقدت المغنية لورد نظارات الواقع المعزز من ريبان وميتا خلال أدائها بمهرجان مدريد، معبّرة عن رأيها بأن هذه التقنية تفتقر إلى الجاذبية. يعكس موقفها نقاشاً متزايداً حول القبول الثقافي لأجهزة الذكاء الاصطناعي القابلة للارتداء.",
+   "title": "نموذج ذكاء اصطناعي متعدد الأنماط لكشف الأورام المتقدمة في الآفات البنكريلسية",
+   "summary": "طوّر باحثون نموذج ذكاء اصطناعي قابل للتفسير يجمع بين أنواع بيانات متعددة للتنبؤ بالأورام المتقدمة في الآفات الكيسية بالبنكرياس. يهدف هذا النموذج إلى تحسين التشخيص المبكر ودعم القرارات السريرية في الكشف عن الحالات الخطرة.",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92THltd2FGd202dWZjcW5mSk5kSWM2VWw5UmpJRjQ2QnVuel9KWlBpNHhHNExaMkJtdl81cFo3dkhLWVh2N3JRY3BTZ1dyUHBUeVhlR0xaYWZEZXczMXI0bG1scDBVWTRLdkE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "الاستخبارات المفتوحة المصدر في الدفاع السيبراني: التحديات والفرص",
+   "summary": "يناقش الخبر دور المعلومات المتاحة للعامة في تعزيز قدرات الدفاع السيبراني، مع إبراز التحديات التي تواجه المتخصصين في استخدام هذه المصادر بفعالية وأمان في حماية الأنظمة الحكومية والخاصة.",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlZ5NnV4ZkM2RlMxc1pURXNRZWM0bnFhczNZRmk2Y2JFRHRxMU1xenNJQkttNUZVMHVMcGZnNFJyMGFrWUJBYWoxLVVvZ0VKZ0lVOXZ6b2U4cExiTExrTmRYWEhpSllSM3g3VUFsT2hKeWxwOEVheXhETldrcnk4UGxRWmhBcXdJa0piR1pGMGZ3MmNmVDhPSXV4MDIwb0RwZ1FwbjZvd3VHOHlQQU1UaDM4bjNaZHFXdzl0cEpyQ19DNTBQRUJITk94aVhjQQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "نجمة موسيقية تنتقد نظارات الذكاء الاصطناعي من ريبان وميتا",
+   "summary": "علقت الفنانة لوردي خلال حفل موسيقي في مدريد على نظارات ريبان الذكية المزودة بتقنيات ذكاء اصطناعي، معبّرة عن عدم رضاها عن التصميم والتطبيقات المرتبطة بها.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-07-12"
   },
   {
-   "title": "برنامج آبل للسيارات ذاتية القيادة ترك إرثاً في تطوير معالجات الذكاء الاصطناعي",
-   "summary": "رغم فشل مشروع آبل لتطوير سيارة ذاتية القيادة، ساهم العمل عليه في تعزيز قدرات معالجات الشركة للذكاء الاصطناعي. احتاجت آبل إلى معالجات قوية تعمل مباشرة على الجهاز، وهو ما أسهم في تطور تقنياتها الحالية.",
+   "title": "برنامج أبل للسيارات الذاتية القيادة ترك إرثاً تقنياً قوياً",
+   "summary": "رغم عدم إكمال أبل لمشروع السيارات ذاتية القيادة، أسهم العمل على المنصة في تطوير معالجات قوية متخصصة في معالجة الذكاء الاصطناعي على الأجهزة بكفاءة عالية، مما انعكس إيجاباً على منتجات الشركة الأخرى.",
    "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "رد أبل الحاسم على تهديد OpenAI",
+   "summary": "تسعى أبل إلى الرد على الضغط المتزايد من شركات الذكاء الاصطناعي، خاصة OpenAI، بخطوات استراتيجية لحماية مصالحها وموقعها في سوق الخدمات الذكية والمساعدات الشخصية.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2k1M3FZOFBqdS16QWJxUXpZLXdYQjlWSldxNUM2Zm1wempxUmN0LUJkQk5ZaTA5Zkx1THRMcDVjMUlDV2I5dXlUclNOajdnZ2pfdGQzMXpDSWdSTkE1SlNCSkFCMFl5RG1KSGt1bHRYUjdyX3FwUjkwalNaWVhmRTdPVTUxRkNuWnVxX0RZam0?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "نقاشات استثمارية: تأثير الإفصاح الحكومي ونماذج الذكاء الاصطناعي المتقدمة",
+   "summary": "يناقش المحللون احتمالية إعطاء OpenAI نسبة من أعمالها للحكومة، وتراجع مخاطر الحجب، وانخفاض تكاليف تطوير النماذج المتقدمة في مشهد التكنولوجيا الحالي.",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZVpZUXpSeXNrdGVHNmtYWEFUT3JMV1JKV0t5cXpKUnpQTkpEcldLQXlqX0t4ZjdqSk5CVFBHNFBzb19qZVh5a2lCLUViYW5JZEtwSEhoMm56TXZKNUdBWm0xUE1FbnM0X2ZtdHBaY0lUMHM2QlNvV1VDVV9wRUxTRzY4Skt3QnhQR3FkTGhMS1lzTmE5Y3R3V0NSWS1oWllzbVVSNHhfdl9NQnhPaGxkNFFFcHpTTlozV29RNWpiWlduQTVua2lnQkgyWXZHS2ZnVWhwclFtZUw0Y01DMlFHQW1LZTk2cXhyZjZzSS15aXNZalEw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "أبل تقاضي OpenAI بتهمة سرقة أسرار تجارية",
+   "summary": "رفعت أبل دعوى قضائية ضد OpenAI متهمة إياها بالاستيلاء على معلومات سرية، وذلك بعد دمجها لخدمة ChatGPT في منتجاتها، مما يعكس تصعيداً في النزاعات بين عمالقة التكنولوجيا حول الملكية الفكرية.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGlEQ2tqTlhoQlg0MTFmWHZpUFh1VkhSSkpPZUluRnMzb2xRS0paLUZNQTYwd1JKUXg0aDRmWENqWTVSeEhpZ3FzRUVnNV8tY2NORjVzUkNDRXdwRXRHVlRlTnQyYlV1S0xmelRqakQ2RFZrZ2x2b051YnNDYVYxQzlTRlIxMUlNRS1MT2kzQVJtYkNZRkpUOExvaFA0WWFXSUw2aVJaQzZKekZzeVdtU3BmMjR0amZ0Smc?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-12"
+  },
+  {
+   "title": "عمالقة الذكاء الاصطناعي يواجهون تحديات الإنترنت الحديث",
+   "summary": "تكتشف شركات الذكاء الاصطناعي الكبرى تحديات وضغوطات معروفة للعاملين في الإنترنت منذ سنوات، من قضايا الخصوصية إلى المسؤولية القانونية والتنظيمية.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEtyMlE1dXNvZmNiYi1vU2J6OC01VW5pSEVaLWZNX1FGa3BpZHhRVTI0SEF1QlNqbFg2NUdYTXpZRGFGUXpNcGctb2R1Mm01MVk2azNIS3VrQURUMTR1WV9wVG02UVFuR0Z1blBwTjBEUVlXUWxmeC1BZDlXNVBfcDFvRVB3LXR5VWcxc25KanIzVkpWaVZoaTk4REZLQWg3WjhLVE03LUE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-12"
   },
   {
@@ -51,30 +99,6 @@ window.NEWS_DATA = {
    "date": "2026-07-12"
   },
   {
-   "title": "نقاشات حول سياسة OpenAI المالية والنماذج الحدودية",
-   "summary": "يناقش مقال متخصص عدة موضوعات تشمل احتمالية إعطاء OpenAI نسبة من أرباحها للحكومة، وتطور مفهوم المخاطر الكتلية، ومسألة التكاليف المنخفضة نسبياً للنماذج الذكاء الاصطناعي المتقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZVpZUXpSeXNrdGVHNmtYWEFUT3JMV1JKV0t5cXpKUnpQTkpEcldLQXlqX0t4ZjdqSk5CVFBHNFBzb19qZVh5a2lCLUViYW5JZEtwSEhoMm56TXZKNUdBWm0xUE1FbnM0X2ZtdHBaY0lUMHM2QlNvV1VDVV9wRUxTRzY4Skt3QnhQR3FkTGhMS1lzTmE5Y3R3V0NSWS1oWllzbVVSNHhfdl9NQnhPaGxkNFFFcHpTTlozV29RNWpiWlduQTVua2lnQkgyWXZHS2ZnVWhwclFtZUw0Y01DMlFHQW1LZTk2cXhyZjZzSS15aXNZalEw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "أبل تقاضي OpenAI بتهمة سرقة أسرار تجارية عقب دمج ChatGPT",
-   "summary": "رفعت شركة أبل دعوى قضائية ضد OpenAI متهمة إياها بسرقة أسرار تجارية بعد إدراج الشركة تقنية ChatGPT في منتجاتها. يعكس النزاع التوترات المتزايدة حول حماية الملكية الفكرية في مجال الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGlEQ2tqTlhoQlg0MTFmWHZpUFh1VkhSSkpPZUluRnMzb2xRS0paLUZNQTYwd1JKUXg0aDRmWENqWTVSeEhpZ3FzRUVnNV8tY2NORjVzUkNDRXdwRXRHVlRlTnQyYlV1S0xmelRqakQ2RFZrZ2x2b051YnNDYVYxQzlTRlIxMUlNRS1MT2kzQVJtYkNZRkpUOExvaFA0WWFXSUw2aVJaQzZKekZzeVdtU3BmMjR0amZ0Smc?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "شركات الذكاء الاصطناعي الكبرى تواجه تحديات معروفة في البيئة الرقمية",
-   "summary": "تكتشف الشركات الرائدة في مجال الذكاء الاصطناعي مشاكل كانت معروفة بالفعل لدى مستخدمي الإنترنت. يشير هذا إلى فجوة بين ما تركز عليه هذه الشركات وما يعاني منه المستخدمون الفعليون.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEtyMlE1dXNvZmNiYi1vU2J6OC01VW5pSEVaLWZNX1FGa3BpZHhRVTI0SEF1QlNqbFg2NUdYTXpZRGFGUXpNcGctb2R1Mm01MVk2azNIS3VrQURUMTR1WV9wVG02UVFuR0Z1blBwTjBEUVlXUWxmeC1BZDlXNVBfcDFvRVB3LXR5VWcxc25KanIzVkpWaVZoaTk4REZLQWg3WjhLVE03LUE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-12"
-  },
-  {
    "title": "احتجاجات حاشدة أمام مقرات OpenAI وAnthropic في سان فرانسيسكو",
    "summary": "نظّم مئات الأشخاص احتجاجات أمام مكاتب OpenAI وAnthropic في سان فرانسيسكو. عكست الاحتجاجات المخاوف المتزايدة من تأثير تكنولوجيات الذكاء الاصطناعي على المجتمع والعمالة.",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTN6VzVIY0NldnZ2dW1WLVZCM2FaeUJVbW9IRXIwNVBkcGJZWTNZYjRfLXhFdTcyaVVNb04zclNHMnROVE1FYy1CWVBVM2xBd09XaVBlRERLd1g4RWRxak1hZDRYODRWOFlHMHpiM1RxcERrbVRza3Bya2JZTXpsVWdKdjlZVlM2NFE?oc=5",
@@ -104,30 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlE3NGFudndWR0VWbGVCVEFpcjJiZHpSTXFRU3VPVVVtUXItRXQtS2pQbFZMbFJjcUJ4WDIwSmJjREgwZVBxWjBXbDE3RmtCaXljWkg3SURNblU4d2VzTnBCeDBkU2lsdmpRZXNtbk5LVTdpaGpzVzJrTzdQUnFEZG13UWIzT1VjUkoxQzhQRTRKTGt3UXpLbXFHbVJfYnBtc1Q5QkdKRTl2dw?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "ولاية ميسيسيبي تطلق دليلاً حكومياً للذكاء الاصطناعي",
-   "summary": "أصدرت حكومة ولاية ميسيسيبي دليلاً شاملاً لتوجيه الجهات الحكومية والمؤسسات حول سبل تطبيق تقنيات الذكاء الاصطناعي بشكل مسؤول وفعّال في العمليات الإدارية والخدمات العامة.",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFlUZzZ4Yk00ZzdPUzkzbHJ6WjU2bk5CYUNFNHVDd0tIVm1ubHo1dVROTW5lN1hrNXRoNTdKd1VvZV9RdzloazF2MXBzeUYxa0dZV2ViNlRlY1I1RWt2a3pWM2dRdXkwWkNXVTNOYURyVURuWXgteXB3RjJHNEFsQjRQVjdSYVpGNGxGUEF2QzdUXzNkUFBUT1BxejA3Sk5TMUtPQTFZQi1sc19Vd0E0?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "أبل تقاضي OpenAI بخصوص انتهاك أسرار تجارية",
-   "summary": "رفعت شركة أبل دعوى قضائية ضد OpenAI تتهمها بانتهاك أسرار تجارية فيما يتعلق بمساعيها في تطوير وتسويق أجهزة متخصصة في تطبيقات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0NIM2tZczlNVFQ2VXgxbUJXbl9UMTNvNEtZeGs3M2xZQ1pRc3hjSjBvcDFrYVBGdHotWFRKQktlazhTbWVWMzBkU3UycXlkOXZnS0NybjlIMHZTbG9odG1hUFllcG4xcnFlOFdYWHg5MEZzYzZyTE5RaWlvTC1lVFl6Sm9kTmZacVNaa0lLdU5ORFI0NS1XeFdMRmJETzRV?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "شركة Anthropic تسعى لتحويل مجال اكتشاف الأدوية",
-   "summary": "تطمح شركة Anthropic لتطبيق تقنيات الذكاء الاصطناعي في تسريع عملية اكتشاف واستطلاع الأدوية الجديدة، غير أن خبراء الصناعة يؤكدون أن التحديات الحقيقية تبدأ بعد المرحلة البحثية الأولى.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YTGhHb2IwcElVbHFsdnFVSHJlM1VzMW1hTHRoX0J0N19oSFJCX0NDTEhRS0ZjYnhKcnVfRmlXRm9JS1pMVDcxOC12ZWNzaVM0MGVzZldCbFcxTk9ZTG9jVTA2Z0syOXFH?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-07-12"
   }
  ]
