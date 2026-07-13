@@ -1,7 +1,95 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-13T05:57:22.660573+00:00",
+ "updated": "2026-07-13T11:49:19.516693+00:00",
  "items": [
+  {
+   "title": "تطبيق Waze يستقبل مميزات ذكية جديدة بدعم من جيميني",
+   "summary": "تعمل جوجل على دمج مساعدها الذكي جيميني داخل تطبيق الملاحة Waze، بهدف تمكين المستخدمين من تخصيص رحلاتهم بشكل أفضل. من بين أربع ميزات جديدة قادمة، اثنتان منها تعتمد بشكل مباشر على تقنيات الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "نقدٌ من الفنانة لورد لنظارات ذكية من ريبان وميتا",
+   "summary": "انتقدت الفنانة لورد خلال عرضها بمهرجان مدريد نظارات الذكاء الاصطناعي، مشيرة إلى أنها لا تتمتع بجاذبية كافية. يُعتقد أن انتقادها كان موجهاً نحو نظارات ريبان التي طورتها بالتعاون مع ميتا.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "برنامج أبل للسيارات ذاتية القيادة ترك إرثاً في تطوير رقائق ذكية",
+   "summary": "بينما لم يحقق برنامج أبل للسيارات ذاتية القيادة النجاح المتوقع، إلا أنه أسهم في تطوير معالجات قوية قادرة على معالجة مهام الذكاء الاصطناعي على الجهاز نفسه، مما انعكس على قوة رقائق الشركة الحالية.",
+   "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "ميتا توقف ميزة إنشاء صور عميقة مزيفة من حسابات إنستجرام العامة",
+   "summary": "أوقفت ميتا ميزة تم الإعلان عنها مؤخراً تسمح بإنشاء صور مزيفة بالذكاء الاصطناعي بناءً على محتوى الحسابات العامة، وذلك بعد انتقادات واسعة تثير مخاوف من سوء استخدام هذه التقنية.",
+   "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "آخر أخبار الذكاء الاصطناعي على ABC News",
+   "summary": "منصة ABC News توفر تغطية شاملة لأخبار الذكاء الاصطناعي والتطورات الأخيرة في المجال مع تحديثات يومية ومقاطع فيديو متخصصة.",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "إيلون ماسك يراجع موقفه من نماذج Anthropic للذكاء الاصطناعي",
+   "summary": "أعلن إيلون ماسك تراجعه عن تقييمه السابق لنماذج الذكاء الاصطناعي من شركة Anthropic، وهو ما قد يحمل دلالات إيجابية على استثمارات أمازون وأبجد في هذا القطاع.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaURVZXhlS1RSQk1GWTVsRmhxU1A2NGR4MEowb2Z1UEllMWZlX1FUTGwxZTV5eVVBd0NJcVFlRTJ1MkZUQTZMcnIxT1F2TEJoYnc0eW9qWHdCUkQ2ZEhCWV80Ym1RN2pHU1VNbWt6aFZiR3FhYUxUSmlvNl9BZGtnVkF0YjhsZlFEUms1OG1SdUhVMDFSdDUxZw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "أفضل خيارات استثمار في الذكاء الاصطناعي برأسمال 5000 دولار",
+   "summary": "يقدم تحليل من Yahoo Finance حول الخطوات الاستثمارية الذكية في قطاع الذكاء الاصطناعي برأسمال محدود خلال يوليو، مع توصيات مالية عملية للمستثمرين.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlJmdkJsbjAzOHZERUdTekRTMXFkMEVqeFg1Tl9Za25ZdENkeG1KU051Q2t1TnJpLUZXd1JQSnJ1VXA0Uk8tY19JcXlhc1pDVFBsUWloaVN0WkhFVmtoazJfdXhFMlVCMF93WlJFTy1jVG1qOUdGbmNVNkhTVHRhTmpXQ2Q2dUhxMVRxRHZWd1FlVkNRdHRpVnhsTGptdlFTY3NkU2ZvNGFLTTlial9uNw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "أكثر من 200 خبير يطالبون باتخاذ إجراءات عاجلة لمعالجة التأثيرات الاقتصادية للذكاء الاصطناعي",
+   "summary": "دعا متخصصون من مختلف المجالات إلى ضرورة التحرك السريع لمواجهة التداعيات الاقتصادية المترتبة على انتشار تقنيات الذكاء الاصطناعي. يركز النداء على أهمية وضع سياسات وآليات حماية قبل توسع هذه التقنيات بشكل أكبر في الاقتصاد العالمي.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUt1OTNadWljZVE1WXI3UzhWbC15R3h2eVpFWXFkY2wzeTcyWGNsaFZnYjc5TFhzTE1wX1RRQmdSRGJ5VkFRRzUxZUJ0N0tYdXBkZk1IdGlETTRfaDVXbUs2aTAtcjI3TU9UOFZKU1A3SEs0R25wWWNYTlFyZDZ2ejRGUkJiMjdYaFdOTE9zbmF5QTRxTTFzSmxGWHZqOUhYS1RfNFNGVFdYN00?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "مستقبل الذكاء الاصطناعي الأمريكي سيتحدد في اجتماعات التخطيط المحلية",
+   "summary": "يؤكد المقال أن القرارات المتعلقة بتطور صناعة الذكاء الاصطناعي في الولايات المتحدة لن تُتخذ في العواصم الفدرالية فقط، بل ستعتمد بشكل كبير على السياسات والتشريعات المحلية والإقليمية. تلعب لجان التخطيط العمراني دوراً محورياً في تحديد مسار هذه الصناعة على المستوى الأساسي.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWdJaU92SlZ1Y0pDUS0ycGM3dTUzR1VJTVY0SjN4WHBwV2theUFCb1RaQ2NkMXBiT2RaTDV4elFXcDZ6TF85anNob2M3ZWhFT2FyckFoV1BYQ2RZTnhRMkV4by0ydlNMeVV1VHZoTm90MzZOOGdQMWlGX3prX2lWSE9DajNaN1FCYy1yZFVBaDJTTXdkVWpFVDFOWUZJdFNUeUotVDNOR3c3eF83?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "ما تكشفه نزاعات الحكومة مع Anthropic عن حرية التعبير في أمريكا",
+   "summary": "يستعرض المقال الآثار المترتبة على الخلافات القانونية بين السلطات الأمريكية وشركة Anthropic على ضمانات حرية التعبير والنقاش العام. يسلط الضوء على التوازن الدقيق بين تنظيم تقنيات الذكاء الاصطناعي والحفاظ على الحريات الأساسية.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NUXJYdDFkLUdfcUNoaWlhZjdmSFEwaFpxSWRBZ3RQeTlZaEtPQndESGduWmk3Z1dHWWFzV3BzMGFqQVE2aUJFSWZEU1NZeXl3VEtmQ3hrem00aDJ1UzVydHlQdkZMMElLT2RBaGxndnc1c0g4TXc?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "OpenAI تنفي اتهامات بالاستحواذ على أعمال Apple",
+   "summary": "نفت شركة OpenAI ادعاءات تتهمها بالاستفادة غير المشروعة من تقنيات أو بيانات تابعة لشركة Apple. جاء التنصل من الشركة ردّاً على تساؤلات حول أصول بعض قدرات نماذجها الحالية.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWF82SEhfaE1USzg1WTUwWkV3b1VJc1pZRjZoaW12Umw3ZjlfcnllS1lZVmpZNGd0bWt5cW1rOTVYZnV2cmhqck5pUUkwYVlKUHBTMi1VeVVEMF9aZXlzd1BiOFJWU215ZGREUzJrblpBNTZib0d1Q3FjbWlGcFlmeXRHQ19jNUdicWlUdEZB?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-13"
+  },
   {
    "title": "نموذج ذكاء اصطناعي متعدد الأنماط لكشف الأورام المتقدمة في الآفات البنكريلسية",
    "summary": "طوّر باحثون نموذج ذكاء اصطناعي قابل للتفسير يجمع بين أنواع بيانات متعددة للتنبؤ بالأورام المتقدمة في الآفات الكيسية بالبنكرياس. يهدف هذا النموذج إلى تحسين التشخيص المبكر ودعم القرارات السريرية في الكشف عن الحالات الخطرة.",
@@ -17,22 +105,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-13"
-  },
-  {
-   "title": "نجمة موسيقية تنتقد نظارات الذكاء الاصطناعي من ريبان وميتا",
-   "summary": "علقت الفنانة لوردي خلال حفل موسيقي في مدريد على نظارات ريبان الذكية المزودة بتقنيات ذكاء اصطناعي، معبّرة عن عدم رضاها عن التصميم والتطبيقات المرتبطة بها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "برنامج أبل للسيارات الذاتية القيادة ترك إرثاً تقنياً قوياً",
-   "summary": "رغم عدم إكمال أبل لمشروع السيارات ذاتية القيادة، أسهم العمل على المنصة في تطوير معالجات قوية متخصصة في معالجة الذكاء الاصطناعي على الأجهزة بكفاءة عالية، مما انعكس إيجاباً على منتجات الشركة الأخرى.",
-   "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-12"
   },
   {
    "title": "رد أبل الحاسم على تهديد OpenAI",
@@ -56,78 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGlEQ2tqTlhoQlg0MTFmWHZpUFh1VkhSSkpPZUluRnMzb2xRS0paLUZNQTYwd1JKUXg0aDRmWENqWTVSeEhpZ3FzRUVnNV8tY2NORjVzUkNDRXdwRXRHVlRlTnQyYlV1S0xmelRqakQ2RFZrZ2x2b051YnNDYVYxQzlTRlIxMUlNRS1MT2kzQVJtYkNZRkpUOExvaFA0WWFXSUw2aVJaQzZKekZzeVdtU3BmMjR0amZ0Smc?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "عمالقة الذكاء الاصطناعي يواجهون تحديات الإنترنت الحديث",
-   "summary": "تكتشف شركات الذكاء الاصطناعي الكبرى تحديات وضغوطات معروفة للعاملين في الإنترنت منذ سنوات، من قضايا الخصوصية إلى المسؤولية القانونية والتنظيمية.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEtyMlE1dXNvZmNiYi1vU2J6OC01VW5pSEVaLWZNX1FGa3BpZHhRVTI0SEF1QlNqbFg2NUdYTXpZRGFGUXpNcGctb2R1Mm01MVk2azNIS3VrQURUMTR1WV9wVG02UVFuR0Z1blBwTjBEUVlXUWxmeC1BZDlXNVBfcDFvRVB3LXR5VWcxc25KanIzVkpWaVZoaTk4REZLQWg3WjhLVE03LUE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "الذكاء الاصطناعي في حياتنا اليومية",
-   "summary": "تقرير يستعرض دور الذكاء الاصطناعي وتطبيقاته المتنوعة في الأنشطة والخدمات التي يستخدمها الأفراد يومياً، وكيفية تأثيره على جودة الحياة والعمليات اليومية المختلفة.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMERrWDNqMjVWXy1Fcnl5UmF4S0NNYlE2SXNfVkNSWmpGU1FjZUl4dW83ZmE2RUFVcVhObjVmNEdFRE9BN1Flb2U0TWEzd0F4b2JlaEtUWHZoVVpqUWZiM1FQcFhrMnlrSTBRZmFhNGVtX3BhTDIwUGxhWWI4SXBUVklGVlRoQmJTWVkyLU9n0gGTAUFVX3lxTE5rMkd5MXdEN1EwUmVQTHZ0aDAtcUtKdEZnRFdiYTlXQU5vblhYM0pheXVWNUdNM2JkbFh3aTRCbnNLMTFnaFdEd1FIS241S3J6SFRtNXFzRm52TURZaERXczdoYlgwdXNlLVdERXJLdGVRS3N2b3VpYmUwSi03dEpJb2RJUEZhb3diUmRtcVprSEtuWQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "التدقيق المستقل قد يكون مفتاح تنظيم الذكاء الاصطناعي في إلينوي",
-   "summary": "تناقش مقالة احتمالية الاعتماد على عمليات تدقيق مستقلة كآلية أساسية لتنظيم تطبيقات الذكاء الاصطناعي في ولاية إلينوي، بهدف ضمان السلامة والالتزام بمعايير الأمان والأخلاقيات.",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd3g0ckw5eTI3NHdfTFFCSXhoUzNuZ09WQmhXRjd5YU1EWWlYd2FjRExtOGttVXhXTjVJWlFhNmdkc3IzZmxzaGREVnZlbS1aMEtETHAwVWdfdzROaU9CNmlIY3FROGl0R1JKWTM2dHVVekk5MWo4R01qajMwRTdsdVZVWlo0QTFTU3M5VEgwbEd6blpCZk13ZTNDX0FSX1dsZW43djNVMHBjTkZNMDNMdWdfSGZRM2VXQXlHcF9xZm5HUUp4Snc4MUVSRVdxbEZrNGfSAdcBQVVfeXFMTzk2SXE0aUluWTFLX01LT2NJRGRSQUtOZ1plM0N1UXdEeUs3MVE5dlo3eng0bjJPSDFQZjFweTZsV2Y1elZnMkpDZTNmWmxqZ0FLaTF1MV9pRDhjSzV5VXZEM0VMa3dyX0xkUXhXMWcwdXpTd0R1QzhQRHhpa0h4SmwwaW5sSDhOM29BaktsQU9xbWpOV0hMTXB2cXJfZmVjdmpxWlMxZ2hEampMT0gxVXFhdnVkVTQtZEF4RGVpalgzQ2tyck1NNVEyQUZwT1pSdldfLTRlcGs?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "الجوانب المظلمة للذكاء الاصطناعي في حوار مع بول تريمبلي",
-   "summary": "حوار يتناول التأثيرات السلبية المحتملة للذكاء الاصطناعي والمخاطر المرتبطة به، حيث يشارك الكاتب بول تريمبلي وجهات نظره حول القضايا الأخلاقية والاجتماعية الناشئة عن هذه التكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDNTVmw4T1NWU1hQRnMwQzRQQVVPSkFfVWZ3VDBNb29wVjQ4LUk5NDFQdUhwbTF2SU5KNlgwc0IxeE5mRmc0V0FnLUx1b3ZNTko0NUJ1dmoydjRUSjh1NU9uSl84a2RoUS1ibGgzaWlyU1pTQy1xNWtGXy1sOV9zdVREaWdmNHlLb2FJdlp6UENtQzBPSGVlNERlei1GaGszWGMyS0cyVWZmTzUwR2hGc2FjVHBPdVpj?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "الكونغرس الأمريكي ينبغي له نشر تقنيات الذكاء الاصطناعي بدلاً من حجبها",
-   "summary": "رأي يطالب الكونغرس بسياسة أكثر انفتاحاً تجاه تقنيات الذكاء الاصطناعي الأمريكية، بدلاً من احتكارها، لتعزيز الابتكار والتنافسية العالمية والاستفادة الأوسع من هذه التكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEZlQS1pZzFLTzdRYkFocHlJRnduYWlKdGRESmJqZjB3ZGEzMUpORFZUZXhabXN1d2ZVWGJDTjJFdE9iM0FLMVljOXFNbGNrNFhLWlNWejRfcUV1bDNVZ1FlenlBQkVUdFkxdTc0SzVUeGNvaVpCWjJwMDZzaGt6a2NCb9IBiAFBVV95cUxOX0JBbDEtOUJGcjFwQXcxVmJNdXVqOFRodU1nbUR4M2hJQjlwNC1lSkZwcnI4NFo2a0Zjak1laFhfVDZBZ1lVeGZNRF9fNjU3SGxoUXRsdzBGTlVzOHFlUnFCLUl3VnJtLXZBdFpSQzdXS3VtcUtqQ2tDdUdzNDNlcXlGcV84WDZ5?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "احتجاجات حاشدة أمام مقرات OpenAI وAnthropic في سان فرانسيسكو",
-   "summary": "نظّم مئات الأشخاص احتجاجات أمام مكاتب OpenAI وAnthropic في سان فرانسيسكو. عكست الاحتجاجات المخاوف المتزايدة من تأثير تكنولوجيات الذكاء الاصطناعي على المجتمع والعمالة.",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTN6VzVIY0NldnZ2dW1WLVZCM2FaeUJVbW9IRXIwNVBkcGJZWTNZYjRfLXhFdTcyaVVNb04zclNHMnROVE1FYy1CWVBVM2xBd09XaVBlRERLd1g4RWRxak1hZDRYODRWOFlHMHpiM1RxcERrbVRza3Bya2JZTXpsVWdKdjlZVlM2NFE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "شركة تاتا الهندية تخطط لتوظيف آلاف متخصص في نشر الذكاء الاصطناعي",
-   "summary": "أعلنت شركة Tata Consultancy Services عن نيتها توظيف حتى 8900 مهندس متخصص في نشر حلول الذكاء الاصطناعي، بالإضافة إلى سعيها للاستحواذ على شركات متخصصة في مجال الذكاء الاصطناعي لتعزيز قدراتها التقنية في هذا المجال.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHVWMTZfdlZoNHBPbVhNSTktYk5yTzBaN3BOTWc2NjNhczhUWVJVTktLZld3WC0zeGEyREFDZk1kWkFjNzBFaXV0M3JSMC1mNFlPQU9DYy1palFFbTRoUFYxR1JZVDNRVmhCQzREYnMxOGd1cEFhNE9aeTFOVzhDTjF6UVY3b0RzUm5ReWIyQkQ2ZjF2OC1kNG40clpPNzhkTTJZOWJUckc0SUlaWVhaa1VFOVpkVXA3am9aY1I2bWlqODM3N2c?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "الذكاء الاصطناعي يحسّن التنبؤ بعدم استقرار الحمض النووي في سرطان القولون",
-   "summary": "دراسة منهجية محدّثة تقيّم إمكانية استخدام تقنيات الذكاء الاصطناعي في تحليل الشرائح النسيجية للكشف عن عدم الاستقرار الميكروساتيلايتي في أورام القولون والمستقيم، مما قد يحسّن دقة التشخيص والتنبؤ بفعالية العلاجات.",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPZjZwMzlDdnBtNVJLQmRBRWo4ZXJlYW00QnlCT3EycWZuMDN0NGx1TlE4cUEzZmREWjF3MnA4UWt0QkNGTHkxYUhMT3QxSTZIM0xzN3YzNGlzYzF6bThHU0xqRWJOUjZCZUluYVJEVEVRYkZRUzU2MFpLeUVyeWRoTllJVmNEZ2lSZnpJcVN0TmljV3N0M2JxMml5MTlESmUwWDZ3NGk5enNGdlhjUGtGem55ZnF5QjFETHdKb2hpT0g4RjZlbDZuWU5PZkRVbHY3S09wMWVoa2dNdDI3TUZWSjd3WndlTlpnWnJVdWtnVm1ZalBJZUE1QUZwQmRZOGJOOFpEUFhqcjdycHEyY1B0bllremJ1c3k0R2NmNTZRRGI2OFpnZXNRM2ZHZFR4cEZOWC03WnJWUDh3UncweXowODJZY1dFZw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-12"
-  },
-  {
-   "title": "الذكاء الاصطناعي يعزز جاهزية القطاع الدفاعي",
-   "summary": "تطبيقات الذكاء الاصطناعي توسّع من قدرات القطاع الدفاعي في المراقبة والتحليل والتنبؤ، مما يسهم في تحسين سرعة اتخاذ القرارات وتقليل التكاليف التشغيلية والعسكرية.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlE3NGFudndWR0VWbGVCVEFpcjJiZHpSTXFRU3VPVVVtUXItRXQtS2pQbFZMbFJjcUJ4WDIwSmJjREgwZVBxWjBXbDE3RmtCaXljWkg3SURNblU4d2VzTnBCeDBkU2lsdmpRZXNtbk5LVTdpaGpzVzJrTzdQUnFEZG13UWIzT1VjUkoxQzhQRTRKTGt3UXpLbXFHbVJfYnBtc1Q5QkdKRTl2dw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-12"
   }
  ]
