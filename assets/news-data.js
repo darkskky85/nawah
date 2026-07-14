@@ -1,13 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-13T21:42:58.812636+00:00",
+ "updated": "2026-07-14T05:20:03.943324+00:00",
  "items": [
   {
-   "title": "ساتيا ناديلا يحذّر الشركات من مخاطر الاعتماد على نماذج الذكاء الاصطناعي الملكية",
-   "summary": "أطلق الرئيس التنفيذي لمايكروسوفت تحذيراً بشأن المخاطر المحتملة لاستخدام الشركات نماذج ذكاء اصطناعي حكرية من مختبرات متخصصة، في إشارة إلى مخاوف معروفة في أوساط متخصصي التكنولوجيا حول احتمال تحول هذه الخدمات إلى أداة للسيطرة أو الاستغلال.",
+   "title": "رجال التكنولوجيا الأثرياء يعودون للعمل بقوة مجدداً خوفاً من فرص الذكاء الاصطناعي",
+   "summary": "يندفع الأثرياء من رواد قطاع التكنولوجيا للعودة إلى العمل الشاق، مدفوعين بخوف من تفويت اللحظة الفاصلة لتطور الذكاء الاصطناعي، وبجاذبية الحصول على أرباح أكثر ضخامة. يعكس هذا الاتجاه إدراك هؤلاء الرياديين بأهمية هذه المرحلة التاريخية من تطور التكنولوجيا.",
+   "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "رئيس المنتج في أوبر يتحدث عن الفنادق والسيارات الآلية ورؤية الشركة المستقبلية",
+   "summary": "أوضح ساشين كانسال رئيس قسم المنتجات بأوبر توجهات الشركة نحو الخدمات المالية وتطورها للسيارات ذاتية القيادة وتشغيل مختبرات متخصصة. كما أشار إلى أن تطبيقات الذكاء الاصطناعي بدأت تظهر في خدماتها بطرق ملموسة يلاحظها المستخدمون.",
+   "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "شركة متخصصة في توليد الفيديوهات تجمع 439 مليون دولار برأس مال يتخطى ملياري دولار",
+   "summary": "حققت شركة PixVerse جولة تمويل بقيمة 439 مليون دولار لتطوير نماذجها وتوسيع حضورها العالمي. ستستخدم الشركة هذه الأموال لتحسين تقنية نماذج العالم لديها والوصول إلى عملاء في أسواق جديدة.",
+   "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "مخاطر فقدان الوظائف بسبب الذكاء الاصطناعي في ولاية تينيسي",
+   "summary": "تقرير يسلط الضوء على المخاطر المتزايدة لفقدان الوظائف في ولاية تينيسي نتيجة تطور تقنيات الذكاء الاصطناعي وتطبيقاتها المتسارعة في القطاعات الاقتصادية المختلفة.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWl9PbHNpWHBQdnR1TEUtaVJLVUNyNW5DaDZMVGtRRjFwa0JYRWUtZElaeEUyTDlObWFMYmE1aEwtUklKMnlHUGNHcVpQY0pYZUlYSmNHZUtIVV9Ia2xEREd2ekZFV0hMcWJYM2pGSW16aFdzLWZySWdVRVlVRDljUWxwQXNxNE5mOEU5WkxkTWJ0ZDlQaGx3RC1mWQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "شركة Nous Research لصانعي وكيل Hermes تستهدف تمويلاً جديداً بتقييم 1.5 مليار دولار",
+   "summary": "تسعى الشركة لجمع 75 مليون دولار على الأقل في جولة تمويل برئاسة Robot Ventures، مع مشاركة قوية من USV وعدد من المستثمرين البارزين في المجال.",
+   "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "ساتيا نادييلا يطلق تحذيراً حول مخاطر الذكاء الاصطناعي للشركات",
+   "summary": "حذّر قيادي تقني بارز من مخاوف تتعلق بشركات الذكاء الاصطناعي الكبرى التي تبيع نماذج ملكية، معتبراً أنها قد تتصرف كـ\"حصان طروادة\" لتعزيز مصالح خاصة بها على حساب المستخدمين.",
    "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "مساعد Siri الذكي يحدّث تجربة استخدام آيفون بشكل ملموس",
+   "summary": "نظام تشغيل iOS الجديد دخل مرحلة الاختبار العام للمستخدمين، حيث أظهرت النسخة الحديثة تحسينات ملحوظة في قدرات المساعد الذكي وتفاعله مع المستخدم.",
+   "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "أبل تتهم OpenAI بسرقة أسرار تصنيع المنتجات",
+   "summary": "رفعت أبل دعوى قضائية ضد OpenAI تتهمها بمحاولة استقطاب موظفيها وطلب عينات من منتجاتها غير المُطلقة. تركز الدعوى على ادعاءات تتعلق بسرقة معلومات سرية حول الأجهزة والتكنولوجيا المملوكة لأبل.",
+   "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "تطبيق Waze يدمج مساعد جوجل الذكي في خدماته",
+   "summary": "أضافت جوجل مزايا جديدة تعتمد على الذكاء الاصطناعي إلى تطبيق الملاحة Waze، بما فيها دمج مساعد Gemini لتخصيص رحلات المستخدمين. التحديثات الأربعة الجديدة تركز على تحسين تجربة السائقين من خلال المعالجة الذكية للبيانات.",
+   "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "نجمة موسيقية تنتقد نظارات الذكاء الاصطناعي من Meta وRay-Ban",
+   "summary": "أعربت الفنانة لورد عن استيائها من نظارات الذكاء الاصطناعي خلال أداء لها في مهرجان في مدريد، في إشارة محتملة إلى النظارات الذكية من Ray-Ban بدعم Meta. انتقادها يعكس تخوفاً متزايداً من استخدام تقنيات الذكاء الاصطناعي في الأجهزة القابلة للارتداء.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "برنامج أبل للسيارات ذاتية القيادة أسهم في تطوير معالجات ذكاء اصطناعي قوية",
+   "summary": "رغم توقف برنامج أبل لتطوير سيارات ذاتية القيادة، ترك البرنامج إرثاً تكنولوجياً مهماً يتمثل في معالجات قوية للذكاء الاصطناعي. احتاج البرنامج إلى معالجة ذكية متقدمة على الجهاز نفسه، مما دفع أبل لابتكار شرائح حسابية عالية الأداء استفادت منها منتجاتها اللاحقة.",
+   "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-07-13"
   },
   {
@@ -43,91 +123,11 @@ window.NEWS_DATA = {
    "date": "2026-07-13"
   },
   {
-   "title": "تحسينات Siri الذكية تعيد تشكيل طريقة استخدام آيفون",
-   "summary": "بدأت النسخة التجريبية الأولى من iOS 27 توزيعها على المستخدمين العاديين، حاملة تحسينات في مساعد Siri الصوتي، مع ملاحظات أولية عن تأثيرها على تجربة استخدام أجهزة آيفون اليومية.",
-   "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "أبل تكشف ادعاءات صادمة ضد OpenAI في قضية سرقة أسرار تجارية",
-   "summary": "رفعت أبل دعوى قضائية ضد OpenAI تتهمها بمحاولة سرقة معلومات سرية من خلال موظفي أبل السابقين. وفقاً للدعوى، كان مسؤولو OpenAI يطلبون من المرشحين للعمل إحضار مكونات وعينات منتجات غير معلنة أثناء المقابلات الوظيفية.",
-   "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "تطبيق Waze يستقبل مميزات ذكية بدعم من Gemini",
-   "summary": "تدمج غوغل مساعدها الذكي Gemini في تطبيق الملاحة Waze، مما يتيح للمستخدمين تخصيص رحلاتهم بشكل أفضل. التحديثات الجديدة تشمل ميزات محسّنة في تقارير المحادثات والتنقل.",
-   "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "Lorde تنتقد نظارات Ray-Ban الذكية والتأثيرات الجمالية للتكنولوجيا",
-   "summary": "انتقدت المغنية Lorde نظارات الذكاء الاصطناعي من Ray-Ban وMeta خلال حفل موسيقي في مدريد، معبّرة عن عدم رضاها عن الاتجاه نحو دمج التكنولوجيا في الأشياء الشخصية والملابس.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "برنامج أبل للسيارات ذاتية القيادة ترك إرثاً في معالجات الذكاء الاصطناعي",
-   "summary": "رغم عدم تحقيق برنامج السيارات ذاتية القيادة التجاري في أبل، إلا أنه ساهم في تطوير معالجات قوية للذكاء الاصطناعي على الجهاز. احتاجت أبل لمعالجات قوية لمعالجة البيانات محلياً، وهو ما أثر على تطور رقاقات أبل الحديثة.",
-   "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-13"
-  },
-  {
    "title": "اكتشاف جديد من Anthropic حول قدرات نماذج الذكاء الاصطناعي",
    "summary": "نشرت شركة Anthropic، صاحبة أعلى تقييم في مجال الذكاء الاصطناعي حالياً، بحثاً جديداً حول خصائص نماذجها الذكية. البحث يسلط الضوء على مقدرات وحدود معينة للنماذج الحالية.",
    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
    "source": "MIT Tech Review AI",
    "tag": "أبحاث",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "أبل تقاضي OpenAI بتهمة سرقة أسرار مع موظفين سابقين",
-   "summary": "اتهمت أبل شركة OpenAI بالتآمر مع موظفيها السابقين للحصول على أسرار تجارية محمية. تشير الدعوى إلى استخدام ثغرة تقنية لنقل معلومات سرية.",
-   "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "آبل وسامسونج تتصدران السوق وسط تراجع تاريخي في شحنات الهواتف الذكية",
-   "summary": "واصلت شركات صناعة الهواتف الذكية الكبرى نموها رغم نقص المكونات الإلكترونية والضغوط الاقتصادية العالمية. احتفظت آبل وسامسونج بقيادتهما في السوق بينما انخفضت الشحنات الإجمالية إلى مستويات قياسية منخفضة.",
-   "url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "تطبيق Waze يستقبل ميزات جديدة مدعومة بالذكاء الاصطناعي",
-   "summary": "أضافت Google ميزات جديدة إلى تطبيق Waze معتمدة على مساعدها الذكي Gemini، بهدف تعزيز التخصيص وتحسين تجربة المستخدم في التنقل، مما يعزز موقع التطبيق أمام منافسين مثل Apple Maps.",
-   "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "المعركة ضد مراكز بيانات الذكاء الاصطناعي الضخمة لم تبدأ بعد",
-   "summary": "يتجدد النقاش حول المخاوف البيئية والاقتصادية المرتبطة ببناء مراكز بيانات ضخمة لدعم نماذج الذكاء الاصطناعي. يتوقع المحللون تصعيداً في المقاومة المحلية والسياسية ضد هذه المشاريع في السنوات القادمة.",
-   "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "آخر أخبار الذكاء الاصطناعي على شاشة ABC News",
-   "summary": "منصة إخبارية تغطي التطورات والأخبار العاجلة المتعلقة بتقنيات الذكاء الاصطناعي وتطبيقاتها المختلفة.",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-13"
   }
  ]
