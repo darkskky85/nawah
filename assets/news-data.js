@@ -1,58 +1,90 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-14T05:20:03.943324+00:00",
+ "updated": "2026-07-14T10:28:28.889858+00:00",
  "items": [
   {
-   "title": "رجال التكنولوجيا الأثرياء يعودون للعمل بقوة مجدداً خوفاً من فرص الذكاء الاصطناعي",
-   "summary": "يندفع الأثرياء من رواد قطاع التكنولوجيا للعودة إلى العمل الشاق، مدفوعين بخوف من تفويت اللحظة الفاصلة لتطور الذكاء الاصطناعي، وبجاذبية الحصول على أرباح أكثر ضخامة. يعكس هذا الاتجاه إدراك هؤلاء الرياديين بأهمية هذه المرحلة التاريخية من تطور التكنولوجيا.",
+   "title": "رؤساء التكنولوجيا الناجحون يعودون للعمل الشاق خوفاً من تفويت ثورة الذكاء الاصطناعي",
+   "summary": "يسعى مؤسسو الشركات الناشئة الذين حققوا ثروات ضخمة إلى الانخراط مجدداً في ريادة الأعمال، دفعهم القلق من فقدان اللحظة التاريخية لتطور الذكاء الاصطناعي والفرصة لتحقيق أرباح إضافية كبيرة.",
    "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-14"
   },
   {
-   "title": "رئيس المنتج في أوبر يتحدث عن الفنادق والسيارات الآلية ورؤية الشركة المستقبلية",
-   "summary": "أوضح ساشين كانسال رئيس قسم المنتجات بأوبر توجهات الشركة نحو الخدمات المالية وتطورها للسيارات ذاتية القيادة وتشغيل مختبرات متخصصة. كما أشار إلى أن تطبيقات الذكاء الاصطناعي بدأت تظهر في خدماتها بطرق ملموسة يلاحظها المستخدمون.",
+   "title": "رئيس المنتجات في أوبر يكشف خطط الفنادق والسيارات ذاتية القيادة والخدمات المالية",
+   "summary": "أعرب مسؤول بأوبر عن طموحات الشركة في توسيع خدمات الفنادق والمركبات ذاتية القيادة وتقديم خدمات مالية، مع الاستفادة من الذكاء الاصطناعي بطرق ملموسة تؤثر على تجربة العملاء والسائقين.",
    "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-14"
   },
   {
-   "title": "شركة متخصصة في توليد الفيديوهات تجمع 439 مليون دولار برأس مال يتخطى ملياري دولار",
-   "summary": "حققت شركة PixVerse جولة تمويل بقيمة 439 مليون دولار لتطوير نماذجها وتوسيع حضورها العالمي. ستستخدم الشركة هذه الأموال لتحسين تقنية نماذج العالم لديها والوصول إلى عملاء في أسواق جديدة.",
+   "title": "شركة PixVerse لتوليد الفيديو تجمع 439 مليون دولار وتتجاوز قيمتها ملياري دولار",
+   "summary": "جمعت منصة PixVerse لتوليد المحتوى الفيديوي بتقنية الذكاء الاصطناعي أموالاً جديدة لتحسين نماذجها وتوسيع انتشارها في أسواق جديدة حول العالم.",
    "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-14"
   },
   {
-   "title": "مخاطر فقدان الوظائف بسبب الذكاء الاصطناعي في ولاية تينيسي",
-   "summary": "تقرير يسلط الضوء على المخاطر المتزايدة لفقدان الوظائف في ولاية تينيسي نتيجة تطور تقنيات الذكاء الاصطناعي وتطبيقاتها المتسارعة في القطاعات الاقتصادية المختلفة.",
+   "title": "مخاطر فقدان الوظائف بسبب الذكاء الاصطناعي في تينيسي",
+   "summary": "يثير التقدم في تقنيات الذكاء الاصطناعي مخاوف متزايدة بشأن تأثيره على سوق العمل في ولاية تينيسي. يناقش التقرير الآثار المحتملة على القطاعات المختلفة والحاجة إلى استعدادات اقتصادية وتعليمية للتعامل مع هذا التحول.",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWl9PbHNpWHBQdnR1TEUtaVJLVUNyNW5DaDZMVGtRRjFwa0JYRWUtZElaeEUyTDlObWFMYmE1aEwtUklKMnlHUGNHcVpQY0pYZUlYSmNHZUtIVV9Ia2xEREd2ekZFV0hMcWJYM2pGSW16aFdzLWZySWdVRVlVRDljUWxwQXNxNE5mOEU5WkxkTWJ0ZDlQaGx3RC1mWQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-14"
   },
   {
-   "title": "شركة Nous Research لصانعي وكيل Hermes تستهدف تمويلاً جديداً بتقييم 1.5 مليار دولار",
-   "summary": "تسعى الشركة لجمع 75 مليون دولار على الأقل في جولة تمويل برئاسة Robot Ventures، مع مشاركة قوية من USV وعدد من المستثمرين البارزين في المجال.",
+   "title": "استخدام الذكاء الاصطناعي كسلاح ضد المؤسسات",
+   "summary": "يتناول التقرير كيف يمكن توظيف تقنيات الذكاء الاصطناعي بطرق ضارة موجهة ضد الشركات والمؤسسات. يركز على المخاطر الأمنية والاقتصادية الناشئة من الاستخدام العدائي لهذه التكنولوجيا.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hybVUzSUxqNkwwZmRzVHZ6MHdXXzYtRW10WUxNMlNpZWpERTU3ak1zSGJsRV9IWnMtbk1jZ0xmemwwVUNZZXNIbDI0RFEwNkI4RDFQRDliU2VfT2JaRHNRS1dLRUNJOHg4TEdwaUNQaDhJLWxrd1ByOC1aam9SUnprNDBxWmFiLVhvWDktME9WTjd1SWpGTG96RTFvUE5GTFpWZnIzSQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "جيميني يتوسع ليدعم لغات جنوب شرق آسيا",
+   "summary": "طور فريق جيميني قدرات جديدة لفهم ومعالجة اللغات المنتشرة في منطقة جنوب شرق آسيا. يعكس هذا التوسع التزام النموذج بتقديم خدمات ذات صلة لمستخدمين متنوعين حول العالم.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUk9BQldjc1p3N05Yek43S0R3emxDcGZJdVhBVEZUUW9CVFFMY2xIaW14OE4tVXF2V1JQSXpOcGQxaXBNN3MxTzdlOUpZdkhCODJkN2dqS3RZaXdPbW9GTnZDSXZtWUdVd0trckZEZ3BHMW5RVFkxdTEtUXRyc2Jtb1FvYjNCcU95NVZRRXhhcktKdkRFREpz?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "جامعة فينيكس تتعاون مع OpenAI لتطوير التعليم المدعوم بالذكاء الاصطناعي",
+   "summary": "أعلنت جامعة فينيكس عن شراكة استراتيجية مع OpenAI لدمج تقنيات الذكاء الاصطناعي في منصاتها التعليمية. تهدف التعاون إلى تحسين تجارب التعلم وتطوير مهارات الخريجين وتعزيز الأبحاث الأكاديمية.",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZnNaT0V5RzJLQ1duX0k4elh4TWhBTzhGOVBwUHdjUjJHcDJBYWdFak1VMEhIa0FzNTAxb0g1YmYtRVE2MGo0dzdhRXhwdVJZU2dsbnBwMEwxZ25veVROV29vUnBQLVRteGlyYk5DMHgzZDRqYVpvVUc1WmM0V1JGcG8tR3hoUlRDemtZdjU5MDVoUVNVTVVCVndndmE1NjdxMU5YTFdHLWNmVk0ybDB2UUZsQkpnTl81OGlELWpocXUxTUI1dXNPdFB0QUNlcC0yNW1NSE5kOFRxa1paZF85eEQ3amFhRDVmNEZna2Q2MDdETnRveENwX1dfdVI0ZVFLT0c2VlNoXzBLQQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "شركة نوس ريسيرتش لتطوير وكيل هيرميس تفاوض للحصول على تمويل جديد بتقييم 1.5 مليار دولار",
+   "summary": "تسعى الشركة لجمع 75 مليون دولار على الأقل بقيادة صندوق Robot Ventures، مع مشاركة قوية من Union Square Ventures والمستثمرين البارزين. يعكس هذا التمويل الاهتمام المتزايد برؤوس الأموال بتطبيقات الذكاء الاصطناعي المتخصصة.",
    "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-13"
   },
   {
-   "title": "ساتيا نادييلا يطلق تحذيراً حول مخاطر الذكاء الاصطناعي للشركات",
-   "summary": "حذّر قيادي تقني بارز من مخاوف تتعلق بشركات الذكاء الاصطناعي الكبرى التي تبيع نماذج ملكية، معتبراً أنها قد تتصرف كـ\"حصان طروادة\" لتعزيز مصالح خاصة بها على حساب المستخدمين.",
+   "title": "ساتيا ناديلا يحذّر الشركات من مخاطر تبعية أنظمة الذكاء الاصطناعي الملكية",
+   "summary": "أثار الرئيس التنفيذي لمايكروسوفت مخاوف من أن معامل الذكاء الاصطناعي الكبرى التي تبيع نماذج احتكارية قد تعمل كـ«حصان طروادة» للشركات المستخدمة. يسلط التحذير الضوء على قلق متنام في السيليكون فالي بشأن الاعتماد على موردين محتكرين للتقنيات الأساسية.",
    "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-13"
   },
   {
-   "title": "مساعد Siri الذكي يحدّث تجربة استخدام آيفون بشكل ملموس",
-   "summary": "نظام تشغيل iOS الجديد دخل مرحلة الاختبار العام للمستخدمين، حيث أظهرت النسخة الحديثة تحسينات ملحوظة في قدرات المساعد الذكي وتفاعله مع المستخدم.",
+   "title": "نيويورك تفرض حظراً على إنشاء مراكز بيانات فائقة الحجم",
+   "summary": "وقّعت حاكمة الولاية كاثي هوكول أول حظر فيدرالي أمريكي على مراكز البيانات فائقة الحجم لمدة تصل إلى سنة، ما يعكس قلقاً من الضغط على الموارد الطاقية والبيئية. تشريع إضافي قيد الانتظار قد يفرض قيوداً أشد على التطورات المستقبلية.",
+   "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "تحديثات سيري الذكية تعيد تشكيل تجربة استخدام آيفون",
+   "summary": "أطلقت أبل النسخة التجريبية العامة الأولى من iOS 27 التي تتضمن تحسينات كبيرة على مساعد سيري. تشير التقييمات المبكرة للنظام إلى أن تطبيق التكامل الجديد بين الذكاء الاصطناعي وتجربة المستخدم يحقق جزءاً من الوعود التي قدمتها الشركة في حدثها السنوي.",
    "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
    "source": "The Verge AI",
    "tag": "منتجات",
@@ -96,38 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "تصريحات ألتمان حول مراكز البيانات الفضائية تعكس آراء خبراء في المجال",
-   "summary": "رد سام ألتمان على اتهام إيلون ماسك له بالاحتيال بتعليق حول ما اعتبره وعوداً غير واقعية حول مراكز بيانات فضائية قصيرة الأجل، وهي نقطة متفق عليها عموماً بين المتخصصين في صناعة التكنولوجيا.",
-   "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "هل يجب للذكاء الاصطناعي أن يساعد في إخفاء الجرائم الخطيرة؟",
-   "summary": "تساؤل فلسفي حول الآثار الأخلاقية لأنظمة ذكاء اصطناعي مصممة بالكامل لتلبية تفضيلات المستخدم دون قيود أخلاقية، وما يترتب على ذلك من مشاكل في المجتمع.",
-   "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "Anthropic توفّر خطط تسعير محلية لـ Claude في الهند",
-   "summary": "بدأت شركة Anthropic توفير خطط اشتراك لنموذجها Claude بعملة الروبية الهندية، مما يعكس التوسع في أسواق جديدة خارج الولايات المتحدة والاستجابة لاحتياجات المستخدمين المحليين.",
-   "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "اكتشاف جديد من Anthropic حول قدرات نماذج الذكاء الاصطناعي",
-   "summary": "نشرت شركة Anthropic، صاحبة أعلى تقييم في مجال الذكاء الاصطناعي حالياً، بحثاً جديداً حول خصائص نماذجها الذكية. البحث يسلط الضوء على مقدرات وحدود معينة للنماذج الحالية.",
-   "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
    "date": "2026-07-13"
   }
  ]
