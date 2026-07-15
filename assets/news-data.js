@@ -1,7 +1,95 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-14T21:45:23.010580+00:00",
+ "updated": "2026-07-15T05:21:24.859708+00:00",
  "items": [
+  {
+   "title": "باحث في OpenAI يسعى لتأسيس شركة ناشئة متخصصة في اكتشاف الأدوية بالذكاء الاصطناعي",
+   "summary": "يجري الباحث مايلز وانج من OpenAI محادثات لإطلاق منصة متخصصة في استخدام الذكاء الاصطناعي لاكتشاف الأدوية، وتقدر قيمة التمويل المطلوب بحوالي ملياري دولار. تعكس هذه الخطوة اهتماماً متزايداً من المستثمرين بتطبيق تقنيات الذكاء الاصطناعي في تحقيق اختراقات في العلوم الحيوية.",
+   "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "تجمّع عالمي للقادة والخبراء في مجال الذكاء الاصطناعي بالفاتيكان",
+   "summary": "ينعقد اجتماع في موقع بورغو لوداتو سي بالفاتيكان يضم قادة عالميين وحائزي جوائز نوبل وخبراء متخصصين في مجال الذكاء الاصطناعي. يعكس التجمع الاهتمام المتزايد بمناقشة تأثير التكنولوجيا على المجتمعات والأخلاقيات.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQWtOVThVVUFfQjdweXBIWUNtaTZweFNaNl9wc0M3SnoxVGVkcmUtdU1HYTR1Z0tJdlFscmxEVG9zVHA3RXM5MUpVdDhZbkJMeVRWeFFQMmN2R0lkVHhXcjYzenFCNUxWcW1sMXhHZUNIVXAtbWtZV2NwMFpmNGY0MlRYYmdDOHFSMmFCU3pkb2tWRVBUTDY5MlhmWndSSmxIa1plOEhsdDZ4cUZVNzdlcEpoVnZONmtpVHc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "استخدام الذكاء الاصطناعي في تقييم المهارات الطبية والاتصالية",
+   "summary": "درست كلية طبية نماذج مرضى معززة بالذكاء الاصطناعي لتقييم كفاءات الطلاب في مجالات الأخلاقيات والاتصال والسلوك المهني. توضح التجربة الاستكشافية إمكانية دمج التكنولوجيا في البرامج التعليمية الطبية.",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUUNScmtNMkhaaml6S3UzRG9jVWJuSTRhdEJWeExmRUExV2FpYUlkTG5HeUFId210OERyTkVsMmktSTFxWGdCOUxENklKc0oyYXJwcjdJWUhXblUzQ29ZZ05LVkJiMlNvZFBpelpEeElJQklzTVlmLU9IdnBxcDNHbndGZnhOUFJKNnIyb19yam1KNWdtb2NjMFpMYk5pSjQyZlg1OEduUUdueVBBYzd1NmxrUlFoRUpNTER0SjB3Vmh1RnVwOTFMV05lTmE5bTdqU0N4UzBhODNRYnBCRzZOSGN0UjRCUmNYR2FTWG9hZDBZVGFQTDVLUnNFR1FESzE5TDJKYWRod2pCeVM3cHFDbk03MzRuM0NDb19DMnl1Z0wwQ0FydERn?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "نجمة موسيقية تنتقد نظارات الذكاء الاصطناعي",
+   "summary": "عبّرت الفنانة لورد عن انتقادها لنظارات الذكاء الاصطناعي، واصفة إياها بأنها غير جذابة. أثارت تعليقاتها نقاشاً حول الواقعية والمصداقية وسط تطور تقنيات الوسائط المرئية.",
+   "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "أوبنآي تطلق جهازها الأول: مكبر صوت بدون شاشة وقابل للحركة",
+   "summary": "يُعتبر الجهاز الأول من أوبنآي مكبراً صوتياً خالياً من الشاشة يتضمن عناصر ميكانيكية تتحرك بشكل مستقل. صُمّم الجهاز ليعمل كرفيق رقمي وتجسيد فعلي لنموذج تشات جي بي تي.",
+   "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "أوبنآي ترفض مزاعم دعوى قضائية من أبل",
+   "summary": "ردّت أوبنآي على دعوى قانونية رفعتها شركة أبل بشأن أسرار تجارية، معلنة أن الاتهامات تفتقر إلى الأساس القانوني. يأتي الرد ضمن نزاع أوسع بين الشركات حول الملكية الفكرية.",
+   "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "نموذج أوبنآي الجديد يحذف الملفات تلقائياً دون تنبيه",
+   "summary": "أفاد مستخدمون بأن نموذج جي بي تي 5.6 سول يقوم بحذف الملفات والبيانات بدون إشعار مسبق. كانت أوبنآي قد أفصحت عن المشكلة سابقاً، مما يشير إلى استمرار الثغرة في الإصدارات الحالية.",
+   "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "أوبن إيه آي قد تعلن عن مكبر صوت ذكي يعمل مع تشات جي بي تي هذا العام",
+   "summary": "وفقاً لتقرير من بلومبرج، تخطط أوبن إيه آي للكشف عن جهازها الأول وهو مكبر صوت ذكي يتيح التفاعل الصوتي مع تشات جي بي تي. سيتضمن الجهاز كاميرا وحساسات إضافية لفهم البيئة المحيطة، لكن بدون شاشة عرض.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "أداة Grok للبرمجة من سبيس إكس كانت ترفع قواعد بيانات المستخدمين بالكامل للسحابة",
+   "summary": "كُشف أن أداة Grok Build من سبيس إكس آي كانت تحمّل مستودعات أكواد المستخدمين كاملة إلى خدمات جوجل السحابية دون علم. توقفت الشركة عن هذه الممارسة بعد نشر الكشفيات، حيث أظهرت الأبحاث كيف كانت الأداة تجميع وترفع المستودعات الكاملة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "دعوى قضائية ضد ميتا بتهمة استخدام ذكاء اصطناعي متحيز في عمليات الإنهاء الجماعي",
+   "summary": "رفع 26 موظفاً سابقاً من ميتا دعوى قضائية ضد الشركة بدعوى استخدامها أدوات ذكاء اصطناعي لاستهداف الموظفين في إجازات بشكل متحيز قبل إنهاء خدماتهم. يؤكد الموظفون أن الشركة اعتمدت على بيانات الأداء المجمعة لاتخاذ قرارات الفصل.",
+   "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-14"
+  },
+  {
+   "title": "جوجل ستعرض صور مقترحة على الصفحة الرئيسية قبل البدء بالبحث",
+   "summary": "تطلق جوجل تغييراً على الصفحة الرئيسية لخدمة الصور بمناسبة مرور 25 عاماً على إطلاقها. بدلاً من صفحة فارغة تقريباً تحتوي على شريط البحث فقط، ستظهر الصفحة الجديدة مجموعة من الصور التي تعتقد جوجل أن المستخدم قد يهتم بها حتى قبل إجراء أي بحث.",
+   "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-14"
+  },
   {
    "title": "آبل تطلق نسخة بيتا عامة من مساعدها الذكي الجديد Siri",
    "summary": "أتاحت آبل للمستخدمين العاديين تجربة نسخة معاد تطويرها من مساعدها الذكي Siri عبر إصدار iOS 27 بيتا العام. يتيح الإصدار الوصول المبكر لمزايا الذكاء الاصطناعي الجديدة قبل الإطلاق الرسمي في الخريف.",
@@ -38,94 +126,6 @@ window.NEWS_DATA = {
    "title": "رئيس DeepMind يدعو لإنشاء جهة تنظيمية مستقلة لتقييم نماذج الذكاء الاصطناعي المتقدمة",
    "summary": "اقترح Demis Hassabis إنشاء هيئة معايير متخصصة تشبه نموذج FINRA المالي، تختص بفحص نماذج الذكاء الاصطناعي المتقدمة ووضع أفضل الممارسات لإطلاقها. يهدف الاقتراح إلى تطوير معايير موحدة للسلامة والمسؤولية.",
    "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-14"
-  },
-  {
-   "title": "OpenAI قد تعلن عن مكبر صوت ذكي مدعوم بـ ChatGPT هذا العام",
-   "summary": "وفقاً لتقارير إخبارية، تعمل OpenAI على جهاز مكبر صوت ذكي يتيح التفاعل المباشر مع ChatGPT دون شاشة عرض. سيتضمن الجهاز كاميرا وحساسات إضافية لاستشعار البيئة المحيطة وفهم السياق بشكل أفضل.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-14"
-  },
-  {
-   "title": "أداة برمجية من SpaceX تحمّل أكواد المستخدمين كاملة إلى السحابة دون إذن",
-   "summary": "اكتشفت الباحثة Cereblab أن أداة Grok Build من SpaceX كانت تنقل مستودعات أكواد المستخدمين بالكامل إلى خوادم Google Cloud دون علمهم أو موافقتهم، وأوقفت الشركة الميزة بعد الإبلاغ عنها. يثير الكشف تساؤلات حول خصوصية البيانات الحساسة للمطورين.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-14"
-  },
-  {
-   "title": "مجموعة موظفين سابقين تقاضي ميتا بسبب استخدام ذكاء اصطناعي متحيز في التسريحات",
-   "summary": "يرفع 26 موظفًا سابقًا بشركة ميتا دعوى قضائية ضدها، متهمين إياها باستخدام أدوات ذكاء اصطناعي لاستهداف عمال في إجازة بشكل غير عادل لتسريحهم. يزعمون أن الشركة اتخذت قرارات الفصل بناءً على بيانات أداء جمعتها خوارزمية متحيزة.",
-   "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-14"
-  },
-  {
-   "title": "صور مقترحة بذكاء على صفحة بحث الصور قبل أن تكتب استعلامك",
-   "summary": "احتفالاً بمرور 25 سنة على تأسيس خدمة بحث الصور، تعدّل غوغل الصفحة الرئيسية لتعرض صورًا مختارة بناءً على اهتماماتك قبل أن تبدأ البحث. بدلاً من صفحة فارغة بسيطة، ستجد معرضًا من الصور الموصى بها.",
-   "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-14"
-  },
-  {
-   "title": "Spotify تضيف ميزة محادثة ذكية للبحث عن الموسيقى والمحتوى",
-   "summary": "بدأت Spotify تختبر ميزة جديدة تتيح لمشتركي Premium التنقل والاستماع عبر محادثة مع روبوت محادثة ذكي يفهم طلباتهم. الميزة تظهر في واجهة التطبيق وتدعم البحث عن موسيقى وكتب صوتية وبودكاست.",
-   "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-14"
-  },
-  {
-   "title": "غوغل تحدّث بحث الصور بذكاء اصطناعي مرقّى بمناسبة عيد ميلادها الـ 25",
-   "summary": "يستخدم التحديث الجديد لبحث الصور اهتماماتك الفردية لعرض معرض محدّث بشكل مستمر من الصور الموصى بها حسب تفضيلاتك.",
-   "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-07-14"
-  },
-  {
-   "title": "نيويورك تفرض حظرًا سنويًا على بناء مراكز البيانات",
-   "summary": "أقرت نيويورك حظرًا مدته سنة على بناء مراكز بيانات جديدة، مما يعكس مخاوف متنامية حول استهلاك الطاقة والموارد اللازمة لتطبيقات الذكاء الاصطناعي. قد يصبح هذا الإجراء نموذجًا يحتذيه متشككون في صناعة الذكاء الاصطناعي.",
-   "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-07-14"
-  },
-  {
-   "title": "صور غوغل تتبنى تصميماً جديداً مشابهاً لمنصة بينترست",
-   "summary": "أضافت غوغل معرضاً مخصصاً في صور غوغل يعرض صوراً منتقاة حسب اهتمامات المستخدم وسجل تصفحه، مما يركز على تحسين تجربة اكتشاف المحتوى البصري.",
-   "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-14"
-  },
-  {
-   "title": "نيويورك توقف الموافقة على بناء مراكز بيانات جديدة",
-   "summary": "أصدرت ولاية نيويورك قراراً تاريخياً لوقف الموافقة على مشاريع مراكز بيانات كبيرة، مستشهدة بمخاوف بشأن الطلب المتزايد على الكهرباء والمياه بسبب نمو التطبيقات المدفوعة بالذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-14"
-  },
-  {
-   "title": "شركة ريفليكشن توقع عقد حوسبة بقيمة مليار دولار مع نيبيوس",
-   "summary": "وقعت شركة ريفليكشن إيه آي عقداً بقيمة مليار دولار للوصول إلى موارد الحوسبة لدى منصة نيبيوس، وهي شركة متخصصة بتطوير تقنيات الذكاء الاصطناعي مفتوحة المصدر.",
-   "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-14"
-  },
-  {
-   "title": "المنافسة الحقيقية في الذكاء الاصطناعي قد تتحول نحو النماذج المفتوحة",
-   "summary": "يرى الرئيس التنفيذي لمنصة هاغينغ فيس أن الشركات تميل بشكل متزايد نحو استخدام نماذج الذكاء الاصطناعي مفتوحة المصدر لأسباب اقتصادية وعملية، مما قد يقلل من الاعتماد على النماذج الضخمة الحدودية.",
-   "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-14"
