@@ -1,7 +1,95 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-15T16:12:42.085997+00:00",
+ "updated": "2026-07-15T21:45:38.298618+00:00",
  "items": [
+  {
+   "title": "أوبن إيه آي تطلق لوحة مفاتيح بـ 230 دولار وسط نزاع قانوني مع أبل",
+   "summary": "أطلقت أوبن إيه آي لوحة مفاتيح مضيئة مصممة للعمل مع تطبيقها البرمجي الذكي، في وقت تخوض فيه معركة قانونية مع شركة أبل بسبب اتهامات تتعلق بسرقة تقنيات الأجهزة. تعكس الخطوة توجه الشركة نحو توفير أدوات متكاملة للمطورين.",
+   "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "سهم سبيس إكس ينخفض إلى 135 دولاراً قبل إطلاق ستارشيب",
+   "summary": "شهد سهم شركة سبيس إكس انخفاضاً تدريجياً من مستويات ما بعد الإدراج المرتفعة، مما يشير إلى أن السوق بدأ يعيد تقييم الوعود التي قطعها الرئيس التنفيذي إيلون ماسك قبل وبعد طرح الشركة للاكتتاب العام.",
+   "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "شركة ثينكينج ماشينز تكشف عن نموذجها الذكي الأول إينكلينج",
+   "summary": "أطلقت شركة ثينكينج ماشينز نموذجاً ذكياً جديداً تحت اسم إينكلينج، ليكون إثباتاً عملياً على رؤيتها بعد عام ونصف من تطوير البنية التحتية للذكاء الاصطناعي بعيداً عن الأضواء. يمثل النموذج محاولة الشركة تقديم بديل للحلول الموحدة السائدة.",
+   "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "اختراق يكشف أن منصة سونو استخدمت بيانات يوتيوب في تدريب نموذجها",
+   "summary": "استطاع قراصنة الوصول إلى شيفرة المصدر لمنصة توليد الموسيقى بالذكاء الاصطناعي سونو عبر بيانات اعتماد لموظف، كاشفاً عن استخراج الشركة لعقود من محتوى الصوت من منصة يوتيوب. الحادثة تثير أسئلة حول ممارسات جمع البيانات في قطاع الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "منصة واتنوت تستحوذ على شركة شيبيد لتعزيز التوصيات الحية",
+   "summary": "استحوذت منصة البث المباشر والتسوق واتنوت على شركة شيبيد المتخصصة في التعلم الآلي والتوصيات الفورية. ستساعد الصفقة على تحسين ميزات التخصيص والاكتشاف بينما تسعى المنصة للتوسع في فئات منتجات جديدة.",
+   "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "إكس إيه آي ترفع دعوى قضائية ضد شخص استخدم غروك لإنشاء محتوى ضار",
+   "summary": "رفعت شركة إكس إيه آي التابعة لإيلون ماسك دعوى قضائية ضد رجل من كارولينا الجنوبية اتهمته باستخدام روبوت غروك للذكاء الاصطناعي لتجاوز إجراءات الحماية وإنشاء محتوى إساءة جنسي. تسلط القضية الضوء على تحديات الشركات في مراقبة استخدام تطبيقاتها بطرق غير قانونية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "أفلام الذكاء الاصطناعي منخفضة الجودة تحتل مكان الأفلام الموزعة مباشرة",
+   "summary": "ينتشر اتجاه في صناعة السينما نحو إنتاج أفلام بواسطة الذكاء الاصطناعي بجودة منخفضة بهدف تحقيق أرباح سريعة، مشابهة لاستراتيجية توزيع الأفلام مباشرة على المنصات دون عرض سينمائي. يعكس هذا التطور تزايد الاعتماد على التكنولوجيا للإنتاج السريع والرخيص بدلاً من الإبداع الحقيقي.",
+   "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "تسرب بيانات يكشف استخدام Suno لملايين الأغاني المنسوخة من منصات الإنترنت",
+   "summary": "كشفت بيانات مسربة أن منصة Suno للموسيقى الذكية تم تدريبها عبر جمع ملايين الأغاني والنصوص من منصات مثل YouTube Music وDeezer وGenius دون الكشف العلني عن مصادر بياناتها. يثير هذا الكشف أسئلة حول شفافية شركات الذكاء الاصطناعي وحقوق الملكية الفكرية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "OpenAI تطلق منتجها الأول من الأجهزة المتخصصة بمنصة البرمجة",
+   "summary": "أطلقت OpenAI جهازاً متخصصاً لاستخدامه مع منصة Codex الخاصة بالبرمجة، وليس الجهاز الغامض الذي تطوره مع مصمم Apple السابق Jony Ive والمتعثر بنزاعات قانونية. يمثل هذا المنتج خطوة OpenAI نحو توسيع نطاق حلولها خارج البرامج البرمجية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "نموذج GPT-Red: محاكي هجوم ذكي لتعزيز أمان نماذج OpenAI",
+   "summary": "طورت OpenAI نموذجاً لغوياً متقدماً يُدعى GPT-Red يعمل كمحاكي لهجمات سيبرانية، يساعد في اختبار وتحسين دفاعات نماذجها الأخرى. استخدمت الشركة هذا النهج في تدريب الإصدار الأخير من GPT-5.6 لجعله أكثر مرونة ضد التهديدات الأمنية.",
+   "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "مطارات نيويورك تطلق أداة ذكاء اصطناعي لتحسين تجربة المسافرين",
+   "summary": "أطلقت مطارات نيويورك أداة ذكاء اصطناعي جديدة تهدف إلى تسهيل رحلات المسافرين وتحسين تجربتهم في الفحوصات والملاحة. تأتي هذه الخطوة ضمن جهود المطارات الكبرى لدمج التقنيات الحديثة في العمليات المرتبطة بالسفر والقادمين والمغادرين.",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0xRdU82bmxIVzg3aktSTld4dEZfekdvTjN6eS0tVVp3SFNvZGl4VDJrRmdjY2RvbEhBSHI4S3ZXTWxyQ21CQ0ctRVdNT3F2UENFVEd0YVBSNHhNM2FjQ3FJYXRySFhpLWtDckkyb2trY1RUbjE2YkRPdU5OVmFxT3EzdzlsVURFNW5Na0tjOWdqZ9IBlwFBVV95cUxQN0dhUzA2U2VmeEFzRXRGdTd1a05vOUVoZlFjS1h5cnVmLXhKQjE3Q3lkTFlJRVpVYlhQZ19IcS1TME9BbjBDUS03TFRsZFM5WnRpaXpoNjNKNDFVNTlWYjFIU1RWajRUMDRpczZ5Ql9fT21sZXJKWFhDcXlBWlAzMnRuSGdPSTV0dzA3eERLYnJmNnE3MTFJ?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-15"
+  },
   {
    "title": "أبل تطلق خدمات الذكاء الاصطناعي في الصين بالشراكة مع نماذج علي بابا",
    "summary": "حصلت أبل على موافقة الجهات الصينية لإطلاق خدمات الذكاء الاصطناعي في السوق الصينية عبر تكامل مع نماذج تشاوين من علي بابا. يمثل هذا التعاون توسعاً لمنصة أبل للذكاء الاصطناعي التوليدي في أحد أهم أسواقها الاستراتيجية.",
@@ -40,94 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "أوبن إيه آي تطلق جهازاً مخصصاً لمنصة البرمجة كوديكس",
-   "summary": "أعلنت أوبن إيه آي عن إطلاق جهاز متخصص مرتبط بمنصتها البرمجية كوديكس. يأتي هذا الإطلاق منفصلاً عن المشروع المثير للجدل المتعلق بجهاز ذكي يجري تطويره مع المصمم جوني آيف السابق في أبل.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "أداة توظيف ذكية من كرستدتا",
-   "summary": "أداة جديدة ظهرت باسم Crustdata Recruiter لمساعدة الشركات على البحث عن المواهب وتقييم المرشحين بكفاءة. تستخدم الأداة تحليلات ذكاء اصطناعي لتسريع عملية التوظيف والحد من الأعباء الإدارية على فريق الموارد البشرية.",
-   "url": "https://www.producthunt.com/products/crustdata-2",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "تسجيل الاجتماعات الذكي",
-   "summary": "أداة جديدة ظهرت باسم RecordMeeting تختص بتسجيل الاجتماعات الافتراضية واستخراج محاضرها تلقائياً. توفر الأداة نصوصاً قابلة للبحث وملخصات من الاجتماعات لتحسين الإنتاجية وتوثيق النقاشات.",
-   "url": "https://www.producthunt.com/products/recordmeeting",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "خدمة المراجعة الآلية من إيدي",
-   "summary": "أداة جديدة ظهرت باسم Review by Eddie AI لمراجعة المحتوى والعمل بمساعدة الذكاء الاصطناعي. تساعد المستخدمين على تحسين جودة النصوص والعمليات من خلال تحليل وتقييم آلي مدعوم بالذكاء الاصطناعي.",
-   "url": "https://www.producthunt.com/products/eddie-your-ai-video-editor",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "أدوات ذكاء اصطناعي جديدة من آيفت",
-   "summary": "أطلقت منصة الأتمتة آيفت مجموعة جديدة من أدوات الذكاء الاصطناعي لتعزيز إمكانات التكامل بين التطبيقات المختلفة. تمكن الأدوات المستخدمين من بناء سير عمل مؤتمتة أكثر ذكاءً وكفاءة دون الحاجة لخبرة برمجية عميقة.",
-   "url": "https://www.producthunt.com/products/ifttt",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "طلاب بورتلاند يطالبون بمعالجة تأثير الذكاء الاصطناعي في السياسة المناخية",
-   "summary": "طلاب من منطقة بورتلاند التعليمية يدعون إلى تضمين مخاوفهم بشأن الذكاء الاصطناعي في سياسة المدرسة المناخية. يرى الطلاب أن الأثر البيئي لتقنيات الذكاء الاصطناعي يجب أن يكون جزءاً من استراتيجية الاستدامة المدرسية.",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORGtLVk84Z3dNMHNIVk1oNzd6RGo2TmpBVGJCeFhPWEJsZndyNUN0TVVUZU9KRk5oYnJLV1FNUDVNYnhWdWxjUlV1QVJGd2IyUldfODZSSkxqdXM3UFNmY1lSOF9mSnp0aWFhSHFRYnJpNllDYXdWUVdfdkV6azF0STVkZGpiZmZ6RjNhUHlxai1SYTg5ekRQTnJzM3RLVGRua3YzZFJmaGtPUEVaWExidUF5eGNMZVp4SWo2V0k1czhzSzliUUotMWZJcGR5bGpmakVpVnVCV0g?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "والٍ أمريكي يوقّع قوانين لدعم رعاية المسنين وتعزيز حماية الذكاء الاصطناعي",
-   "summary": "وقّع والٍ في هاواي تدابير تشريعية تهدف إلى تحسين خدمات رعاية المسنين، مع إقرار إجراءات لتعزيز حماية المستخدمين من أنظمة الذكاء الاصطناعي وضمان الممارسات الآمنة في استخدامها.",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNldzRjZFMlI0VlZJLXFHbk8wb3ZsY0JaWWw5dHNZYkNGN0JSS2Jaa2toN0hzQng1cFBJQlNmelE2YWZhdFBYNG1oazdmVWJBVS1NS0tmZFFZdFBXY19tYmdZUkVGWE9XS2wtZlpScUxZaFBNWmFHa0tqeU1wODZTSlhBTkpjdHlaUDRhb2xxYU96dkxPR0JpOWVUU21wOXFFdEtpWnVkZXFpU2tJLWljUm10VFNfMFRpcnVjMXc2cnNBbmdTcGZvV1dGSUQtZw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "تكلفة الذكاء الاصطناعي الأمريكي تدفع الشركات الناشئة للاتجاه نحو نماذج صينية أرخص",
-   "summary": "تواجه الشركات الناشئة الأمريكية تكاليف عالية في بناء أنظمة الذكاء الاصطناعي محلياً، ما يدفع بعضها للبحث عن بدائل أقل سعراً من الخدمات الصينية، مما يثير نقاشات حول التنافسية والأمن.",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGlPWFM1cklNb1RseG5oN0JGbUFXZ0d5MkROVVg3eEY2UjFQdmlDT2E2dTYyUFQzeUpZWjdhMXZoWmdUanpMbWRWSUN5c2JHX0txWmswNkZSVUhWOEZBc2xSVjlyOVFHa2FYVDA0T3l3bkJzR2lGSUJaZ1EzZ2JhQTN2Yw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "باحث من OpenAI يسعى لتأسيس شركة ناشئة لاكتشاف الأدوية بالذكاء الاصطناعي بقيمة ملياري دولار",
-   "summary": "يجري الباحث مايلز وانج من OpenAI مفاوضات لتمويل شركة متخصصة في استخدام الذكاء الاصطناعي لتطوير أدوية جديدة. يعكس الاهتمام الاستثماري المتزايد بتطبيق تقنيات الذكاء الاصطناعي في مجال العلوم الحيوية وتسريع الاكتشافات الطبية.",
-   "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "الفرق بين الذكاء الاصطناعي والذكاء الاصطناعي التركيبي وأهمية التمييز بينهما",
-   "summary": "يتناول النقاش الفرق المفاهيمي بين مصطلحي الذكاء الاصطناعي والذكاء الاصطناعي التركيبي، وكيفية اختلاف طرق عملهما وتطبيقاتهما. فهم هذا التمايز يساعد في توضيح قدرات التقنيات الحالية والمستقبلية وحدودها.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeEFfcVlYOXhTVV9kVXRkc29vZGpRSnVkeUVkVGVqN1hOTlo3eVdHQ1A3VVFJMDFaZjRwRFdmZWF5WWE0M1ZGUUxiaHg2RzRjQzlMTHBCLTcxcUpYRUR3aThOZUkwQ3pIb01yZFB6MTdpM1BTNzNnZWxhV1dfM0d6Uzg2cXZpdHNCMHBVU1c4RDU5RnBnYVVDRXI1b1N2OGdmOEF1UzhySQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "محللو وول ستريت يرون سهماً للذكاء الاصطناعي مبالغاً في تقييمه... لكن خبراء آخرون يختلفون",
-   "summary": "بينما يحكم بعض محللي الأسواق على سهم متخصص بالذكاء الاصطناعي بأنه مقيّم بأكثر من قيمته الحقيقية، يعتقد متخصصون آخرون أن هذا التقييم مبرر على أساس آفاق نمو القطاع ومكانته المستقبلية.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdXl0RHJyR1NacG8wLUxjMS1hYms5YUgwZU91MS12Z2tsNm55RmV5bGZBN2ZiVlgwVGxmUFN0Z1VXVDV6cWlXOVBHZGtnNHRaTHdtNVdnazdsdkplM2ZwNlpLN00xcjF3ZGY5M1pDNkNiUC1HZnctRnFVQjBRRlh4TjJ5LVU3a203UXNfbVVqZV9kX005N1Q3YlR4SEgxb3E5eDMwX1pUYWk?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-15"
   }
  ]
