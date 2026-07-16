@@ -1,21 +1,69 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-16T05:30:17.342449+00:00",
+ "updated": "2026-07-16T10:48:08.654663+00:00",
  "items": [
   {
-   "title": "شركة Applied Computing تجمع 20 مليون دولار لنموذج ذكاء اصطناعي متخصص بالنفط والغاز",
-   "summary": "أغلقت شركة Applied Computing جولة تمويل من النوع Series A بقيمة 20 مليون دولار لتطوير نموذج ذكاء اصطناعي أساسي مخصص لقطاع النفط والغاز والبتروكيماويات. يهدف النموذج إلى توفير حل متكامل يغطي العمليات الكاملة للمصانع في هذه الصناعات.",
+   "title": "شركة Applied Computing تجمع 20 مليون دولار لنموذج ذكاء اصطناعي موحّد لصناعة النفط والغاز",
+   "summary": "حصلت شركة Applied Computing على تمويل من الفئة الأولى بقيمة 20 مليون دولار لتطوير نموذج ذكاء اصطناعي أساسي مخصص لقطاع النفط والغاز والبتروكيماويات، يهدف إلى تزويد العاملين في هذه الصناعة بأداة موحّدة تغطي عمليات المصنع بالكامل.",
    "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-16"
   },
   {
-   "title": "الأسرار التجارية والذكاء الاصطناعي: التحديات والحلول القانونية",
-   "summary": "يتناول المقال التقاطع بين حماية الأسرار التجارية وتطبيقات الذكاء الاصطناعي، ويستعرض التحديات القانونية الناشئة عن استخدام البيانات الحساسة في تدريب نماذج الذكاء الاصطناعي، إلى جانب الحلول والإطر التشريعية المقترحة لتنظيم هذا المجال.",
+   "title": "ما الذي يمكن للطبيب الكنسي الثامن والثلاثين أن يعلّمنا عن الذكاء الاصطناعي",
+   "summary": "مقال يستكشف الدروس الروحية والأخلاقية من تراث الكنيسة الكاثوليكية بشأن الذكاء الاصطناعي والتطور التكنولوجي، ويربط بين التعاليم الدينية التاريخية والتحديات الحديثة التي يطرحها هذا المجال.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFEtaHlMQklINnBUaU1tNU1TeERLMzFVSkFFb2JJVlpBbWRieHIzREtwS2l6NHBueC1qWHY5Y3Q5OWYxM011S1pOTkJWTWpmVlQ2WFBZaklnVkVvZzJWWDdkaXlCZEhyYjloMEI4bVV2VE0zZGQwWTBBTGFHUk1qYjJ2ZWlIRGY1b1pUSGY3QmVUU0Z2UG9TaUZ4dkRMT2lyb3hNYU5FY1I?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "المجلات العلمية تتخذ خطوات لمعالجة استخدام الذكاء الاصطناعي في التقييم العلمي",
+   "summary": "تسعى الدوريات الطبية والعلمية إلى وضع سياسات واضحة بخصوص استخدام أدوات الذكاء الاصطناعي من قبل المحكّمين العلميين، للتعامل مع مخاوف تتعلق بسلامة العملية التقويمية وشفافيتها.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5INS1yTmQ5ZTNabjRMUFJLam5rbGFjelhyTXNILUxVTVc5bzBNQnNQendJU3BlUURwcDRiSG4xU0F6ZFVhV2dtRlBkWnBJaXkwQ01OSml3d3RuU3RZUDlXRDZ0Z050TkdESC03MTJkdmN2a3RRb01DUg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "هيئة التعليم الإلينويسية تصدر توجيهات بشأن استخدام الذكاء الاصطناعي في المدارس الحكومية",
+   "summary": "أصدرت السلطات التعليمية في إلينوي إرشادات شاملة توضح كيفية استخدام تقنيات الذكاء الاصطناعي بشكل آمن ومسؤول في البيئات التعليمية، مع مراعاة حقوق الطلاب وجودة التعليم.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaFM4UWF4ekp2M2xQSkNNV3hsakNYbzVBYThaa29XNXF2ajZ0ZXdvdFl4RG5HekZDUmpucngwSXZOVkxaaHAxWV83YlJhek9Ya0k1b2wxR0s4MUtVQTcwNDBnY0lQYmhiMFhfa21rRmdmcHpxVy12VWk2QS1sMVhGaWpNODJnb0U0SjBleXZmVkIyV29D?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "إيبردرولا تدمج الذكاء الاصطناعي مع المواهب البشرية في مئات المشاريع",
+   "summary": "اعتمدت شركة إيبردرولا للطاقة الذكاء الاصطناعي في أكثر من 450 مشروع لتسريع عملية التحول الكهربائي، معتمدة على التعاون بين الأتمتة الذكية والخبرات البشرية.",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdmVzQ18yek95dHJ3dEJYVUc2Ty02WVV6c3p1cVpqQ214em9UOVJxWkduY3kwVzlGSnpNcklrd2Qwb09OaklqUWNIb2VlS05IVFJ2MFR5Z2lPWjZPWmRRa2k3ZGZoRTlJV3Roa2NrNW05MnpjaXdaZ3U4OFZiNlRNT0RueU5GaXBKY3JpUXY3cmFFZFp0bHBXYUpEOXg0RmhnTDRmanVwLThDRzdUTmdqRlVIYWNJM2YyTU5RaVA5TFIta25QVHZEbV9yaU00NnRheVl6emptVk5DNkMxaVhj?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "الأسرار التجارية والذكاء الاصطناعي: تحديات وحلول قانونية",
+   "summary": "مقالة قانونية تناقش التعارضات بين حماية الأسرار التجارية واستخدام أنظمة الذكاء الاصطناعي، وتقدم حلولاً عملية للشركات للتعامل مع هذه المسائل بشكل قانوني آمن.",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1BpS0NWWWM4MVMwYzY4Wi1CWWZYZ2NtOWtxTy1Kc0R2OHUxZ0MtczhaLVVpV00xdDJHWEFGb2QtZzhlLWdPLXl5dl9GTEtqTWloVlFtbFJhaHc0VnFvV2l0X0NYX2tUeVdta0tYXzB0MTl5WDZqcWYxaHNvUmtGWmZtNzh2T1BtVzktUHZSX09UakFHc3U1RmNIa3JSU1F1WkZfakNiY1MydHB5VnVMd3U1OXk1VndHX3c?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "أوبن إيه آي تطلق جهازها الأول: لوحة مفاتيح ذكية بسعر 230 دولار",
+   "summary": "أداة جديدة من أوبن إيه آي تأتي على هيئة جهاز فيزيائي صغير عبارة عن لوحة مفاتيح متخصصة، مصممة للعمل مع منصات الذكاء الاصطناعي التابعة للشركة.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRTFzQ21Rb2Jtems0ODQ2M29CR3NhTkF6MDFvY184NndmVHQ2UHFEM3VQQnhKTFd0dW42c0JqUFVuQ2NoWjNrME45Ry1UYndNS2M1a2JjLWNaQk80a1g0UldNNXNCczJFU3NTUzkxOEd0VFZaUUVOVEt4aFR4Zw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "الرئيس التنفيذي لـ Anthropic يتبرع بمليون دولار لمجموعة سياسية وسط سباق تمويلي في قطاع الذكاء الاصطناعي",
+   "summary": "قام الرئيس التنفيذي لشركة Anthropic بتقديم تبرع بقيمة مليون دولار إلى لجنة سياسية فائقة، في خطوة تعكس تنامي التنافس بين عمالقة الذكاء الاصطناعي على التأثير السياسي والتشريعي في المنطقة.",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVNxYzJJbUZNRzh6NFdVaWlUZHhkTWdSNkhoY0tRbTVXa2tRVHBVOE1YdktnTk1KMGE0aWs5bl9pdlBWOGlyUUxEU1lrUU1kbGVlaktsMFJfUnYtenU0OWN4dW9xMjZ5R09WWm1xdWFlNGRVeU0xT05UN0ZHVEtnUlZGa21UNTVWTjBWZVUzR0xfM3R0QUxaZm5JYjU4V19TalV2UHNVU0VqYkdZT0JRN1ZhRFFVdkZmSmxmNXMxTXZybHNY?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-16"
   },
   {
@@ -27,24 +75,24 @@ window.NEWS_DATA = {
    "date": "2026-07-16"
   },
   {
-   "title": "مايكروسوفت تدرّب فريق المبيعات على الترويج لنماذجها الذكية كبديل أرخص",
-   "summary": "تسعى مايكروسوفت لتعزيز نماذج الذكاء الاصطناعي الخاصة بها بين العملاء، بتدريب فريق مبيعاتها على تسليط الضوء على كفاءتها وفعاليتها من حيث التكلفة مقابل منتجات المنافسين مثل OpenAI و Anthropic.",
+   "title": "مايكروسوفت تدرب فريق البيع على المقارنة بين نماذجها الخاصة وتقنيات المنافسين",
+   "summary": "تسعى مايكروسوفت إلى تسويق نماذج الذكاء الاصطناعي الخاصة بها بوصفها أكثر كفاءة وفعالية من حيث التكلفة مقارنة بنماذج المنافسين مثل OpenAI و Anthropic، عبر تطوير استراتيجية مبيعات موجهة.",
    "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-15"
   },
   {
-   "title": "OpenAI تطرح لوحة مفاتيح ذكية وسط معركة قانونية حول براءات الاختراع",
-   "summary": "أطلقت OpenAI لوحة مفاتيح مضاءة بقيمة 230 دولار مصممة للعمل مع تطبيق برمجة ذكي، وذلك في الوقت الذي تواجه فيه الشركة نزاعاً قانونياً مع Apple بشأن اتهامات بسرقة أسرار تجارية متعلقة بالأجهزة.",
+   "title": "OpenAI تطرح لوحة مفاتيح ذكية بقيمة 230 دولار بينما تخوض نزاعاً قانونياً حول براءات الاختراع",
+   "summary": "أطلقت OpenAI لوحة مفاتيح مضاءة مصممة للعمل مع تطبيق البرمجة الذي يعتمد على وكلاء ذكية، وذلك في وقت تواجه فيه الشركة قضية قانونية متعلقة بالملكية الفكرية.",
    "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-15"
   },
   {
-   "title": "سهم SpaceX ينخفض إلى 135 دولاراً قبل إطلاق صاروخ Starship",
-   "summary": "شهدت أسهم SpaceX انخفاضاً تدريجياً منذ طرحها العام، مما يشير إلى تراجع الحماس في الأسواق بشأن الوعود التي أطلقها الرئيس التنفيذي إيلون ماسك قبل وبعد دخول الشركة البورصة.",
+   "title": "سهم SpaceX ينخفض إلى 135 دولاراً قبل إطلاق Starship الجديد",
+   "summary": "شهد سهم SpaceX انخفاضاً مستمراً من مستويات قمته بعد الطرح العام، ما يشير إلى أن الأسواق قد بدأت تتخذ موقفاً أكثر حذراً تجاه الوعود التي أطلقها الرئيس التنفيذي إيلون ماسك قبل وبعد طرح الشركة.",
    "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -80,54 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "OpenAI تطلق جهازاً متخصصاً لمنصة البرمجة Codex",
-   "summary": "أطلقت OpenAI جهازاً جديداً مصمماً للعمل مع منصة البرمجة Codex، في خطوة لتوسيع خدماتها في مجال تطوير البرامج. يختلف الجهاز عن المشروع السري الذي تطوره الشركة مع مصمم Apple السابق جوني آيف.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "اختراق يكشف أن منصة سونو استخدمت بيانات يوتيوب في تدريب نموذجها",
-   "summary": "استطاع قراصنة الوصول إلى شيفرة المصدر لمنصة توليد الموسيقى بالذكاء الاصطناعي سونو عبر بيانات اعتماد لموظف، كاشفاً عن استخراج الشركة لعقود من محتوى الصوت من منصة يوتيوب. الحادثة تثير أسئلة حول ممارسات جمع البيانات في قطاع الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "منصة واتنوت تستحوذ على شركة شيبيد لتعزيز التوصيات الحية",
-   "summary": "استحوذت منصة البث المباشر والتسوق واتنوت على شركة شيبيد المتخصصة في التعلم الآلي والتوصيات الفورية. ستساعد الصفقة على تحسين ميزات التخصيص والاكتشاف بينما تسعى المنصة للتوسع في فئات منتجات جديدة.",
-   "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "نموذج GPT-Red: محاكي هجوم ذكي لتعزيز أمان نماذج OpenAI",
-   "summary": "طورت OpenAI نموذجاً لغوياً متقدماً يُدعى GPT-Red يعمل كمحاكي لهجمات سيبرانية، يساعد في اختبار وتحسين دفاعات نماذجها الأخرى. استخدمت الشركة هذا النهج في تدريب الإصدار الأخير من GPT-5.6 لجعله أكثر مرونة ضد التهديدات الأمنية.",
-   "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "مطارات نيويورك تطلق أداة ذكاء اصطناعي لتحسين تجربة المسافرين",
-   "summary": "أطلقت مطارات نيويورك أداة ذكاء اصطناعي جديدة تهدف إلى تسهيل رحلات المسافرين وتحسين تجربتهم في الفحوصات والملاحة. تأتي هذه الخطوة ضمن جهود المطارات الكبرى لدمج التقنيات الحديثة في العمليات المرتبطة بالسفر والقادمين والمغادرين.",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0xRdU82bmxIVzg3aktSTld4dEZfekdvTjN6eS0tVVp3SFNvZGl4VDJrRmdjY2RvbEhBSHI4S3ZXTWxyQ21CQ0ctRVdNT3F2UENFVEd0YVBSNHhNM2FjQ3FJYXRySFhpLWtDckkyb2trY1RUbjE2YkRPdU5OVmFxT3EzdzlsVURFNW5Na0tjOWdqZ9IBlwFBVV95cUxQN0dhUzA2U2VmeEFzRXRGdTd1a05vOUVoZlFjS1h5cnVmLXhKQjE3Q3lkTFlJRVpVYlhQZ19IcS1TME9BbjBDUS03TFRsZFM5WnRpaXpoNjNKNDFVNTlWYjFIU1RWajRUMDRpczZ5Ql9fT21sZXJKWFhDcXlBWlAzMnRuSGdPSTV0dzA3eERLYnJmNnE3MTFJ?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "أبل تطلق خدمات الذكاء الاصطناعي في الصين بالشراكة مع نماذج علي بابا",
-   "summary": "حصلت أبل على موافقة الجهات الصينية لإطلاق خدمات الذكاء الاصطناعي في السوق الصينية عبر تكامل مع نماذج تشاوين من علي بابا. يمثل هذا التعاون توسعاً لمنصة أبل للذكاء الاصطناعي التوليدي في أحد أهم أسواقها الاستراتيجية.",
-   "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-07-15"
   }
  ]
