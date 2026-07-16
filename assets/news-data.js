@@ -1,7 +1,79 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-16T10:48:08.654663+00:00",
+ "updated": "2026-07-16T16:08:55.797460+00:00",
  "items": [
+  {
+   "title": "خدمة الذكاء الاصطناعي من جوجل تتيح الربط والتفاعل مع تطبيقات مختارة",
+   "summary": "أطلقت جوجل تحديثاً يوسّع إمكانيات وضع الذكاء الاصطناعي ليتجاوز الإجابة على الأسئلة، حيث يصبح قادراً على إنجاز مهام فعلية عبر التطبيقات التي يستخدمها المستخدمون بشكل منتظم، مما يقرّب الذكاء الاصطناعي من تطبيقات العمل اليومية.",
+   "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "طلب وجبات \"دورداش\" الآن ممكن من سطر الأوامر",
+   "summary": "أطلقت منصة التوصيل \"دورداش\" نسخة تجريبية محدودة من أداة سطر الأوامر تتيح للمطورين والوكلاء الذكيين البحث عن المتاجر وبناء سلات التسوق وتقديم الطلبات من المحطة الطرفية، مما يعكس توجهاً نحو برامج صُممت للعمل مع الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "لماذا تبيع OpenAI كرة سلة ChatGPT؟",
+   "summary": "أطلقت شركة OpenAI جهازها الأول من الأجهزة هذا الأسبوع، وكان من بين المنتجات المثيرة للفضول ظهور كرة سلة بعلامة ChatGPT كجزء من هذه التوسّع نحو الأجهزة المادية.",
+   "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "باحث سابق في DeepMind جمع تمويلاً بـ 300 مليون دولار قبل إطلاق منتجه",
+   "summary": "يشرح أندرو داي، الذي قضى أكثر من عقد في بناء بعض أنظمة الذكاء الاصطناعي الأكثر تأثيراً في العالم بما فيها أبحاث ساهمت في تطور ChatGPT، رؤيته حول أن الذكاء الاصطناعي البصري يمثل أحد الحدود الرئيسية القادمة في مجال الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "الرئيس التنفيذي لشركة AMI Labs يرفض وصف ذكاءه الاصطناعي بـ \"الذكاء الفائق\"",
+   "summary": "بينما يسعى جميع اللاعبين في مجال الذكاء الاصطناعي نحو مصطلح \"الذكاء الفائق\"، يرفضها ألكسندر لوبرون، الرئيس التنفيذي لشركة نماذج العالم التابعة ليان لوكون، ويستبعد استخدام هذه المصطلحات الضخمة في وصف أعماله.",
+   "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "جوجل تعيد تسمية تطبيق NotebookLM إلى Gemini Notebook",
+   "summary": "أعلنت جوجل الخميس تحويل تطبيق تدوين الملاحظات المدعوم بالذكاء الاصطناعي NotebookLM إلى Gemini Notebook، حيث سيبقى تطبيقاً مستقلاً مع تكامل أعمق مع خدمات Gemini وجوجل سيرتش.",
+   "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "كلود يمكنه الآن استخدام بيانات 1Password نيابةً عنك",
+   "summary": "أطلقت 1Password تكاملاً جديداً يسمح لمساعد كلود الذكي بالوصول إلى بيانات المستخدم المحفوظة مثل أسماء المستخدمين وكلمات المرور. يمكّن هذا التكامل المستخدمين من تفويض كلود بإنجاز مهام معقدة متعددة الخطوات كحجز الرحلات وإدارة الحسابات الإلكترونية.",
+   "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "الاتحاد الأوروبي يفرض على غوغل فتح أندرويد والبحث أمام المنافسين",
+   "summary": "أصدرت السلطات الأوروبية قراراً يلزم غوغل بمنح مساعدات ذكاء اصطناعي ومحركات بحث منافسة إمكانية وصول أكبر إلى أجزاء رئيسية من منظومة أندرويد وبحث غوغل. تأتي هذه القرارات تطبيقاً للقواعد الأوروبية الصارمة بشأن المنافسة الرقمية.",
+   "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "الشرطة الرقمية",
+   "summary": "تقرير استقصائي حول دور التقنيات الذكية والحوسبة في تطوير العمل الأمني والشرطي في الولايات المتحدة، يستكشف التوجهات الجديدة والتحديات المتعلقة بتطبيق هذه الأنظمة في العمل الشرطي المعاصر.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-16"
+  },
   {
    "title": "شركة Applied Computing تجمع 20 مليون دولار لنموذج ذكاء اصطناعي موحّد لصناعة النفط والغاز",
    "summary": "حصلت شركة Applied Computing على تمويل من الفئة الأولى بقيمة 20 مليون دولار لتطوير نموذج ذكاء اصطناعي أساسي مخصص لقطاع النفط والغاز والبتروكيماويات، يهدف إلى تزويد العاملين في هذه الصناعة بأداة موحّدة تغطي عمليات المصنع بالكامل.",
@@ -57,78 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-07-16"
-  },
-  {
-   "title": "الرئيس التنفيذي لـ Anthropic يتبرع بمليون دولار لمجموعة سياسية وسط سباق تمويلي في قطاع الذكاء الاصطناعي",
-   "summary": "قام الرئيس التنفيذي لشركة Anthropic بتقديم تبرع بقيمة مليون دولار إلى لجنة سياسية فائقة، في خطوة تعكس تنامي التنافس بين عمالقة الذكاء الاصطناعي على التأثير السياسي والتشريعي في المنطقة.",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVNxYzJJbUZNRzh6NFdVaWlUZHhkTWdSNkhoY0tRbTVXa2tRVHBVOE1YdktnTk1KMGE0aWs5bl9pdlBWOGlyUUxEU1lrUU1kbGVlaktsMFJfUnYtenU0OWN4dW9xMjZ5R09WWm1xdWFlNGRVeU0xT05UN0ZHVEtnUlZGa21UNTVWTjBWZVUzR0xfM3R0QUxaZm5JYjU4V19TalV2UHNVU0VqYkdZT0JRN1ZhRFFVdkZmSmxmNXMxTXZybHNY?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-16"
-  },
-  {
-   "title": "شركة Anthropic: النشأة والجدل والنموذج اللغوي Claude",
-   "summary": "موسوعة بريتانيكا تقدم ملخصاً عن شركة Anthropic المتخصصة في تطوير نماذج الذكاء الاصطناعي، تغطي تاريخ تأسيسها والنقاشات المحيطة بعملها، مع التركيز على نموذجها اللغوي Claude وتطوراته.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-16"
-  },
-  {
-   "title": "مايكروسوفت تدرب فريق البيع على المقارنة بين نماذجها الخاصة وتقنيات المنافسين",
-   "summary": "تسعى مايكروسوفت إلى تسويق نماذج الذكاء الاصطناعي الخاصة بها بوصفها أكثر كفاءة وفعالية من حيث التكلفة مقارنة بنماذج المنافسين مثل OpenAI و Anthropic، عبر تطوير استراتيجية مبيعات موجهة.",
-   "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "OpenAI تطرح لوحة مفاتيح ذكية بقيمة 230 دولار بينما تخوض نزاعاً قانونياً حول براءات الاختراع",
-   "summary": "أطلقت OpenAI لوحة مفاتيح مضاءة مصممة للعمل مع تطبيق البرمجة الذي يعتمد على وكلاء ذكية، وذلك في وقت تواجه فيه الشركة قضية قانونية متعلقة بالملكية الفكرية.",
-   "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "سهم SpaceX ينخفض إلى 135 دولاراً قبل إطلاق Starship الجديد",
-   "summary": "شهد سهم SpaceX انخفاضاً مستمراً من مستويات قمته بعد الطرح العام، ما يشير إلى أن الأسواق قد بدأت تتخذ موقفاً أكثر حذراً تجاه الوعود التي أطلقها الرئيس التنفيذي إيلون ماسك قبل وبعد طرح الشركة.",
-   "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "Thinking Machines تطلق نموذج مفتوح الكود باسم Inkling لتنويع حلول الذكاء الاصطناعي",
-   "summary": "أعلنت Thinking Machines عن إطلاق نموذجها الأول المفتوح الكود بعد عام ونصف من التطوير خارج الأضواء، ما يعكس توجهها نحو بناء بنى تحتية للذكاء الاصطناعي بديلة عن النماذج الموحدة.",
-   "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "شركة xAI تقاضي شخصاً استخدم روبوت Grok لإنتاج محتوى إساءة أطفال",
-   "summary": "رفعت شركة xAI التابعة لإيلون ماسك دعوى قضائية ضد رجل من كارولينا الجنوبية اتهمته باستغلال روبوت Grok للتحايل على آليات الحماية وإنتاج محتوى إساءة جنسي للأطفال. تعكس القضية تحديات تطبيق الشركات للضوابط الأخلاقية على أدوات الذكاء الاصطناعي.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "أفلام الذكاء الاصطناعي الرخيصة تحل محل أفلام التوزيع المباشر",
-   "summary": "ينتشر اتجاه جديد في صناعة السينما نحو إنتاج أفلام منخفضة الجودة باستخدام الذكاء الاصطناعي كبديل للأفلام التقليدية منخفضة الميزانية. يعكس هذا التوجه محاولات الاستوديوهات للاستفادة من تكلفة الإنتاج المنخفضة للتقنيات الجديدة دون الاهتمام بالجودة الفنية.",
-   "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "منصة Suno استخرجت ملايين الأغاني من منصات البث الموسيقي",
-   "summary": "كشفت بيانات سونو المسربة أن منصة توليد الموسيقى بالذكاء الاصطناعي تم تدريبها على ملايين الأغاني والكلمات المستخرجة من YouTube و Deezer و Genius دون إفصاح علني. يثير هذا تساؤلات حول شفافية تدريب نماذج الذكاء الاصطناعي وحقوق الفنانين.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-15"
   }
  ]
 };
