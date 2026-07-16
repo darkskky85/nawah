@@ -1,29 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-15T21:45:38.298618+00:00",
+ "updated": "2026-07-16T05:30:17.342449+00:00",
  "items": [
   {
-   "title": "أوبن إيه آي تطلق لوحة مفاتيح بـ 230 دولار وسط نزاع قانوني مع أبل",
-   "summary": "أطلقت أوبن إيه آي لوحة مفاتيح مضيئة مصممة للعمل مع تطبيقها البرمجي الذكي، في وقت تخوض فيه معركة قانونية مع شركة أبل بسبب اتهامات تتعلق بسرقة تقنيات الأجهزة. تعكس الخطوة توجه الشركة نحو توفير أدوات متكاملة للمطورين.",
+   "title": "شركة Applied Computing تجمع 20 مليون دولار لنموذج ذكاء اصطناعي متخصص بالنفط والغاز",
+   "summary": "أغلقت شركة Applied Computing جولة تمويل من النوع Series A بقيمة 20 مليون دولار لتطوير نموذج ذكاء اصطناعي أساسي مخصص لقطاع النفط والغاز والبتروكيماويات. يهدف النموذج إلى توفير حل متكامل يغطي العمليات الكاملة للمصانع في هذه الصناعات.",
+   "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "الأسرار التجارية والذكاء الاصطناعي: التحديات والحلول القانونية",
+   "summary": "يتناول المقال التقاطع بين حماية الأسرار التجارية وتطبيقات الذكاء الاصطناعي، ويستعرض التحديات القانونية الناشئة عن استخدام البيانات الحساسة في تدريب نماذج الذكاء الاصطناعي، إلى جانب الحلول والإطر التشريعية المقترحة لتنظيم هذا المجال.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1BpS0NWWWM4MVMwYzY4Wi1CWWZYZ2NtOWtxTy1Kc0R2OHUxZ0MtczhaLVVpV00xdDJHWEFGb2QtZzhlLWdPLXl5dl9GTEtqTWloVlFtbFJhaHc0VnFvV2l0X0NYX2tUeVdta0tYXzB0MTl5WDZqcWYxaHNvUmtGWmZtNzh2T1BtVzktUHZSX09UakFHc3U1RmNIa3JSU1F1WkZfakNiY1MydHB5VnVMd3U1OXk1VndHX3c?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "شركة Anthropic: النشأة والجدل والنموذج اللغوي Claude",
+   "summary": "موسوعة بريتانيكا تقدم ملخصاً عن شركة Anthropic المتخصصة في تطوير نماذج الذكاء الاصطناعي، تغطي تاريخ تأسيسها والنقاشات المحيطة بعملها، مع التركيز على نموذجها اللغوي Claude وتطوراته.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-16"
+  },
+  {
+   "title": "مايكروسوفت تدرّب فريق المبيعات على الترويج لنماذجها الذكية كبديل أرخص",
+   "summary": "تسعى مايكروسوفت لتعزيز نماذج الذكاء الاصطناعي الخاصة بها بين العملاء، بتدريب فريق مبيعاتها على تسليط الضوء على كفاءتها وفعاليتها من حيث التكلفة مقابل منتجات المنافسين مثل OpenAI و Anthropic.",
+   "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "OpenAI تطرح لوحة مفاتيح ذكية وسط معركة قانونية حول براءات الاختراع",
+   "summary": "أطلقت OpenAI لوحة مفاتيح مضاءة بقيمة 230 دولار مصممة للعمل مع تطبيق برمجة ذكي، وذلك في الوقت الذي تواجه فيه الشركة نزاعاً قانونياً مع Apple بشأن اتهامات بسرقة أسرار تجارية متعلقة بالأجهزة.",
    "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-15"
   },
   {
-   "title": "سهم سبيس إكس ينخفض إلى 135 دولاراً قبل إطلاق ستارشيب",
-   "summary": "شهد سهم شركة سبيس إكس انخفاضاً تدريجياً من مستويات ما بعد الإدراج المرتفعة، مما يشير إلى أن السوق بدأ يعيد تقييم الوعود التي قطعها الرئيس التنفيذي إيلون ماسك قبل وبعد طرح الشركة للاكتتاب العام.",
+   "title": "سهم SpaceX ينخفض إلى 135 دولاراً قبل إطلاق صاروخ Starship",
+   "summary": "شهدت أسهم SpaceX انخفاضاً تدريجياً منذ طرحها العام، مما يشير إلى تراجع الحماس في الأسواق بشأن الوعود التي أطلقها الرئيس التنفيذي إيلون ماسك قبل وبعد دخول الشركة البورصة.",
    "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-15"
   },
   {
-   "title": "شركة ثينكينج ماشينز تكشف عن نموذجها الذكي الأول إينكلينج",
-   "summary": "أطلقت شركة ثينكينج ماشينز نموذجاً ذكياً جديداً تحت اسم إينكلينج، ليكون إثباتاً عملياً على رؤيتها بعد عام ونصف من تطوير البنية التحتية للذكاء الاصطناعي بعيداً عن الأضواء. يمثل النموذج محاولة الشركة تقديم بديل للحلول الموحدة السائدة.",
+   "title": "Thinking Machines تطلق نموذج مفتوح الكود باسم Inkling لتنويع حلول الذكاء الاصطناعي",
+   "summary": "أعلنت Thinking Machines عن إطلاق نموذجها الأول المفتوح الكود بعد عام ونصف من التطوير خارج الأضواء، ما يعكس توجهها نحو بناء بنى تحتية للذكاء الاصطناعي بديلة عن النماذج الموحدة.",
    "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "شركة xAI تقاضي شخصاً استخدم روبوت Grok لإنتاج محتوى إساءة أطفال",
+   "summary": "رفعت شركة xAI التابعة لإيلون ماسك دعوى قضائية ضد رجل من كارولينا الجنوبية اتهمته باستغلال روبوت Grok للتحايل على آليات الحماية وإنتاج محتوى إساءة جنسي للأطفال. تعكس القضية تحديات تطبيق الشركات للضوابط الأخلاقية على أدوات الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "أفلام الذكاء الاصطناعي الرخيصة تحل محل أفلام التوزيع المباشر",
+   "summary": "ينتشر اتجاه جديد في صناعة السينما نحو إنتاج أفلام منخفضة الجودة باستخدام الذكاء الاصطناعي كبديل للأفلام التقليدية منخفضة الميزانية. يعكس هذا التوجه محاولات الاستوديوهات للاستفادة من تكلفة الإنتاج المنخفضة للتقنيات الجديدة دون الاهتمام بالجودة الفنية.",
+   "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "منصة Suno استخرجت ملايين الأغاني من منصات البث الموسيقي",
+   "summary": "كشفت بيانات سونو المسربة أن منصة توليد الموسيقى بالذكاء الاصطناعي تم تدريبها على ملايين الأغاني والكلمات المستخرجة من YouTube و Deezer و Genius دون إفصاح علني. يثير هذا تساؤلات حول شفافية تدريب نماذج الذكاء الاصطناعي وحقوق الفنانين.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-15"
+  },
+  {
+   "title": "OpenAI تطلق جهازاً متخصصاً لمنصة البرمجة Codex",
+   "summary": "أطلقت OpenAI جهازاً جديداً مصمماً للعمل مع منصة البرمجة Codex، في خطوة لتوسيع خدماتها في مجال تطوير البرامج. يختلف الجهاز عن المشروع السري الذي تطوره الشركة مع مصمم Apple السابق جوني آيف.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-07-15"
   },
   {
@@ -40,38 +104,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "إكس إيه آي ترفع دعوى قضائية ضد شخص استخدم غروك لإنشاء محتوى ضار",
-   "summary": "رفعت شركة إكس إيه آي التابعة لإيلون ماسك دعوى قضائية ضد رجل من كارولينا الجنوبية اتهمته باستخدام روبوت غروك للذكاء الاصطناعي لتجاوز إجراءات الحماية وإنشاء محتوى إساءة جنسي. تسلط القضية الضوء على تحديات الشركات في مراقبة استخدام تطبيقاتها بطرق غير قانونية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "أفلام الذكاء الاصطناعي منخفضة الجودة تحتل مكان الأفلام الموزعة مباشرة",
-   "summary": "ينتشر اتجاه في صناعة السينما نحو إنتاج أفلام بواسطة الذكاء الاصطناعي بجودة منخفضة بهدف تحقيق أرباح سريعة، مشابهة لاستراتيجية توزيع الأفلام مباشرة على المنصات دون عرض سينمائي. يعكس هذا التطور تزايد الاعتماد على التكنولوجيا للإنتاج السريع والرخيص بدلاً من الإبداع الحقيقي.",
-   "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "تسرب بيانات يكشف استخدام Suno لملايين الأغاني المنسوخة من منصات الإنترنت",
-   "summary": "كشفت بيانات مسربة أن منصة Suno للموسيقى الذكية تم تدريبها عبر جمع ملايين الأغاني والنصوص من منصات مثل YouTube Music وDeezer وGenius دون الكشف العلني عن مصادر بياناتها. يثير هذا الكشف أسئلة حول شفافية شركات الذكاء الاصطناعي وحقوق الملكية الفكرية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "OpenAI تطلق منتجها الأول من الأجهزة المتخصصة بمنصة البرمجة",
-   "summary": "أطلقت OpenAI جهازاً متخصصاً لاستخدامه مع منصة Codex الخاصة بالبرمجة، وليس الجهاز الغامض الذي تطوره مع مصمم Apple السابق Jony Ive والمتعثر بنزاعات قانونية. يمثل هذا المنتج خطوة OpenAI نحو توسيع نطاق حلولها خارج البرامج البرمجية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-07-15"
   },
   {
@@ -94,38 +126,6 @@ window.NEWS_DATA = {
    "title": "أبل تطلق خدمات الذكاء الاصطناعي في الصين بالشراكة مع نماذج علي بابا",
    "summary": "حصلت أبل على موافقة الجهات الصينية لإطلاق خدمات الذكاء الاصطناعي في السوق الصينية عبر تكامل مع نماذج تشاوين من علي بابا. يمثل هذا التعاون توسعاً لمنصة أبل للذكاء الاصطناعي التوليدي في أحد أهم أسواقها الاستراتيجية.",
    "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "أنثروبيك وبلاكستون يراهنان على تطبيق الذكاء الاصطناعي وليس فقط بناء النماذج",
-   "summary": "أطلقت شركة أود بدعم من أنثروبيك خدمة تركز على نشر مهندسين متخصصين داخل المؤسسات لتسريع تبني الذكاء الاصطناعي. يعكس هذا التوجه اعتقاداً بأن القيمة الحقيقية تكمن في تطبيق التقنيات الموجودة وليس في إنشاء نماذج جديدة فقط.",
-   "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "أداة جديدة ظهرت باسم Reelful لتحويل صور هاتفك إلى فيديوهات قصيرة",
-   "summary": "أداة تستخدم الذكاء الاصطناعي لمساعدة منتجي المحتوى على تحويل الصور المتراكمة في مكتبة الهاتف إلى فيديوهات قصيرة جاهزة للمنصات الاجتماعية. تهدف إلى تبسيط عملية الإنتاج للأشخاص الذين يجدون أدوات التحرير التقليدية معقدة أو مستهلكة للوقت.",
-   "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "Rime تجمع 24 مليون دولار لمعالجة مكالمات العملاء الهاتفية",
-   "summary": "جمعت شركة Rime تمويلاً من الفئة الأولى لتطوير منصتها التي تدير مكالمات العملاء بالذكاء الاصطناعي. تعالج الشركة حالياً أكثر من 100 مليون مكالمة شهرياً عبر عدة مؤسسات.",
-   "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-15"
-  },
-  {
-   "title": "الشركة الناشئة الهندية Emergent تصبح وحيداً القرن بتمويل 130 مليون دولار",
-   "summary": "حققت شركة Emergent المتخصصة في البرمجة بالذكاء الاصطناعي مكانة وحيد القرن بعد إغلاق جولة تمويل الفئة الثالثة. وصلت الشركة إلى معدل إيرادات سنوي 120 مليون دولار مع أكثر من 200 ألف عميل يدفع مقابل الخدمة.",
-   "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-15"
