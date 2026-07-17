@@ -1,13 +1,109 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-17T10:29:10.603144+00:00",
+ "updated": "2026-07-17T16:07:20.988534+00:00",
  "items": [
   {
-   "title": "تزايد مخاطر التلاعب بيانات الطقس العالمية",
-   "summary": "بيانات الطقس تشكل أساس قرارات استراتيجية حاسمة لشركات الطيران وشبكات الكهرباء والمزارع حول العالم. مع اعتماد هذه القطاعات الحيوية على دقة التنبؤات المناخية، يزداد الخطر المحتمل من محاولات التلاعب أو تعطيل هذه البيانات الحساسة.",
+   "title": "باترون تتجاوز التحذيرات وتبدأ حجب برامج استخراج البيانات الآلية",
+   "summary": "اتخذت منصة باترون خطوات أقوى لمنع برامج الذكاء الاصطناعي من استخراج محتوى المنشئين، بالتعاون مع شركة كلاودفلير لحجب الروبوتات المستخدمة في تدريب نماذج ذكاء اصطناعي دون إذن. يمثل هذا تحولاً من الاعتماد على ملفات robots.txt إلى استراتيجية حجب فعّال ومباشر.",
+   "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "مموّلو معالجات الرسوميات ينقلون استثماراتهم نحو رقائق الاستدلال",
+   "summary": "صفقة تمويل بقيمة 400 مليون دولار مدعومة برقائق متخصصة تشير إلى موجة جديدة من عقود البنية التحتية للذكاء الاصطناعي، حيث ينتقل المستثمرون من معالجات التدريب إلى تقنيات الاستدلال الأقل تكلفة نسبياً.",
+   "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "تصاعد مخاطر التلاعب بيانات الطقس العالمية",
+   "summary": "بيانات الطقس تشكل أساس القرارات اليومية لمئات الآلاف من متخذي القرار حول العالم من قادة الخطوط الجوية إلى مشغلي الشبكات الكهربائية والمزارعين، مما يجعل تعرضها للتلاعب تهديداً محتملاً يؤثر على استقرار قطاعات حيوية متعددة.",
    "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
    "source": "MIT Tech Review AI",
    "tag": "أبحاث",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "أداة Unabyss للعمل مع نموذج Claude",
+   "summary": "أداة جديدة ظهرت باسم Unabyss مخصصة للتكامل مع نموذج Claude، تهدف إلى توسيع إمكانيات استخدام النموذج في مختلف التطبيقات والمهام.",
+   "url": "https://www.producthunt.com/products/unabyss",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "ميزة الاقتراحات في منصة Basedash",
+   "summary": "أداة جديدة ظهرت باسم Basedash Suggestions لتقديم اقتراحات ذكية تساعد المستخدمين على تحسين سير عمل إدارة البيانات وقواعد البيانات.",
+   "url": "https://www.producthunt.com/products/basedash",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "ميتا تسحب ميزة الذكاء الاصطناعي المثيرة للجدل في إنشاء الصور",
+   "summary": "قررت شركة ميتا سحب ميزة في الذكاء الاصطناعي مخصصة لإنشاء صور، بعد أن واجهت انتقادات عديدة بشأن الجوانب الأخلاقية والتقنية للميزة.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGVhQ2R4dFpWcUFFdVo4WjQ1WVlKMy04VENjZlVPN1hPNy1XZFhzOWJzMlJlYkF3eGNtN3B6dXN1UjZGV01vRkdDYlpiR1lqOEhyd2pqRGhyclRuaWtidGhnd1lmTHdHQlFZRmdpNzVXUTB5NlUtTzh0aGd5VzM3YkNScGN3cjRhaFRRZWVDeWZkZUNlLVAwU18yVTRpbEpN?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "أنثروبك تطرح حلول ذكاء اصطناعي موجهة للمعلمين في فصول ديترويت",
+   "summary": "أعلنت شركة أنثروبك عن إطلاق تطبيقات ذكاء اصطناعي مصممة لدعم المعلمين في المدارس بمدينة ديترويت، بهدف تحسين العملية التعليمية وكفاءتها.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaExwZW9pYjRBcXNiWEFDanhpMUIyTERFOW1TMEVrdS1qM185RVVIN3g0a2lIY21TYmNyd2d4OEEybXpnT2YtQnhEWnhIZ0Jtbjd0NTVSN2NmWXByRFNzWS11cFhDNDdlUTU4V1BCTjdCaWJ5eGtSR2JKdzF2N2R5UW1fY3Y4bno4dXJneG91R2pPRE8zLXdkck80OHFHNHZKa2UwaHQ5cVV0b3hCbUhqb1B4RmROTUxPcTFn?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "تطبيقات الذكاء الاصطناعي في الممارسة الصيدلانية",
+   "summary": "يُستخدم الذكاء الاصطناعي في المجال الصيدلاني لرفع مستويات الكفاءة والدقة في إصدار القرارات السريرية، من خلال تحليل البيانات الطبية والمريض بشكل أسرع وأكثر موثوقية.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMU9TdlJKWE1ZTGxaMHBNNy1oSVpOY1N0MGUwaU9TWmJxVVdUSW56U3RUNHZWUHkyTmlBSlJxVS1ucG1wcURwYVhCclF0STAycXFFVFpZd3U0VDZ0Tm1fd2JpNmt0aHFRcnplcHdoa0ZVMnVEaU84cXFvZkxXa3ZKenllU1FSR084ZE14cTF5YXAwQ3hsRjNEd19kN21GSXR4SFNUNFpBa3lUQWJDazlYMmZlZmZmRFplSGNhQkx6TGhzSkppV0hDbg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "الرئيس شي جين بينغ يشهد احتفال افتتاح مؤتمر العالم للذكاء الاصطناعي 2026",
+   "summary": "حضر الرئيس الصيني شي جين بينغ حفل افتتاح مؤتمر العالم للذكاء الاصطناعي 2026 وألقى كلمة رئيسية حول الحوكمة العالمية للذكاء الاصطناعي، مما يعكس اهتمام الصين المتزايد بقيادة النقاش العالمي حول تطوير التكنولوجيا.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82QjhtNGR4QTlTREJTRXVMZ2ZMRTNOQjM5RVZTSm1HRk1KUzF3OEJncDUyTDJaUzJKUmJVVEdSaE16cE9peENQTFBDUVo2MmlRUXAxcE9vR0ZPS1hiZ05XSXkyY2RQTm5OUmFKWXk4RG5OaXJDdTJKc0VR?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "شركات الذكاء الاصطناعي تتوسع في نيويورك",
+   "summary": "تشهد مدينة نيويورك اتجاهاً متزايداً نحو استقطاب شركات متخصصة في الذكاء الاصطناعي، مما يعكس رغبة المدينة في تعزيز موقعها كمركز تقني عالمي. يرتبط هذا التطور بنمو الاستثمارات والفرص الوظيفية في القطاع الناشئ للذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNalNWYnNTSGdQZjRJbTV2ZTYzZVVZd0swT1pVVERKMDAyaFRjVVpmeUd0dmtqQ2VJOEU0MUtTM1R5cmg0R3VsM01DYXVDaUVtZnlsaXdUY1NXaWJkb1dhbGdEUkhRXzQ5RUYxcVZuZ1NhenlkYk9rTm80VGg3UXdnSzlCZVQ1eDRHVWZuM0hkbEJSVUFiOVdHTDd3TmZWOHoxcTVfdXAxVnZ6QQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "الصين تطلق تحالفاً جديداً للذكاء الاصطناعي بقيادة شي جين بينج",
+   "summary": "أعلن الرئيس الصيني شي جين بينج عن تشكيل تحالف جديد مختص بتطوير تكنولوجيا الذكاء الاصطناعي. يهدف التحالف إلى تعزيز التعاون والابتكار في المجال على المستوى الوطني والإقليمي.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "انتشار تقنيات الذكاء الاصطناعي يعود بالنفع على الصين والخسارة على الشركات الأمريكية",
+   "summary": "توسع إتاحة نماذج الذكاء الاصطناعي يوفر مزايا تنافسية للصين بينما يضعف من الحصة السوقية لشركات عملاقة مثل OpenAI وAnthropics. يعكس هذا الاتجاه تطوراً في المنافسة العالمية على تكنولوجيا الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSeWJBNG5TTE9zVV9URzRmX1huMWJkSW11Q2J4azZ0WXpVczR6Z19yMkFjNU1ZNXgxWjNfYkFETk1QZUR0LVpLYkhhRDFvV3FPWFlnT1pvTmdKQVJBOEU1UzFHLWViQ29zRlM3ckVqMVRDRnp3dlhJbW1uc21wLUU?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-17"
+  },
+  {
+   "title": "الشركة الناشئة الصينية Moonshot AI تعلن عن نموذج Kimi المنافس",
+   "summary": "أطلقت الشركة الناشئة الصينية Moonshot AI نموذج ذكاء اصطناعي جديد باسم Kimi، وتؤكد أنه يضاهي أداءً نماذج من OpenAI وAnthropics. يمثل الإطلاق خطوة في الجهود الصينية لتطوير حلول محلية منافسة في مجال الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2gxRHB2VXl2NEdXWHowb0QtcEFsanhlQk5zTEQzWE03cjd5QWluNjV0VWtWUi1Ia2JIOFVQODdhYWloYTdxR0xWOU5MSHBXazJkeEo4SW1Db2I2Ul9CMjRjeVBLLUVFWS1objBHNy1Rb2NYYTFQT0pKWlZja0tVMThCWlJ3SkFVY3N6VmJB0gGTAUFVX3lxTE1sd0lHVWVmRHpwZ1FtV3BGV1E0TGpLRzhuWE14QTZ6ZUJjblBEdXVFYnhtbnJYR3BCcHhPVFFUcmxOS1cxU0NmMnc4VkwydVpIZVZPWUVQdUo4aDhRc3lEaWh1N0JWcy1iZTdHZldtZm1RN0c4WTNYQlV3REJtZVhjZjBVd0tuTzhnTmNLS1lHRl90NA?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-17"
   },
   {
@@ -33,102 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-17"
-  },
-  {
-   "title": "شركة صينية تطلق نموذج ذكاء اصطناعي تدّعي منافسته للنماذج الغربية الرائدة",
-   "summary": "أعلنت الشركة الناشئة الصينية Moonshot AI عن نموذجها Kimi، الذي تزعم أنه يضاهي قدرات النماذج المتقدمة من جانب شركات مثل OpenAI و Anthropic في معالجة اللغة الطبيعية والمهام المعقدة.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2gxRHB2VXl2NEdXWHowb0QtcEFsanhlQk5zTEQzWE03cjd5QWluNjV0VWtWUi1Ia2JIOFVQODdhYWloYTdxR0xWOU5MSHBXazJkeEo4SW1Db2I2Ul9CMjRjeVBLLUVFWS1objBHNy1Rb2NYYTFQT0pKWlZja0tVMThCWlJ3SkFVY3N6VmJB0gGTAUFVX3lxTE1sd0lHVWVmRHpwZ1FtV3BGV1E0TGpLRzhuWE14QTZ6ZUJjblBEdXVFYnhtbnJYR3BCcHhPVFFUcmxOS1cxU0NmMnc4VkwydVpIZVZPWUVQdUo4aDhRc3lEaWh1N0JWcy1iZTdHZldtZm1RN0c4WTNYQlV3REJtZVhjZjBVd0tuTzhnTmNLS1lHRl90NA?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-17"
-  },
-  {
-   "title": "أداة جديدة من OpenAI: لوحة مفاتيح صغيرة بقيمة 230 دولاراً",
-   "summary": "أطلقت OpenAI جهازاً فيزيائياً صغير الحجم على شكل لوحة مفاتيح بسعر 230 دولاراً، يعتبر دخولها الأول إلى سوق الأجهزة الذكية المتخصصة.",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRTFzQ21Rb2Jtems0ODQ2M29CR3NhTkF6MDFvY184NndmVHQ2UHFEM3VQQnhKTFd0dW42c0JqUFVuQ2NoWjNrME45Ry1UYndNS2M1a2JjLWNaQk80a1g0UldNNXNCczJFU3NTUzkxOEd0VFZaUUVOVEt4aFR4Zw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-17"
-  },
-  {
-   "title": "ميتا تتراجع عن ميزة الذكاء الاصطناعي في إنشاء الصور",
-   "summary": "أعلنت ميتا عن سحب ميزة متنازع عليها تتعلق بتوليد الصور باستخدام الذكاء الاصطناعي. جاء القرار بعد انتقادات متعلقة بالمخاوف التقنية والأخلاقية حول الميزة.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGVhQ2R4dFpWcUFFdVo4WjQ1WVlKMy04VENjZlVPN1hPNy1XZFhzOWJzMlJlYkF3eGNtN3B6dXN1UjZGV01vRkdDYlpiR1lqOEhyd2pqRGhyclRuaWtidGhnd1lmTHdHQlFZRmdpNzVXUTB5NlUtTzh0aGd5VzM3YkNScGN3cjRhaFRRZWVDeWZkZUNlLVAwU18yVTRpbEpN?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-17"
-  },
-  {
-   "title": "أستراليا تفرض قيوداً بيئية على مراكز بيانات الذكاء الاصطناعي",
-   "summary": "تسعى أستراليا لفرض ضوابط بيئية على مراكز البيانات المتخصصة بتطبيقات الذكاء الاصطناعي. تركز السياسة الجديدة على تقليل الأثر البيئي والاستهلاك الطاقي لهذه المنشآت.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjl3NUl2VkZ3a0ZaOGlvTlU0YXJoZzJHMDZUUnI0bDRSS0J4V2g0XzYwSWJ0R2x5YmZsRExhWTdZMElVSFBUY09fUkd4cEdBTDBVTDJOM0xDVHNzWTdVSk9vRTNZSUpoNHBqTHo0LUFna1J0VkVhZkdjSXpUd3NVN2NidzRUbzFaM1BuZFJ1NkNtUHI2NURDZmtrNjdfbVcx?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-17"
-  },
-  {
-   "title": "Google تضيف شخصيات رقمية قابلة للتخصيص إلى منصة Vids",
-   "summary": "أضافت Google لمنصتها Vids إمكانية إنشاء فيديوهات تظهر فيها نسخة رقمية مخصصة من المستخدم، مع دمج أدوات مدعومة من Gemini Omni لتوليد وتحرير مقاطع الفيديو بناءً على التعليمات النصية والصور المرجعية.",
-   "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-16"
-  },
-  {
-   "title": "روبلوكس تضيف ميزة إنشاء ألعاب بالذكاء الاصطناعي في تطبيقها للهاتف",
-   "summary": "أطلقت منصة روبلوكس ميزة جديدة تسمى «البناء» تمكّن المستخدمين من إنشاء ألعاب بسيطة باستخدام نص واحد فقط. تهدف الميزة إلى تسهيل عملية تطوير الألعاب على الأجهزة المحمولة دون الحاجة إلى مهارات برمجية متقدمة.",
-   "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-16"
-  },
-  {
-   "title": "غوغل تمنح ميزة الذكاء الاصطناعي القدرة على الربط والتفاعل مع التطبيقات",
-   "summary": "طورت غوغل نسختها من ميزة الذكاء الاصطناعي لتتجاوز الإجابة على الأسئلة إلى تنفيذ مهام فعلية عبر التطبيقات التي يستخدمها المستخدمون يومياً. يشكل هذا التطور خطوة نحو جعل الذكاء الاصطناعي أداة عملية للإنجاز وليس للمعلومات فقط.",
-   "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-16"
-  },
-  {
-   "title": "تطبيق DoorDash يتيح الآن طلب الطعام عبر سطر الأوامر",
-   "summary": "أطلقت خدمة DoorDash نسخة تجريبية محدودة من أداة بسيطة تعمل عبر سطر الأوامر، تسمح بالبحث في المتاجر وتشكيل السلات وتقديم الطلبات من المحطة الطرفية. تعكس هذه الخطوة توجهاً متزايداً نحو تصميم البرامج لتناسب وكلاء الذكاء الاصطناعي بالإضافة إلى المستخدمين البشريين.",
-   "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-16"
-  },
-  {
-   "title": "أوبنإيه تطلق كرة سلة بعلامة ChatGPT",
-   "summary": "أصدرت شركة OpenAI هذا الأسبوع أول منتج عتاد لها، وضمن هذه المنتجات كرة سلة تحمل علامة ChatGPT. تشير هذه الخطوة إلى توسع الشركة خارج مجال البرامج والخدمات الرقمية.",
-   "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-16"
-  },
-  {
-   "title": "حاكمة نيويورك تستخدم الذكاء الاصطناعي لفحص القوانين والتنظيمات",
-   "summary": "رغم موقفها السابق بفرض قيود على مراكز البيانات الجديدة للذكاء الاصطناعي، أعلنت الحاكمة كاثي هوتشول أن فريقها يعتمد على تقنيات الذكاء الاصطناعي لتحليل جميع القوانين واللوائح والسياسات في الولاية. تشير الخطوة إلى استفادة الإدارة من التكنولوجيا في تحسين العمليات الحكومية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-16"
-  },
-  {
-   "title": "غوغل تعيد تسمية تطبيق NotebookLM إلى Gemini Notebook",
-   "summary": "أعلنت غوغل إعادة تسمية تطبيق ملاحظاتها القائم على الذكاء الاصطناعي من NotebookLM إلى Gemini Notebook، مع احتفاظه بهويته كتطبيق مستقل لكن بتكامل أعمق مع منصة Gemini وخدمات البحث. تعكس الخطوة استراتيجية الشركة في توحيد منتجاتها حول العلامة التجارية Gemini.",
-   "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-16"
-  },
-  {
-   "title": "Claude يمكنه الآن استخدام بيانات دخول 1Password نيابة عنك",
-   "summary": "أطلقت خدمة 1Password تكاملاً جديداً مع متصفح الويب يسمح لـ Claude بالوصول إلى بيانات المصادقة المحفوظة مثل أسماء المستخدمين والكلمات المرورية. يتيح هذا التكامل للمستخدمين تفويض Claude لإنجاز مهام متعددة الخطوات مثل حجز الرحلات وإدارة الحسابات الأخرى.",
-   "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-16"
   }
  ]
 };
