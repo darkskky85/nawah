@@ -1,13 +1,109 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-18T15:43:08.894809+00:00",
+ "updated": "2026-07-18T21:39:11.296772+00:00",
  "items": [
   {
-   "title": "رائد رأس المال الاستثماري يتوقع إعادة توزيع أرباح الذكاء الاصطناعي",
-   "summary": "يرى نيل ريمر، مؤسس صندوق Index Ventures للاستثمار، أن الثروات الضخمة التي يجنيها الذكاء الاصطناعي في وادي السيليكون ستضطر إلى إعادة توزيعها بطريقة ما، سواء طواعية أم قسراً، نظراً للتأثيرات الاجتماعية الكبرى للتكنولوجيا.",
+   "title": "كيمي: بين الفائدة والمخاوف",
+   "summary": "أطلقت شركة مونشوت إيه آي الصينية نسخة محدّثة من نموذج كيمي، ما أثار نقاشات حول آثار هذا التطور على صناعة الذكاء الاصطناعي العالمية وتوازن القوى التكنولوجية بين الدول.",
+   "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "رأسمالي استثماري يتوقّع إعادة توزيع الثروة الذكاء الاصطناعي",
+   "summary": "يرى نيل ريمر، مؤسس صندوق الاستثمار إندكس فينتشرز، أن الأموال الضخمة التي يولّدها الذكاء الاصطناعي في وادي السيليكون ستواجه ضغوطاً للإعادة التوزيع، سواء برضا الأطراف أم بغيره.",
    "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "كاتب أميركي يحذّر من تأثير تشات جي بي تي على المبدعين",
+   "summary": "ألقى الروائي والكاتب ديف إيجرز حديثاً أمام موظفي أوبن إيه آي يناقش مخاوفه من أن أدوات الذكاء الاصطناعي مثل تشات جي بي تي قد تُسكّت صوت جيل كامل من الكُتّاب والفنانين.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "ميزات الاقتراحات الذكية في باسداش",
+   "summary": "أداة جديدة ظهرت باسم Basedash Suggestions توفر اقتراحات مدعومة بالذكاء الاصطناعي لتحسين تجربة العمل مع قواعد البيانات والبيانات، مما يساعد في تسريع عمليات البحث والتحليل.",
+   "url": "https://www.producthunt.com/products/basedash",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "أداة أي لخدمات ذكية",
+   "summary": "أداة جديدة ظهرت باسم Aye تقدم خدمات مدعومة بتقنيات الذكاء الاصطناعي لتلبية احتياجات معينة في مجالات متنوعة، موفرة حلاً ذكياً للمستخدمين.",
+   "url": "https://www.producthunt.com/products/aye-browser",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "محاضرات ولاية أيوا عن الذكاء الاصطناعي",
+   "summary": "نظمت ولاية أيوا سلسلة محاضرات مكثفة حول تطبيقات الذكاء الاصطناعي وتأثيراته على مختلف القطاعات، مما يعكس الاهتمام المتزايد بهذه التقنية على المستوى المحلي.",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVRlRYbXVlY1ExVWZ2Rml4MDE2MnNaT3V5R3RvNDNjVWNBNkxZS2preHBZZXJfdXFHLUVKRzRPN2NJM2xlVTNGekxZaw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "الندوة الثالثة للذكاء الاصطناعي في الأبحاث الصحية العامة",
+   "summary": "عقدت ندوة علمية متخصصة حول دور الذكاء الاصطناعي في تطوير أبحاث الصحة العامة، جمعت خبراء ومتخصصين لمناقشة التطبيقات والفرص في هذا المجال المهم.",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3TWFkOHZLUGQzMGV4WjdvUVBjQUE4MGZmQXA1Z2RkM1BPZFd1X1JuX1pLZ1VjQkIweVJhMk5SUXpFWncwbHVIelloSmFDcWh6azVaZ1ZKX2ptNDZ5VHVwaHBWcjk5U1NFZFB3UkZGYw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "الذكاء الاصطناعي وسيلة لتحسين كفاءة سلاسل الإمداد الطبية",
+   "summary": "يستعرض الاتجاهات الحديثة في استخدام الذكاء الاصطناعي لتحسين عمليات سلاسل التوريد في القطاع الطبي، مما يسهم في خفض التكاليف وتحسين الخدمات الصحية.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHZzZHByNndlWFlhWlFYck5QNWNhZU52MTF4VENkR19NTHFYNVlDSFJQYnlOOWdoS3ZnYW5qRVpDZVZvU2d5MEtwcHFCc2hnVG5ueUJNaFJNdFV0QmFhVVNDWTN6NVlSY241MHFIam00ZktzanFwNTRnZk9zZGMzbGRZSmpxUkwzcjBtWm5rQ3MxamJ0VmRkVHZn?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "إسرائيل تراهن على الذكاء الاصطناعي لإعادة تشكيل صناعة السياحة",
+   "summary": "تسعى إسرائيل لاستخدام تقنيات الذكاء الاصطناعي في تطوير قطاع السياحة من خلال تحسين تجارب الزوار والعمليات التسويقية، مما ينعكس على نمو اقتصادي في هذا القطاع.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDhYUkU5ZlY5cGowR0VsNTZXNTBXNVJKZnhjdVFnZjFSYU9XWktpRlhEQW14QkYyeVc3WTd3Y3VyMzBkRVU1TkotVHVkMGEwVGg0dEN4QmZyZk5CdWttT1NINTUtMlAwTFVCVDFpcGdMMXg5T0tHbHpDQWE3Wnplck42N2RlOTd3UWFUU3llSHhzcHR3RmN1cDZ5MA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "الذكاء الاصطناعي والقيم الإنسانية",
+   "summary": "مقالة تتناول العلاقة بين تطور تقنيات الذكاء الاصطناعي والحفاظ على القيم الإنسانية الأساسية، وكيفية ضمان توافق هذه التقنيات مع المبادئ الأخلاقية والاجتماعية.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QS2UtQWlJQll2dGNBdkpEZVRBUUFwaDN0aXZVYTNCMHJiQ0hqMFpBMWhFVEVZeHZ1TWItanJ5VXZHc1FqU3JsVWMzUTFyMHV3emRqSTdtODh4Skkxc3p6dzRlQUpxMmJ6cmpGamJxbHUzZkF2b1VfOQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "مكبّر صوت ذكي من OpenAI بتصميم فريد",
+   "summary": "أطلقت OpenAI جهاز مكبّر صوت ذكي يجمع بين خصائص متعددة، مما يشير إلى محاولة الشركة توسيع نطاق منتجاتها خارج تطبيقات البرمجيات.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ERjM5a1lrRjRLcDBxa2xTbFhPeXZLTGRpYlh1b3hJZDdYUzA5blJDczlqVlNwMEJZZTh6R1dhUEZSamt1MHUybkpWY3ZDUTRqTjRXdlRGLW8zTDVpUU9pQnI5emV3Tjc5RXd3?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "شرح نظام الأسعار الجديد لخدمة Gemini من Google",
+   "summary": "قدّمت Google نموذج تسعير جديد لخدمة Gemini، وتوضيح كيفية متابعة استهلاك المستخدمين للخدمة ورصيدهم المتبقي.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzlfYzR4ZnZEU1p1akF0SWFIV0NZOUp1bWNBOGZNenRjY0lOSnA5Z1I1SWliR1NoNTB0RzNwaEU3NXo3YWhuNTBSc2FRMktjSmhOdXhaT1o3My1XT2dtSFZOUnEyb0xHWHg4VHBTVDdxWmh0MVc5WG1kVFdVS1dEUWljMG5WLU5KNHpYZ3lsX0tRMmpl?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-18"
+  },
+  {
+   "title": "تجربة التدريب في OpenAI: رحلة موظف شاب في سان فرانسيسكو",
+   "summary": "شهادة شخصية من متدرب في OpenAI يسرد تجربته في الحصول على التدريب بالشركة، وانطباعاته عن بيئة العمل وقيادة الشركة.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXQxeDBGenJWbExUdGF0b29EWVdVWWtTcHF2Yng0b01SMmZ4RUxPeExIeHJFTGU5VjlGU3Mxc2Z5dF9TOUx0X2tPbHFnc0I3Ynh5bmVKU0NPbXlRczc1d3lZUUtFcDV2Y25kNjl5U1dBbW1DdHFlU1BGbVJ0Zmo4Q0xXalN2VVNSSnl3WmpDMjJsM0p2OFRyVg?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-18"
   },
   {
@@ -27,108 +123,12 @@ window.NEWS_DATA = {
    "date": "2026-07-18"
   },
   {
-   "title": "استخدام الذكاء الاصطناعي لتحسين كفاءة سلاسل التوريد",
-   "summary": "يركز التقرير على كيفية إسهام تطبيقات الذكاء الاصطناعي في تحسين أداء وكفاءة عمليات الإمداد واللوجستيات. توفر هذه التقنيات إمكانيات متقدمة في التنبؤ والتحسين والتكامل بين مختلف حلقات السلسلة.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHZzZHByNndlWFlhWlFYck5QNWNhZU52MTF4VENkR19NTHFYNVlDSFJQYnlOOWdoS3ZnYW5qRVpDZVZvU2d5MEtwcHFCc2hnVG5ueUJNaFJNdFV0QmFhVVNDWTN6NVlSY241MHFIam00ZktzanFwNTRnZk9zZGMzbGRZSmpxUkwzcjBtWm5rQ3MxamJ0VmRkVHZn?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-18"
-  },
-  {
    "title": "دمج تقنيات الأوميكس والذكاء الاصطناعي في الصحة البيئية للأطفال",
    "summary": "تستعرض الدراسة دور الذكاء الاصطناعي والتحليلات البيولوجية المتقدمة في فهم تأثير العوامل البيئية على صحة الأطفال. تناقش الأبحاث التحديات العملية والتقنية في دمج هذه الأدوات في الدراسات السكانية الشاملة.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lVzBXeDFmWFk0cUdpTnZzLXFwYkV2elh4bXMxNFhxai1jcmtHNl9xbEdWX0VESXNQcmpRM2trcldVNWVkblJmVVJlUDB1YmNIMExDbmFHYXluUkdLbi1n?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-18"
-  },
-  {
-   "title": "إسرائيل تراهن على الذكاء الاصطناعي لإحياء قطاع السياحة",
-   "summary": "تسعى إسرائيل إلى الاستثمار في حلول الذكاء الاصطناعي لتطوير وتعزيز تجارب السياحة والضيافة. يأتي هذا التوجه ضمن جهود أوسع لتحديث البنية التحتية السياحية واستقطاب الزوار من خلال خدمات مخصصة.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDhYUkU5ZlY5cGowR0VsNTZXNTBXNVJKZnhjdVFnZjFSYU9XWktpRlhEQW14QkYyeVc3WTd3Y3VyMzBkRVU1TkotVHVkMGEwVGg0dEN4QmZyZk5CdWttT1NINTUtMlAwTFVCVDFpcGdMMXg5T0tHbHpDQWE3Wnplck42N2RlOTd3UWFUU3llSHhzcHR3RmN1cDZ5MA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "فهم نماذج التسعير الجديدة لخدمة جيميني من جوجل وكيفية متابعة الاستخدام",
-   "summary": "يشرح الدليل آلية عمل خطط الاشتراك والتسعير الحديثة لنموذج جيميني من جوجل. يقدم معلومات عملية حول كيفية تتبع مستويات الاستهلاك والبيانات المستخدمة ضمن الخطط المختلفة.",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzlfYzR4ZnZEU1p1akF0SWFIV0NZOUp1bWNBOGZNenRjY0lOSnA5Z1I1SWliR1NoNTB0RzNwaEU3NXo3YWhuNTBSc2FRMktjSmhOdXhaT1o3My1XT2dtSFZOUnEyb0xHWHg4VHBTVDdxWmh0MVc5WG1kVFdVS1dEUWljMG5WLU5KNHpYZ3lsX0tRMmpl?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "تجربتي التدريبية في أوبن إيه آي بسان فرانسيسكو: كيف حصلت عليها وانطباعاتي عن سام ألتمان",
-   "summary": "يروي متدرب تجربته في التدريب بشركة أوبن إيه آي بالولايات المتحدة، موضحاً المسار الذي اتبعه للحصول على الفرصة وأبرز تفاصيل العمل اليومي فيها، مع انطباعاته عن المؤسس والرئيس التنفيذي سام ألتمان وثقافة الشركة.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXQxeDBGenJWbExUdGF0b29EWVdVWWtTcHF2Yng0b01SMmZ4RUxPeExIeHJFTGU5VjlGU3Mxc2Z5dF9TOUx0X2tPbHFnc0I3Ynh5bmVKU0NPbXlRczc1d3lZUUtFcDV2Y25kNjl5U1dBbW1DdHFlU1BGbVJ0Zmo4Q0xXalN2VVNSSnl3WmpDMjJsM0p2OFRyVg?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "جيميني 3.5 برو الغائب عن الأنظار: أين نموذج جوجل المعلن عنه؟",
-   "summary": "أعلنت جوجل عن نموذج جيميني 3.5 برو خلال مؤتمرها السنوي، لكن النموذج لم يصل بعد إلى المستخدمين رغم مرور وقت على الإعلان، مما يثير تساؤلات حول جدول التطوير والإطلاق الفعلي للنموذج.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S215YXpCY2JjNi1SSC1qaXNFT0k0WjdnZ0FRcEp1anYzcjJaaEtwSkN0VTdvdWVST2VfN0M0WWtTVWpCVEs5TlBpMnliRENjUG5vYWJCLTY0anRZb2g0Y2UwYw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "تأثير الذكاء الاصطناعي على بيئة العمل والموظفين",
-   "summary": "تحقيق صحفي يناقش الآثار الإيجابية والسلبية لتطبيقات الذكاء الاصطناعي على جودة حياة الموظفين وفرص العمل. يستعرض المخاوف المتعلقة بالوظائف والإنتاجية والمهارات المطلوبة في سوق العمل الحديث.",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcUFILUs0eVZBQVlDc0pxbzhIN1JyVDhUTEtGY3I2OXVnM0RaWThZVkE1eVdvRWhXRlY4dzB0a1huRUlxVTZPSFRnbUY3WHc3U0Y1S2tkenZnSGdJbHllMF83RDZOTkpFQWFtdlh1LVRKTXh4eUpadVcwdWxNb21yZ1NqRnBlaG9iWVJNZ2ZQQkRxLXMtaDVvcjJxTDdvVHhITlhKS1BNV3NTRFZPQkJZeEhITVpiWmx1ZkVFSnQ1d2lBbUUyakFleDRFZw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "هل أسهم Palantir آمنة للاستثمار في النصف الثاني من 2026؟",
-   "summary": "تحليل مالي لسهم شركة Palantir المتخصصة في برمجيات الذكاء الاصطناعي، بعد انخفاضه 35% من أعلى مستوياته. يقيّم الخبر إمكانيات الاستثمار في الشركة والعوامل المؤثرة على أدائها في المرحلة المقبلة.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbUlWeVh3Q3Z6MHBRV2VxZXl3SG8xWTFRMkctNDRfSWFWNmxSdVEtTUJwRUJ4dmtjWXpnR0JJYi03WjZuWFBmeDRKVDVmM2dORlRYMUJaejhJWEZGVnozdVZhRGZZWl9vY2xNNUlMQ21QOHMxSzg1b2xCOEpQc25DdWpFcHdQMDZEYmFsQzlTMGdDQWZfQ1ZxVw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "تأثير الذكاء الاصطناعي والعوامل الديموغرافية على سوق العقارات الأمريكية",
-   "summary": "تحلل الدراسات كيف يؤثر الذكاء الاصطناعي وتغير الخصائص السكانية معاً على توجهات سوق العقارات والاستثمارات العقارية في الولايات المتحدة. يشير التحليل إلى أهمية فهم هذه العوامل المتداخلة لاتخاذ قرارات استثمارية فعالة.",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQWswbDh2a2pwMG40WGx3Q25GTk40WnNrVHRrQkVPR0xEMF9nOVBNZWMwY3ZIVlNjWExjeUlGZlQteFZNSXZJOENHMVViZDJzOWtyY0lsOUtTeXNCT2RIS3pPTjdQZHdqc0FkTWpHUjZOWnpscEFaWG1abTR6UlBQM0FFT1YyNS1XQnlBSUFDUzJVVlU1VzNGUmZ3cTFrdlE2ZERhSEhFZlloeW5NazRKNEhLNjVoVl8yYzlNSWQ0STkxeEJGZFpIRGh1QjBWNlRm?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "جوجل تحذر من التعامل المفرط من المراهقين مع نموذج جيميني",
-   "summary": "أعلنت جوجل أن على المراهقين عدم التعامل مع نموذج الذكاء الاصطناعي جيميني كرفيق أو صديق. يأتي هذا التحذير بهدف تعزيز الوعي بالاستخدام الصحيح للتكنولوجيا وتجنب الاعتماد العاطفي على الأنظمة الآلية.",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JSjUzMkN1c2NrYmpieXpNU2x2bTRCbEtLdTluQzNFWk9pT01zM1Z2cE0tdW04ZnoyWmZpUC1JUG5lTGwxd0ZRZ0NoM3dmc2k5eGdIMWR5WmFCOW4wQjJCQjd4SWlpNGZTZmcyLUNR?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "هاتف ذكي فاخر بسعر 6880 دولاراً من فيرتو: هل يستحق الاستثمار الفعلي في وكيله الذكي؟",
-   "summary": "أداة جديدة ظهرت باسم فيرتو الهاتف الذكي الفاخر، وهو جهاز قابل للطي مدعوم بوكيل ذكي موجه للمديرين التنفيذيين. الجهاز يجمع بين التصميم الفاخر ومميزات الذكاء الاصطناعي، مع التركيز على عمر البطارية والأمان.",
-   "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-17"
-  },
-  {
-   "title": "ديتابريكس تصل إلى تقييم 188 مليار دولار، مؤكدة موقعها كنجم الذكاء الاصطناعي الصاعد",
-   "summary": "حققت شركة ديتابريكس قيمة سوقية جديدة بعد أن أعادت تموضع ذاتها كشركة متخصصة في الذكاء الاصطناعي، ونشرت أبحاثاً تثبت فعالية نماذج الذكاء الاصطناعي مفتوحة الأوزان في تقليل تكاليف تطوير تطبيقات البرمجة.",
-   "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-17"
-  },
-  {
-   "title": "ميزة جديدة في Zoom تمنح المستخدمين خياراً للاعتراض على التسجيل",
-   "summary": "تظهر تساؤلات حول الإفراط في تسجيل وتلخيص الاجتماعات والمحادثات الرسمية وغيرها بواسطة أدوات الذكاء الاصطناعي، وهو ما يثير قضايا حول جدوى هذه الممارسات وخصوصية المستخدمين.",
-   "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-17"
   }
  ]
 };
