@@ -1,43 +1,99 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-19T15:44:10.249592+00:00",
+ "updated": "2026-07-19T21:40:15.470861+00:00",
  "items": [
   {
-   "title": "نولان يحذّر من الذكاء الاصطناعي كـ\"حصان طروادة\" حديث",
-   "summary": "انتقد المخرج كريستوفر نولان تطور الذكاء الاصطناعي، محذراً من أخطاره المحتملة على المجتمع والثقافة، معتبراً إياه أداة قد تحمل تهديدات مخفية تشبه الأساطير القديمة.",
+   "title": "ماذا يُتوقّع بعد زيارة جينسن هوانج لليابان؟",
+   "summary": "غادر الرئيس التنفيذي لشركة إنفيديا طوكيو محملاً باتفاقيات تغطي قطاعات تكنولوجية يابانية متعددة، مما يعكس توسّع استثماري واستراتيجي للشركة في السوق الآسيوية الرئيسية.",
+   "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "هل تستطيع دعوى أبل إيقاف طموحات أوبن إيه آي في الأجهزة؟",
+   "summary": "تثير دعوى قضائية من أبل تساؤلات حول تأثيرها على خطط أوبن إيه آي للدخول إلى سوق الأجهزة والعمل على الطرح العام للأسهم، في أحدث نقاش لبرنامج إكويتي المتخصص بأخبار التقنية.",
+   "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "كريستوفر نولان: الذكاء الاصطناعي 'حصان طروادة' واضح",
+   "summary": "انتقد المخرج الحائز على جوائز الذكاء الاصطناعي معتبراً إياه أداة خطيرة مموّهة بفوائد ظاهرة، في إشارة إلى أن تأثيراته الحقيقية قد تبقى مختفية في البداية.",
    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-19"
   },
   {
-   "title": "منظمة غير ربحية تسعى لبناء شبكة ذكاء اصطناعي عالمية مفتوحة",
-   "summary": "تعمل مؤسسة Current AI على تطوير نظام ذكاء اصطناعي متاح للجميع دون تمييز حضاري أو ثقافي، مركزة على الوصول عبر أجهزة متعددة وتطبيقات حوارية.",
+   "title": "منظمة Current AI تسعى لبناء ويب عالمي للذكاء الاصطناعي متاح للجميع",
+   "summary": "تعمل منظمة غير ربحية على تطوير نماذج ذكاء اصطناعي تعكس التنوع الثقافي العالمي وتتاح بحرية، محققة تقدماً في تطبيقات متعددة من أجهزة ذكية إلى أنظمة الحوار.",
    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-19"
   },
   {
-   "title": "انطلاق مؤتمر العالم للذكاء الاصطناعي في شانغهاي",
-   "summary": "افتتح مؤتمر عالمي متخصص في الذكاء الاصطناعي في مدينة شانغهاي الصينية، ويجمع الحدث باحثين وخبراء من مختلف دول العالم لمناقشة أحدث التطورات والتطبيقات في هذا المجال.",
+   "title": "أغنية من تأليف الذكاء الاصطناعي تفاجئ الناقدين رغم توقعاتهم",
+   "summary": "كشفت تجربة شخصية مع أداة Suno لتوليد الموسيقى أن المخرجات قد تتجاوز أحياناً التوقعات السلبية المسبقة حول جودة الموسيقى المصنوعة بالذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "تقديرات جنسن هوانج تتوقع سوقاً للذكاء الاصطناعي بحجم 4 تريليون دولار",
+   "summary": "أعرب الرئيس التنفيذي لشركة إنفيديا جنسن هوانج عن توقع أن يصل حجم سوق الذكاء الاصطناعي إلى 4 تريليونات دولار، وهو ما قد يرفع القيمة السوقية للشركة إلى 20 تريليون دولار. تعكس هذه التوقعات الرؤية الطموحة حول النمو المستقبلي للتقنيات الذكية في الأسواق العالمية.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNkZHdEZqeWNySTFONkN2VzRhS3NieVFrTW5zeThPVkp2M0xEbU1keUw4NWk5TkNJS1lpbXYyendkbEtIbU9TQ05OQU9aRTItNHNzSk05TW1ZcnlRdXBHUDAya25kVUtjbTY3NTNNdlhxVEt5RktBT040ZDV6enM0TURtOGFaWVAxU0NlMXlXc1k1T1dpV0dNNzFnS2dRdElfTmc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "انطلاق المؤتمر العالمي للذكاء الاصطناعي في شنغهاي",
+   "summary": "افتتح المؤتمر العالمي للذكاء الاصطناعي أبوابه في مدينة شنغهاي الصينية. يجمع الحدث خبراء وباحثين ومتخصصين من حول العالم لمناقشة أحدث التطورات والتحديات في مجال الذكاء الاصطناعي.",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sb3BzQUZfMFR5Q1RveGYxNUUwVXVZbjYxcWJSMnBrMHR0LXRITGQ1T2JFMndTUmt5aUFvNXVtaWI3NFpRcWR2bXl0QWgyRURlUDZRWDluSEQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-19"
   },
   {
-   "title": "الذكاء الاصطناعي يعيد تشكيل اقتصاديات الجرائم الإلكترونية",
-   "summary": "يؤثر الذكاء الاصطناعي على طريقة تنفيذ الجرائم السيبرانية وتكاليفها واستراتيجياتها، حيث يزيد من كفاءة الهجمات الرقمية ويقلل من الموارد المطلوبة للقيام بها. يشير الخبراء إلى أهمية فهم هذا التحول لتطوير دفاعات أفضل ضد التهديدات الناشئة.",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQW5qOUpnVG1uUXVXZ1M5YThQZkoxcTRTRnZndXFLelZIZzRJVmZEVjBGMldudDJUdE1ZSHcxel93Vl9JV083NkpWcllVVUNkbnFkRTEzVVg3M3NsdndIMGZGQ1Q0ZTJqc3hienZHU0hNX0RCTXlOUUJycUpMUmkzbVlLVXhQMEdSNnBDdm1BQm9qSGlneml2dW8tdVdOWkdHT1A2RlVTNnh2djd0UF9CRHRaVHBHVjJzSVYyb29icjQ?oc=5",
+   "title": "أفضل ثلاث أسهم ذكاء اصطناعي للاستثمار الآن",
+   "summary": "تحليل استثماري يستعرض ثلاث شركات رائدة في مجال الذكاء الاصطناعي تمثل فرصاً استثمارية محتملة. يركز على الأسهم التي قد توفر عوائد جيدة للمستثمرين المهتمين بقطاع التقنيات الذكية.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmUxVUMwRGUtNzZidVRRMUVNSXNYVWw1NXFPQWxvbzdNRTJ2ZVlLN2RhcEVpWnY4Ukc2YmVvRUxnOVNYZGxJc3BTSjVrSmZGc3Z6SUVneFNpTVNaU1hxT0hGaFFSZ21EVEo4YWdDZ1ZxSWdudExXMkNmYmRFeGxta1VoVjJEZ05NdUJBRFR5MENTcGdyNERUVw?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-19"
   },
   {
-   "title": "هل يمكن للذكاء الاصطناعي أن يصبح واعياً؟",
-   "summary": "يطرح الحوار الفلسفي والعلمي تساؤلات حول احتمالية امتلاك أنظمة الذكاء الاصطناعي المتقدمة للوعي الحقيقي، وما الذي قد يميز هذا الوعي عن محاكاة السلوك الذكي.",
+   "title": "فائدة الذكاء الاصطناعي في فحص سرطان القولون تثير تساؤلات عند مرضى متلازمة لينش",
+   "summary": "دراسة طبية تشير إلى أن استخدام الذكاء الاصطناعي في الكشف عن سرطان القولون قد لا يحسّن النتائج تلقائياً لدى مرضى متلازمة لينش الوراثية. تسلط الضوء على ضرورة تقييم دقيق لفعالية هذه التقنيات في السياقات الطبية المختلفة.",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnJoeVFHblNycWdSTTh4a1dBZ0pNSERtT3ZxN1lSZE8zV2dhdWZjYnllc3U2V215WmRmdFFMRy04VXlkc0cwVGJMcG1qRlJJWjc1OHcwZVlHTUNtNGVhMHBHSEJGb1pYdldiNXdwclJGb216WlFYZUIzNmp0dHNrZUotVmlkcC1nZjlBVk1wWkFPZw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "هل يمكن لأنظمة الذكاء الاصطناعي أن تمتلك وعياً؟",
+   "summary": "نقاش فلسفي وعلمي حول إمكانية امتلاك أنظمة الذكاء الاصطناعي للوعي والإدراك. يستكشف السؤال الجوهري حول طبيعة الذكاء الاصطناعي وحدوده الحالية والمستقبلية.",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "هل يمكن لدعوى قضائية من أبل أن توقف خطط أوبن إيه آي الجديدة للأجهزة؟",
+   "summary": "تقرير عن نزاع قانوني محتمل بين شركة أبل وأوبن إيه آي حول مشاريع الأجهزة الذكية. يناقش التداعيات المحتملة للدعوى القضائية على التطورات التكنولوجية المخطط لها.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVNqN1paNUlrdzltc0F6UnNlZVQ1V0ZrYTVyZW0tdUZpaHVPMUFDa05vZGtLanhWdy1HOTNWOGtWaER0RmFpWjBYanlQYkNXemtJUExxUXY0eDUyV0E5dDFVR0JXTjZGRHN6dlEwZUFTZ3hpTkVubnRFSVdJR21GYWdfNlZuZFFYNVFTSzJR?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "الذكاء الاصطناعي يعيد تشكيل اقتصاديات الجرائم الإلكترونية",
+   "summary": "يؤثر الذكاء الاصطناعي على طريقة تنفيذ الجرائم السيبرانية وتكاليفها واستراتيجياتها، حيث يزيد من كفاءة الهجمات الرقمية ويقلل من الموارد المطلوبة للقيام بها. يشير الخبراء إلى أهمية فهم هذا التحول لتطوير دفاعات أفضل ضد التهديدات الناشئة.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQW5qOUpnVG1uUXVXZ1M5YThQZkoxcTRTRnZndXFLelZIZzRJVmZEVjBGMldudDJUdE1ZSHcxel93Vl9JV083NkpWcllVVUNkbnFkRTEzVVg3M3NsdndIMGZGQ1Q0ZTJqc3hienZHU0hNX0RCTXlOUUJycUpMUmkzbVlLVXhQMEdSNnBDdm1BQm9qSGlneml2dW8tdVdOWkdHT1A2RlVTNnh2djd0UF9CRHRaVHBHVjJzSVYyb29icjQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-19"
@@ -72,62 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2dzRzM4d1pxcUN0UWFkY1NuZk1KajlxSVZNU3dwaUFOOGtnWjVSbUtjR2pVWFBEU2JvMjRSbFcxeHdCcjA5d3Q1anF5MnNuNVR0RVNwU1VmRGRUVWY4aElSWmVYc0RSSVpCVnNGcElBU010c3hBZ0Zva3BQUXVrTHZwd1djdGxuczhIVFp4TGswcjQ?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "اختبار عملي: كيف يختار الذكاء الاصطناعي أفضل الهواتف الذكية",
-   "summary": "قورنت توصيات نماذج ذكاء اصطناعي مختلفة بشأن اختيار الهواتف الذكية، وكشفت النتائج عن اختلافات ملحوظة في التقييمات والأولويات بين هذه النماذج.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmVKSy1JSURPSjNvY1d0aTk1WXdSSVAxV0xpeUhlZVRXTVlaSHlOOTFUdXpwck80QnNHRVRlT3hoTG9HR3NSNjRKZlJEQkVFaFMzNEpiTEhGTEJnLVZaQThyalE3RXo4eEFwdzQ4YlhrVnluRE1mTi1zekFQUHU5eXoxZjgyYTZqTjRIeVUwc3VpbjNpWkVN?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "فعالية OpenAI الموجهة للمؤسسين تركز على اللقاءات العفوية بدلاً من الخطابات التقليدية",
-   "summary": "نظمت OpenAI حدثاً للمؤسسين يعتمد على تشجيع اللقاءات الطبيعية والحوارات بين الحضور بدلاً من الاعتماد على العروض التقديمية والحلقات النقاشية المعروفة.",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc2FOcjMxZlZZbW1fOUZHZTVqMy1BUnVnLWdDaEpzbjVLbEhmeGF3bEtTZUtLQnhLWlNvTkQ3Mk9HWlhQN2RyVk8zeHlub05mZGRudkw3WFhaT2N1dlpMQ21GRVBnVHcteW1RNmJUaWpENzAwZDVDb2o2N1FZYTZOZmhwSWhjNEJfVUV2aTVsRmhqZ2JET0JicmNkbWs3UmpzYTRCZC0wYXdPOE5yMHF1bkVCWldIZjVsd0dQNw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "الفاتيكان يدعو لاتفاق دولي لمنع السيطرة الآلية على الأسلحة النووية",
-   "summary": "تسعى الفاتيكان لتعزيز إعلان دولي يحظر استخدام الذكاء الاصطناعي في التحكم بالأسلحة النووية. هذه الخطوة تعكس قلقاً متنامياً حول المخاطر الأمنية الناجمة عن أتمتة القرارات الحربية الكبرى.",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQl9vWkxZdkdqaWtpRXRhbUh1NnA5NlVxRjhlQmxyY1JQNWRHYnJzOG5WdWVlXzRDX0k0dzhvbFJ1aWRzZ21CQ1FBQm1vd2JHeWhPR3NaMkZET1RsaG1aaGhQNXdKNHBrTFQ2NndkRTVaX2I0RzNyS1l1d2tVbUpNeGNjZWFpVUxpZ0ZIaFVMWHhBMDhEQl83NFJBVlNtNG90VldXcDJEcjlDQmVVOG0wZzhlYWNmcWxRMWJMVTlNS01falktcTNuWm1fU2w5TUp2ZXRqdzRTaXNYRUlMZVQtMFY3OGdoblF1UnVHUmFn?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "الصحافة المحلية تكتسب أهمية متزايدة في عصر الذكاء الاصطناعي",
-   "summary": "مع انتشار المحتوى المولد بواسطة الذكاء الاصطناعي، يبرز دور الصحافة المحلية الموثوقة كضرورة لتزويد المجتمعات بمعلومات دقيقة وذات صلة محلية. الصحافة التقليدية تحتل موقعاً مهماً في الحفاظ على الثقة الإعلامية والمساءلة.",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEM3SGZrelplWFN1MU9fSjlQLVBXYlNER1FaS3B0RFNvajZCSVpLQWVab3lMczhSNldpM0VkR3h3WklWNTRLZ2VpVVVqSk4tWVBEMjdJVENteWgyRDR4OWFMTk1ud0JFa0Z3Ym9PRGZOR0NGLUdaZXhpa09ERURjMlJLYjJQZlRHUDZJakw3WkZVQTJXaGpWTVZ3ckVmcWUzdmo0a05SNGhCSUlieXl3Z2NsREFvVzZhVVlTUVgzWE5qVmc?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "الذكاء الاصطناعي يصبح عاملاً فاصلاً في منافسات الدراجات الاحترافية",
-   "summary": "يستخدم الفريق المتسابقون في سباق تور دو فرانس والفئات الاحترافية برامج ذكاء اصطناعي لتحليل الأداء والاستراتيجية. هذا التطبيق التنافسي يشير إلى أن الفرق المتقدمة تقنياً قد تحظى بأفضلية حاسمة في النتائج.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rUmxUVW9vSzNqeHlyaWk3aHJySHNGc1ZpRzVjTDNCeFlBZHc2Q2dnWE1hT0NWRnUzUjY5clNHaFhUTGtOZS0xZnlBdzJLbjY3bDVwNTVOTEg1WldWUDhqUTJ1SVFveVI4Zk15OFRfSFJVM3VJbFZGRQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "إيلون ماسك يعترف بتقليل تقديره لإمكانيات Anthropic",
-   "summary": "اعترف إيلون ماسك بأنه قلّل من شأن تطورات شركة Anthropic في مجال الذكاء الاصطناعي، وهو ما قد يؤشر على تقدم حقيقي في هذا المجال. هذا الاعتراف قد يلفت اهتمام المستثمرين في شركات التكنولوجيا الكبرى مثل أمازون و أبجدل.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYmV4Wjc1MDRmdThrZWM1a1lLdUpOZnJfUWV5azVMaktyeDlxWTNYei1udFB5THVWUkpabi1FZ2VlU0YyTTZia2ZKNGM2Sjd3R0ZacUFpQW1HNXpvbFFWNEhPYWdpMFM1dm0wRkR5TDFLRmRkbEZFS2lWTjR6VHl3VnJkcmVKVkJBdi1SVUU0T2Z6MzBsWDNIaQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "الذكاء الاصطناعي يصبح ساحة صراع جيوسياسية جديدة",
-   "summary": "يتصاعد التنافس الدولي على تطوير تقنيات الذكاء الاصطناعي، حيث تسعى الدول الكبرى للسيطرة على هذا المجال الحساس. يعكس هذا الصراع أهمية الذكاء الاصطناعي في رسم موازين القوى العالمية والتأثير على المستقبل الجيوسياسي.",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82RWtsRXlUTDY2ckdVV0tFenZDbWJTaXM2VFEwWWpDYTNJdGdoeTdTdE9DX0tOdG9iY0xFaVRvTTBIbTBYTFRaZnc5cmdrS0g1dzdDVE9IUQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-19"
   }
  ]
