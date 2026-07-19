@@ -1,13 +1,61 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-19T05:41:21.753246+00:00",
+ "updated": "2026-07-19T10:18:30.861012+00:00",
  "items": [
   {
-   "title": "الذكاء الاصطناعي يعيد تشكيل الاقتصاديات الكامنة وراء الجرائم الإلكترونية",
-   "summary": "يُبدّل الذكاء الاصطناعي البيئة الاقتصادية للهجمات الإلكترونية، بتقليل تكاليفها وتوسيع نطاق المهاجمين المحتملين. يدفع هذا التطور الشركات والحكومات إلى إعادة تقييم استراتيجيات الدفاع والاستثمار الأمني.",
+   "title": "انطلاق مؤتمر العالم للذكاء الاصطناعي في شنغهاي",
+   "summary": "انعقد مؤتمر عالمي مختص بالذكاء الاصطناعي في مدينة شنغهاي الصينية، وجمع الحدث باحثين ومتخصصين وقادة صناعة من مختلف أنحاء العالم لمناقشة التطورات الأخيرة والاتجاهات المستقبلية في مجال الذكاء الاصطناعي وتطبيقاته.",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sb3BzQUZfMFR5Q1RveGYxNUUwVXVZbjYxcWJSMnBrMHR0LXRITGQ1T2JFMndTUmt5aUFvNXVtaWI3NFpRcWR2bXl0QWgyRURlUDZRWDluSEQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "الذكاء الاصطناعي يعيد تشكيل اقتصاديات الجرائم الإلكترونية",
+   "summary": "يغيّر الذكاء الاصطناعي طبيعة الجرائم الإلكترونية من خلال تقليل التكاليف وزيادة فعالية الهجمات، مما يجعل التهديدات السيبرانية أكثر انتشاراً وسهولة. هذا التطور يفرض على المؤسسات والحكومات إعادة النظر في استراتيجيات الدفاع الإلكترونية.",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQW5qOUpnVG1uUXVXZ1M5YThQZkoxcTRTRnZndXFLelZIZzRJVmZEVjBGMldudDJUdE1ZSHcxel93Vl9JV083NkpWcllVVUNkbnFkRTEzVVg3M3NsdndIMGZGQ1Q0ZTJqc3hienZHU0hNX0RCTXlOUUJycUpMUmkzbVlLVXhQMEdSNnBDdm1BQm9qSGlneml2dW8tdVdOWkdHT1A2RlVTNnh2djd0UF9CRHRaVHBHVjJzSVYyb29icjQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "الفاتيكان يدعو لاتفاق دولي لمنع السيطرة الآلية على الأسلحة النووية",
+   "summary": "تسعى الفاتيكان لتعزيز إعلان دولي يحظر استخدام الذكاء الاصطناعي في التحكم بالأسلحة النووية. هذه الخطوة تعكس قلقاً متنامياً حول المخاطر الأمنية الناجمة عن أتمتة القرارات الحربية الكبرى.",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQl9vWkxZdkdqaWtpRXRhbUh1NnA5NlVxRjhlQmxyY1JQNWRHYnJzOG5WdWVlXzRDX0k0dzhvbFJ1aWRzZ21CQ1FBQm1vd2JHeWhPR3NaMkZET1RsaG1aaGhQNXdKNHBrTFQ2NndkRTVaX2I0RzNyS1l1d2tVbUpNeGNjZWFpVUxpZ0ZIaFVMWHhBMDhEQl83NFJBVlNtNG90VldXcDJEcjlDQmVVOG0wZzhlYWNmcWxRMWJMVTlNS01falktcTNuWm1fU2w5TUp2ZXRqdzRTaXNYRUlMZVQtMFY3OGdoblF1UnVHUmFn?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "الصحافة المحلية تكتسب أهمية متزايدة في عصر الذكاء الاصطناعي",
+   "summary": "مع انتشار المحتوى المولد بواسطة الذكاء الاصطناعي، يبرز دور الصحافة المحلية الموثوقة كضرورة لتزويد المجتمعات بمعلومات دقيقة وذات صلة محلية. الصحافة التقليدية تحتل موقعاً مهماً في الحفاظ على الثقة الإعلامية والمساءلة.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEM3SGZrelplWFN1MU9fSjlQLVBXYlNER1FaS3B0RFNvajZCSVpLQWVab3lMczhSNldpM0VkR3h3WklWNTRLZ2VpVVVqSk4tWVBEMjdJVENteWgyRDR4OWFMTk1ud0JFa0Z3Ym9PRGZOR0NGLUdaZXhpa09ERURjMlJLYjJQZlRHUDZJakw3WkZVQTJXaGpWTVZ3ckVmcWUzdmo0a05SNGhCSUlieXl3Z2NsREFvVzZhVVlTUVgzWE5qVmc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "الذكاء الاصطناعي يصبح عاملاً فاصلاً في منافسات الدراجات الاحترافية",
+   "summary": "يستخدم الفريق المتسابقون في سباق تور دو فرانس والفئات الاحترافية برامج ذكاء اصطناعي لتحليل الأداء والاستراتيجية. هذا التطبيق التنافسي يشير إلى أن الفرق المتقدمة تقنياً قد تحظى بأفضلية حاسمة في النتائج.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rUmxUVW9vSzNqeHlyaWk3aHJySHNGc1ZpRzVjTDNCeFlBZHc2Q2dnWE1hT0NWRnUzUjY5clNHaFhUTGtOZS0xZnlBdzJLbjY3bDVwNTVOTEg1WldWUDhqUTJ1SVFveVI4Zk15OFRfSFJVM3VJbFZGRQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "أداة جديدة لتوحيد عدة منصات ذكاء اصطناعي برسم اشتراك شهري",
+   "summary": "أداة جديدة ظهرت تجمع بين واجهات عمل متعددة المنصات مثل ChatGPT و Claude و Gemini في لوحة تحكم موحدة بدفعة اشتراك سنوية واحدة. تسهل الأداة الوصول المركزي لعدة أنماط ذكاء اصطناعي دون الحاجة لاشتراكات منفصلة.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2dzRzM4d1pxcUN0UWFkY1NuZk1KajlxSVZNU3dwaUFOOGtnWjVSbUtjR2pVWFBEU2JvMjRSbFcxeHdCcjA5d3Q1anF5MnNuNVR0RVNwU1VmRGRUVWY4aElSWmVYc0RSSVpCVnNGcElBU010c3hBZ0Zva3BQUXVrTHZwd1djdGxuczhIVFp4TGswcjQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "إيلون ماسك يعترف بتقليل تقديره لإمكانيات Anthropic",
+   "summary": "اعترف إيلون ماسك بأنه قلّل من شأن تطورات شركة Anthropic في مجال الذكاء الاصطناعي، وهو ما قد يؤشر على تقدم حقيقي في هذا المجال. هذا الاعتراف قد يلفت اهتمام المستثمرين في شركات التكنولوجيا الكبرى مثل أمازون و أبجدل.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYmV4Wjc1MDRmdThrZWM1a1lLdUpOZnJfUWV5azVMaktyeDlxWTNYei1udFB5THVWUkpabi1FZ2VlU0YyTTZia2ZKNGM2Sjd3R0ZacUFpQW1HNXpvbFFWNEhPYWdpMFM1dm0wRkR5TDFLRmRkbEZFS2lWTjR6VHl3VnJkcmVKVkJBdi1SVUU0T2Z6MzBsWDNIaQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-19"
   },
   {
@@ -27,24 +75,24 @@ window.NEWS_DATA = {
    "date": "2026-07-19"
   },
   {
-   "title": "موديل 'كيمي' الصيني يثير جدلاً حول المقاصد والتأثير",
-   "summary": "أطلقت شركة Moonshot AI الصينية نسخة جديدة من نموذج كيمي، ما أثار نقاشات حول المخاوف الجيوسياسية والتأثير الفكري للنماذج اللغوية الكبرى. الحدث يعكس التنافسية المتزايدة في سوق الذكاء الاصطناعي بين القوى الكبرى.",
+   "title": "كيمي: بين الفرصة والمخاوف",
+   "summary": "أطلقت شركة Moonshot AI الصينية نسخة محدثة من نموذج كيمي هذا الأسبوع، مما أثار نقاشات حول تأثيراتها المحتملة وتوزيع قوتها التكنولوجية، خاصة في السياق الجيوسياسي بين الشرق والغرب.",
    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-18"
   },
   {
-   "title": "رأسمالي استثماري يتوقع إعادة توزيع الثروات التي يولدها الذكاء الاصطناعي",
-   "summary": "يرى نيل ريمر، المؤسس المشارك لشركة Index Ventures، أن الثروات الضخمة التي يجنيها الذكاء الاصطناعي في وادي السيليكون ستضطر يوماً ما للعودة إلى المجتمع بطريقة أو بأخرى. التوقع يعكس نقاشات متنامية حول توزيع فوائد التكنولوجيا الفائقة اقتصادياً.",
+   "title": "رائد الاستثمار يتوقع تحولاً في توزيع ثروات الذكاء الاصطناعي",
+   "summary": "يعتقد نيل ريمر، أحد مؤسسي صندوق Index Ventures، أن الثروات الضخمة التي يولدها الذكاء الاصطناعي في وادي السيليكون ستضطر للعودة للتوزيع، سواء برغبة من المستفيدين أو بفرض آليات اقتصادية وسياسية.",
    "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-18"
   },
   {
-   "title": "الكاتب ديف إيجرز يناقد تأثير ChatGPT على المبدعين",
-   "summary": "دعاه الرئيس التنفيذي لـ OpenAI للحديث أمام الموظفين حول مخاوفه من أن الأدوات مثل ChatGPT قد تؤدي لإسكات جيل كامل من الكتاب والفنانين. يعكس الحوار القلق الثقافي المتنامي حول تأثير الذكاء الاصطناعي على الإبداع الإنساني والمحتوى الأصلي.",
+   "title": "الكاتب ديف إيجرز يحذر من تأثير ChatGPT على الإبداع الأدبي",
+   "summary": "دعا سام ألتمان الكاتب ديف إيجرز للحديث أمام حوالي 200 موظف في OpenAI، حيث أعرب عن قلقه من أن أدوات الذكاء الاصطناعي قد تؤدي إلى تقليل المساحة المتاحة للكتاب والمبدعين في المجتمع.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
    "source": "The Verge AI",
    "tag": "منتجات",
@@ -80,54 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXQxeDBGenJWbExUdGF0b29EWVdVWWtTcHF2Yng0b01SMmZ4RUxPeExIeHJFTGU5VjlGU3Mxc2Z5dF9TOUx0X2tPbHFnc0I3Ynh5bmVKU0NPbXlRczc1d3lZUUtFcDV2Y25kNjl5U1dBbW1DdHFlU1BGbVJ0Zmo4Q0xXalN2VVNSSnl3WmpDMjJsM0p2OFRyVg?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "ميزات الاقتراحات الذكية في باسداش",
-   "summary": "أداة جديدة ظهرت باسم Basedash Suggestions توفر اقتراحات مدعومة بالذكاء الاصطناعي لتحسين تجربة العمل مع قواعد البيانات والبيانات، مما يساعد في تسريع عمليات البحث والتحليل.",
-   "url": "https://www.producthunt.com/products/basedash",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "أداة أي لخدمات ذكية",
-   "summary": "أداة جديدة ظهرت باسم Aye تقدم خدمات مدعومة بتقنيات الذكاء الاصطناعي لتلبية احتياجات معينة في مجالات متنوعة، موفرة حلاً ذكياً للمستخدمين.",
-   "url": "https://www.producthunt.com/products/aye-browser",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "محاضرات ولاية أيوا عن الذكاء الاصطناعي",
-   "summary": "نظمت ولاية أيوا سلسلة محاضرات مكثفة حول تطبيقات الذكاء الاصطناعي وتأثيراته على مختلف القطاعات، مما يعكس الاهتمام المتزايد بهذه التقنية على المستوى المحلي.",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVRlRYbXVlY1ExVWZ2Rml4MDE2MnNaT3V5R3RvNDNjVWNBNkxZS2preHBZZXJfdXFHLUVKRzRPN2NJM2xlVTNGekxZaw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "الذكاء الاصطناعي وسيلة لتحسين كفاءة سلاسل الإمداد الطبية",
-   "summary": "يستعرض الاتجاهات الحديثة في استخدام الذكاء الاصطناعي لتحسين عمليات سلاسل التوريد في القطاع الطبي، مما يسهم في خفض التكاليف وتحسين الخدمات الصحية.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHZzZHByNndlWFlhWlFYck5QNWNhZU52MTF4VENkR19NTHFYNVlDSFJQYnlOOWdoS3ZnYW5qRVpDZVZvU2d5MEtwcHFCc2hnVG5ueUJNaFJNdFV0QmFhVVNDWTN6NVlSY241MHFIam00ZktzanFwNTRnZk9zZGMzbGRZSmpxUkwzcjBtWm5rQ3MxamJ0VmRkVHZn?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "إسرائيل تراهن على الذكاء الاصطناعي لإعادة تشكيل صناعة السياحة",
-   "summary": "تسعى إسرائيل لاستخدام تقنيات الذكاء الاصطناعي في تطوير قطاع السياحة من خلال تحسين تجارب الزوار والعمليات التسويقية، مما ينعكس على نمو اقتصادي في هذا القطاع.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDhYUkU5ZlY5cGowR0VsNTZXNTBXNVJKZnhjdVFnZjFSYU9XWktpRlhEQW14QkYyeVc3WTd3Y3VyMzBkRVU1TkotVHVkMGEwVGg0dEN4QmZyZk5CdWttT1NINTUtMlAwTFVCVDFpcGdMMXg5T0tHbHpDQWE3Wnplck42N2RlOTd3UWFUU3llSHhzcHR3RmN1cDZ5MA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-18"
-  },
-  {
-   "title": "الذكاء الاصطناعي والقيم الإنسانية",
-   "summary": "مقالة تتناول العلاقة بين تطور تقنيات الذكاء الاصطناعي والحفاظ على القيم الإنسانية الأساسية، وكيفية ضمان توافق هذه التقنيات مع المبادئ الأخلاقية والاجتماعية.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QS2UtQWlJQll2dGNBdkpEZVRBUUFwaDN0aXZVYTNCMHJiQ0hqMFpBMWhFVEVZeHZ1TWItanJ5VXZHc1FqU3JsVWMzUTFyMHV3emRqSTdtODh4Skkxc3p6dzRlQUpxMmJ6cmpGamJxbHUzZkF2b1VfOQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-18"
   }
  ]
