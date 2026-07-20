@@ -1,42 +1,82 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-19T21:40:15.470861+00:00",
+ "updated": "2026-07-20T05:58:35.365984+00:00",
  "items": [
   {
-   "title": "ماذا يُتوقّع بعد زيارة جينسن هوانج لليابان؟",
-   "summary": "غادر الرئيس التنفيذي لشركة إنفيديا طوكيو محملاً باتفاقيات تغطي قطاعات تكنولوجية يابانية متعددة، مما يعكس توسّع استثماري واستراتيجي للشركة في السوق الآسيوية الرئيسية.",
+   "title": "استهلاك الطاقة في مراكز البيانات والذكاء الاصطناعي",
+   "summary": "دراسة تحلل حجم الطاقة المستخدمة من قبل مراكز البيانات وتطبيقات الذكاء الاصطناعي على المستوى العالمي، وتسلط الضوء على التأثيرات البيئية والاقتصادية المترتبة على هذا الاستهلاك المتزايد.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "داكوتا الشمالية تسعى لتنظيم محدود للذكاء الاصطناعي",
+   "summary": "يدرس صانعو القرار في ولاية داكوتا الشمالية خيارات تشريعية لوضع إطار تنظيمي محدود يغطي تطبيقات الذكاء الاصطناعي، بهدف إيجاد توازن بين تعزيز الابتكار والحفاظ على الحماية العامة.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkc1VlhKaUoxaUtxWlY5OU1uZmlCQTFKVTA0VnctLWN2ZFBjSGQyUmlZOGpTaEtJNW9WVWJpdEtycUNsZjZfYTNvZGJod3V1UktxTGd6YVRmdklTSjM1X2gzaktGaXJya1VPTTlERGJPN3VuSG5LLU9pdHhES0dWdkZZb3dRMUYtVC1zbmhzZk1KX1BvQWpaMVB6cy1ZbWtiNGdtZFdJMV9CQUI2d2lR?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "علي بابا تؤكد أن نموذجها الجديد يأتي في المرتبة الثانية بعد Anthropic",
+   "summary": "أعلنت علي بابا عن إطلاق نموذج ذكاء اصطناعي جديد، وادعت أنه يحتل مرتبة متقدمة في التصنيفات العالمية. تأتي هذه الخطوة وسط تنافس متزايد بين الشركات الصينية والعالمية في مجال الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzB1S012cHg4eEkzckQ5QndPdG14Q0FPcUpyLUdGWUZGUldBTnhYWGltdnQ5bUdLOEluV05iYkd2cm44SEYyZEtqMlctbE9PNGMtUzI3MzhDdFVwRTM4MENFalE5aUx5cklkamVvX3dsWG1SSnZYakcxeEMyWWUyVFJCaks1Y0RDR2trUldGcG5JbHFwX3lkbGh1NV9WOFA4?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "حظر نماذج الذكاء الاصطناعي لا يشكل سياسة فعالة",
+   "summary": "تناقش المقالة كيف أن فرض حظر كامل على نماذج الذكاء الاصطناعي المعينة لا يعتبر نهجاً سياسياً شاملاً أو عملياً. تؤكد على ضرورة وجود إطار تنظيمي متوازن بدلاً من الحظر القاطع.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JQUt6S2FBbzNUOFdMdGxQalBQX19Ma1Bud0pqaFp3eXpBLVJxM0oyZW8yaFhLVFVrQzdGbmFoT2ZoOE5RX2xISUwzU0xna19BMHBWWVpjbjM0QnZSTy1SVWRRcUtOZFowRGc1aXlhekx1dm9yeGpv?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "ارتفاع سهم AMD: هل تصبح Anthropic عميلاً جديداً؟",
+   "summary": "شهد سهم AMD ارتفاعاً ملحوظاً وسط تكهنات حول احتمال تعاقد شركة Anthropic معها. كشف ملف في GitHub قد يشير إلى شراكة محتملة بين الشركتين في مجال البنية التحتية للذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRV9JM3RZQ0U0M2c4UXVaT3BjNnJWY3BwTWlsV1E4OUNSZ3ZpenU3OTI1TnREREJkX0tNMVdCWnRxb3ZFVGpuVkVmTGxEdWxpQmcyZ19XUlp1MWZ0LXh2ZGdVcWx2ZHFfRXNDNnhrSWdqMFJ0SFlJTFhaNWNkS1FfZ3FxM0hwbUV1WFZFRnVBN3ExZTM1LTBORjY0bFgzVUhnT2IxalNnbFRlY2p5TWhaZ24yNWVMWW1jV3Z5UmxZR3V5UzJ5UGdjTy1LR3Q1Q3NkZWQ2UFpuSmdJUDVfc216RzMzZm5pbkt4N3RWcFlySENHdFU?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "ما يجب ترقبه بعد زيارة جنسن هوانج لليابان",
+   "summary": "أبرم الرئيس التنفيذي لشركة NVIDIA اتفاقيات عديدة خلال زيارته لطوكيو تشمل شركات تقنية يابانية مختلفة. تعكس هذه الاتفاقيات التزام الشركة بتعميق حضورها في السوق الآسيوية.",
    "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-19"
   },
   {
-   "title": "هل تستطيع دعوى أبل إيقاف طموحات أوبن إيه آي في الأجهزة؟",
-   "summary": "تثير دعوى قضائية من أبل تساؤلات حول تأثيرها على خطط أوبن إيه آي للدخول إلى سوق الأجهزة والعمل على الطرح العام للأسهم، في أحدث نقاش لبرنامج إكويتي المتخصص بأخبار التقنية.",
+   "title": "هل يمكن لدعوى Apple أن توقف خطط OpenAI في مجال الأجهزة؟",
+   "summary": "يناقش التقرير تأثير دعوى قانونية من شركة Apple على طموحات OpenAI في دخول سوق الأجهزة والدخول للبورصة. يشير إلى احتمالية تأثر استراتيجية الشركة بالعراقيل القانونية المحتملة.",
    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-19"
   },
   {
-   "title": "كريستوفر نولان: الذكاء الاصطناعي 'حصان طروادة' واضح",
-   "summary": "انتقد المخرج الحائز على جوائز الذكاء الاصطناعي معتبراً إياه أداة خطيرة مموّهة بفوائد ظاهرة، في إشارة إلى أن تأثيراته الحقيقية قد تبقى مختفية في البداية.",
+   "title": "المخرج كريستوفر نولان يحذر من الذكاء الاصطناعي كـ'حصان طروادة'",
+   "summary": "وصف المخرج الشهير الذكاء الاصطناعي بأنه تهديد مستتر يشبه الحصان الخشبي الأسطوري. أعرب عن قلقه من الآثار طويلة الأمد لهذه التكنولوجيا على الصناعة والمجتمع.",
    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-19"
   },
   {
-   "title": "منظمة Current AI تسعى لبناء ويب عالمي للذكاء الاصطناعي متاح للجميع",
-   "summary": "تعمل منظمة غير ربحية على تطوير نماذج ذكاء اصطناعي تعكس التنوع الثقافي العالمي وتتاح بحرية، محققة تقدماً في تطبيقات متعددة من أجهزة ذكية إلى أنظمة الحوار.",
+   "title": "منظمة Current AI تسعى لبناء شبكة عالمية مفتوحة للذكاء الاصطناعي",
+   "summary": "تعمل منظمة Current AI غير الربحية على تطوير تقنيات ذكاء اصطناعي تضمن عدم استبعاد أي ثقافة، وحققت تقدماً ملحوظاً في مجالات عديدة منها تطبيقات الأجهزة والمحادثات الذكية، بهدف إتاحة هذه التقنيات للجميع بحرية.",
    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-19"
   },
   {
-   "title": "أغنية من تأليف الذكاء الاصطناعي تفاجئ الناقدين رغم توقعاتهم",
-   "summary": "كشفت تجربة شخصية مع أداة Suno لتوليد الموسيقى أن المخرجات قد تتجاوز أحياناً التوقعات السلبية المسبقة حول جودة الموسيقى المصنوعة بالذكاء الاصطناعي.",
+   "title": "موقف متناقض تجاه أغنية من إنتاج الذكاء الاصطناعي",
+   "summary": "رغم أن الموسيقى المولدة بالذكاء الاصطناعي تستحق مكاناً في المشهد الفني، إلا أن معظم المخرجات، خاصة من منصة Suno، تميل للملل والرتابة، لكن بعض التجارب تفاجئ المستمعين بجودة غير متوقعة، ما يثير تساؤلات حول إمكانيات هذه التكنولوجيا الموسيقية.",
    "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
    "source": "The Verge AI",
    "tag": "منتجات",
@@ -86,46 +126,6 @@ window.NEWS_DATA = {
    "title": "هل يمكن لدعوى قضائية من أبل أن توقف خطط أوبن إيه آي الجديدة للأجهزة؟",
    "summary": "تقرير عن نزاع قانوني محتمل بين شركة أبل وأوبن إيه آي حول مشاريع الأجهزة الذكية. يناقش التداعيات المحتملة للدعوى القضائية على التطورات التكنولوجية المخطط لها.",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVNqN1paNUlrdzltc0F6UnNlZVQ1V0ZrYTVyZW0tdUZpaHVPMUFDa05vZGtLanhWdy1HOTNWOGtWaER0RmFpWjBYanlQYkNXemtJUExxUXY0eDUyV0E5dDFVR0JXTjZGRHN6dlEwZUFTZ3hpTkVubnRFSVdJR21GYWdfNlZuZFFYNVFTSzJR?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "الذكاء الاصطناعي يعيد تشكيل اقتصاديات الجرائم الإلكترونية",
-   "summary": "يؤثر الذكاء الاصطناعي على طريقة تنفيذ الجرائم السيبرانية وتكاليفها واستراتيجياتها، حيث يزيد من كفاءة الهجمات الرقمية ويقلل من الموارد المطلوبة للقيام بها. يشير الخبراء إلى أهمية فهم هذا التحول لتطوير دفاعات أفضل ضد التهديدات الناشئة.",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQW5qOUpnVG1uUXVXZ1M5YThQZkoxcTRTRnZndXFLelZIZzRJVmZEVjBGMldudDJUdE1ZSHcxel93Vl9JV083NkpWcllVVUNkbnFkRTEzVVg3M3NsdndIMGZGQ1Q0ZTJqc3hienZHU0hNX0RCTXlOUUJycUpMUmkzbVlLVXhQMEdSNnBDdm1BQm9qSGlneml2dW8tdVdOWkdHT1A2RlVTNnh2djd0UF9CRHRaVHBHVjJzSVYyb29icjQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "جامعة آرتس تطلق أول برنامج ماجستير في الذكاء الاصطناعي بإقليم كردستان",
-   "summary": "أقامت جامعة آرتس أول برنامج دراسات عليا متخصص في الذكاء الاصطناعي بإقليم كردستان، مما يوفر فرصة تعليمية متقدمة للطلاب الراغبين في تطوير خبراتهم في هذا المجال المتنامي.",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUFVSbTNveDVhc0NrRlNwcDNqRkUtbGVuTHRkaE5QSGZRcTNLYVNxMkVKQ2RkTGJOX0M2LWUwR2gyTmpSMTdCd1Q3SHRQWkZpLVRfTnV4aHhyUTJlNV9EUDgtRTNpX3dHZ1hCbHhIQ09jOFZWRV9BNXVBWkozd0RLd2VwUk9JbnNZMUZCRVFnREtuWGlvbE54RmxtTTVOSHMyaWczc29YaUtXQ0dXRHpXc3I5QlZ5OTRCdzZSZnNhY2I?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "الذكاء الاصطناعي قد يجعلك أقل تميزاً في العمل، تحذير من خبير بجامعة كولومبيا",
-   "summary": "حذر أكاديمي من أن الاعتماد المفرط على أدوات الذكاء الاصطناعي قد يؤدي إلى تقليل التميز الفردي والإبداع في بيئة العمل. يشير إلى أن هذا الاتجاه قد يؤثر سلباً على تقدم المهنيين وتطورهم الوظيفي على المدى الطويل.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVV9pX2pVRUg1N0ZaUl9GUEYyMVlxWXF6bTd5MFNPcDJfN3pQU1g2RFFNV29TNFgyZFc0aVluZjI5ajFJMDFvcktEcTliRzB1NkkxWUJmbGllVmE2R1VoemlBYjYyVlpEelAwbkZKNEZLdjhjc283Tk1jQ25wQ3FjbEhub3fSAYoBQVVfeXFMTXRkb0t3akVHOXFVUlVUWlRCa2ZsZVVNemgyNHJfN25FWTFFTFlfQ0ZzTmdpZzhHY080ODFnUkpjNFBDSTF0SDRkVlNWSlhibFQ4NEpGMzZaakZ0Q29hNkw3LWlfZUJFRmozYmlRTHZ0T29Yb25RVVJIbWpzcGNwR2FtM1Z4TmRFUDVB?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "شركة ناشئة تحاكي نموذج أنثروبيك البحثي في مجال الذكاء الاصطناعي",
-   "summary": "تسعى شركة Thinking Machines إلى بناء نهج مشابه لما تتبعه شركة Anthropic في البحث والتطوير، محاولة جذب المواهب والمستثمرين من خلال التركيز على الجودة العلمية والعمل الفكري المميز.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUVVWms0dFdvZU83QlJiZVdQdzZBSWhVTjZlelljT2E3eHZ6cUo2ZlVEd2ZXOV9OU3ByRlB6aU5MMHpna1BGQlB6VDFJaExVRWpUdnpLTHJyMEdGRFVtVjVhbFUxaEFNR01RbXlvWWQ1NllwQV90LVlwenFob0djT2hzbUtTVDZYbXg3alBkZF85NzlBM2dGWkJZUmhrdw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "لوحة تحكم موحدة تجمع أدوات الذكاء الاصطناعي الرئيسة برسوم شهرية ثابتة",
-   "summary": "أداة جديدة توفر واجهة موحدة للوصول إلى عدة نماذج ذكاء اصطناعي شهيرة مثل ChatGPT وClaude وGemini بسعر اشتراك شهري ثابت بدلاً من الدفع المنفصل لكل خدمة.",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2dzRzM4d1pxcUN0UWFkY1NuZk1KajlxSVZNU3dwaUFOOGtnWjVSbUtjR2pVWFBEU2JvMjRSbFcxeHdCcjA5d3Q1anF5MnNuNVR0RVNwU1VmRGRUVWY4aElSWmVYc0RSSVpCVnNGcElBU010c3hBZ0Zva3BQUXVrTHZwd1djdGxuczhIVFp4TGswcjQ?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-07-19"
