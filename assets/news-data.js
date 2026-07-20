@@ -1,13 +1,109 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-20T05:58:35.365984+00:00",
+ "updated": "2026-07-20T11:34:00.823644+00:00",
  "items": [
   {
-   "title": "استهلاك الطاقة في مراكز البيانات والذكاء الاصطناعي",
-   "summary": "دراسة تحلل حجم الطاقة المستخدمة من قبل مراكز البيانات وتطبيقات الذكاء الاصطناعي على المستوى العالمي، وتسلط الضوء على التأثيرات البيئية والاقتصادية المترتبة على هذا الاستهلاك المتزايد.",
+   "title": "الشركات الصينية تشدّد الضغط على هيمنة أمريكا في الذكاء الاصطناعي",
+   "summary": "أطلقت شركات صينية رائدة مثل مونشوت وعلي بابا نماذج ذكاء اصطناعي تنافس نظيراتها الأمريكية من OpenAI وAnthropic بتكاليف أقل بكثير. تشير وتيرة هذه الإطلاقات المتسارعة إلى أن الفجوة التنافسية الأمريكية في مجال الذكاء الاصطناعي تضيق بسرعة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "موسيقى مولّدة بالذكاء الاصطناعي تثير استغراب المتخصصين",
+   "summary": "رغم أن بعض المتخصصين يقرون بقيمة الذكاء الاصطناعي في المجال الموسيقي، إلا أن المخرجات الحالية لأدوات مثل Suno يعتبرها الكثيرون مملة وخالية من الإبداع الفني الحقيقي.",
+   "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "كاتب أمريكي يحذّر OpenAI من تأثير الذكاء الاصطناعي على الأدباء",
+   "summary": "ألقى الروائي ديف إيجرز محاضرة أمام موظفي OpenAI حول مخاوفه بشأن تأثير ChatGPT على المبدعين والكتاب. أشار إيجرز، الذي لديه خبرة واسعة في الكتابة والفنون، إلى أن الذكاء الاصطناعي قد يؤثر سلباً على فرص جيل جديد من الأدباء والفنانين.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "نماذج اللغة قد تطور تحيزات خاصة بها في عملية التوظيف",
+   "summary": "كشفت أبحاث جديدة أن نماذج اللغة الكبيرة لا تمتص التحيزات من البيانات التدريبية فحسب، بل قد تطور انحيازاتها الخاصة عند استخدامها في غربلة السيرة الذاتية. هذا يثير تساؤلات جوهرية حول عدالة الذكاء الاصطناعي في عمليات التوظيف.",
+   "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "أداة جديدة باسم Fuzzy AI",
+   "summary": "أداة جديدة ظهرت باسم Fuzzy AI لمعالجة البيانات غير الدقيقة والمعقدة باستخدام تقنيات الذكاء الاصطناعي. تُستخدم في سيناريوهات تتطلب التعامل مع عدم التأكد والغموض في المعلومات.",
+   "url": "https://www.producthunt.com/products/fuzzy-ai-2",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "أداة جديدة باسم Skippr AI",
+   "summary": "أداة جديدة ظهرت باسم Skippr AI لتسريع وتبسيط عمليات معالجة البيانات والمحتوى. توفر حلولاً آلية للمهام التي تتطلب تصفية وتنظيم كميات كبيرة من المعلومات.",
+   "url": "https://www.producthunt.com/products/skippr-3",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "استهلاك الطاقة في مراكز البيانات والذكاء الاصطناعي: دراسة جديدة",
+   "summary": "نشرت منصة Our World in Data دراسة حول الطاقة المستهلكة من قبل مراكز البيانات وتطبيقات الذكاء الاصطناعي. تسلط الدراسة الضوء على الأثر البيئي والموارد اللازمة لتشغيل هذه الأنظمة على المستوى العالمي.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "الذكاء الاصطناعي والقانون الدولي في النزاعات المسلحة",
+   "summary": "ندوة متخصصة تناقش تقاطع الذكاء الاصطناعي مع القانون الدولي في السياقات العسكرية والمسلحة. تسعى النقاشات إلى وضع إطار قانوني وأخلاقي لاستخدام تقنيات الذكاء الاصطناعي في العمليات العسكرية.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbE9WdmFnX29tTXc0dVltdTk4b1BJNVotUFRkYzJpcFFRMWJ0Zjl2dVRjSFVLOW9qbnBueldCVC1TOWZZdi0tcGxKdWNaRXhEaGZBeWd6S2VVaG1NRVZHSWhIXzVfNmdMR1lRTlI4T1F6cmFfcS02WUxieGhhTEt5Q0NYLV9fNzhxSUdidm91ZzRyeTd5LWlETXdvUVVDWTFrZ0FfbVVueEY1d1JWdXdkaURoVFF3aFBuTjR6eW5SY04wdw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "الذكاء الاصطناعي المسؤول: دور الاختلاف كميزة تنافسية",
+   "summary": "تناقش Telefónica أهمية الحفاظ على آراء مختلفة واختلاف الرؤى كأداة تنافسية في عصر الذكاء الاصطناعي. تؤكد على أن التطوير المسؤول للتقنيات يتطلب تنوعاً في الأفكار والمواقف والنقاش المفتوح.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZi1rdVZSbS1hdFJYdGxmR2NOaERKUGJ2dzZTc3VjSjRPbTZ5eUtHRmJTcWFwWmdIMERQbVJldmxCZTlPWDE3ZXRybjlwaWFVNDl1cEVIQjBsRmN6b1UzLWJwWXl6aERLMDVhUkpaWDU0RHM2U21VU2xzcFFOMWUtODU3NGZkUmNDSGhTVnZjRGxyQ3JzejFic1BoMEVVQldZejB4Z3RmbmVNUzRBV2c?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "توقيع اتفاق لتأسيس منظمة عالمية للتعاون في الذكاء الاصطناعي",
+   "summary": "تم توقيع اتفاق دولي بهدف إنشاء منظمة عالمية متخصصة في تنسيق التعاون بين الدول والمؤسسات في مجال الذكاء الاصطناعي. تهدف هذه الخطوة إلى تعزيز التنسيق الدولي والعمل المشترك في قطاع الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3phNGNzMkxfdUJYZmRUZE83ejdmM3V1ZG45bEpGV2FlbjZfZWFneEg1c2xFS2NLVXVPdFg5MjcyWXJXZ3lERmFiRnhLSjhkeEo3dkxDR3hDd0lxX2FxOW9JRTQ4UlBwU2RpMkdOMElfd044LVRTUmVPTV83TURPemI5aVQyTzE5TnZxRTZFYjFxMlU5LXp3cXhBOV9rcUpKTWdkNnVyTHVFUUVtMEhreEplM3YxX21sTTRtNnpiMXQwc29sUkpIejlPakp1c0JwSGEyY3E0cw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "شركة United Imaging Intelligence توضح نهجها المتوازن في نشر تقنيات الذكاء الاصطناعي",
+   "summary": "أوضح نائب الرئيس التنفيذي لشركة United Imaging Intelligence أن الشركة لا تتبنى سياسة توسع سريعة أو متطرفة في تطبيق الذكاء الاصطناعي. تركز الشركة بدلاً من ذلك على نهج متدرج وحذر في دمج هذه التقنيات في خدماتها.",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2toNjhDdjVXUXNDYXRXYUhya2NfZlV6akZtTnpJRjVUWjBUQ1dPMDZIX1dEdGRXZ2hEWVQ2WHB3ZV9RRmpyRVBXbk92UC1jSG1ZZXlVU1JuTTAwalpHRU5oc3dOdy1oaWRtOWEtcUlMVFdMckpXcklIb2IwMWRPOXNrNE95OEZPTDdDRGE0RC0zMFJzRjktcndwZ0I0UmhLNVg5Sll3UzE0QzYzdW1sNmx5V2JBUjRXNzVOZG5mSW1LX1dVbmFTU0QtRXgwUTRYdHgyZFFleU9PaGZuU1dBckpOdw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "أوبن إيه آي تطلق جهاز صوتي ذكي بمواصفات جديدة",
+   "summary": "أطلقت شركة أوبن إيه آي جهاز صوت ذكي جديد يجمع بين خصائص تصميمية وتقنية تشبه أجهزة مماثلة في السوق. يأتي الجهاز بقدرات تفاعلية متقدمة ويهدف للعمل كمساعد صوتي للمستخدمين.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ERjM5a1lrRjRLcDBxa2xTbFhPeXZLTGRpYlh1b3hJZDdYUzA5blJDczlqVlNwMEJZZTh6R1dhUEZSamt1MHUybkpWY3ZDUTRqTjRXdlRGLW8zTDVpUU9pQnI5emV3Tjc5RXd3?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "علي بابا تعلن عن نموذج ذكاء اصطناعي جديد ينافس أحدث الموديلات العالمية",
+   "summary": "أعلنت شركة علي بابا الصينية عن تطوير نموذج ذكاء اصطناعي جديد تؤكد أنه يحقق أداء عالية مقارنة بأحدث النماذج العالمية. تعكس هذه الخطوة تسارع التنافس بين الشركات الكبرى في تطوير نماذج ذكاء اصطناعي متقدمة.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzB1S012cHg4eEkzckQ5QndPdG14Q0FPcUpyLUdGWUZGUldBTnhYWGltdnQ5bUdLOEluV05iYkd2cm44SEYyZEtqMlctbE9PNGMtUzI3MzhDdFVwRTM4MENFalE5aUx5cklkamVvX3dsWG1SSnZYakcxeEMyWWUyVFJCaks1Y0RDR2trUldGcG5JbHFwX3lkbGh1NV9WOFA4?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-20"
   },
   {
@@ -16,14 +112,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkc1VlhKaUoxaUtxWlY5OU1uZmlCQTFKVTA0VnctLWN2ZFBjSGQyUmlZOGpTaEtJNW9WVWJpdEtycUNsZjZfYTNvZGJod3V1UktxTGd6YVRmdklTSjM1X2gzaktGaXJya1VPTTlERGJPN3VuSG5LLU9pdHhES0dWdkZZb3dRMUYtVC1zbmhzZk1KX1BvQWpaMVB6cy1ZbWtiNGdtZFdJMV9CQUI2d2lR?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "علي بابا تؤكد أن نموذجها الجديد يأتي في المرتبة الثانية بعد Anthropic",
-   "summary": "أعلنت علي بابا عن إطلاق نموذج ذكاء اصطناعي جديد، وادعت أنه يحتل مرتبة متقدمة في التصنيفات العالمية. تأتي هذه الخطوة وسط تنافس متزايد بين الشركات الصينية والعالمية في مجال الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzB1S012cHg4eEkzckQ5QndPdG14Q0FPcUpyLUdGWUZGUldBTnhYWGltdnQ5bUdLOEluV05iYkd2cm44SEYyZEtqMlctbE9PNGMtUzI3MzhDdFVwRTM4MENFalE5aUx5cklkamVvX3dsWG1SSnZYakcxeEMyWWUyVFJCaks1Y0RDR2trUldGcG5JbHFwX3lkbGh1NV9WOFA4?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-07-20"
   },
   {
@@ -41,94 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-07-20"
-  },
-  {
-   "title": "ما يجب ترقبه بعد زيارة جنسن هوانج لليابان",
-   "summary": "أبرم الرئيس التنفيذي لشركة NVIDIA اتفاقيات عديدة خلال زيارته لطوكيو تشمل شركات تقنية يابانية مختلفة. تعكس هذه الاتفاقيات التزام الشركة بتعميق حضورها في السوق الآسيوية.",
-   "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "هل يمكن لدعوى Apple أن توقف خطط OpenAI في مجال الأجهزة؟",
-   "summary": "يناقش التقرير تأثير دعوى قانونية من شركة Apple على طموحات OpenAI في دخول سوق الأجهزة والدخول للبورصة. يشير إلى احتمالية تأثر استراتيجية الشركة بالعراقيل القانونية المحتملة.",
-   "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "المخرج كريستوفر نولان يحذر من الذكاء الاصطناعي كـ'حصان طروادة'",
-   "summary": "وصف المخرج الشهير الذكاء الاصطناعي بأنه تهديد مستتر يشبه الحصان الخشبي الأسطوري. أعرب عن قلقه من الآثار طويلة الأمد لهذه التكنولوجيا على الصناعة والمجتمع.",
-   "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "منظمة Current AI تسعى لبناء شبكة عالمية مفتوحة للذكاء الاصطناعي",
-   "summary": "تعمل منظمة Current AI غير الربحية على تطوير تقنيات ذكاء اصطناعي تضمن عدم استبعاد أي ثقافة، وحققت تقدماً ملحوظاً في مجالات عديدة منها تطبيقات الأجهزة والمحادثات الذكية، بهدف إتاحة هذه التقنيات للجميع بحرية.",
-   "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "موقف متناقض تجاه أغنية من إنتاج الذكاء الاصطناعي",
-   "summary": "رغم أن الموسيقى المولدة بالذكاء الاصطناعي تستحق مكاناً في المشهد الفني، إلا أن معظم المخرجات، خاصة من منصة Suno، تميل للملل والرتابة، لكن بعض التجارب تفاجئ المستمعين بجودة غير متوقعة، ما يثير تساؤلات حول إمكانيات هذه التكنولوجيا الموسيقية.",
-   "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "تقديرات جنسن هوانج تتوقع سوقاً للذكاء الاصطناعي بحجم 4 تريليون دولار",
-   "summary": "أعرب الرئيس التنفيذي لشركة إنفيديا جنسن هوانج عن توقع أن يصل حجم سوق الذكاء الاصطناعي إلى 4 تريليونات دولار، وهو ما قد يرفع القيمة السوقية للشركة إلى 20 تريليون دولار. تعكس هذه التوقعات الرؤية الطموحة حول النمو المستقبلي للتقنيات الذكية في الأسواق العالمية.",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNkZHdEZqeWNySTFONkN2VzRhS3NieVFrTW5zeThPVkp2M0xEbU1keUw4NWk5TkNJS1lpbXYyendkbEtIbU9TQ05OQU9aRTItNHNzSk05TW1ZcnlRdXBHUDAya25kVUtjbTY3NTNNdlhxVEt5RktBT040ZDV6enM0TURtOGFaWVAxU0NlMXlXc1k1T1dpV0dNNzFnS2dRdElfTmc?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "انطلاق المؤتمر العالمي للذكاء الاصطناعي في شنغهاي",
-   "summary": "افتتح المؤتمر العالمي للذكاء الاصطناعي أبوابه في مدينة شنغهاي الصينية. يجمع الحدث خبراء وباحثين ومتخصصين من حول العالم لمناقشة أحدث التطورات والتحديات في مجال الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sb3BzQUZfMFR5Q1RveGYxNUUwVXVZbjYxcWJSMnBrMHR0LXRITGQ1T2JFMndTUmt5aUFvNXVtaWI3NFpRcWR2bXl0QWgyRURlUDZRWDluSEQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "أفضل ثلاث أسهم ذكاء اصطناعي للاستثمار الآن",
-   "summary": "تحليل استثماري يستعرض ثلاث شركات رائدة في مجال الذكاء الاصطناعي تمثل فرصاً استثمارية محتملة. يركز على الأسهم التي قد توفر عوائد جيدة للمستثمرين المهتمين بقطاع التقنيات الذكية.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmUxVUMwRGUtNzZidVRRMUVNSXNYVWw1NXFPQWxvbzdNRTJ2ZVlLN2RhcEVpWnY4Ukc2YmVvRUxnOVNYZGxJc3BTSjVrSmZGc3Z6SUVneFNpTVNaU1hxT0hGaFFSZ21EVEo4YWdDZ1ZxSWdudExXMkNmYmRFeGxta1VoVjJEZ05NdUJBRFR5MENTcGdyNERUVw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "فائدة الذكاء الاصطناعي في فحص سرطان القولون تثير تساؤلات عند مرضى متلازمة لينش",
-   "summary": "دراسة طبية تشير إلى أن استخدام الذكاء الاصطناعي في الكشف عن سرطان القولون قد لا يحسّن النتائج تلقائياً لدى مرضى متلازمة لينش الوراثية. تسلط الضوء على ضرورة تقييم دقيق لفعالية هذه التقنيات في السياقات الطبية المختلفة.",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnJoeVFHblNycWdSTTh4a1dBZ0pNSERtT3ZxN1lSZE8zV2dhdWZjYnllc3U2V215WmRmdFFMRy04VXlkc0cwVGJMcG1qRlJJWjc1OHcwZVlHTUNtNGVhMHBHSEJGb1pYdldiNXdwclJGb216WlFYZUIzNmp0dHNrZUotVmlkcC1nZjlBVk1wWkFPZw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "هل يمكن لأنظمة الذكاء الاصطناعي أن تمتلك وعياً؟",
-   "summary": "نقاش فلسفي وعلمي حول إمكانية امتلاك أنظمة الذكاء الاصطناعي للوعي والإدراك. يستكشف السؤال الجوهري حول طبيعة الذكاء الاصطناعي وحدوده الحالية والمستقبلية.",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-19"
-  },
-  {
-   "title": "هل يمكن لدعوى قضائية من أبل أن توقف خطط أوبن إيه آي الجديدة للأجهزة؟",
-   "summary": "تقرير عن نزاع قانوني محتمل بين شركة أبل وأوبن إيه آي حول مشاريع الأجهزة الذكية. يناقش التداعيات المحتملة للدعوى القضائية على التطورات التكنولوجية المخطط لها.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVNqN1paNUlrdzltc0F6UnNlZVQ1V0ZrYTVyZW0tdUZpaHVPMUFDa05vZGtLanhWdy1HOTNWOGtWaER0RmFpWjBYanlQYkNXemtJUExxUXY0eDUyV0E5dDFVR0JXTjZGRHN6dlEwZUFTZ3hpTkVubnRFSVdJR21GYWdfNlZuZFFYNVFTSzJR?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-19"
   }
  ]
 };
