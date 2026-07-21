@@ -1,21 +1,85 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-21T10:55:02.328746+00:00",
+ "updated": "2026-07-21T16:13:45.380974+00:00",
  "items": [
   {
-   "title": "شركة جريت تكشف عن تمويل بـ 34 مليون دولار لآليات بناء محطات الطاقة الشمسية",
-   "summary": "أعلنت شركة جريت عن خروجها من المرحلة السرية مع تمويل بقيمة 34 مليون دولار، وتركز على أتمتة المهام الشاقة والمعقدة في مواقع البناء والإنشاء، بما فيها تشييد محطات الطاقة الشمسية.",
+   "title": "واشنطن تهدد بعقوبات ضد نماذج ذكاء اصطناعي صينية بسبب سرقة الملكية الفكرية",
+   "summary": "أشار وزير الخزانة الأمريكي إلى احتمال فرض عقوبات على نماذج الذكاء الاصطناعي المفتوحة الصينية المتهمة بسرقة الملكية الفكرية، في خطوة تعكس توسيع حملة إدارة ترامب لتبطيء تقدم الصين في مجال الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "أكثر من نصف الملفات المرفوعة يومياً على ديزر من إنتاج الذكاء الاصطناعي",
+   "summary": "كشفت منصة البث الموسيقي ديزر أن أكثر من 90 ألف مسار مولد بالذكاء الاصطناعي يتم رفعه يومياً على الخدمة، مما يعكس التأثير المتزايد لأدوات إنشاء المحتوى الآلي على صناعة الموسيقى الرقمية.",
+   "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "شركة جريت تعلن عن تمويل بـ 32 مليون دولار لروبوتات بناء محطات الطاقة الشمسية",
+   "summary": "أداة جديدة ظهرت باسم جريت تهدف إلى أتمتة المهام الصعبة في مواقع البناء، وتدخل السوق برأس مال يبلغ 34 مليون دولار موجه لتطوير روبوتات متخصصة في بناء منشآت الطاقة المتجددة والمشاريع الإنشائية الأخرى.",
    "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-21"
   },
   {
-   "title": "الموافقة النهائية على تسوية أنثروبك بـ 1.5 مليار دولار في قضية حقوق التأليف",
-   "summary": "أقرّت المحاكم التسوية النهائية التي توصلت إليها شركة أنثروبك بشأن استخدام الأعمال المحمية بحقوق تأليف في تدريب نماذج الذكاء الاصطناعي، لكن القضية الأوسع حول هذه الممارسة لم تُحل بعد.",
+   "title": "الموافقة النهائية على تسوية حقوق الطبع لأنثروبيك بقيمة 1.5 مليار دولار",
+   "summary": "حصلت تسوية قضائية كبرى تتعلق باستخدام الأعمال المحمية بحقوق الطبع في تدريب نماذج الذكاء الاصطناعي على الموافقة النهائية، غير أن هذا يغلق قضية واحدة فقط دون حل الإشكالية الأوسع حول استخدام المحتوى المحمي في تطوير هذه الأنظمة.",
    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "على الولايات المتحدة التوقف عن الاستغراب من تقدم الذكاء الاصطناعي الصيني",
+   "summary": "أطلقت شركتان صينيتان نماذج ذكاء اصطناعي تنافسية مع أفضل الأنظمة الأمريكية، مما أثار قلقاً في الأسواق وبين السياسيين، لكن الخبراء يرون أن هذا تطور متوقع في المنافسة العالمية بدلاً من أن يكون مفاجأة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "بيئة اختبار CreateOS للتطبيقات",
+   "summary": "أداة جديدة ظهرت باسم CreateOS Sandbox توفر بيئة معزولة آمنة لاختبار وتطوير التطبيقات دون التأثير على الأنظمة الأخرى. تتيح للمطورين محاكاة سيناريوهات مختلفة وضمان استقرار البرامج قبل نشرها.",
+   "url": "https://www.producthunt.com/products/createos-sandbox",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "منصة Routine AI للمهام الروتينية",
+   "summary": "أداة جديدة ظهرت باسم Routine AI تساعد في أتمتة المهام والعمليات المتكررة باستخدام الذكاء الاصطناعي. تقلل الحمل اليدوي وتحسّن الإنتاجية من خلال تنفيذ المهام الروتينية بكفاءة.",
+   "url": "https://www.producthunt.com/products/routine",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "منصة Lev8 لتحسين الأداء",
+   "summary": "أداة جديدة ظهرت باسم Lev8 تركز على تحليل وتحسين مؤشرات الأداء في المؤسسات والفرق. توفر رؤى قابلة للتطبيق لرفع مستويات الكفاءة والإنتاجية.",
+   "url": "https://www.producthunt.com/products/lev8",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "أداة CartAI لتحسين عربات التسوق الإلكترونية",
+   "summary": "أداة جديدة ظهرت باسم CartAI متخصصة في تحسين تجربة عربة التسوق بالمتاجر الإلكترونية باستخدام الذكاء الاصطناعي. تساعد في زيادة معدلات التحويل وتقليل معدل ترك السلة.",
+   "url": "https://www.producthunt.com/products/cartai",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "منصة Jockey من TwelveLabs لتحليل الفيديو",
+   "summary": "أداة جديدة ظهرت باسم Jockey من شركة TwelveLabs متخصصة في معالجة وتحليل محتوى الفيديو باستخدام تقنيات الذكاء الاصطناعي المتقدمة. تمكّن المستخدمين من استخراج معلومات مفيدة وفهرسة الفيديوهات بسهولة.",
+   "url": "https://www.producthunt.com/products/twelvelabs",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
    "date": "2026-07-21"
   },
   {
@@ -65,70 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-21"
-  },
-  {
-   "title": "أنثروبيك تعترض على شعار شركة ناشئة متخصصة في أمان الذكاء الاصطناعي",
-   "summary": "قالت شركة أنثروبيك إن شعار إحدى الشركات الناشئة العاملة في مجال أمان الذكاء الاصطناعي يحمل تشابهاً كبيراً مع علامتها التجارية. أثارت الحادثة نقاشاً حول حماية الملكية الفكرية والعلامات التجارية في قطاع التكنولوجيا سريع النمو.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXNFNpaDFwbVZnTjhKcGNWQWpSd1hZV0ZNcEVXVjZlOUluRGg5cy1IZ0NSazdaLUV0c01WV1RWTkxSVHl5Z0FYYWdRTzBBbW9USFdlX3FuV0NfS3JmMGFXcGhseGttMlpRWTBYdWFIQkhURlUwZ09R?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "دراسة نبراسكا تكشف تفاوتاً في الوعي بالذكاء الاصطناعي حسب العمر والتعليم والدخل",
-   "summary": "أظهرت دراسة أجريت في نبراسكا أن مستويات الوعي والفهم بتقنيات الذكاء الاصطناعي تختلف بشكل ملحوظ بين الفئات السكانية المختلفة، حيث تلعب عوامل مثل العمر والمستوى التعليمي والدخل دوراً أساسياً في تحديد درجة الإلمام بهذه التقنيات.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWR4dE1WUW1HSTVqNHltN2hpTzB1TEdBVW1kRWpCSVdrbFZ2M01reUt6QlhVVkpVSzE1elA3X1g2YWRSb1VXcExyTzg5U3ZkQ2w1OHUtN2VyZDB6dGdZVjVjVmxmc0hXWXlveEZYNV9PUkRWdENWR2pOZGVTSi1PTzBjc3d0NGVsczNZMWNfeVh6TXJaM0J0RWJSX1FKdw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "مستشفى فريدريك تستخدم الذكاء الاصطناعي لتحسين علاج المرضى المعرضين للنوبات",
-   "summary": "يعتمد مستشفى فريدريك على تطبيقات الذكاء الاصطناعي لتطوير طرق علاجية متقدمة تستهدف المرضى الذين يعانون من مخاطر عالية للإصابة بنوبات صرعية، بهدف تحسين دقة التشخيص والعلاج.",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdVJmeXhucEUxMEppZnZRUnBuRnNQVUJtWDEtQmVleFdyRW15eTFxNWlPNmphY1VQZHZtRDVnOWgwUmRCeXp1XzQ2cXp5eXhueEJVUUNUSV96UVJSQTliMWtVbEg3WjQ2YnQ3Zk5BYllJUEdkSHAwV2pfU0hpRGY1c0dnSTdRcmFhNl9jcFZOWXdWUWhWamlUSE9YM0J6Rm9iTmFiYVlINlZ3Y1RaNHhhVGRDREhOM0RzUGU1ckJmNjY4bF85LUg1eWtZcm5RYkhqWmwtcHJES2pCTXFORmtsLWtrbTM0dTdwX09UaTV0Tmw2aVNK?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "استطلاع: أكثر من نصف الموظفين الأمريكيين يستخدمون الذكاء الاصطناعي في عملهم",
-   "summary": "كشف استطلاع حديث أن نسبة كبيرة من الموظفين في الولايات المتحدة باتوا يعتمدون على أدوات الذكاء الاصطناعي في مهامهم اليومية، مما يعكس تسارع اعتماد هذه التقنيات في بيئات العمل المختلفة.",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZlMk5HSzYzU0tMeVFsbjgxQUc4SVpNSzhoWnFVZHZTa0EzZkh0SjZGTUNHNGJMZnZXMWIyMGJWNkZNbURkTmQyN3VHdkVkbS1ua0w3RVJXQ1hWcVJzT1VJYlhQd0hWUHhFaG5BbndTbGNrZXNtbXExMTktRXBNTmFoNTFnR3BJWktsOENTXy03QUxLekNSaE5zWUtQWlRuNGNQWHk3VkpIR1RFeXFqVnZPVkZraV9FeG8w?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "مسؤول الذكاء الاصطناعي الجديد في إدارة ترامب يستقيل من منصبه",
-   "summary": "استقال مدير مركز معايير الذكاء الاصطناعي والابتكار من منصبه بعد فترة قصيرة من تعيينه، مما يعكس عدم الاستقرار الإداري في هذه الوظيفة الحساسة. يأتي هذا الاستقالة بعد رحيل ديفيد ساكس من دوره كمسؤول الذكاء الاصطناعي السابق.",
-   "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "جوجل تطور معالج ذكاء اصطناعي متخصص لتحسين أداء نموذج جيميني",
-   "summary": "تعمل جوجل على تطوير رقاقة حاسوبية جديدة مخصصة لتشغيل نماذج جيميني بكفاءة أعلى. يأتي هذا المشروع كجزء من جهود شركة ألفابت الأم نحو تحسين الأداء والكفاءة الطاقية لتطبيقات الذكاء الاصطناعي لديها.",
-   "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "تحسينات في بروتوكول أساسي للذكاء الاصطناعي تيسر استخدامه",
-   "summary": "يتبنى البروتوكول الرئيسي منهجاً أكثر مرونة في إدارة جلسات المستخدمين على جانب الخادم، بطريقة تشبه آليات المواقع الإلكترونية التقليدية، مما يسهل عملية التطبيق والاستخدام.",
-   "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "منصة إكس تطلق نسخة محاثة من تطبيقها على أندرويد بعد سنة من التطوير",
-   "summary": "أعلنت منصة إكس عن إتاحة نسخة معاد بناؤها بالكامل من تطبيقها الخاص بنظام أندرويد على الصعيد العالمي. جاءت هذه النسخة الجديدة بعد جهود تطويرية استمرت سنة كاملة لإحداث تحسينات جوهرية في الأداء والتجربة.",
-   "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-20"
   }
  ]
 };
