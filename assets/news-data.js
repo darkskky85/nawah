@@ -1,13 +1,77 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-21T05:40:01.271597+00:00",
+ "updated": "2026-07-21T10:55:02.328746+00:00",
  "items": [
   {
-   "title": "موافقة نهائية على تسوية أنثروبيك بقيمة 1.5 مليار دولار في قضية حقوق التأليف",
-   "summary": "حصلت شركة أنثروبيك على موافقة نهائية لتسوية قضائية بشأن استخدام أعمال محمية بحقوق التأليف في تدريب نماذجها. غير أن التسوية تغطي قضية محددة فقط، ولا تضع حداً للنقاش الأوسع حول استخدام المحتوى المحمي في تطوير الذكاء الاصطناعي.",
+   "title": "شركة جريت تكشف عن تمويل بـ 34 مليون دولار لآليات بناء محطات الطاقة الشمسية",
+   "summary": "أعلنت شركة جريت عن خروجها من المرحلة السرية مع تمويل بقيمة 34 مليون دولار، وتركز على أتمتة المهام الشاقة والمعقدة في مواقع البناء والإنشاء، بما فيها تشييد محطات الطاقة الشمسية.",
+   "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "الموافقة النهائية على تسوية أنثروبك بـ 1.5 مليار دولار في قضية حقوق التأليف",
+   "summary": "أقرّت المحاكم التسوية النهائية التي توصلت إليها شركة أنثروبك بشأن استخدام الأعمال المحمية بحقوق تأليف في تدريب نماذج الذكاء الاصطناعي، لكن القضية الأوسع حول هذه الممارسة لم تُحل بعد.",
    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "دور علوم المواد في دفع جيل جديد من تقنيات الذكاء الاصطناعي",
+   "summary": "بينما ينصب الاهتمام غالباً على الخوارزميات والقدرات الحسابية والاستثمارات الضخمة في البنية التحتية، تلعب المواد المتقدمة دوراً أساسياً في تمكين كل جيل جديد من الذكاء الاصطناعي من خلال الابتكارات على مستوى العلوم الأساسية.",
+   "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "أخبار الذكاء الاصطناعي على ABC News",
+   "summary": "تغطية شاملة لآخر التطورات والأخبار المتعلقة بمجال الذكاء الاصطناعي وتطبيقاته المختلفة، تتضمن تحليلات متعمقة وآراء متخصصة حول تأثير التقنية على المجتمع والاقتصاد.",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "سهم الذكاء الاصطناعي المفضل لوارن بافيت - فرصة استثمارية",
+   "summary": "تحليل استثماري يسلط الضوء على سهم متخصص في مجال الذكاء الاصطناعي يُفضله المستثمر الشهير وارن بافيت، مع عرض أسباب الاحتفاظ به كاستثمار طويل الأجل.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1V5a3cxX2hMUXowRjZBakZORS1MeXZpMkZFOU5ZX3l5T0hqLTl1aFFGYUhZcXNTMWpWVXd6cWJucjBfbm1KdnZWUXQ4ckJvbGEwbEhlNGFVWVNxRE1FT3BDVTcyQlRQRUlvS25KQUg5UUQ1UXh4ZGk1SDF5bXVQTGtzUE5HYjhSWlYzVW51ZHVEWmUtSmdF?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "الذكاء الاصطناعي قد يعيد تشكيل مخاطر الإرهاب والأمن",
+   "summary": "دراسة تحذر من أن التقدم في تكنولوجيا الذكاء الاصطناعي قد يسهم في تطوير أساليب إرهابية جديدة وتعزيز التهديدات الأمنية القائمة، مما يتطلب استعدادات أمنية متقدمة.",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVUlqOTdmQ04tSGd1TkZXXzN1V0lSMV8xSTB4MkZ2R2swR3FqVnpuS3VYSkdwWkg1dzdqQzhUUlRFcEJvWlhSQkVJYmg3QjN6Q2xMazZaZGZVRjhPLUJlNWN1a0xVTnVrYjluYnJSS0t1OExQZzFQWk11d18wVWVsUmVjU0FMM1FOUzNmSWxvUURBVnAyamRWakR5Y0pkWnhrZTVJZktWNWFpU3JkX2ZjeEVORU5jc1M5TFNxMVd5aGlDVlJzVXNhWURRM2gtbGV1Nm9RX2dpdDFSWlE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "رقاقة ذكاء اصطناعي جديدة بقدرات ذاكرة متطورة",
+   "summary": "رقاقة حاسوبية متقدمة باسم Genesis تتمتع بخصائص تحسّن من القدرة على الاحتفاظ بالمعلومات ومعالجتها، مما قد يفتح آفاقاً جديدة في تطبيقات الذكاء الاصطناعي المختلفة.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkYS13aUJSQUpRSjRrRGFfZjdfQUhXRnI5UTdMb29jUmREdWhlanFvMVl3akY3SFk0SHVmMDZNRDdqSHlIWFdLQUFBOTlPLVc3RWFCUnB1SnpfcVZ2bUJaOWxoYVFwVnIydWpURnNEOFhhbEtObVVKVw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "الصين تؤسس منظمة دولية جديدة للتعاون في مجال الذكاء الاصطناعي",
+   "summary": "أطلقت الصين منظمة جديدة تُسمى منظمة التعاون العالمي للذكاء الاصطناعي، بهدف تعزيز التعاون الدولي في هذا المجال. تعكس هذه الخطوة السعي الصيني لتعزيز نفوذها في مجالات التكنولوجيا والذكاء الاصطناعي على الصعيد العالمي.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWTVCOGtaNF9OeHM5cU5JRUpZb3dmUnBvODNUaXR4Ui1rSUdsUUtvZjVSWkRPTElhN0ZRTHY5WXlxV0tGdzZlWjVWdm5nUUd2cFJZTF9CSDBPZ3E3NUhGcUF6NG43QVU2cW5zLTkzWktaVnY3c1g2TmhQeGNKVlJfdG55S3dfY1ZBdkg4V0J5enNRX3Y4djloQmpBZERob3NkcHJIbkduVDB5bGQzYXZz?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "أنثروبيك تعترض على شعار شركة ناشئة متخصصة في أمان الذكاء الاصطناعي",
+   "summary": "قالت شركة أنثروبيك إن شعار إحدى الشركات الناشئة العاملة في مجال أمان الذكاء الاصطناعي يحمل تشابهاً كبيراً مع علامتها التجارية. أثارت الحادثة نقاشاً حول حماية الملكية الفكرية والعلامات التجارية في قطاع التكنولوجيا سريع النمو.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXNFNpaDFwbVZnTjhKcGNWQWpSd1hZV0ZNcEVXVjZlOUluRGg5cy1IZ0NSazdaLUV0c01WV1RWTkxSVHl5Z0FYYWdRTzBBbW9USFdlX3FuV0NfS3JmMGFXcGhseGttMlpRWTBYdWFIQkhURlUwZ09R?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-21"
   },
   {
@@ -35,16 +99,16 @@ window.NEWS_DATA = {
    "date": "2026-07-21"
   },
   {
-   "title": "منصب قيادة الذكاء الاصطناعي الأمريكية يشهد استقالة جديدة",
-   "summary": "شهد منصب مدير مركز معايير ومبادرات الذكاء الاصطناعي تحولات متكررة بعد رحيل ديفيد ساكس من دوره كقيادي للملف، مما يعكس عدم استقرار في هيكلة الإدارة الأمريكية للملف التقني.",
+   "title": "مسؤول الذكاء الاصطناعي الجديد في إدارة ترامب يستقيل من منصبه",
+   "summary": "استقال مدير مركز معايير الذكاء الاصطناعي والابتكار من منصبه بعد فترة قصيرة من تعيينه، مما يعكس عدم الاستقرار الإداري في هذه الوظيفة الحساسة. يأتي هذا الاستقالة بعد رحيل ديفيد ساكس من دوره كمسؤول الذكاء الاصطناعي السابق.",
    "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-20"
   },
   {
-   "title": "جوجل تطور شريحة ذكاء اصطناعي جديدة لتحسين كفاءة نموذج جيميني",
-   "summary": "يعكف فريق ألفابت على تصميم معالج متخصص يهدف إلى زيادة كفاءة تشغيل نماذج جيميني للذكاء الاصطناعي، بما يسهم في تقليل استهلاك الموارد الحاسوبية وتحسين الأداء.",
+   "title": "جوجل تطور معالج ذكاء اصطناعي متخصص لتحسين أداء نموذج جيميني",
+   "summary": "تعمل جوجل على تطوير رقاقة حاسوبية جديدة مخصصة لتشغيل نماذج جيميني بكفاءة أعلى. يأتي هذا المشروع كجزء من جهود شركة ألفابت الأم نحو تحسين الأداء والكفاءة الطاقية لتطبيقات الذكاء الاصطناعي لديها.",
    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -64,70 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "سوني تقاضي منصة يوديو حول أكثر من 30 ألف أغنية",
-   "summary": "رفعت شركة سوني ميوزك إجراءً قانونياً جديداً ضد منصة يوديو للموسيقى المولدة بالذكاء الاصطناعي، متهمة إياها بانتهاك حقوق طبع ونشر لأكثر من 30 ألف أغنية من فنانين عالميين. تشمل الأغاني المذكورة في الدعوى، التي رُفعت في محكمة نيويورك، عناوين شهيرة من ألفي موسيقار مختلف.",
-   "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "دخول شركة سبيس إكس إلى صناديق الؤشرات: ما المقصود؟",
-   "summary": "تُعتبر صناديق المؤشرات أدوات استثمارية آمنة نسبياً تتابع أداء السوق ككل بدلاً من اختيار أسهم فردية. لكن إدراج شركات مثل سبيس إكس، التي تُعتبر استثمارات محفوفة بالمخاطر وفقاً لبعض المحللين، في مؤشر ناسداك 100 يثير نقاشات حول معايير الاختيار والمخاطر.",
-   "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "تطبيق كاميرا أدوبي يدمج أدوات الذكاء الاصطناعي التوليدي",
-   "summary": "أداة جديدة ظهرت باسم Indigo من أدوبي، وهي تطبيق كاميرا تجريبي يوفر مزايا تصوير احترافية لهواتف آيفون. تم تحديث التطبيق الأخير بمجموعة من أدوات الذكاء الاصطناعي التوليدي التي تعزز قدرات المستخدمين على معالجة الصور بطرق متقدمة.",
-   "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "مخاوف أوبن إيه آي من النماذج المفتوحة المصدر والتأثيرات الجيوسياسية",
-   "summary": "تُظهر مناقشات حول حظر نماذج اللغة الضخمة المفتوحة المصدر من الصين التحديات التي تواجه صناعة الذكاء الاصطناعي في تحويلها إلى نموذج تجاري. يعكس هذا النقاش توترات حول السيطرة على التكنولوجيا والاهتمامات الأمنية الوطنية.",
-   "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "تطبيق الكاميرا من أدوبي يضيف ميزة نقد الصور بالذكاء الاصطناعي",
-   "summary": "أداة جديدة من أدوبي تُدعى Project Indigo تتيح إزالة أنواع مختلفة من خلفيات الصور المُلتقطة عبر التطبيق. الميزة تعتمد على رؤية حاسوبية لتحديد الخلفية وفصلها عن الموضوع الرئيسي في الصورة.",
-   "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "شركات ذكاء اصطناعي صينية تضغط على الهيمنة الأمريكية",
-   "summary": "أطلقت شركات صينية رائدة مثل Moonshot و Alibaba نماذج ذكاء اصطناعي تنافسية بأسعار أقل بكثير من نظيراتها الأمريكية، مما يشير إلى تقليص الفجوة التكنولوجية بين الجانبين. تشير الإطلاقات المتتالية إلى اشتداد المنافسة العالمية في قطاع الذكاء الاصطناعي.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "تجربة شخصية: موسيقى مولدة بالذكاء الاصطناعي من Suno تثير استجابة مختلفة",
-   "summary": "كاتب يعترف بمفاجأته من جودة محتوى موسيقي أنتجته منصة Suno للذكاء الاصطناعي، رغم تحفظاته السابقة على الموسيقى المولدة آلياً. يعكس هذا النقاش تطور قدرات الذكاء الاصطناعي الإبداعي وتأثيره المتزايد على الإنتاج الفني.",
-   "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "الكاتب ديف إيجرز ينتقد تأثير ChatGPT على الكتاب والمبدعين",
-   "summary": "ألقى الكاتب الشهير ديف إيجرز محاضرة أمام موظفي OpenAI انتقد فيها تأثير ChatGPT على الجيل الجديد من المبدعين والكتاب، مؤكداً على دوره في إضعاف الأصوات الإبداعية. يعكس اللقاء تنامي النقاشات حول التأثير الاجتماعي للنماذج اللغوية الكبيرة على الصناعات الإبداعية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-07-20"
   }
  ]
