@@ -1,29 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-20T21:54:53.668584+00:00",
+ "updated": "2026-07-21T05:40:01.271597+00:00",
  "items": [
   {
-   "title": "غوغل تطوّر شريحة ذكاء اصطناعي متخصصة لتحسين كفاءة جيميني",
-   "summary": "تعكف شركة ألفابت الأم على تطوير معالج متخصص يهدف إلى تشغيل نماذج جيميني بكفاءة أعلى وتكاليف أقل. هذا الاستثمار يعكس جهود غوغل نحو تقليل اعتمادها على الشرائح المستوردة وتحسين الأداء التنافسية لخدماتها الذكية.",
+   "title": "موافقة نهائية على تسوية أنثروبيك بقيمة 1.5 مليار دولار في قضية حقوق التأليف",
+   "summary": "حصلت شركة أنثروبيك على موافقة نهائية لتسوية قضائية بشأن استخدام أعمال محمية بحقوق التأليف في تدريب نماذجها. غير أن التسوية تغطي قضية محددة فقط، ولا تضع حداً للنقاش الأوسع حول استخدام المحتوى المحمي في تطوير الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "دراسة نبراسكا تكشف تفاوتاً في الوعي بالذكاء الاصطناعي حسب العمر والتعليم والدخل",
+   "summary": "أظهرت دراسة أجريت في نبراسكا أن مستويات الوعي والفهم بتقنيات الذكاء الاصطناعي تختلف بشكل ملحوظ بين الفئات السكانية المختلفة، حيث تلعب عوامل مثل العمر والمستوى التعليمي والدخل دوراً أساسياً في تحديد درجة الإلمام بهذه التقنيات.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWR4dE1WUW1HSTVqNHltN2hpTzB1TEdBVW1kRWpCSVdrbFZ2M01reUt6QlhVVkpVSzE1elA3X1g2YWRSb1VXcExyTzg5U3ZkQ2w1OHUtN2VyZDB6dGdZVjVjVmxmc0hXWXlveEZYNV9PUkRWdENWR2pOZGVTSi1PTzBjc3d0NGVsczNZMWNfeVh6TXJaM0J0RWJSX1FKdw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "مستشفى فريدريك تستخدم الذكاء الاصطناعي لتحسين علاج المرضى المعرضين للنوبات",
+   "summary": "يعتمد مستشفى فريدريك على تطبيقات الذكاء الاصطناعي لتطوير طرق علاجية متقدمة تستهدف المرضى الذين يعانون من مخاطر عالية للإصابة بنوبات صرعية، بهدف تحسين دقة التشخيص والعلاج.",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdVJmeXhucEUxMEppZnZRUnBuRnNQVUJtWDEtQmVleFdyRW15eTFxNWlPNmphY1VQZHZtRDVnOWgwUmRCeXp1XzQ2cXp5eXhueEJVUUNUSV96UVJSQTliMWtVbEg3WjQ2YnQ3Zk5BYllJUEdkSHAwV2pfU0hpRGY1c0dnSTdRcmFhNl9jcFZOWXdWUWhWamlUSE9YM0J6Rm9iTmFiYVlINlZ3Y1RaNHhhVGRDREhOM0RzUGU1ckJmNjY4bF85LUg1eWtZcm5RYkhqWmwtcHJES2pCTXFORmtsLWtrbTM0dTdwX09UaTV0Tmw2aVNK?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "استطلاع: أكثر من نصف الموظفين الأمريكيين يستخدمون الذكاء الاصطناعي في عملهم",
+   "summary": "كشف استطلاع حديث أن نسبة كبيرة من الموظفين في الولايات المتحدة باتوا يعتمدون على أدوات الذكاء الاصطناعي في مهامهم اليومية، مما يعكس تسارع اعتماد هذه التقنيات في بيئات العمل المختلفة.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZlMk5HSzYzU0tMeVFsbjgxQUc4SVpNSzhoWnFVZHZTa0EzZkh0SjZGTUNHNGJMZnZXMWIyMGJWNkZNbURkTmQyN3VHdkVkbS1ua0w3RVJXQ1hWcVJzT1VJYlhQd0hWUHhFaG5BbndTbGNrZXNtbXExMTktRXBNTmFoNTFnR3BJWktsOENTXy03QUxLekNSaE5zWUtQWlRuNGNQWHk3VkpIR1RFeXFqVnZPVkZraV9FeG8w?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "منصب قيادة الذكاء الاصطناعي الأمريكية يشهد استقالة جديدة",
+   "summary": "شهد منصب مدير مركز معايير ومبادرات الذكاء الاصطناعي تحولات متكررة بعد رحيل ديفيد ساكس من دوره كقيادي للملف، مما يعكس عدم استقرار في هيكلة الإدارة الأمريكية للملف التقني.",
+   "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "جوجل تطور شريحة ذكاء اصطناعي جديدة لتحسين كفاءة نموذج جيميني",
+   "summary": "يعكف فريق ألفابت على تصميم معالج متخصص يهدف إلى زيادة كفاءة تشغيل نماذج جيميني للذكاء الاصطناعي، بما يسهم في تقليل استهلاك الموارد الحاسوبية وتحسين الأداء.",
    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-20"
   },
   {
-   "title": "بروتوكول التفاهم الموحد للذكاء الاصطناعي يصبح أسهل استخداماً",
-   "summary": "بروتوكول Context Model (MCP) يُعتبر أساساً في قابلية التشغيل المتبادل للنماذج الذكية، حيث يوفر آلية آمنة للوصول إلى مصادر البيانات والخدمات الخارجية. هذا يتيح للمساعدات الذكية الاتصال بتطبيقات مثل التقويم أو قواعد البيانات الداخلية دون الحاجة إلى برمجة معقدة من قبل المهندسين.",
+   "title": "تحسينات في بروتوكول أساسي للذكاء الاصطناعي تيسر استخدامه",
+   "summary": "يتبنى البروتوكول الرئيسي منهجاً أكثر مرونة في إدارة جلسات المستخدمين على جانب الخادم، بطريقة تشبه آليات المواقع الإلكترونية التقليدية، مما يسهل عملية التطبيق والاستخدام.",
    "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-20"
   },
   {
-   "title": "تطبيق إكس يعود بنسخة معاد بناؤها من الصفر لهواتف أندرويد",
-   "summary": "أعلنت منصة إكس عن توفر نسخة مُعاد تطويرها بالكامل من تطبيقها على أندرويد، والتي استغرقت حوالي سنة في العمل. التطبيق الجديد متاح الآن عالمياً لجميع المستخدمين.",
+   "title": "منصة إكس تطلق نسخة محاثة من تطبيقها على أندرويد بعد سنة من التطوير",
+   "summary": "أعلنت منصة إكس عن إتاحة نسخة معاد بناؤها بالكامل من تطبيقها الخاص بنظام أندرويد على الصعيد العالمي. جاءت هذه النسخة الجديدة بعد جهود تطويرية استمرت سنة كاملة لإحداث تحسينات جوهرية في الأداء والتجربة.",
    "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "سوني تقاضي منصة يوديو حول أكثر من 30 ألف أغنية",
+   "summary": "رفعت شركة سوني ميوزك إجراءً قانونياً جديداً ضد منصة يوديو للموسيقى المولدة بالذكاء الاصطناعي، متهمة إياها بانتهاك حقوق طبع ونشر لأكثر من 30 ألف أغنية من فنانين عالميين. تشمل الأغاني المذكورة في الدعوى، التي رُفعت في محكمة نيويورك، عناوين شهيرة من ألفي موسيقار مختلف.",
+   "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "دخول شركة سبيس إكس إلى صناديق الؤشرات: ما المقصود؟",
+   "summary": "تُعتبر صناديق المؤشرات أدوات استثمارية آمنة نسبياً تتابع أداء السوق ككل بدلاً من اختيار أسهم فردية. لكن إدراج شركات مثل سبيس إكس، التي تُعتبر استثمارات محفوفة بالمخاطر وفقاً لبعض المحللين، في مؤشر ناسداك 100 يثير نقاشات حول معايير الاختيار والمخاطر.",
+   "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-20"
+  },
+  {
+   "title": "تطبيق كاميرا أدوبي يدمج أدوات الذكاء الاصطناعي التوليدي",
+   "summary": "أداة جديدة ظهرت باسم Indigo من أدوبي، وهي تطبيق كاميرا تجريبي يوفر مزايا تصوير احترافية لهواتف آيفون. تم تحديث التطبيق الأخير بمجموعة من أدوات الذكاء الاصطناعي التوليدي التي تعزز قدرات المستخدمين على معالجة الصور بطرق متقدمة.",
+   "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-07-20"
   },
   {
@@ -40,22 +104,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "إدراج أسهم سبيس إكس في صناديق المؤشرات: الفرص والمخاطر",
-   "summary": "تُثير عملية إدراج شركة سبيس إكس في مؤشر Nasdaq-100 نقاشاً حول دور الصناديق الاستثمارية الموحدة وكيفية التعامل مع استثمارات عالية المخاطر. هذا يطرح أسئلة حول توازن هذه الصناديق بين الاستقرار والنمو المرتقب.",
-   "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "تطبيق كاميرا أدوبي يدمج أدوات الذكاء الاصطناعي التوليدي",
-   "summary": "أضافت أدوبي مجموعة من أدوات الذكاء الاصطناعي التوليدي إلى تطبيق كاميرا إندigo التجريبي، الذي كان مصمماً في الأساس لتوفير مظهر احترافي يشبه كاميرات SLR للهواتف الذكية. يعكس هذا التطور توجه المنصة نحو دمج إمكانيات الذكاء الاصطناعي في عملية التصوير والمعالجة.",
-   "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-07-20"
   },
   {
@@ -80,54 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "نماذج الذكاء الاصطناعي الصينية تعمق الخلافات داخل فريق ترامب",
-   "summary": "أثارت تطورات الذكاء الاصطناعي الصينية الحديثة جدلاً بين مستشاري الرئيس الأمريكي والقيادات في شركات الذكاء الاصطناعي المحلية. يعكس الجدل تنافساً متعمقاً حول السياسة والاستراتيجية الأمريكية تجاه تقدم الذكاء الاصطناعي العالمي.",
-   "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "الذكاء الاصطناعي أكثر عرضة من البشر لتطوير تحيزات في التوظيف",
-   "summary": "تشير دراسات حديثة إلى أن نماذج اللغة الكبيرة المستخدمة في فحص السير الذاتية قد تطور تحيزاتها الخاصة بالإضافة إلى امتصاصها للتحيزات من بيانات التدريب. يُثير هذا تساؤلات جادة حول عدالة أنظمة التوظيف المدعومة بالذكاء الاصطناعي.",
-   "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "يوتيوب يوضح سياساته بشأن محتوى الذكاء الاصطناعي منخفض الجودة",
-   "summary": "حدّثت منصة يوتيوب سياستها المتعلقة بالإيرادات الإعلانية لتعريف أوضح للفيديوهات المولّدة بالذكاء الاصطناعي ومحتوى منخفض الجودة التي لا تستحق دعماً مالياً. الخطوة تهدف إلى حماية الإيرادات وتحسين جودة المحتوى على المنصة.",
-   "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "الذكاء الاصطناعي عام 2026: نماذج أكثر ذكاءً وأسئلة أصعب",
-   "summary": "دراسة من كلية فيتربي بجامعة جنوب كاليفورنيا تتناول مستقبل الذكاء الاصطناعي المتوقع للعام 2026، حيث تركز على تطور النماذج الأكثر تقدماً والتحديات الأخلاقية والعملية التي ستواجه هذا القطاع.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2hGWHpTMDd3YWtGWnMzU1NvTFhMY2dIY2o5XzY3bUpac3lnT182ZGIzamVwV21IYjZWYUlseXdKQjRITDJtdW4zdms1YUd6UjRsYzA5REpHT3dqQlhVNkFERFZTb1A3TVJTbV9xa1JiMWxRSGpXVFZDQ3BIWXJ3VmJ1M1hIRklnSUJyWGJPTQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "مركز معاهدات نووية يحقق إنجازاً تاريخياً بتجميع الخبرات والمعارف",
-   "summary": "حقق مركز متخصص في المعاهدات النووية مرحلة تاريخية جديدة من خلال توحيد مجموعة واسعة من المعارف والخبرات المتراكمة في هذا المجال الحساس، مما يعزز القدرات المؤسسية في مجال الأمن والنزع النووي.",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeFhfLXQwS2ZiT0Y5S09sWkduSkVQdUJQWHZwd1lrbkhmRmpWb0hNbDQyRS13YlMwdTd2dmxweDAwbllfOEpBRExwaEdfWXc4dmdXeTJXMWdVYUVubDhEOHBvSkNiU2VHemhMb2JOcTA0ZjI0R0xWSVpYWVAwdU9OQndUZGN2Y0pVUkxzcEg0TWVlQy14ZmVkY1U4M1dGcnd4YU13cDRLMENDQTFTbzZvMVh4aC1Fal93dWJvUl9hR0g0RzhkR3M2b0VuQmJNeXNCOElhbi1xb1A?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-20"
-  },
-  {
-   "title": "الذكاء الاصطناعي يقود تحولاً في صناعة الدراما القصيرة الصينية بقيمة 14 مليار دولار",
-   "summary": "تتولى أدوات الذكاء الاصطناعي الآن أدوار الكتابة والتمثيل والإنتاج في المسلسلات الدرامية القصيرة الصينية، مما يعيد تشكيل صناعة بمليارات الدولارات ويثير نقاشات حول تأثير التكنولوجيا على القطاع الإبداعي.",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2FuZlgxWm14YU56QkhaQVZmLWdBclpocEVaU2VjV2VvdEFvQ0ZXWUJWY0NBT3lyajY1QmRJTnA5TEE3djRGSWJCdU92cDNFOWVCZEhZN3dVYlBIc01oLTNoSXg0Y1Z4M25wU1NRSnhfRk5MRXMySDlhXzFROU1tRlZ0M0pCNEprMHcwdTZuRWFBX2FMZ0RIcUdVSFN5bjdZSEgycUxLT1FOSWlTeHVFTjhNZTdaNEk?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-20"
   }
  ]
