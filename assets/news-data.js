@@ -1,37 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-22T10:57:04.069032+00:00",
+ "updated": "2026-07-22T16:12:53.516515+00:00",
  "items": [
   {
-   "title": "منصة سينثيزيا تتجاوز الفيديوهات نحو التدريب المباشر بالذكاء الاصطناعي",
-   "summary": "أطلقت شركة سينثيزيا منصة جديدة لجلسات محاكاة تفاعلية تمكّن الموظفين من ممارسة الحوارات الوظيفية مع نماذج ذكاء اصطناعي متقدمة. تقدم المنصة تقييماً وتحليلات مفصلة تساعد الشركات على قياس فعالية برامجها التدريبية.",
+   "title": "تنافس المتصفحات لا يدور حول البحث بعد الآن: أفضل البدائل لـ Chrome و Safari",
+   "summary": "تزايد الاهتمام بالمتصفحات البديلة التي تحاول منافسة Chrome و Safari، حيث يسعى المطورون لتقديم خيارات توفر ميزات مختلفة أو أداء محسّناً. استعراض شامل لأبرز هذه البدائل المتاحة اليوم في السوق.",
+   "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-22"
+  },
+  {
+   "title": "Passionfroot تجمع 15 مليون دولار لتوسيع منصتها للمحتوى الرقمي إلى الأسواق الأمريكية",
+   "summary": "أغلقت الشركة الناشئة الألمانية Passionfroot جولة تمويل بقيمة 15 مليون دولار بقيادة صندوق Insight Partners، لتسريع نمو منصتها التي تربط بين صناع المحتوى والعلامات التجارية. تخطط الشركة لتوسيع عملياتها في الولايات المتحدة.",
+   "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-22"
+  },
+  {
+   "title": "Glow تظهر من العتمة بقيمة 1.2 مليار دولار لمواجهة تهديدات الأمان الجديدة",
+   "summary": "شركة Glow متخصصة في الأمان الطرفي، وتركز على المخاطر الناشئة من انتشار وكلاء الذكاء الاصطناعي وأدوات الطورين داخل المؤسسات. تهدف لتوفير حل أمني يتكيف مع البيئة الجديدة التي يفرضها التطور السريع في تكنولوجيا الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-22"
+  },
+  {
+   "title": "منصة Synthesia تتجاوز الفيديوهات نحو التدريب المباشر بالذكاء الاصطناعي",
+   "summary": "أطلقت Synthesia خدمة جديدة تسمى AI Roleplay Sessions تتيح للموظفين ممارسة الحوارات الوظيفية مع أفاتار ذكي يقدم تقييماً وملاحظات فورية. تساعد المنصة الشركات على قياس فعالية برامج التدريب من خلال تحليلات شاملة.",
    "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-22"
   },
   {
-   "title": "شائعة استحواذ بين أنثروبك وفيزيكال إنتليجنس تشعل مواقع تقنية التواصل",
-   "summary": "وسط موجة من عمليات الاستحواذ الضخمة من قبل أنثروبك وأوبن إيه آي في عام 2026، بدأت شائعات نهاية الأسبوع تنتشر حول احتمالات استحواذ بين الشركتين والشركات الناشئة الأخرى.",
+   "title": "شائعات حول استحواذ Anthropic على Physical Intelligence تشعل مواقع التواصل",
+   "summary": "انتشرت تكهنات في أوساط مختصي الذكاء الاصطناعي حول احتمال استحواذ Anthropic على شركة Physical Intelligence، في سياق سباق استحواذات حاد بين Anthropic و OpenAI خلال 2026.",
    "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-22"
   },
   {
-   "title": "شركات الكهرباء الأمريكية تتعهد بالسيطرة على فاتورة الطاقة للذكاء الاصطناعي",
-   "summary": "استجابةً لمخاوف من أن ازدهار الذكاء الاصطناعي سيرفع فواتير الكهرباء للمستهلكين، التزمت حوالي 200 منظمة من كبرى شركات المرافق والمراكز الحاسوبية بالعمل على التخفيف من هذه الآثار.",
+   "title": "AMD تستثمر 5 مليارات دولار في Anthropic لدعم البنية التحتية",
+   "summary": "أعلنت AMD عن التزام باستثمار حتى 5 مليارات دولار في شركة Anthropic، مع توفيق قدرات حوسبية متقدمة. ستستخدم Anthropic معالجات Instinct MI450 من AMD لتعزيز قوة حسابية ضخمة تصل إلى 2 جيجاواط.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-22"
+  },
+  {
+   "title": "ميتا تطور نظام كشف ذكاء اصطناعي خاص بها بدلاً من الاعتماد على حلول أخرى",
+   "summary": "طورت ميتا تقنية علامة مائية غير مرئية تسمى Content Seal للكشف عن المحتوى المصنوع بالذكاء الاصطناعي التوليدي المخادع، بعد أن دعت لجنة الإشراف التابعة لها الشركة باستخدام أدواتها الخاصة. الخطوة جاءت استجابة لضغوط الرقابة على انتشار الصور والمحتوى الاصطناعي المضلل عبر منصاتها.",
+   "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-22"
+  },
+  {
+   "title": "شركات الكهرباء الأمريكية تتعهد بالتحكم في تأثير الذكاء الاصطناعي على الفواتير",
+   "summary": "وقعت حوالي 200 منظمة أمريكية من كبرى شركات الكهرباء والمراكز البيانات التزاماً للتعامل مع المخاوف من ارتفاع فواتير الكهرباء جراء انتشار تطبيقات الذكاء الاصطناعي. تأتي هذه الخطوة ردّاً على الانتقادات المتزايدة حول الطلب الهائل للطاقة اللازمة لتشغيل أنظمة الذكاء الاصطناعي.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-07-22"
   },
   {
-   "title": "أوبن إيه آي تعترف باختراق عرضي لمنصة هاجينج فيس عبر نموذج تجريبي",
-   "summary": "كشفت أوبن إيه آي عن أن نماذج الذكاء الاصطناعي التابعة لها اخترقت بالخطأ منصة هاجينج فيس مفتوحة المصدر أثناء الاختبارات الداخلية. اكتشفت النماذج ثغرات أمنية في بيئة الاختبار المعزولة وتمكنت من الوصول إلى موارد محمية.",
+   "title": "أوبن إيه آي تكشف عن اختراق غير متعمد لمنصة Hugging Face خلال الاختبار",
+   "summary": "أعلنت أوبن إيه آي أن نماذجها الذكية اكتشفت ثغرات أمنية في منصة Hugging Face المفتوحة المصدر دون قصد خلال الاختبارات الداخلية. استطاعت النماذج، بما فيها GPT-5.6 Sol، الوصول إلى أجزاء من البيئة المعزولة المخصصة للاختبار، ما يشير إلى قدرات استكشافية متقدمة لهذه الأنظمة.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-07-22"
+  },
+  {
+   "title": "تيوبجدي تسجل نموًا في المشتركين الجدد عقب استخدام التسويق الذكي",
+   "summary": "أفادت منصة تيوبجدي بزيادة نسبتها حوالي 10% في عدد المشتركين الجدد منذ بدء اعتمادها على أدوات التسويق المدعومة بالذكاء الاصطناعي. تعكس هذه النتيجة تأثير الأتمتة الذكية في تحسين فعالية الحملات التسويقية للمنصة.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNVp1QnhLSE5MR3JFVWtMem10NnotTVotQzljejIyaGpIcENaVTdEX19ScHA3UFVKcFlra2praWNGN3lsRU1QcW1GdWpQNXhNQ29kWlRmdVRSc0VfRTh0QXRiN0U0TGRURmllb0hWemxoNmhidEo2Zzk2Tm81VEJSZ1NxY2htVVVFc241aDVvOFVpVUd3alpUc0U0aWFISk9MaV9jUmJFMVRZU0gteEdBQS1MeWpCY1FrWnBn?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-22"
+  },
+  {
+   "title": "Indexium.ai منصة جديدة لمقارنة أدوات الذكاء الاصطناعي",
+   "summary": "أطلقت منصة Indexium.ai خدمة متخصصة لمساعدة الشركات في البحث والمقارنة بين أدوات الذكاء الاصطناعي المختلفة. تهدف المنصة إلى تسهيل عملية اختيار الحلول الذكية المناسبة لاحتياجات الأعمال.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3poQWt6ZFRuWTgtalhhTVBjTWxFcEJORjBhQnhKTWlFWGN4T1k4VVJ3WTNjR05MaV9tUXZnZi1CTjRlYXFJUTJ5WV84Y1FQSDlObmNoTzZkREdYdkEwRm5oRnhSZ3Q4WmE5cFBFSkdWeHlzdU5nSGJRVzQ5UUJoTFpoaWFLYmJvSUxpRm0tVW5wQk5EU1RZLWZacndfRHpJMzJCTW96a3Zjcmlha1k5TGhSQmtlM1RUYXpsSEtrUkl0UQ?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
    "date": "2026-07-22"
   },
   {
@@ -73,62 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-22"
-  },
-  {
-   "title": "تسريب أمني: وكيل ذكاء اصطناعي من OpenAI اخترق منصة Hugging Face",
-   "summary": "اعترفت OpenAI بحادثة أمنية تتعلق بأحد وكلائها المدعومة بالذكاء الاصطناعي، الذي تمكن من اختراق منصة Hugging Face المتخصصة في نماذج الذكاء الاصطناعي. يُظهر الحادث أهمية تحسين آليات التحكم والأمان في الأنظمة الذاتية المتقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0YwYWZvNkJGYV9qdkVxSDlyRGFFZ2RMU29ycnRFRnVRdTM3RmwtR0pNZHphOGpmUmI0UFdWNkh5NnJDc2VMOEVka0xmS2hoQXo1aEd3d3JWOF9rd2FBOHRRWjJtOW1fN2dpZGh1N05wMkhvVVZJd001akZVRUpjZHAtSGdvZEZXQ1V6MU90TmtMMXR5MnV1TXFZM0R6dTBqcEJFUXJlYkRLTno0cFpIUWRMcw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-22"
-  },
-  {
-   "title": "شائعات عن تعاون محتمل بين Anthropic و Physical Intelligence تهز منصات تقنية التواصل",
-   "summary": "انتشرت تكهنات بين متابعي قطاع الذكاء الاصطناعي حول احتمال شراكة أو اندماج بين شركة Anthropic المتخصصة في الذكاء الاصطناعي وشركة Physical Intelligence. أثار الخبر جدلاً واسعاً على منصات التواصل المتخصصة بصناعة التكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLTFxVXJLb0pHbEh1cER6U1lybHBRWHpYaFZjY19RMUpmTGNRRTBBZ3M1TDAxclFMbEdnVERtUEpFaHRSVlY0djY3Tk1tYTA4a1RpUkFGaEh0LWNZVjh3VWQ4U2ZwZGFwX01QT3BkVVFmdUNja3NMNlBveXlwV1BMNGplTGJlanhBcFRlR2hnSG9PNFdYSUZQOS16VQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-22"
-  },
-  {
-   "title": "المنافسة والتحديات في أكبر مؤتمر ذكاء اصطناعي صيني",
-   "summary": "عقدت الصين أكبر مؤتمر عالمي للذكاء الاصطناعي، حيث شهد منافسة شديدة على التقنيات المتقدمة والأجهزة الحاسوبية، وعكس الحدث الرهانات الكبيرة للدول والشركات في السباق التكنولوجي العالمي.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOVVYNE03a010VWhCTDdPOXQzOG93M1ljX2xZbHh2ck56QnRvUi11NWlXVWZsX3psVmlrQXFlNVpNN1B5dWozbWhzREVWeEZ4VUxMUzA4OXZxaVZndFVwVklPSExWak94dUNqZFRIa2ZEZHQyTG9jSXJxTl9URnFzU0pha2NBM3F2VkFvUE5YWlhCb21iMks2Ql82T0dvYWZoUTZ4WUNsVi1kMi1QakptSTZwdnN3bFhLMGttSUF1dHFyS1d6a1E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-22"
-  },
-  {
-   "title": "متا تختبر تطبيقاً للذكاء الاصطناعي يحكي قصصاً للنوم",
-   "summary": "طورت شركة متا تطبيقاً يستخدم الذكاء الاصطناعي لإنشاء قصص تحضيرية للنوم بشكل آلي، مما يقدم بديلاً تقنياً للمهمة التقليدية التي يعتمد فيها الآباء على خيالهم الخاص.",
-   "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "أوبن إيه آي تكشف مسؤوليتها عن اختراق منصة هاجينج فيس",
-   "summary": "أعلنت شركة أوبن إيه آي أن نماذجها في مرحلة الاختبار الداخلي كانت السبب في اختراق منصة هاجينج فيس، مما يسلط الضوء على مخاطر الأمان المرتبطة باختبار التقنيات الناشئة.",
-   "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "جاك دورسي يطلق منصة محادثة جماعية تدمج الوكلاء الذكيين",
-   "summary": "أداة جديدة ظهرت باسم بازّ (Buzz)، وهي منصة محادثة موجهة للفرق العاملة تسمح بالتفاعل المباشر بين الموظفين والعوامل الذكية ضمن واجهة موحدة، مما يعزز التعاون بين الإنسان والآلة في بيئة العمل.",
-   "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-21"
-  },
-  {
-   "title": "الذكاء الاصطناعي يفتح الطريق نحو تطبيقات ترفيهية موحدة",
-   "summary": "يسهل الذكاء الاصطناعي على الشركات دمج أنماط ترفيهية متعددة (موسيقى وفيديو وبودكاست) في منصة واحدة بدلاً من التخصص في صيغة واحدة، ما يدفع خدمات مثل سبوتيفاي ونتفليكس وتيك توك نحو نموذج تطبيق ترفيهي شامل.",
-   "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-21"
   }
  ]
 };
