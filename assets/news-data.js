@@ -1,7 +1,55 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-23T05:43:29.075215+00:00",
+ "updated": "2026-07-23T10:57:29.887615+00:00",
  "items": [
+  {
+   "title": "ServiceNow تستثمر 40 مليون دولار في متخصصة برمجيات مصرفية هندية لتعزيز خدماتها المالية",
+   "summary": "أعلنت ServiceNow عن استثمار بقيمة 40 مليون دولار في شركة BusinessNext المتخصصة في برمجيات البنوك. يعزّز هذا التحالف الاستراتيجي قدرات ServiceNow في مجال الخدمات المالية ويساعد BusinessNext على نشر حلولها القائمة على الذكاء الاصطناعي عالمياً.",
+   "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "خبراء يطالبون مشرّعي ألاباما بوضع ضوابط لحماية المراهقين من الذكاء الاصطناعي",
+   "summary": "دعا متخصصون صانعي القرار في ولاية ألاباما إلى إقرار تشريعات واضحة تحدّد حدوداً أمنية لاستخدام تقنيات الذكاء الاصطناعي والدردشة الآلية حول القُصّر. يأتي هذا في ضوء المخاوف المتزايدة بشأن تأثير هذه التقنيات على صحة المراهقين النفسية والاجتماعية.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2l1cnRjM0V1WnVQaG1UbzEwMjFEMXV6Q05qNHRQQV8xSWU4SGFFTzRrUGhXdjBqLWJOZ0tDd0VIT0tLTU0yTnZOMGNWSjNPWXl5UzBNMXI1MDIwZnMxYW44N1lYcGNhTHc1YWtNbEhFWmJkbW9aaXVlTkZFQXNDZXBHZE5INURqUjFRS05FVmdzZ0J1SWVpOEpUeUFIYzBnTS1GZjVHekdEZ2lpWE52aEh4S2NOOVdhNFBlcy1SM2lTODNkcU8w?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "نظام ذكاء اصطناعي في الوقت الفعلي لتنبؤ مبكر بالإنتان",
+   "summary": "قدّمت دراسة منهجية رؤى حول استخدام الذكاء الاصطناعي في كشف حالات الإنتان (تسمّم الدم) في مراحله الأولى من خلال تحليل البيانات السريرية الديناميكية. تبرز هذه الأبحاث إمكانية تحسين سرعة التشخيص والعلاج في الحالات الطبية الحرجة.",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPU0NMZFpjNy10WGdGZk5HLXNLVkduNl9ZRWhmMEw4OHA3eUdYRm10ckF6TF96Rzh4dzBUQXk3TzFqZHZPdXc5WmpKRkc3dEI0R2F0LWE2Ykk5bVdSS29aQjY3ajBJMW1kRUxZSnRMVW94eml0Rm90eUF5SXF1QmkyQVBSbTVma3cxYnY0UFB4aUNEaXpZSzctYWhVXy0zT2VjUG9pcHNpWDdua1M5ZUJoV3ZDVTZKbWxoemZOTmF2TnhoelJUY1lKNWd1d0ZReEJMd3pSMlBzQ3dhRlJSQ245RUdfYmQyMTRHTVpCYnJYRGtWMEdMT2hOT1JxOA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "الذكاء الاصطناعي يعيد تشكيل الواجهات البرمجية والتكامل الرقمي في تيليفونيكا",
+   "summary": "تستخدم شركة تيليفونيكا تقنيات الذكاء الاصطناعي لتطوير واجهاتها البرمجية وتحسين عمليات التكامل الرقمي. يعكس هذا اتجاهاً متسارعاً نحو دمج الذكاء الاصطناعي في البنية التحتية التكنولوجية للشركات الكبرى.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOakJ6QnVuNVNWQnhoT0FFaDY2UUNoenN3NlE1ZHRBQWlCMDc2MkpwVnZpZmhnamdTT25sNm9Id1ltZjNkMWRESm1lS28yTDlKUUwxeDVzRTJNWENabXRaeDlnWXY1cE9FZFB0TkFIbVNZQ1R6cTc2QmNVQ0hHY0FUVVc5S3ktemtBM18tcEs1b3BDaG1DVjFXZ3R3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "السماعة الذكية من أوبنآي: بين خصائص هوم بود وشخصية فوربي",
+   "summary": "كشفت أوبنآي عن سماعة ذكية جديدة تجمع في تصميمها وأدائها بين مواصفات أجهزة أبل وسمات تفاعلية مشابهة. يمثل الجهاز خطوة جديدة من الشركة نحو توسيع منتجاتها في فئة الأجهزة الذكية المنزلية.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ERjM5a1lrRjRLcDBxa2xTbFhPeXZLTGRpYlh1b3hJZDdYUzA5blJDczlqVlNwMEJZZTh6R1dhUEZSamt1MHUybkpWY3ZDUTRqTjRXdlRGLW8zTDVpUU9pQnI5emV3Tjc5RXd3?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "نماذج أوبنآي تخترق شركة تقنية بشكل مستقل: تحوّل جذري في الأمن السيبراني",
+   "summary": "أظهرت تجربة أن نماذج الذكاء الاصطناعي من أوبنآي استطاعت اختراق نظام شركة تقنية بشكل مستقل دون تدخل بشري مباشر. تشير النتيجة إلى تطور نوعي في قدرات الذكاء الاصطناعي الهجومية، مما يستدعي إعادة التفكير في استراتيجيات الدفاع السيبراني.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYUFTS0hqU3YtT3pmaDVoTUFveDJ1T0ZYU3Bkc1l2LVZLSnNtX0h6V2dZNWdPNWozQmU3ejZLbWtscmdqQ3VtNkZmQnZmYXFtcUVHdnFtUHZXZ3ZWeEw4WWUyOHdaNmFwY091ekVfd0JvM2Y1RHNERUQycnBhb3oyem1vM3puRWg3dlFpaXVGZEs5cGk2dWtnWXZJUm45bDQ5N0hMMnZsaTZNdjlSQnMtakEtcmR1VU9sQzVjcUFuLU9uM1Q2YXRJ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-23"
+  },
   {
    "title": "الوكلاء الذكيون في تطبيقات المحادثة",
    "summary": "توجه متنام نحو دمج وكلاء ذكية قادرة على تنفيذ مهام متقدمة مباشرة ضمن منصات الدردشة والمراسلة، مما يعزز قدرات هذه التطبيقات على الأتمتة والإنجاز الفعلي للعمليات المعقدة دون مغادرة الواجهة.",
@@ -43,32 +91,32 @@ window.NEWS_DATA = {
    "date": "2026-07-23"
   },
   {
-   "title": "آي بي إم تؤكد: الذكاء الاصطناعي لا يقضي على أنظمتها الأساسية",
-   "summary": "بعد انخفاض حاد في أسهم آي بي إم بسبب تحذيرات من ضعف مبيعات الأنظمة الأساسية، أوضح الرئيس التنفيذي أن الذكاء الاصطناعي أثر مؤقتاً على ميزانيات أجهزة الشركات، لكن هذا لا يعني نهاية هذه التكنولوجيا.",
+   "title": "آي بي إم تؤكد أن الذكاء الاصطناعي لن يقضي على حواسيبها الرئيسية",
+   "summary": "بعد انهيار أسهم آي بي إم على خلفية تحذيرات من ضعف مبيعات الحواسيب الرئيسية، أوضح الرئيس التنفيذي أن الذكاء الاصطناعي أثر مؤقتاً على ميزانيات الأجهزة لدى الشركات، لكنه لا يشكل تهديداً طويل الأمد للقطاع.",
    "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-22"
   },
   {
-   "title": "جوجل تبرر استثماراتها الضخمة في الذكاء الاصطناعي بنمو أعمالها السحابية",
-   "summary": "شهدت خدمات جوجل السحابية نمواً قوياً بفضل اعتماد الشركات على حلولها في الذكاء الاصطناعي والبنية التحتية المرتبطة بها، مما أسهم في تحقيق أرباح قياسية.",
+   "title": "جوجل تبرر نفقاتها الضخمة في الذكاء الاصطناعي بنمو قطاع الخدمات السحابية",
+   "summary": "حققت خدمات جوجل السحابية نمواً قوياً مع اعتماد الشركات على حلول الذكاء الاصطناعي والبنية التحتية المرتبطة بها، مما ساهم في تحقيق أرباح قياسية للعملاق التقني.",
    "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-22"
   },
   {
-   "title": "الخزانة الأمريكية توعد بعقوبات بعد اتهامات حول تسريب نموذج Anthropic",
-   "summary": "أثارت احتمالات وصول نماذج صينية مفتوحة المصدر إلى المنطقة اهتماماً أمنياً، مما زاد الجدل في واشنطن حول مراقبة انتشار تقنيات الذكاء الاصطناعي المتقدمة عالمياً.",
+   "title": "وزارة الخزانة الأمريكية تهدد بعقوبات بعد اتهامات بسرقة نموذج ذكاء اصطناعي",
+   "summary": "أثارت قضية حول ادعاءات بنقل تقنيات من شركة أنثروبيك الأمريكية جدلاً سياسياً في واشنطن بشأن انتشار نماذج الذكاء الاصطناعي المفتوحة الصينية، وأدت إلى تهديدات بفرض عقوبات اقتصادية.",
    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-22"
   },
   {
-   "title": "خطأ بشري في OpenAI يفسّر هجوم الذكاء الاصطناعي على Hugging Face",
-   "summary": "كشف خبراء الأمن السيبراني أن عدم إحكام إعداد بيئة اختبار معزولة من قبل OpenAI مكّن المهاجمين من تنفيذ هجوم مدعوم بالذكاء الاصطناعي على منصة Hugging Face.",
+   "title": "خطأ بشري في أوبن آي يمهد الطريق لهجوم مدعوم بالذكاء الاصطناعي على منصة Hugging Face",
+   "summary": "كشفت عملية تحقيق أمنية أن خطأ في إعداد بيئة اختبار معزولة من قبل أوبن آي سهّل تنفيذ هجوم متقدم على منصة Hugging Face، حيث استغل المهاجمون هذا الثغر الأمني لاختراق النظام.",
    "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -78,54 +126,6 @@ window.NEWS_DATA = {
    "title": "شركة روبوتات Travis Kalanick تجمع 1.7 مليار دولار بقيادة Andreessen Horowitz",
    "summary": "حصلت شركة Atoms المتخصصة في الروبوتات الصناعية على تمويل ضخم شارك فيه Uber، لاستخدام الذكاء الاصطناعي في تحديث القطاع الصناعي.",
    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-22"
-  },
-  {
-   "title": "سامسونج تكشف عن تصميمات نظارتها الذكية القادمة",
-   "summary": "أطلعت سامسونج الجمهور على النماذج الأولية من نظارتها الذكية المطورة بالتعاون مع جوجل وعلامات النظارات جنتل مونستر وواربي باركر، وكشفت عن تصميمين مختلفين وخصائص تقنية تشمل بطارية تدوم تسع ساعات.",
-   "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-22"
-  },
-  {
-   "title": "إيه إم دي تستثمر حتى 5 مليارات دولار في أنثروبك",
-   "summary": "أعلنت شركة إيه إم دي عن استثمار يصل إلى 5 مليارات دولار في شركة أنثروبك للذكاء الاصطناعي، مع توسيع قدرات الحوسبة لديها. بموجب الشراكة الجديدة، ستوظف أنثروبك معالجات إيه إم دي المتقدمة لتعزيز أنظمتها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-22"
-  },
-  {
-   "title": "ميتا تطور نظام خاص بها للكشف عن المحتوى الاصطناعي المخادع",
-   "summary": "استجابة لدعوة مجلس الإشراف في ميتا بتطبيق أدوات داخلية للتحكم في المحتوى الاصطناعي المخادع، أطلقت الشركة تقنية \"كونتنت سيل\" التي تضيف علامة مائية غير مرئية للصور لتمييزها وتقليل انتشار المحتوى المزيف عبر منصاتها.",
-   "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-22"
-  },
-  {
-   "title": "شركات الكهرباء تتعهد بالسيطرة على تكاليف الطاقة مع توسع الذكاء الاصطناعي",
-   "summary": "ردت الشركات الأمريكية الكبرى للكهرباء ومراكز البيانات على المخاوف من ارتفاع فواتير الكهرباء بسبب تطور الذكاء الاصطناعي، حيث وقّع حوالي 200 منظمة تعهداً رسمياً لضمان عدم تحميل هذه الأعباء على المستهلكين.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-22"
-  },
-  {
-   "title": "تطبيق Yope يجمع 12.3 مليون دولار لشبكة اجتماعية خاصة",
-   "summary": "جمعت منصة Yope الاجتماعية 12.3 مليون دولار في جولة تمويل أولى. تركز المنصة على مجموعات صغيرة من الأصدقاء والعائلة بدون خوارزميات توصية أو إعلانات.",
-   "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-22"
-  },
-  {
-   "title": "Monday.com تسرح المئات من موظفيها لركز على الذكاء الاصطناعي",
-   "summary": "أعلنت منصة إدارة المشاريع Monday.com تقليص قوتها العاملة بنسبة 20% (حوالي 630 موظف). تهدف الشركة للتركيز على نموذج تشغيلي أكثر كفاءة مع تطوير منصتها المتخصصة في أتمتة العمل.",
-   "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-22"
