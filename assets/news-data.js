@@ -1,37 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-23T21:54:58.595655+00:00",
+ "updated": "2026-07-24T05:39:43.243336+00:00",
  "items": [
   {
-   "title": "AMD تطرح نظام Helios لتنافس إنفيديا في مجال الحوسبة الذكية",
-   "summary": "أعلنت AMD عن نظام Helios جديد موجه للذكاء الاصطناعي على مستوى مراكز البيانات، بهدف التنافس مع حلول إنفيديا. سيبدأ شحن النظام للعملاء خلال السنة الحالية.",
+   "title": "حدود الذكاء الاصطناعي الأمنية تعيق عمل باحثي الأمن السيبراني الهجومي",
+   "summary": "يواجه باحثو الأمن السيبراني المتخصصون في اكتشاف الثغرات الأمنية وتطوير أدوات استغلالها عراقيل متزايدة من الحدود الأمنية التي فرضتها شركات مثل OpenAI و Anthropic على نماذج الذكاء الاصطناعي، مما يؤثر على قدرتهم على إجراء بحوث الأمن السيبراني الحديثة.",
+   "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-24"
+  },
+  {
+   "title": "آخر الأخبار والإصدارات في تسويق التكنولوجيا المدعومة بالذكاء الاصطناعي",
+   "summary": "تجميع للأخبار والإصدارات الحديثة في مجال أدوات التسويق الرقمي التي تستفيد من تقنيات الذكاء الاصطناعي، يعكس التطورات المستمرة في هذا القطاع سريع النمو.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-24"
+  },
+  {
+   "title": "تأثير الذكاء الاصطناعي على فرص الخريجين في سوق العمل",
+   "summary": "دراسة تسلّط الضوء على التحديات التي يواجهها خريجو الجامعات الجدد في البحث عن فرص عمل وسط تنامي استخدام تقنيات الذكاء الاصطناعي في عمليات التوظيف والاختيار.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk9zWWZkeUFETnlZOWItNXRJby14a1hmdHByNDhra2Jpc3U1TFZXMzRwWU43NVNOTFBaZjg2SzRIN3pOOGFOWFV5SmpaR1FfSTdudGMzVmdxcTdEVUxlYnZXTVV3c1JaaFY4YXoyM2FYVHdSLUhkU05mazJ2eHU5ZEd2ZHdVOXFOME9fajQ1M1B4VmZTajltODFOMEhaeVo4LS02S0tqSGFTNTZGQTFBY9IBtgFBVV95cUxNb2h4X1UyYnhoZXdkTTlsOGN3b1AzNkJxSXQzYUFvSUNGVFliS2JHMnRPSUx1NVdjS3pSNTZWZ3JZWGxpNzdQaXJPRXdQOWhFRFpZN19HYVN3QmNVTlBnQVowOGhuSVRlcXZ1Y1ZHeHhPbXhhOUtrT3FfODFxVkpnNUpEYVFaTU5JM3FMa21SLUF1bHdaamtNVExlQk50MzVJUDNYZHlZNVdYbjFjbUZZTngwT1ZVdw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-24"
+  },
+  {
+   "title": "AMD تطلق نظام Helios لمنافسة Nvidia في مجال الذكاء الاصطناعي",
+   "summary": "أطلقت AMD نظام Helios الموسّع المتخصص بمعالجة تطبيقات الذكاء الاصطناعي، يتنافس مع حلول منافسها Nvidia، وسيبدأ التسليم للعملاء لاحقاً في العام الجاري.",
    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-23"
   },
   {
-   "title": "Claude يحصل على تحديث يعزز قدرات وضع المحادثة الصوتية",
-   "summary": "أطلقت Anthropic نموذج صوتي محسّن لـ Claude يمكّن المستخدمين من إدارة اجتماعاتهم وصياغة رسائلهم البريدية عبر الأوامر الصوتية بكفاءة أعلى.",
+   "title": "Claude تحصل على قدرات محسّنة في وضع الحوار الصوتي",
+   "summary": "حدّثت Anthropic نموذج Claude الصوتي بمزايا جديدة تمكّن المستخدمين من إنجاز مهام مثل إعادة جدولة الاجتماعات وصياغة البريد الإلكتروني من خلال الحوار الطبيعي.",
    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-23"
   },
   {
-   "title": "AegisAI تجمع 36 مليون دولار لمكافحة محاولات الاحتيال الموجهة المعتمدة على الذكاء الاصطناعي",
-   "summary": "حصلت شركة AegisAI، التي أسسها مختصون سابقون من Google، على تمويل لتطوير وكلاء ذكاء اصطناعي تحلل الرسائل بطرق تشبه التحليل البشري وتكتشف الشذوذ الدقيق الذي قد تفوّته قوائم الفحص التقليدية.",
+   "title": "شركة AegisAI بتمويل 36 مليون دولار لمحاربة الهجمات الاحتيالية المحسّنة",
+   "summary": "جمعت AegisAI، بقيادة خبراء أمان سابقين من Google، تمويلاً لتطوير وكلاء ذكاء اصطناعي تحلل الرسائل لكشف الشذوذ الدقيق الذي تفوّت عليه قوائم الفحص التقليدية.",
    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-23"
   },
   {
-   "title": "Runway تقدم أداة توجيه نماذج ذكية وسط تزايم سوق الوسائط المولدة",
-   "summary": "أطلقت Runway أداة Media Router التي تختار تلقائياً أفضل نموذج لتوليد الصور والفيديو والصوت حسب أولويات المطور بين الجودة والسرعة والتكلفة.",
+   "title": "Runway تقدّم أداة توجيه النماذج وسط ازدحام سوق الوسائط التوليدية",
+   "summary": "أطلقت Runway أداة Media Router التي توجّه طلبات المستخدمين تلقائياً إلى نموذج توليد صور أو فيديو أو صوت الأنسب بناءً على تفضيلات الجودة والسرعة والتكلفة.",
    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "أمازون تحدّث مساعدها الذكي ألكسا بلس للتعامل مع تعليمات أكثر تعقيداً",
+   "summary": "أطلقت أمازون نسخة محدّثة من مساعدها ألكسا بلس تمكّنه من الاتصال بأجهزة المنزل الذكي بطرق جديدة. يدعم التحديث، الذي لا يزال قيد الاختبار، التكامل مع منتجات شركات عدة مثل بوش وديلتا وإيكوفاكس وآي روبوت وييل ويرلبول وتابو وإيوفي وغيرها، مع تفعيل وظائف تلقائية محسّنة.",
+   "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "كلود يضيف نمط الصوت إلى إصداراته الأقوى أوبس وسونيت",
+   "summary": "صارت ميزة التحاور الصوتي متاحة الآن في نماذج كلود الأقوى وهي أوبس وسونيت بعد أن كانت حصرية على نموذج هايكو الأسرع. يعمل هذا التوسع على دعم تطبيقات شهيرة مثل جيميل وسلاك وكانفا، مما يفتح نطاقاً أوسع لاستخدام خدمة الصوت.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "باتريون تسرح 20 في المئة من موظفيها",
+   "summary": "أعلنت منصة باتريون عن تسريح 93 موظفاً يشكلون نحو 20 في المئة من فريقها. أوضح الرئيس التنفيذي أن الخطوة لا تعكس إيماناً بأن الذكاء الاصطناعي يحل محل البشر، لكنه أشار إلى أن التقنيات الحديثة غيّرت طبيعة العمل في القطاع بشكل جذري.",
+   "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "أوبن إيه آي تطرح تطبيق تشات جي بي تي للصحة على الجميع في أمريكا",
+   "summary": "بدأت أوبن إيه آي بتوفير خدمة تشات جي بي تي للصحة للمستخدمين الأمريكيين، مما يتيح لهم ربط سجلاتهم الطبية وبيانات صحتهم بالمساعد الذكي. أكدت الشركة أن نماذجها أصبحت قادرة على فهم المعلومات الصحية بدقة أعلى وتقديم رؤى مفيدة في هذا المجال.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-07-23"
   },
   {
@@ -40,30 +96,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "Claude يدعم الوضع الصوتي في نماذج Opus و Sonnet",
-   "summary": "أصبح وضع المحادثة الصوتية متاحاً الآن لنماذج Claude الأقوى (Opus و Sonnet)، بعد أن كان محصوراً على نموذج Haiku الأسرع. التحديث يتسع أيضاً ليشمل تطبيقات مثل Gmail و Slack و Canva.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "منصة باتريون تسرح 20 بالمئة من موظفيها",
-   "summary": "أعلنت منصة باتريون عن تسريح حوالي 93 موظفاً يمثلون 20 بالمئة من القوى العاملة. ذكر الرئيس التنفيذي أن القرار لا ينبع من اعتقاد بأن الذكاء الاصطناعي يحل محل البشر، لكنه أقرّ بأن التطورات في هذا المجال غيّرت بشكل جوهري المشهد التكنولوجي.",
-   "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "أوبن إيه آي توسع خدمة تطبيقها الصحية لكل المستخدمين الأمريكيين",
-   "summary": "بدأت أوبن إيه آي بطرح خدمة ChatGPT Health على نطاق واسع في الولايات المتحدة، مما يتيح للمستخدمين ربط سجلاتهم الطبية وبيانات صحتهم بالمساعد الذكي. تؤكد الشركة أن نماذجها الحالية قادرة على معالجة المعلومات الطبية بمستويات متقدمة من الفهم والدقة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-07-23"
   },
   {
@@ -96,38 +128,6 @@ window.NEWS_DATA = {
    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
    "source": "Ars Technica AI",
    "tag": "تقنية",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "إنفيديا تُرسل معالجات GPU إلى القمر",
-   "summary": "تخطط شركة إنفيديا لإرسال معالجات جرافيكية متقدمة إلى القمر، لتوسيع وجود تكنولوجياتها خارج الكرة الأرضية. تعكس هذه الخطوة طموح الشركة في تطبيقات الفضاء والاستكشاف المستقبلي.",
-   "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "شركة ناشئة متخصصة في رقاقات الذكاء الاصطناعي تحقق تقييماً مليارياً",
-   "summary": "حققت شركة Etched، التي أسسها ثلاثة متسربون من جامعة هارفارد، تقييماً بـ 10.3 مليارات دولار بدعم من مستثمرين بارزين. طورت الشركة رقاقات وعناصر ذاكرة مخصصة تسرّع عمليات الاستدلال دون الحاجة لمعالجات GPU تقليدية.",
-   "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "مساعد جوجل الذكي يقترب من مليار مستخدم شهري",
-   "summary": "تجاوز تطبيق Gemini من جوجل 750 مليون مستخدم نشط شهرياً في فبراير الماضي، ويتجه نحو تحقيق الحد الفاصل للمليار مستخدم. يعكس هذا النمو الاستقطاب المتزايد لخدمات الذكاء الاصطناعي من قبل المستخدمين العاديين.",
-   "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "خبراء يطعنون في نسب نجاح نموذج Kimi K3 لتحويل نماذج Anthropic",
-   "summary": "يشكك متخصصون في أن تحسن نموذج Kimi K3 بالسرعة الملحوظة يأتي من تحويل بسيط لنماذج Fable من Anthropic. يرى الخبراء أن تحقيق مثل هذا الأداء المتقدم بهذه السرعة يتطلب أكثر من تقنيات التحويل الأساسية.",
-   "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-07-23"
   }
  ]
