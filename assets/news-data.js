@@ -1,29 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-24T21:53:41.085400+00:00",
+ "updated": "2026-07-25T05:33:40.556438+00:00",
  "items": [
   {
-   "title": "استحواذ Cognition على Poke يعكس أهمية أسلوب التفاعل في مساعدات الذكاء الاصطناعي",
-   "summary": "استحوذت شركة Cognition المتخصصة في برمجيات الذكاء الاصطناعي على تطبيق Poke، مساعد ذكاء اصطناعي يتفاعل مع المستخدمين بأسلوب صديقي. يعكس الاستحواذ، الذي قيّم Poke بمليارات الدولارات، اقتناع متنامي بأن طريقة تفاعل المساعد الذكي باتت ميزة تنافسية مهمة في السوق.",
+   "title": "لوحة مفاتيح ذكية من OpenAI توفر تجربة برمجية متقدمة",
+   "summary": "أطلقت OpenAI لوحة مفاتيح جديدة تعتمد على الذكاء الاصطناعي، وهي موجهة بشكل أساسي للمبرمجين الذين يرغبون في استخدام قدرات ذكية في تطويرهم. قد تكون الأداة معقدة بالنسبة للمستخدمين العاديين الذين لا يملكون خلفية برمجية.",
+   "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "آراء المواطنين حول مخاوف الذكاء الاصطناعي",
+   "summary": "استطلاع رأي محلي يستكشف مستويات القلق لدى السكان بشأن تطور تقنيات الذكاء الاصطناعي وتأثيراتها المحتملة على الحياة اليومية والمستقبل.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaTNKelBrNkg5VTh3Z2hCd3NaMHM5XzRfNkVyd09keFRmWVpDeVpJcXJBUzJ1MlN6elBfRHNBWk1rMjJQTlpvWTNzbmdRT2FnN0NhTGVXWm1PNzg0OXFreW45NXk3eGlIeEJfcGFJenVHZTlzYXR0RHhMRHdUSVQ4a3ZNVzcyMVBMZm05bGtralNKSEhqTDdFb0Jqa2NONE1QQmN0VVI0S0xzeHd4R1c0?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "الذكاء الاصطناعي يدخل العيادات الطبية",
+   "summary": "تطبيقات الذكاء الاصطناعي بدأت تدعم الأطباء في غرف الفحص والتشخيص، مما يعزز دقة التقييمات الطبية ويساعد في تحسين جودة الرعاية الصحية للمرضى.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY0s4TTFXczZKZEtkVklhdGcwdmE3U3ViZTR3M2dOd3gxOEUyRDlHMmpQUXZqT0U2ZS1vRVdGQThRNmFxa3VZUHlfYXRTVm1uWnoyVnFfaDR0TDMyUFVzQTdPX3ZQY2lVOG04M3FjTTZMUVgzbThNckxubW9wU2dOZdIBlAFBVV95cUxOR0tlU2R2aHJZa25McTB4TkFMUnVFUnMzUUxhRlpXRHhscWliSDVTam12b09wX0pLUVVPaDA1RWx4LUZBeGlwSU1XNlVOQ2RqcHZwLXFUcTJydVJmbEFrSktVZDVYMWJraWd0QS1SeTh0cDd3eE1JbUloUjEwQ214MC1PbF9VeVpjMEtZMzhtNmxYQXBU?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "توظيف الذكاء الاصطناعي في صناعة الدفاع والتسليح",
+   "summary": "شركات الدفاع تستكشف طرقاً عملية لتطبيق تقنيات الذكاء الاصطناعي في عملياتها، بهدف تحسين الكفاءة والقدرات اللوجستية والعمليات المعقدة.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMTVnTThwbmJSblN4Qm03cEdCNjBRZk1hRjlVSVFxM2o1UU9lMV9Rb0k1YnotR1p1RFhQRXZPVGpGcFR3ZVZDeDVnRHNmUGdhZGFrUjNQMmh6aURZVUpfeGVSck9nYm5uU3hOWlhjMnZrVThCOGxBSDFFTjdhYmxjeHRSbElmSmZvZm0tNm5NdkNtQ2sxUEkxRXhHbXE0YkJpdmpQUEUzYUpTYnB2ak5lWGlwT2otVlE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "مقارنة استثمارية: ميكرون تكنولوجي مقابل سانديسك في مجال الذكاء الاصطناعي",
+   "summary": "تقييم مالي مقارن بين شركتي الذاكرة والتخزين الكبريين لتحديد أيهما يوفر فرصة استثمارية أفضل في قطاع تقنيات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclNTUUczT09iTFdMVUdSRnR4YUVxc0VkUndMREF0a21BUHgydDdFNGx5MnAwNlFCeFprNVlodVVIX1JDaGZXQlJYRGU0UmxLT3hrWm9ZQlhTSW1WNHg1TXdIMnVLOTZYU3dId19BblppUzhpLXRjS2F0YzNXZkI2S285LWVHbW5CVFprclpOZUlKdGZscWF2Ng?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "أي من الشركتين أفضل للاستثمار: ميكرون أم سانديسك؟",
+   "summary": "مقال استثماري يناقش مزايا وعيوب الاستثمار في ميكرون تكنولوجي وسانديسك في ظل نمو قطاع الذكاء الاصطناعي والطلب المتزايد على حلول التخزين والذاكرة.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUR1OWtub3hBTzM0QTdGZkdxa1FIUGIwd1UxdkpNaGhMZ3dvWml0WmhER3NrOC1YdmN3Mjg4cThpNmk5d0puX2FpVGx1Z0VGSmhpOEZ2ZVphM0dZYzlkcWQ2MDRGU3hoM2dtZ0NpYVlzMXQ1a0UxR3dxLWZISjRIM1RCZGpLSHJJaTNlSEVwOS1sekhfR2E0cTA1Q2h1R0pRbUZUbg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "مختبر ذكاء اصطناعي جديد بقيادة هوفمان وبينكس يسعى لتمويل مائة مليون دولار",
+   "summary": "مختبر Prentis، وهو مشروع مشترك بقيادة رائدي التكنولوجيا ريد هوفمان ومارك بينكس، يهدف إلى أتمتة المهام الروتينية على أجهزة الحاسوب، حيث يراهن على أن هذا المجال قد يصبح أكبر حالات تطبيق الذكاء الاصطناعي قريباً.",
+   "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-24"
+  },
+  {
+   "title": "استحواذ شركة Cognition على تطبيق Poke: شخصية الذكاء الاصطناعي تصبح ميزة تنافسية",
+   "summary": "استحوذت شركة Cognition على تطبيق Poke لدمج أسلوبه الحواري وأسلوب تفاعله مع وكيل الترميز الخاص بها، مما يعكس اقتناعاً متزايداً بأن طريقة تفاعل مساعدات الذكاء الاصطناعي مع المستخدمين أصبحت بأهمية النماذج التي تشغلها.",
    "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-24"
   },
   {
-   "title": "Anthropic تطلق نموذج Opus 5",
-   "summary": "أطلقت Anthropic نموذج Opus 5 الجديد، الذي يتميز بسعر أقل وقيود أقل مقارنة بالإصدارات السابقة. يتوقع أن يصبح الخيار المفضل في معظم الحالات الاستخدامية نظراً لتحسّن التوازن بين الأداء والتكلفة.",
+   "title": "إطلاق نموذج Opus 5 من Anthropic",
+   "summary": "أطلقت شركة Anthropic نموذجها الجديد Opus 5، الذي يتمتع بسعر أقل وقيود أقل مقارنة بالإصدارات السابقة، مما يجعله خياراً أكثر جاذبية للاستخدامات المختلفة.",
    "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-24"
   },
   {
-   "title": "شركات تكنولوجيا تحذر من فرض قيود واسعة على نماذج الذكاء الاصطناعي مفتوحة الأوزان",
-   "summary": "بينما تدرس الولايات المتحدة سياسات للرد على التقدم الصيني في مجال الذكاء الاصطناعي، تحذر شركات عملاقة مثل Nvidia وMistral من فرض قيود عامة على نماذج مفتوحة الأوزان. تؤكد هذه الشركات أن التشريعات الواسعة قد تضر الابتكار والتطور التكنولوجي.",
+   "title": "صناعة الذكاء الاصطناعي تحذر من فرض قيود واسعة على النماذج مفتوحة الأوزان",
+   "summary": "تحث شركات متخصصة مثل Nvidia و Mistral صاحبي القرار على تجنب فرض قيود عامة على نماذج الذكاء الاصطناعي مفتوحة الأوزان، حيث تناقش الولايات المتحدة سبل الرد على التطورات الصينية في هذا المجال.",
    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-24"
+  },
+  {
+   "title": "شركة Midjourney تستحوذ على تطبيق الفلك Co-Star",
+   "summary": "أعلنت Midjourney عن استحواذها على تطبيق الفلك المتخصص Co-Star، موسعة نطاق أنشطتها من توليد الصور إلى مجالات جديدة، بما يشمل الآن تقديم قراءات فلكية مخصصة للمستخدمين.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-07-24"
   },
   {
@@ -40,14 +104,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "Midjourney تشتري تطبيق التنجيم Co-Star",
-   "summary": "أعلنت Midjourney استحواذها على تطبيق Co-Star الذي يقدم قراءات فلكية شخصية يومية. يمثل هذا الدخول مرحلة جديدة من تطور الشركة بعد توسعها من توليد صور الذكاء الاصطناعي إلى تطبيقات متنوعة أخرى.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-07-24"
   },
   {
@@ -72,62 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "أداة جديدة باسم Fluree AI",
-   "summary": "أداة جديدة ظهرت باسم Fluree AI، وتركّز على معالجة البيانات والاستعلامات باستخدام تقنيات الذكاء الاصطناعي. توفّر إمكانية التعامل مع قواعد البيانات بطرق ذكية وتفاعلية.",
-   "url": "https://www.producthunt.com/products/fluree",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "استطلاع رأي حول مخاوف الذكاء الاصطناعي في بيدفورد",
-   "summary": "أجرت صحيفة بيدفورد الوطنية استطلاع رأي عام حول درجة قلق السكان من تطورات الذكاء الاصطناعي وتأثيره على المجتمع. يعكس الاستطلاع الاهتمامات والمخاوف المحلية بشأن هذه التقنيات المتطورة.",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaTNKelBrNkg5VTh3Z2hCd3NaMHM5XzRfNkVyd09keFRmWVpDeVpJcXJBUzJ1MlN6elBfRHNBWk1rMjJQTlpvWTNzbmdRT2FnN0NhTGVXWm1PNzg0OXFreW45NXk3eGlIeEJfcGFJenVHZTlzYXR0RHhMRHdUSVQ4a3ZNVzcyMVBMZm05bGtralNKSEhqTDdFb0Jqa2NONE1QQmN0VVI0S0xzeHd4R1c0?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "مدارس كاتي توضع قيوداً على استخدام الذكاء الاصطناعي بالمرحلة الابتدائية",
-   "summary": "قررت منطقة كاتي التعليمية تحديد استخدام أدوات الذكاء الاصطناعي في فصول المرحلة الابتدائية. جاء القرار كجزء من جهود تقيّم تأثير هذه التقنيات على عملية التعلّم والتطور المعرفي للطلاب الأصغر سناً.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNkVOalRjY1E0Zks4aURaLWFDd1g5bjYyTy1vaUJkbEV4SGpveGNyT3BtOU02N3NYeElPQWptT2swSHpxZTFkR0FkZ09IZjhrWjNSeEFQbVV2QTVZYmpQZTBuUlI0dGJ1aVVsaF9pOW9HS1J5QXk4azBCcWlCSUZtUFE1UUVWRzRncV9lM2tqc25BVFViU2s4TDBYZi1JQWxJaXpuRjh6ZVJqWTJYZ2tsR2o1TncwdVZJb2RXby1R0gG-AUFVX3lxTE02RU5qVGNjUTRmSzhpRFotYUN3WDluNjJPLW9pQmRsRXhIam94Y3JPcG05TTY3c1h4SU9Bam1PazBIenFlMWRHQWRnT0hmOGtaM1J4QVBtVXZBNVlialBlMG5SUjR0YnVpVWxoX2k5b0dLUnlBeThrMEJxaUJJRm1QUTVRRVZHNGdxX2Uza2pzbkFUVWJTazhMMFhmLUlBbElpem5GOHplUmpZMlhna2xHajVOdzB1VklvZFdvLVE?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "آليات الحماية في نماذج الذكاء الاصطناعي تعيق عمل باحثي الأمن السيبراني",
-   "summary": "باحثون متخصصون في الأمن السيبراني يواجهون تحديات متزايدة بسبب القيود التي فرضتها شركات مثل OpenAI وAnthropnic على نماذجها، حيث تحول دون استكشافهم للثغرات الأمنية الجديدة وتطويرهم لأدوات اختبار الاختراق المشروعة.",
-   "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "آخر الأخبار والإصدارات في تقنيات التسويق المدعومة بالذكاء الاصطناعي",
-   "summary": "تغطية شاملة لأحدث الأخبار والمنتجات الجديدة في مجال تكنولوجيا التسويق المدعومة بالذكاء الاصطناعي، حيث يشهد هذا القطاع تطورات متسارعة في الأدوات والحلول التي تساعد الشركات على تحسين حملاتها التسويقية.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "تأثير الذكاء الاصطناعي على قدرة الإعلام في تغطية المخاطر الوجودية",
-   "summary": "يحذر الخبراء من أن انتشار تقنيات الذكاء الاصطناعي قد يضعف قدرة وسائل الإعلام على الإبلاغ بشكل موثوق عن الأخطار الوجودية، بما فيها التهديدات النووية وتلك الناجمة عن الذكاء الاصطناعي نفسه، مما يطرح تساؤلات حول دور الصحافة في مراقبة هذه التطورات.",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMGJLMEdrQ3hXaFBLUHNYRDFpcDRCelNQdnJSMURsdWMwWnVGNWJVcXN6MHdYelNiSGFrWFQteDVPRnFWZWhXSjNJRTNqa2FYbk9yWTVWUG9oNzJFcS1xNzlSVFdXak1sUVZOYnRRTnhjUHJieEhmbThZaTR6UzJsNTNqWHNpZGhHdHE1YzFSNzNxY0xBWWg2RktmOWpYeDdURGlzSkYtV1ZhMmFqUFhacmljb0o5WkRuT29HZUZrV2Z1c0VMWlluT01YUWRzNEJ0N2RuN2plTmdmeDFWLWpDQi1xT3djN1FGX19WanJIMTl2MXdwb2JDWXpzVHpYYU9IT05waEZrMA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "منصة تجارة الذكاء الاصطناعي الإشعاعي CARPL.ai تجمع 10 ملايين دولار",
-   "summary": "أعلنت منصة CARPL.ai المتخصصة في مجال الذكاء الاصطناعي الطبي الإشعاعي عن إغلاق جولة تمويل بقيمة 10 ملايين دولار، في خطوة تعكس النمو المتزايد للاستثمارات في حلول الذكاء الاصطناعي المتخصصة في القطاع الصحي.",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSnNwWTd6alZUSGRZQ1lNM3NhMVpNSlB3R3d5R3RVcUZCd2dJX1RrLVNvSHYyWFVoSnQ4T1JRd3BOdC1Jd3dBODN4RC1iS1hYa2M3cFhOci03cDRHdzIyYTRQMWV3aktvQjdDeWRuSzlxbXZ4ckhoMXFmcGN2eWNKOUtNOVgxbXF5Qm1PaGwtTE9CVTVybV9lOE45UG9hTGFYZGU4cUpyYS02RHZPQ2NkWHhXMUFnUFFlYXlpLUhuOXJPNEE?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-24"
   }
  ]
