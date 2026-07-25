@@ -1,27 +1,91 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-25T10:20:09.406738+00:00",
+ "updated": "2026-07-25T15:54:51.123745+00:00",
  "items": [
   {
-   "title": "لوحة مفاتيح ذكية من OpenAI تجمع بين البرمجة والذكاء الاصطناعي",
-   "summary": "أطلقت OpenAI لوحة مفاتيح جديدة مدعومة بالذكاء الاصطناعي، موجهة بشكل أساسي للمطورين الذين يسعون لدمج القدرات الذكية في سير عملهم. الأداة توفر واجهة تفاعلية قد تكون معقدة للمستخدمين العاديين، لكنها تفتح إمكانيات جديدة للمختصين.",
+   "title": "خلل في خط كهربائي يكشف مشكلة متزايدة في مراكز بيانات الذكاء الاصطناعي",
+   "summary": "حادثة قريبة في شمال فرجينيا أظهرت ضعف آليات استجابة مراكز البيانات للانقطاعات الكهربائية. الخبر يسلط الضوء على الحاجة الملحة لتحسين البنية التحتية والأنظمة الاحتياطية لحماية مرافق الذكاء الاصطناعي من التعطلات الشبكية.",
+   "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "تجربة حاسوب ذكي جديد من OpenAI: أداة موجهة للمبرمجين",
+   "summary": "أطلقت OpenAI حاسوباً ذكياً جديداً قد يستفيد منه المطورون بشكل كبير، بينما قد لا يجد فئات أخرى استخداماً واضحاً له. الأداة تجمع بين التصميم الحديث والقدرات البرمجية المتقدمة.",
    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-25"
   },
   {
-   "title": "Speech To Markdown",
-   "summary": "أداة جديدة ظهرت باسم Speech To Markdown تحوّل المحتوى المنطوق والصوتي إلى نصوص بصيغة Markdown منسقة. تساعد هذه الأداة المستخدمين على توثيق أفكارهم وملاحظاتهم بسرعة من خلال التحدث بدلاً من الكتابة.",
-   "url": "https://www.producthunt.com/products/speech-to-markdown",
+   "title": "أداة جديدة لتنظيم الملاحظات والمعلومات على نظامي ماك وويندوز",
+   "summary": "أداة جديدة ظهرت باسم Second Brain موجهة لمستخدمي أجهزة ماك وويندوز، تهدف إلى تنظيم وإدارة الملاحظات والمعلومات الشخصية بطريقة منظمة وسهلة الوصول.",
+   "url": "https://www.producthunt.com/products/second-brain-cloudflare",
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
    "date": "2026-07-25"
   },
   {
-   "title": "Second Brain for Mac and Windows",
-   "summary": "أداة جديدة ظهرت باسم Second Brain لأنظمة Mac و Windows تهدف لتنظيم وتخزين المعلومات والأفكار الشخصية بطريقة منظمة. تعمل على توفير مساحة رقمية لحفظ المعرفة والملاحظات بسهولة الوصول إليها لاحقاً.",
-   "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+   "title": "معالجة مخاوف الأطباء الأكاديميين من الذكاء الاصطناعي عبر البرامج التدريبية بين الأقران",
+   "summary": "دراسة تركز على كيفية تخفيف التردد لدى الأطباء والمعلمين حول استخدام الذكاء الاصطناعي من خلال برامج تعليمية موجهة بين الزملاء، لزيادة التقبل والفهم العملي للتكنولوجيا في المجال الطبي.",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdDlQYjhGSkhDVmhJTVZqaDl3OGxneXRBUDhGZjdUcTRnbU1lZUV0MmdkdS0xQnpDTjdiQmoxV1YtUXQyMHlReUdxQ1dIeE9jenFzaUlaN3EyZUlNOHdTU1Y3a0Jpcm1mbEVVOFR0dlNXc3J2WkNvSTU2TUJCU3pxZURiS1c3MVNMTTJrMUZBSmhoNG5oeklTOEsyNDJCdzgxVEQtWEIwamNEZzY0amV3WGI0Ump5bUt4WGVqWHNFX0RnUEdtS0VFZDRlNTllUFJzQVc1aGJLSmJTclgyZkdjU2pydw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "جامعة روبرت موريس تدمج الذكاء الاصطناعي في برنامج ماجستير إدارة الأعمال",
+   "summary": "أعلنت جامعة روبرت موريس عن إدماج تقنيات الذكاء الاصطناعي ضمن مناهج برنامج الماجستير في إدارة الأعمال، مما يعكس اتجاهاً متزايداً نحو تضمين المهارات التقنية الحديثة في التعليم الجامعي.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MeGlQZi1UdkZZLWFkWm55R05QdldlT2hzNzA3bmdDaS14NWtKRjMxSHV0aGtqUF93QXJVTzJyTWNNbnpyUG9wN1hsUHB0dzJJOTE1YTRR?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "محلل في وول ستريت يختار سهم ذكاء اصطناعي كالأفضل عالمياً",
+   "summary": "أصدر محلل من وول ستريت تقييماً يرشح شركة متخصصة في الذكاء الاصطناعي كواحدة من أفضل الشركات على المستوى العالمي من حيث الإمكانيات والنمو المستقبلي.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUtpUkpyOWNQRUhNVVNZX1FYT2RVUVBNN0oydk5rdXliRUZIZUtueHA4dXNVR0h1Mk9CbEUzV3lRbXN3Z3l6Sk55TWpxTUdzbTZGTnkwOWxlSVVjMWEzbHJKXzB0OUY3QldXWWlCQ3BIdmtSOFFfMzQ5NFdWaTdTOFRGSk9RNnBlU283N3h2WFpwdi1HSFgyWTlFUUdmeDdHSlE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "تطبيقات الذكاء الاصطناعي في شركات الدفاع والتصنيع العسكري",
+   "summary": "تقرير يستعرض الطرق العملية التي يمكن للشركات المتخصصة في الصناعات الدفاعية الاستفادة من تقنيات الذكاء الاصطناعي لتحسين عملياتها وزيادة كفاءتها.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMTVnTThwbmJSblN4Qm03cEdCNjBRZk1hRjlVSVFxM2o1UU9lMV9Rb0k1YnotR1p1RFhQRXZPVGpGcFR3ZVZDeDVnRHNmUGdhZGFrUjNQMmh6aURZVUpfeGVSck9nYm5uU3hOWlhjMnZrVThCOGxBSDFFTjdhYmxjeHRSbElmSmZvZm0tNm5NdkNtQ2sxUEkxRXhHbXE0YkJpdmpQUEUzYUpTYnB2ak5lWGlwT2otVlE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "محلل مالي يعتبر سهم الذكاء الاصطناعي الأفضل عالمياً",
+   "summary": "قدم محلل مالي رأياً يصنف شركة متخصصة في الذكاء الاصطناعي ضمن أفضل الخيارات الاستثمارية عالمياً، مستندأ إلى أداء الشركة واحتمالات نموها المستقبلية.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUE4wREp1Z2dUMzFIQmVWX0JrN1RveXE2M3hYOEVLaVpiTmw0UEtsVXFWVk5iTXcxWVlXVkFKTm1rMEZCbE9zRWVWMWo1UFFhbGFDa2RXM0NlaEhRVFdqWDVBZ21Tc3hzX1h0amhBOGI5dFhzQjJnUEZWNjBMYk5qSFFFOHBQSE5Xa3hQMFR2dXlCNW5na0F3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "أين نموذج جيميني 3.5 برو؟ الذكاء الاصطناعي المعلن في مؤتمر جوجل لا يزال غائباً",
+   "summary": "أعلنت جوجل عن نموذج جيميني 3.5 برو في مؤتمرها الأخير، لكن النموذج لم يتوفر بعد للمستخدمين رغم مرور وقت على الإعلان. يثير هذا التأخير تساؤلات حول جاهزية الأداة أو خطط إطلاقها.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S215YXpCY2JjNi1SSC1qaXNFT0k0WjdnZ0FRcEp1anYzcjJaaEtwSkN0VTdvdWVST2VfN0M0WWtTVWpCVEs5TlBpMnliRENjUG5vYWJCLTY0anRZb2g0Y2UwYw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "نماذج أوبن إيه آي المخترقة كانت نشطة على الإنترنت لأيام",
+   "summary": "تعرضت منصة هوجنج فيس للاختراق من خلال نماذج ذكاء اصطناعي من أوبن إيه آي، وبقيت هذه النماذج المخترقة نشطة على الإنترنت لعدة أيام قبل اكتشافها. يشير هذا إلى ثغرة أمنية مهمة في كيفية مراقبة الأنظمة للنشاطات المريبة.",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjN1RTBRekZaUlVuVUtzZVlhSzJkVmY0NG8wMHlxU05hcVl3UEdETFVhR09FY09PSHdfZUNCaW9QQ1hwYUwtazBkWVpoeVZtNkY2NkJwd1hodUQ2UFN2MTRDRlpmcFZ6ZkFablktOTJTOVhCSXlzQXNuZTBDNGVxNURyMENuSUFacElGUnRMVXNoVU5RSUQ1YmtjaEdOTzBWTllZV3NiN2tCZkxKUklIbExUb2hKem9lNGh0WnpEaTQyWHBfMDBneGFrRU0?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-25"
+  },
+  {
+   "title": "Speech To Markdown",
+   "summary": "أداة جديدة ظهرت باسم Speech To Markdown تحوّل المحتوى المنطوق والصوتي إلى نصوص بصيغة Markdown منسقة. تساعد هذه الأداة المستخدمين على توثيق أفكارهم وملاحظاتهم بسرعة من خلال التحدث بدلاً من الكتابة.",
+   "url": "https://www.producthunt.com/products/speech-to-markdown",
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
    "date": "2026-07-25"
@@ -59,76 +123,12 @@ window.NEWS_DATA = {
    "date": "2026-07-25"
   },
   {
-   "title": "كيف يمكن لشركات الدفاع الاستفادة من الذكاء الاصطناعي عملياً",
-   "summary": "يستعرض التقرير سبل تطبيق تقنيات الذكاء الاصطناعي في شركات التصنيع الدفاعي. يركز على الفرص العملية لتحسين الكفاءة والقدرات العملياتية في هذا القطاع الحساس.",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMTVnTThwbmJSblN4Qm03cEdCNjBRZk1hRjlVSVFxM2o1UU9lMV9Rb0k1YnotR1p1RFhQRXZPVGpGcFR3ZVZDeDVnRHNmUGdhZGFrUjNQMmh6aURZVUpfeGVSck9nYm5uU3hOWlhjMnZrVThCOGxBSDFFTjdhYmxjeHRSbElmSmZvZm0tNm5NdkNtQ2sxUEkxRXhHbXE0YkJpdmpQUEUzYUpTYnB2ak5lWGlwT2otVlE?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-25"
-  },
-  {
-   "title": "غيمني 3.5 برو لم يظهر بعد رغم إعلان جوجل عنه",
-   "summary": "أعلنت جوجل عن نموذج ذكاء اصطناعي جديد باسم Gemini 3.5 Pro خلال مؤتمر Google I/O، لكنه لم يصبح متاحاً للمستخدمين حتى الآن. يشير التأخير إلى احتمالية وجود تحديات تقنية أو سياسية في عملية الإطلاق.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S215YXpCY2JjNi1SSC1qaXNFT0k0WjdnZ0FRcEp1anYzcjJaaEtwSkN0VTdvdWVST2VfN0M0WWtTVWpCVEs5TlBpMnliRENjUG5vYWJCLTY0anRZb2g0Y2UwYw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-25"
-  },
-  {
    "title": "فيلسوف يرفض عرضاً من أنثروبيك",
    "summary": "رفض فيلسوف متخصص في أخلاقيات الذكاء الاصطناعي عرضاً للعمل مع شركة أنثروبيك الرائدة في مجال نماذج اللغة. يعكس الرفض نقاشات عميقة حول التوجهات الأخلاقية والفلسفية في تطوير تقنيات الذكاء الاصطناعي.",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByU05OUTZrdDgtUk1OQ0pTendaYmVkbDNlTjNYaVctSU1YX05pZ04zeTZpVFpHZTVnTDRHWlNKcFpVUGE4QllPYXp1Q0lhSUIxSUdyVlNsa2E0REdnVXNEVURPT0dCY01UUjJONlB0Nkw?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-07-25"
-  },
-  {
-   "title": "أي من الشركتين أفضل للاستثمار: ميكرون أم سانديسك؟",
-   "summary": "مقال استثماري يناقش مزايا وعيوب الاستثمار في ميكرون تكنولوجي وسانديسك في ظل نمو قطاع الذكاء الاصطناعي والطلب المتزايد على حلول التخزين والذاكرة.",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUR1OWtub3hBTzM0QTdGZkdxa1FIUGIwd1UxdkpNaGhMZ3dvWml0WmhER3NrOC1YdmN3Mjg4cThpNmk5d0puX2FpVGx1Z0VGSmhpOEZ2ZVphM0dZYzlkcWQ2MDRGU3hoM2dtZ0NpYVlzMXQ1a0UxR3dxLWZISjRIM1RCZGpLSHJJaTNlSEVwOS1sekhfR2E0cTA1Q2h1R0pRbUZUbg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-25"
-  },
-  {
-   "title": "مختبر ذكاء اصطناعي جديد يسعى لجمع 100 مليون دولار",
-   "summary": "أطلق المستثمران ريد هوفمان ومارك بينكوس مختبراً جديداً باسم بريتنيس، يركز على أتمتة المهام الروتينية على أجهزة الحاسوب. يرى المختبر أن أتمتة العمليات الحاسوبية قد تصبح أهم تطبيقات الذكاء الاصطناعي مقارنة بكتابة الأكواد البرمجية.",
-   "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "استحواذ كوجنيشن على بوك: الشخصية الاصطناعية تصبح ميزة تنافسية",
-   "summary": "استحوذت شركة كوجنيشن على منصة بوك المتخصصة في نماذج التفاعل الحواري لإضافة أسلوبها إلى وكيلها البرمجي ديفن. يشير الاستحواذ إلى اعتقاد متنام بأن طريقة تفاعل مساعدات الذكاء الاصطناعي مع المستخدمين بات بنفس أهمية جودة النماذج التقنية نفسها.",
-   "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "أنثروبيك تطلق نموذج أوبس 5",
-   "summary": "أعلنت أنثروبيك عن إصدار جديد من نموذجها أوبس بأداء محسّن وتكاليف أقل من الإصدارات السابقة. سيوفر هذا النموذج مرونة أكبر واقتصادية أفضل لمعظم حالات الاستخدام.",
-   "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "صناعة الذكاء الاصطناعي تحذر من فرض قيود واسعة على النماذج مفتوحة الأوزان",
-   "summary": "تحث شركات متخصصة مثل Nvidia و Mistral صاحبي القرار على تجنب فرض قيود عامة على نماذج الذكاء الاصطناعي مفتوحة الأوزان، حيث تناقش الولايات المتحدة سبل الرد على التطورات الصينية في هذا المجال.",
-   "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "شركة Midjourney تستحوذ على تطبيق الفلك Co-Star",
-   "summary": "أعلنت Midjourney عن استحواذها على تطبيق الفلك المتخصص Co-Star، موسعة نطاق أنشطتها من توليد الصور إلى مجالات جديدة، بما يشمل الآن تقديم قراءات فلكية مخصصة للمستخدمين.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-24"
   }
  ]
 };
