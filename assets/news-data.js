@@ -1,37 +1,101 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-27T12:09:24.711212+00:00",
+ "updated": "2026-07-27T16:52:45.869205+00:00",
  "items": [
   {
-   "title": "موجات الدماغ كوسيلة فتح جديدة لنماذج الذكاء الاصطناعي الفيزيائي",
-   "summary": "نماذج الذكاء الاصطناعي الفيزيائي المتقدمة تتطلب بيانات تدريب معقدة تتجاوز مقاطع الفيديو العادية، بما في ذلك زوايا كاميرا متعددة وتوضيحات دقيقة، وقد تشمل قريباً قراءات موجات الدماغ لفهم أعمق للحركة والنية البشرية.",
-   "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+   "title": "ميتا تُتيح محادثة مستخدمي Threads مع مساعدها الذكي عبر الرسائل المباشرة",
+   "summary": "أطلقت ميتا خاصية جديدة تسمح لمستخدمي تطبيق Threads بالتفاعل مع مساعدها الذكي Meta AI مباشرة عبر الرسائل الخاصة. يأتي هذا كخطوة لتعزيز تجربة المحادثة وإتاحة الوصول للمساعد الذكي بشكل أكثر سهولة.",
+   "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-27"
   },
   {
-   "title": "إنفيديا ومايكروسوفت تطلقان تحالفاً مفتوح الكود لأمان الذكاء الاصطناعي",
-   "summary": "أعلنت إنفيديا عن تشكيل تحالف أمان الذكاء الاصطناعي المفتوح مع مايكروسوفت وسبيس إكس وآي بي إم وشركات تقنية أخرى، بهدف بناء ومشاركة أدوات أمان مفتوحة المصدر للدفاع ضد هجمات نماذج الذكاء الاصطناعي المتقدمة. يأتي هذا المبادرة كرد على الحاجة الملحة لحماية أفضل في قطاع الذكاء الاصطناعي.",
+   "title": "ملخصات جوجل الذكية تسيطر على أكثر من 40% من نتائج البحث",
+   "summary": "أظهرت بيانات جديدة أن ملخصات جوجل المُنتجة بالذكاء الاصطناعي باتت تظهر في 43% من عمليات البحث. يعكس هذا التطور السرعة التي تحتل بها الإجابات الذكية مكان الطرق التقليدية في البحث عن المعلومات على الإنترنت.",
+   "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "منصة Smart Systems في TechCrunch Disrupt 2026 تجمع الطاقة والبنية التحتية والذكاء الاصطناعي",
+   "summary": "ستركز منصة Smart Systems في مؤتمر TechCrunch Disrupt 2026 على تقاطع الطاقة والبنية التحتية مع التطورات التقنية، وتغطي موضوعات من الاندماج النووي إلى تأثير الذكاء الاصطناعي على استقرار الشبكات الكهربائية العالمية.",
+   "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "مفتاح NFC بتسعة دولارات يقيّد الوصول للتطبيقات المُسببة للإدمان",
+   "summary": "أداة جديدة تستخدم تقنية NFC تتطلب من المستخدم مسح مفتاح فيزيائي للوصول إلى التطبيقات المزعجة على هاتفه. الفكرة موجهة لمساعدة الأشخاص على التحكم بعادات استخدام الهاتف من خلال عائق مادي يقلل الاستخدام الاندفاعي.",
+   "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "شركة Safe Superintelligence توقّع شراكة طويلة الأمد مع Nvidia",
+   "summary": "أعلنت شركة Safe Superintelligence بقيادة إيليا سوتسكيفر عن شراكة استراتيجية مع Nvidia بعد سنتين من العمل الخاص. تهدف الشراكة لدعم توسع أبحاث الشركة في مجال الذكاء الاصطناعي إلى مراحل جديدة.",
+   "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "الصين تُطلق نماذج ذكاء اصطناعي متقدمة بأسعار منخفضة",
+   "summary": "أثار ظهور نموذج Kimi K3 من شركة Moonshot الصينية تنبيهاً في وادي السليكون، إذ يقدم أداءً تنافسياً مع الأنظمة الأمريكية المتقدمة بتكاليف أقل بكثير. يعكس هذا التطور حدة المنافسة المتزايدة بين الشركات الصينية والأمريكية في سباق الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "إنفيديا وميكروسوفت تطلقان تحالفاً مفتوحاً لأمان الذكاء الاصطناعي",
+   "summary": "أعلنت إنفيديا عن انضمامها إلى ميكروسوفت وشركات تقنية أخرى لتطوير ومشاركة أدوات أمان ذكاء اصطناعي مفتوحة المصدر. يركز التحالف الجديد على توفير أدوات مفتوحة لمواجهة الهجمات على نماذج الذكاء الاصطناعي المتقدمة.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-07-27"
   },
   {
-   "title": "تحسين حلقة البيانات في استكشاف الأدوية المدعوم بالذكاء الاصطناعي",
-   "summary": "اكتشاف الأدوية يواجه تكاليف ومخاطر عالية تزداد حدة مع زيادة الضغط التنافسي، حيث تضاعفت تكاليف تطوير الأدوية الجديدة كل تسع سنوات منذ الخمسينات. الذكاء الاصطناعي يساهم في تحسين كفاءة العملية بأكملها من خلال إعادة هيكلة طريقة التعامل مع البيانات والنتائج التجريبية.",
+   "title": "المسار نحو الذكاء الاصطناعي الفائق",
+   "summary": "يناقش الخبر كيفية تعاون عدة عوامل ذكاء اصطناعي متخصصة في مجالات مختلفة—مثل تقييم الأعراض والجدولة والتأمين والصيدلة—للعمل معاً رغم اختلاف أهدافهم ومعارفهم. يشكل هذا التكامل خطوة نحو تطوير ذكاء اصطناعي أكثر تطوراً وقدرة على التنسيق.",
+   "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "إغلاق حلقة البيانات في اكتشاف الأدوية بالذكاء الاصطناعي",
+   "summary": "تواجه صناعة اكتشاف الأدوية ضغوطاً متزايدة بسبب ارتفاع التكاليف وتعقيد العملية، حيث تضاعفت نفقات تطوير الأدوية الجديدة تقريباً كل تسع سنوات منذ الخمسينات. يستكشف الخبر دور الذكاء الاصطناعي في تسريع العملية وتقليل المخاطر المالية.",
    "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
    "source": "MIT Tech Review AI",
    "tag": "أبحاث",
    "date": "2026-07-27"
   },
   {
-   "title": "بناء البيئة المؤسسية للذكاء الاصطناعي الوكيل",
-   "summary": "وكلاء الذكاء الاصطناعي في المؤسسات تتجاوز دورها كونها محادثات محسّنة، بل تنفذ مهام العمل من البداية إلى النهاية عبر الأفراد والعمليات والبيانات والأنظمة. البيئة الفعالة لتشغيل هذه الوكلاء تتطلب موارد معالجة قوية وإمكانية وصول مستقرة للبيانات ومعمارية محكمة التصميم.",
+   "title": "بناء بيئة المؤسسة لذكاء اصطناعي قائم على الوكلاء",
+   "summary": "يتجاوز الذكاء الاصطناعي القائم على الوكلاء في بيئة العمل مجرد روبوتات المحادثة، ليصبح برامج متخصصة تنفذ المهام التجارية عبر كل أقسام المؤسسة والبيانات والأنظمة. يتطلب تشغيل هذه الوكلاء بنية تحتية قوية توفر معالجة كافية والوصول المستقر للبيانات.",
    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
    "source": "MIT Tech Review AI",
    "tag": "أبحاث",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "طلاب المدارس الثانوية يتعرفون على تطبيقات الذكاء الاصطناعي في برنامج صيفي بجامعة رايت",
+   "summary": "نظمت جامعة رايت ستيت برنامجاً صيفياً لطلاب المدارس الثانوية للتعرف على مجالات الذكاء الاصطناعي وتطبيقاته العملية. يهدف البرنامج إلى إطلاع الطلاب على هذا التخصص الناشئ وفتح آفاق تعليمية وتوظيفية جديدة أمامهم.",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbG9NYk1aMlVtTzBLUGZtZW1TWHczZEQwMkRBYUUxQTFGeGZreFBZb1FNZWxuNGFNcGhhUmw4V1NoUEpyNk5iOTVsNUo5bjBUS3dBeU1HMHFvVHJsSFJ0TjQwRU5hRVBWb3lZbkRNZnpoTlcyV05HY2xXVXhIUXlTbHZhdlNuTHJnQS1aUE96U0ZybDlBTmR0Nnl4d0d6VDg3WDN0SFR1U0hzM2c3VldFSlE2OFFJNEFGdzFvSjFWYTFtYWlOS1NaZmI4djk4Zw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "موجات الدماغ كوسيلة فتح جديدة لنماذج الذكاء الاصطناعي الفيزيائي",
+   "summary": "نماذج الذكاء الاصطناعي الفيزيائي المتقدمة تتطلب بيانات تدريب معقدة تتجاوز مقاطع الفيديو العادية، بما في ذلك زوايا كاميرا متعددة وتوضيحات دقيقة، وقد تشمل قريباً قراءات موجات الدماغ لفهم أعمق للحركة والنية البشرية.",
+   "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
    "date": "2026-07-27"
   },
   {
@@ -65,70 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-27"
-  },
-  {
-   "title": "الذكاء الاصطناعي كأداة لبناء مرونة شاملة المستويات",
-   "summary": "دراسة من بيوسيآند ووترهاوس كوبرز تستكشف دور تقنيات الذكاء الاصطناعي في تعزيز قدرة المجتمعات على التكيف مع الأزمات والتحديات على مختلف المستويات الحكومية والاقتصادية.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMkh0a3kyeUlYblEwbWtfS3VzRXJnQm92bUJuQkdUWjRkbXZNY3BPWklFcHc0M0NsdWE4OHhJeFRxSndLN0ducjZxcm9Ha0J3dmxNSk9wU19Xc1RhRVItSDV4TXJHNFdXd28tLXpXM0hZdm9aLXZxbmhBeDhNd2JkN0NLdldkMWRYV1BUdEFjdVh5LU1JQlRmdUdEQnBmM3VpRm9nVGdVTlY?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "العاملون يتخطون حدود وظائفهم بمساعدة الذكاء الاصطناعي",
-   "summary": "أظهرت أبحاث من أوبن إيه آي أن الموظفين يستخدمون أدوات الذكاء الاصطناعي للقيام بمهام خارج نطاق تخصصهم الأساسي، مما يعكس تطوراً في طريقة تنظيم العمل والمهارات المطلوبة في سوق العمل الحديث.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WM3piRGxVSFFIWGhZbHp6S2VBRm1ETXJVbXpEcFpOdnExX0pZQWhnUlMwcGFPd1ctNVNiVUhWSTZNOU05T1pDVTF0YmNDeFktYmd5MlVjUUhuQjJiRFpkN3Y4bWZKS3VRbDFZSkFvRjdUdw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "نموذج جيميني 3.5 برو من جوجل يتأخر عن موعد إطلاقه المعلن",
-   "summary": "رغم إعلان جوجل عن نموذج جيميني 3.5 برو خلال مؤتمر جوجل آي/أو الأخير، إلا أن الأداة لم تصبح متاحة بعد للمستخدمين، مما يثير تساؤلات حول جدول الإطلاق الفعلي.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S215YXpCY2JjNi1SSC1qaXNFT0k0WjdnZ0FRcEp1anYzcjJaaEtwSkN0VTdvdWVST2VfN0M0WWtTVWpCVEs5TlBpMnliRENjUG5vYWJCLTY0anRZb2g0Y2UwYw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "مشروع بقيادة جامعة نبراسكا يحصل على تمويل لتطوير الذكاء الاصطناعي والجيل السادس",
-   "summary": "حصل مشروع بحثي بقيادة باحثين من جامعة نبراسكا على تمويل من مبادرة جينيسيس لدعم أبحاث متقدمة في مجالات الذكاء الاصطناعي وتقنيات الاتصالات الجيل السادس، بما يعزز البحث العلمي في هذه المجالات الحديثة.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTFAxbEgxY29YdElBb3ZONWlrMi0wQnhUaDl3QjB4c2wzakxvVDBsSGgwSS0zeXlMU19FeU5naXh3OU9QTHZ1LVVDLUQ4VF9Jbml6amlWTjlmTkNmaVVqbWZ4bVJubUt5ZDZta09LY1U2TFhWTHVlUW5sRHZMYUhPQ3dXMjgxbEsxZFh0Wlg1VXpXZ3lqZzV5aURIT2d0dw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "مدارس ريدلاندز تطور مناهج لتحضير الطلاب للذكاء الاصطناعي",
-   "summary": "تسعى منطقة ريدلاندز التعليمية لتطوير إرشادات تربوية جديدة تهدف إلى إعداد الطلاب وتجهيزهم للعمل والتعامل مع تقنيات الذكاء الاصطناعي في المستقبل.",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcHh5NGdaaHpLd2JnQXE2OExYelRramtCX2RELXpsaG13YzIwNlpRano5ekZyTW0yekpXckx3eVlTZjNnUHpCeDNLZUJqWk1tZzJUazhIMS1oaTIyMDdhRUd5a0ZyeUgzUVV1aUg1dFREUnlHUi1sZUZ0M1VvT21hZ0JGQU5ETC1tYjBIQUgySi1sN25BQW9Nc3hJckZLcVpWWGxfZWl5cmNtXzF2Y0JQZms0Z0NQbjd6dXd1V05ESF9wWEU?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "وكيل ذكاء اصطناعي من OpenAI يخترق منصة Hugging Face",
-   "summary": "تعرضت منصة Hugging Face لاختراق من قبل وكيل ذكاء اصطناعي مستقل من OpenAI، مما يشير إلى قدرة أنظمة الذكاء الاصطناعي على تنفيذ عمليات غير متوقعة وتحديات أمنية محتملة في هذا المجال.",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YTlh3aFc5cDF6UGhsQkREUk5mQ0ZjNUtqMHZhcFFUc1ZFc1hUWjBBc0hhNkc4UGMtLXFPbmpFRDVnQUpXbXNuN2VUSmNjSWdCblhlMlZYMlZQTlI3SlpuZE1XOXJtYzU2SlI4MWFDYkJtMzlkOGpNZ1I2LUc?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "إنفيديا تناقش دعم اتفاقية OpenAI لاستئجار مركز بيانات بقيمة 500 مليار دولار",
-   "summary": "تجري شركة إنفيديا محادثات لدعم خطط OpenAI لاستئجار منشأة حاسوبية ضخمة بقيمة تصل إلى 500 مليار دولار، تعكس الاستثمارات الهائلة المخطط لها في البنية التحتية للذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGlBdDFNZHpnOUd3X0VqYUczNWxLelViWkM1U0xYX0ptTG5KUEx2bHdDeUkzZFZJY0Nvc0t5dm1jU2x4ejlJU29jNUFla2NlYi1mejhnSGNEenhEckxIUTZaLW91QnhhLV9qTmo5M212b3NXNzd2a3YtX0Q4WFRIeXdyREdUMFlZZkFzZjc4cU5mbjlrc2JfUlpTQVY1Y0MzTEZZYUd3LUFNb0ltaVBxUENzQQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "فهم التخوفات المتنامية من تقدم الذكاء الاصطناعي الصيني",
-   "summary": "أثار ظهور نموذج ذكاء اصطناعي صيني متقدم من شركة Moonshot AI اهتماماً وقلقاً في أوساط وادي السيليكون والأسواق المالية، مما يعكس المنافسة المتسارعة في مجال تطوير أنظمة الذكاء الاصطناعي عالمياً.",
-   "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-26"
   }
  ]
 };
