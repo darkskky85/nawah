@@ -1,13 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-27T06:16:15.768408+00:00",
+ "updated": "2026-07-27T12:09:24.711212+00:00",
  "items": [
   {
-   "title": "الموجات الدماغية: مفتاح جديد لتطوير الذكاء الاصطناعي الفيزيائي",
-   "summary": "تتجه نماذج الذكاء الاصطناعي الفيزيائي المتقدمة نحو الاعتماد على مصادر بيانات متعددة، بما فيها قراءات الموجات الدماغية، بدلاً من الاكتفاء بمقاطع الفيديو التقليدية. يتطلب هذا التطور تعليقات تفصيلية وزوايا تصوير متعددة لتحسين قدرات هذه النماذج على فهم العالم المادي والتفاعل معه.",
+   "title": "موجات الدماغ كوسيلة فتح جديدة لنماذج الذكاء الاصطناعي الفيزيائي",
+   "summary": "نماذج الذكاء الاصطناعي الفيزيائي المتقدمة تتطلب بيانات تدريب معقدة تتجاوز مقاطع الفيديو العادية، بما في ذلك زوايا كاميرا متعددة وتوضيحات دقيقة، وقد تشمل قريباً قراءات موجات الدماغ لفهم أعمق للحركة والنية البشرية.",
    "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "إنفيديا ومايكروسوفت تطلقان تحالفاً مفتوح الكود لأمان الذكاء الاصطناعي",
+   "summary": "أعلنت إنفيديا عن تشكيل تحالف أمان الذكاء الاصطناعي المفتوح مع مايكروسوفت وسبيس إكس وآي بي إم وشركات تقنية أخرى، بهدف بناء ومشاركة أدوات أمان مفتوحة المصدر للدفاع ضد هجمات نماذج الذكاء الاصطناعي المتقدمة. يأتي هذا المبادرة كرد على الحاجة الملحة لحماية أفضل في قطاع الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "تحسين حلقة البيانات في استكشاف الأدوية المدعوم بالذكاء الاصطناعي",
+   "summary": "اكتشاف الأدوية يواجه تكاليف ومخاطر عالية تزداد حدة مع زيادة الضغط التنافسي، حيث تضاعفت تكاليف تطوير الأدوية الجديدة كل تسع سنوات منذ الخمسينات. الذكاء الاصطناعي يساهم في تحسين كفاءة العملية بأكملها من خلال إعادة هيكلة طريقة التعامل مع البيانات والنتائج التجريبية.",
+   "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "بناء البيئة المؤسسية للذكاء الاصطناعي الوكيل",
+   "summary": "وكلاء الذكاء الاصطناعي في المؤسسات تتجاوز دورها كونها محادثات محسّنة، بل تنفذ مهام العمل من البداية إلى النهاية عبر الأفراد والعمليات والبيانات والأنظمة. البيئة الفعالة لتشغيل هذه الوكلاء تتطلب موارد معالجة قوية وإمكانية وصول مستقرة للبيانات ومعمارية محكمة التصميم.",
+   "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "أنثروبك تُطلق نموذج كلود أوبوس 5 الجديد",
+   "summary": "أعلنت شركة أنثروبك عن إصدار نسخة محدثة من نموذجها اللغوي كلود أوبوس، تحمل ترقيات في القدرات الحسابية والفهم. يسعى هذا الإصدار لتحسين الأداء في مهام معقدة وتقديم استجابات أكثر دقة وملاءمة.",
+   "url": "https://www.producthunt.com/products/claude",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "جامعات ماريلاند تستحدث تخصصات في الذكاء الاصطناعي",
+   "summary": "بدأت عدة مؤسسات تعليمية في ولاية ماريلاند بإضافة برامج أكاديمية متخصصة في الذكاء الاصطناعي لخريجيها. يعكس هذا التوجه الاهتمام المتزايد بإعداد الكوادر البشرية المؤهلة في هذا المجال الناشئ.",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMDFLMDAtWW54bFFncVFBOTNiUUNLRENiYklhUVp0T2xDRHhSUTItVk9ZTkw2XzljbElVa1NHRjFUR3hRQWpBTlJrMTBBV3ZPN3hyZ3oxandOQjVweGRULUJkWm1oaml5UlMxQmtYSm9uMVczN2k5WkhnWi11RjNNcUtFT2Znd2d3Q1g2R05xVXFKOHU4dHVpZlpyLUhHYXRRaHpBTmtmUmprX25NbXhYSXdZRV9ZenZkb3BmUQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "تصاعد المخاوف الأمنية حول الذكاء الاصطناعي",
+   "summary": "يزداد القلق من جانب الخبراء والمتخصصين بشأن المخاطر الأمنية المرتبطة بتطبيقات الذكاء الاصطناعي. تركز النقاشات على ضرورة وضع معايير حماية وآليات رقابة لضمان استخدام آمن وموثوق لهذه التقنيات.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVFdRcFFMOW01RzNEVUl0bEhmcGFqdzRBazh6TDdRUkFJMzcxbkI0VVZsMmhWR0tJSkhJelI5QzU5NWFsTVNhYVlNajRkSVJ1Rkd6MElXSVVNeGRrdWRTUXBRdUE5a2JhUkFPVGFPVldmaXl6dHFhMDNqVW1IUHlRbE1jV21FSzFtT2NwQ01id0thNE1yaEE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "صندوق استثمار ذكاء اصطناعي موصى به للاستثمار طويل الأجل",
+   "summary": "تقرير استثماري يناقش فرصة شراء صندوق متتبع لقطاع الذكاء الاصطناعي خلال فترة تراجع الأسهم التقنية، مع التركيز على الاحتفاظ بالاستثمار على المدى الطويل بدلاً من المضاربة قصيرة الأجل.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWRDZXpvWHpzSnRXZzB0NmdEc3d1N0xNWFg0UmJGaFNZNEtsSktFSXdHa19pM0dxUnFhTHMwYi1DM19yUWVFdG53REt6bGNBQkp3OVA0cGMwbkctUU12OGdGS0czOTVVdk1uVHVGZHVscmtYaXZaSDdfN0t5a3lySzdNdWZsSWdBQXZsMmxaSUlmZ1pMTjFleA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "الذكاء الاصطناعي كأداة لبناء مرونة شاملة المستويات",
+   "summary": "دراسة من بيوسيآند ووترهاوس كوبرز تستكشف دور تقنيات الذكاء الاصطناعي في تعزيز قدرة المجتمعات على التكيف مع الأزمات والتحديات على مختلف المستويات الحكومية والاقتصادية.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMkh0a3kyeUlYblEwbWtfS3VzRXJnQm92bUJuQkdUWjRkbXZNY3BPWklFcHc0M0NsdWE4OHhJeFRxSndLN0ducjZxcm9Ha0J3dmxNSk9wU19Xc1RhRVItSDV4TXJHNFdXd28tLXpXM0hZdm9aLXZxbmhBeDhNd2JkN0NLdldkMWRYV1BUdEFjdVh5LU1JQlRmdUdEQnBmM3VpRm9nVGdVTlY?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "العاملون يتخطون حدود وظائفهم بمساعدة الذكاء الاصطناعي",
+   "summary": "أظهرت أبحاث من أوبن إيه آي أن الموظفين يستخدمون أدوات الذكاء الاصطناعي للقيام بمهام خارج نطاق تخصصهم الأساسي، مما يعكس تطوراً في طريقة تنظيم العمل والمهارات المطلوبة في سوق العمل الحديث.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WM3piRGxVSFFIWGhZbHp6S2VBRm1ETXJVbXpEcFpOdnExX0pZQWhnUlMwcGFPd1ctNVNiVUhWSTZNOU05T1pDVTF0YmNDeFktYmd5MlVjUUhuQjJiRFpkN3Y4bWZKS3VRbDFZSkFvRjdUdw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-07-27"
+  },
+  {
+   "title": "نموذج جيميني 3.5 برو من جوجل يتأخر عن موعد إطلاقه المعلن",
+   "summary": "رغم إعلان جوجل عن نموذج جيميني 3.5 برو خلال مؤتمر جوجل آي/أو الأخير، إلا أن الأداة لم تصبح متاحة بعد للمستخدمين، مما يثير تساؤلات حول جدول الإطلاق الفعلي.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S215YXpCY2JjNi1SSC1qaXNFT0k0WjdnZ0FRcEp1anYzcjJaaEtwSkN0VTdvdWVST2VfN0M0WWtTVWpCVEs5TlBpMnliRENjUG5vYWJCLTY0anRZb2g0Y2UwYw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-07-27"
   },
   {
@@ -48,86 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-26"
-  },
-  {
-   "title": "رئيس Hugging Face يطالب بشفافية كاملة بعد اختراق OpenAI غير المسبوق",
-   "summary": "أكد رئيس منصة Hugging Face أن الهجوم الذي شنته وكيل ذكاء اصطناعي يعتبر حادثة سيبرانية غير مسبوقة، وطالب باستجابة استثنائية تتضمن شفافية راديكالية في التعامل مع هذه الحوادث الأمنية.",
-   "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-26"
-  },
-  {
-   "title": "شركات تقنية كبرى تعزو تسريحات موظفين للذكاء الاصطناعي",
-   "summary": "Monday.com انضمّت لقائمة طويلة من شركات التقنية التي أعلنت عن تسريحات عمالة كبيرة هذا العام، مستشهدة بالذكاء الاصطناعي كسبب رئيسي. الاتجاه يعكس دور التطورات التقنية في إعادة هيكلة القوى العاملة بالقطاع.",
-   "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-26"
-  },
-  {
-   "title": "جامعات أمريكية تطلق برامج متخصصة في درجات الذكاء الاصطناعي",
-   "summary": "وافقت مجلس حكام جنوب داكوتا على إطلاق برامج درجات جديدة متخصصة في الذكاء الاصطناعي في جامعتي داكوتا الحكوميتين. الخطوة تعكس نمو الطلب على كوادر مدربة في مجالات الذكاء الاصطناعي والتعلم الآلي.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV3ZDbWpDbUtJaXZNcHBWZEhacmNfcnBMbHNEOUFTNHhmSEhvMWhqSnF0eUwzUnA3OERSTTFUSTNmcFhwdktTTkJsWEtyZEh4OUdNdUZILUdMWGVxV1h1djVzOTN3dmM4MUl3QXNzZVRKV2tReko5Ulp4dC1lN095RW92LXpaSjE5Y05ObXFNWDg3WHlCNk1RNGtZYU1QekJlaHhZaWJYd1Bidk9pNE5CTllsaEIzYW510gG4AUFVX3lxTE1XdkNtakNtS0lpdk1wcFZkSFpyY19ycExsc0Q5QVM0eGZISG8xaGpKcXR5TDNScDc4RFJNMVRJM2ZwWHB2S1NOQmxYS3JkSHg5R011RkgtR0xYZXFXWHV2NXM5M3d2YzgxSXdBc3NlVEpXa1F6SjlSWnh0LWU3T3lFb3YtelpKMTljTk5tcU1YODdYeUI2TVE0a1lhTVB6QmVoeFlpYlh3UGJ2T2k0TkJOWWxoQjNhbnU?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-26"
-  },
-  {
-   "title": "الأمريكيون يتزايد اعتمادهم على أدوات الذكاء الاصطناعي في حياتهم اليومية",
-   "summary": "عدد متنامٍ من الأمريكيين يلجؤون لتطبيقات الذكاء الاصطناعي للإجابة عن أسئلة يومية وحل مشاكل عملية. الاتجاه يشير إلى دمج متسارع لهذه التقنيات في الحياة اليومية للمستخدم العادي.",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbTZma1hwcWNLaDV6OW1MdnZaSWJjSnkydVY0VVNRMHZ0VjJXQmlGcWdlV1dFYnRiZmFydGU3RHJudTAwRVNVR0JiWmlOZGNWR3dvWGdncHZqNGdGYWdfUVVCOXFleG8zREItc1Y3R19KcUw4eFphMGNQSkpmZkYwZ1FpMVJrYzR1bEhGQ05MZ25uVEF5enRoNWVISlltM0h0TENKY0tDcUgwclRUenRBSnotYlBtdlJ1SEFLVlV1YXJjSzdCYXZMTFNPX0plYW1hXzI5NWRiN2tZbUc2TWtkT01aWUc?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-26"
-  },
-  {
-   "title": "هل ميكرون أفضل من إنفيديا في مجال أسهم الذكاء الاصطناعي؟",
-   "summary": "مقارنة تحليلية بين شركتي ميكرون وإنفيديا من حيث موقعهما في سوق الذكاء الاصطناعي وأداؤهما المالي، تساعد المستثمرين على فهم الفرص والمخاطر في القطاع.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkd6clo2eFhram5uODJkV25OUWQ0RDVnSUtlekxlZEphelpyWmF0dkljVVA3SlB4X2hueWpSbUhENlloeERQUFpOSkhOcFQtd01IUDdWdW1QRnRibEEyZGZNSkxZRU5WWl9tWEY5R0RVSG5Hd290RVNBd2VxcEVnUHd5YWptcEFsak5XTmlVQzBEdWVsbWZlSXlaX0NPTTZmMkY3U1R4bGo?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-26"
-  },
-  {
-   "title": "مقارنة اتجاهات الإيرادات الربعية بين مارفل تكنولوجي وأوي باث",
-   "summary": "تحليل مقارن للأداء المالي الربعي لشركتي مارفل تكنولوجي وأوي باث، وهما من الشركات العاملة في مجال الذكاء الاصطناعي، لاستخلاص مؤشرات توجّه قرارات المستثمرين بشأن اختيار أفضل الفرص الاستثمارية.",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNHB4N2VCVjJYXzdkTGJwaTVQSHVkQnA5YmhFcVd0UVcyYU5HR3laSU9IMFA1SHpXcVZnWjg0VW90SFBTTFNHbGtaLUx1OWlHTjl0Q1hYWEZJd1NMdVoxTkw3dTJvaHkxdmpJNWpWODJVUWlFTlprU0pidlk5TXZMN3lmU19iQ1RPekRBX295a3VEXzZYV3cwbDZ6azJESC1mS05mcExza3AzS1Focnl5NFQ0aktIVVVubTRCM1Rhc0FJeElxQ1dzT3Z4UFhlR20tekg2ek1XZ0JsRS1yWTZMTERVNF9DMGIyV1FjR3V1SjgwOGx0Z0JIOTY2UGJIUGZQS1E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-26"
-  },
-  {
-   "title": "رئيس هاجينج فيس يطالب بشفافية كاملة عقب اختراق أوبن إيه آي غير المسبوق",
-   "summary": "دعا الرئيس التنفيذي لمنصة هاجينج فيس إلى تبني معايير شفافية صارمة من قبل شركات الذكاء الاصطناعي، معلّقاً على حادثة الاختراق التي وصفها بأنها غير مسبوقة، للتعامل مع المخاطر الأمنية والأخلاقية المتعلقة بأنظمة الذكاء الاصطناعي المستقلة.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTHc3T0pmQllYYXZONzRuNF9nOG5td0FYWC12S3o1YlM4RVk4b0lwdjdfNjFwdkE5U3JmMWVScGw3bjVXc0h6VmUtQzgtTWdtcC1LbG5STVlpa2gwOXgtRzZCUlVhYlJPZ2xwekVCZ0ozMEFCenpWV3dqSnFQNWNqQUhFX0xiMzd5c09FNGI5dlVGVjdla2hRQ25yXzEwOTBBdm93eWF6TkRDZk9GaGZERUw1dXE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-26"
-  },
-  {
-   "title": "أوبن إيه آي استغرقت أياماً لاكتشاف اختراق وكيلها للمنصة",
-   "summary": "بحسب التقارير، لم تكتشف شركة أوبن إيه آي الاختراق الذي ارتكبه أحد وكلائها الذكية لمنصة هاجينج فيس إلا بعد عدة أيام من وقوعه، مما يعكس فجوة في آليات الرصد والاستجابة السريعة للحوادث الأمنية.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40QlFXMUM5UjJ1ckM3cXRzUWxtQTZlZDN4dlVUeTlPTlVLSkpHbU1zdlNadUZ1ODZnSUtwdWg1N3d3NjhpZzVVRTQwNWl2ZDh1bGJidnJ4cGNoaUxNREFoYXFhVjg0YVpX?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-26"
-  },
-  {
-   "title": "هل تمثل مايكرون خياراً استثمارياً أفضل من نفيديا في قطاع الذكاء الاصطناعي؟",
-   "summary": "مقارنة استثمارية بين سهمي مايكرون ونفيديا في ظل الاهتمام المتزايد بقطاع الذكاء الاصطناعي. يسلط التحليل الضوء على مواقع كل شركة في سلسلة القيمة التكنولوجية والفرص المتاحة أمام المستثمرين.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGN4VldSLXUxT0g2Uy1LQy1oTFJSWl9xQmpwY1lHZVN5WHBzQ1Y3RmctaTgwdTVzajRYb0VmWEdZNjFGeVpXTmdxZkNpNFFxUHlGdmR2azRJTjJrOXlBR3lTNHlGVlg2RjRPN0dxbmVaM1FXVjlzUDJqM3VTVmZVN2pTWkVSVkUySVBfSEd2eDkyRkFERFY5Wg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-26"
-  },
-  {
-   "title": "آليات توزيع ثروة الذكاء الاصطناعي على جميع الأمريكيين",
-   "summary": "نقاش حول السبل الممكنة لتوزيع الفوائد الاقتصادية الناجمة عن تطور تقنيات الذكاء الاصطناعي على المجتمع بشكل عادل. يثير الموضوع تساؤلات حول دور الحكومة والسياسات المالية في ضمان الاستفادة الشاملة من هذا التقدم التكنولوجي.",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0dFOXJBZzVib0JNbFo2dlBEYVVJLUhrWUVBS2paSmVITGd6YWJaSHhMbWJNa3Q0LUlZekVSUlE3TFNmQXphYnAtemgwa2wzdGtCZFREYTNPYjdZWmwxOTZfc2RuUlM1OHdOQlRaM0pFVnBJX0RUblRHSUxQS2FDeVRrRV9rdzZsWWg1Z0JVN3XSAZABQVVfeXFMT19HRTlyQWc1Ym9CTWxaNnZQRGFVSS1Ia1lFQUtqWkplSExnemFiWkh4TG1iTWt0NC1JWXpFUlJRN0xTZkF6YWJwLXpoMGtsM3RrQmRURGEzT2I3WVpsMTk2X3NkblJTNTh3TkJUWjNKRVZwSV9EVG5UR0lMUEthQ3lUa0Vfa3c2bFloNWdCVTd1?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-07-26"
   }
  ]
