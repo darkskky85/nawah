@@ -1,58 +1,90 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-28T05:36:47.423293+00:00",
+ "updated": "2026-07-28T11:08:13.629946+00:00",
  "items": [
   {
-   "title": "كرسر تعزز حضورها في الهند بأسعار محلية قبل استحواذ سبيس إكس",
-   "summary": "أعلنت منصة كرسر أن الهند أصبحت ثالث أكبر أسواقها عالمياً، وتخطط لتوسيع فريقها المحلي وتعزيز عروضها الموجهة للعملاء المؤسسيين، مستهدفة تقديم أسعار تتناسب مع السوق الهندية.",
+   "title": "كرسور تعزز وجودها في الهند بتسعير محلي قبل استحواذ سبيس إكس",
+   "summary": "أعلنت منصة كرسور أن الهند أصبحت ثالث أكبر أسواقها عالمياً، وتخطط لتوسيع فريقها المحلي وزيادة جهودها في بيع الحلول للمؤسسات، مستفيدة من توسعها الجديد في السوق الهندية.",
    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-28"
   },
   {
-   "title": "داريو أمودي من أنثروبيك: لا معارضة للنماذج المفتوحة لكن قلق من تقدم الذكاء الاصطناعي الصيني",
-   "summary": "أوضح مؤسس وكبير تنفيذيي أنثروبيك موقفه من نماذج الذكاء الاصطناعي المفتوحة الأوزان، معبراً عن عدم معارضته لها بشكل مطلق، لكنه أبدى قلقاً من التطورات السريعة في قدرات الذكاء الاصطناعي الصيني.",
+   "title": "داريو أمودي من أنثروبك يوضح موقفه من نماذج الذكاء الاصطناعي المفتوحة والتهديد الصيني",
+   "summary": "عبّر مؤسس وكبير رؤساء أنثروبك عن موقفه بأنه لا يعارض نماذج الذكاء الاصطناعي ذات الأوزان المفتوحة، لكنه يعرب عن قلقه من تطور القدرات الصينية في مجال الذكاء الاصطناعي.",
    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-28"
   },
   {
-   "title": "الرئيس التنفيذي لـ Anthropic يرفض فكرة حظر نماذج الذكاء الاصطناعي المفتوحة",
-   "summary": "عبّر داريو أمودي، الرئيس التنفيذي لشركة Anthropic، عن معارضته لفرض حظر على نماذج الذكاء الاصطناعي ذات الأوزان المفتوحة. موقفه يعكس رؤية مختلفة حول مسألة تنظيم نماذج الذكاء الاصطناعي والحفاظ على الوصول المفتوح للتكنولوجيا.",
+   "title": "مهندسو الرقائق في سامسونج ينتقلون للعمل لدى منافسها SK Hynix",
+   "summary": "يشهد قطاع الرقائق الإلكترونية الكوري انتقالاً متزايداً للكفاءات من سامسونج إلى منافسة SK Hynix، حيث يسعى المهندسون للعمل لدى الشركة المنافسة بحثاً عن فرص أفضل.",
+   "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "جامعة تكساس إيه آند إم تنضم لمهمة تحويل العلوم عبر الذكاء الاصطناعي",
+   "summary": "انضمت جامعة تكساس إيه آند إم إلى مبادرة Genesis Mission الموجهة نحو توظيف الذكاء الاصطناعي في تسريع التطورات العلمية. تهدف المبادرة إلى دمج تقنيات الذكاء الاصطناعي في مختلف المجالات البحثية لتعزيز الابتكار العلمي.",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc0NLWHF2UVZEZDZscEJPaTdJbUhYdU9pa1QteUJFYkdfZXlDQ3R1emluMlctNHE2TUd0N09ONjBsT09LdURFdkp0c1l4MC1YR08wTWNkOFViM3B4SG0tZUFCdl9FOURITXV3cFV4dE0xVzgwSjdwZmpYRDhJWUNFT1hoLXZuZFh0R3RQYk5IeEVadFM4aXE2N3VZTUdWQ2lRRG5GbVFDODBTaDRxRE5rMk1PeW9kN2FONjNwZDd3aXpxRW9mbm41NEEwX1lQb2xUNU1yMw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "دمج الذكاء الاصطناعي في العمليات الزراعية: فرص جديدة للمزارع",
+   "summary": "يتناول الموضوع كيفية استخدام تقنيات الذكاء الاصطناعي في قطاع الثروة السمينة والزراعة لتحسين الإنتاجية وكفاءة العمليات. يسلط الضوء على الفوائد العملية لتطبيق هذه التكنولوجيا في العمليات الزراعية الحديثة.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3dXRFZ4Tlg2NGxrWTZza0dpZnEtMkpyV0g0dnBlQVhXTUQwY2dnM21YVWpYX2E3emE2UHRnbmFvZnRUaWlhTUFqY2s2bThTWW83Z21ZdmFWQ01TdGlaa1FJdl9lMzZrM1duQ2FNRk5uZWZvVmlxSjVHbjFzdHI5UDhvYWlpOG5IN09Pdzk2eG9idXVteVhUX0o4ZU83YnBkZjJCbU5Bc1FZUWdkdnJwdkVkUmowVDl4ME5pM1VoeVlURzN6MS00?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "أسهم الذكاء الاصطناعي الأكثر جاذبية للاستثمار الحالي",
+   "summary": "يقدم تحليل استثماري يركز على اختيار ثلاثة أسهم في قطاع الذكاء الاصطناعي تتمتع بفرص نمو واعدة. يهدف إلى توجيه المستثمرين نحو الخيارات الأفضل في هذا القطاع سريع التطور.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXlYa2g4QUZoU1QtR1haS1VkN25zamtyLWgyUXloWWxjdjNpZWlMR19leWRvdGtxdUF2N2dEYXFKNFpOcHQ1dUpPZ1dSZEJ2eGxRM21tSlpiSkxtWnBybTZPMXpsVE51cXNlR2gyak9zQ3ZEdUg1dS0xTndKVFVvNHFUdlVLNWpFR1pVVE9TajFJWExzZXlTZg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "رئيس أنثروبك يعترض على فرض حظر على نماذج الذكاء الاصطناعي مفتوحة الأوزان",
+   "summary": "صرّح داريو أمودي، الرئيس التنفيذي لشركة أنثروبك، بمعارضته لفرض حظر على نماذج الذكاء الاصطناعي مفتوحة المصدر والأوزان. يعكس الموقف الجدل المستمر بين المؤسسات حول أفضل الطرق لتنظيم تطور تكنولوجيا الذكاء الاصطناعي.",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbndXX3ltNnRzWkh2aFdJTGs5clRQc3BKT1J2YmJyaUw4YldNLWE4SXVkNzNJWHpNWDF6ZnlTdU9nSWhxV0UwaEdDRDJBNk5CYjVXNVczMDU3cGtvMEY1aEk3LTR0amJEakRvNTZDbHptVXFZbFV3dllHY2d3TnVZdTdRWQ?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-07-28"
   },
   {
-   "title": "أمودي يوضّح موقفه من النماذج المفتوحة ويحذّر من تقدّم الذكاء الاصطناعي الصيني",
-   "summary": "أكّد داريو أمودي أنه لا يعارض نماذج الذكاء الاصطناعي المفتوحة الأوزان، لكنه أعرب عن قلقه من التطورات السريعة في مجال الذكاء الاصطناعي الصيني وانعكاساتها على المشهد التقني العالمي.",
+   "title": "رئيس أنثروبيك: لا أعترض على النماذج مفتوحة الأوزان لكنني قلق من تقدم الذكاء الاصطناعي الصيني",
+   "summary": "أوضح داريو أمودي الموقف من النماذج مفتوحة الأوزان قائلاً إنه لا يعارضها من حيث المبدأ، لكنه يشعر بقلق متزايد من التطورات السريعة في مجال الذكاء الاصطناعي الصيني وتأثيراتها المحتملة على المشهد العام.",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkZqakVyZ2htYkthcGIwZG84QXdmQWV2UTVUS0dnSC0wU1p1NEhJcmZTcFpaRmFjZkFHdmhPRkZUaVp1eWx6SU9kM2Z3elNNbnI4ZWpTeGctT0diMEsyVVdEeEY1TGFOZjF2eDVSaEFjX0ZITGF0WVd5X3liT2lHNGhGUHhnX3dab1lIdGNHeGlodVhYZFZzdjhrTUplcW5LQnVyeHNGeUJiLUdFMy1GZ21NdXJZUnZwdWpZY01B?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-07-28"
   },
   {
-   "title": "ساتيا نادلا: الاعتماد على نموذج ذكاء اصطناعي واحد قد يكون قاتلاً للشركات",
-   "summary": "حذّر الرئيس التنفيذي لمايكروسوفت من أن المؤسسات التي تعتمد بالكامل على نموذج ذكاء اصطناعي واحد قد تواجه صعوبات كبيرة. ويرى أن امتلاك البنية التحتية الخاصة والبوابات الأمنية (AI gateways) للفصل بين البيانات ونماذج الذكاء الاصطناعي أمر ضروري للبقاء.",
+   "title": "ساتيا نادلا: الشركات التي تعتمد على نموذج واحد قد لا تستطيع البقاء",
+   "summary": "حذر رئيس مايكروسوفت من أن الشركات التي تفتقر إلى نماذجها الخاصة أو إلى طبقة أمان بُنيت لفصل استفساراتها عن النموذج ذاته ستواجه مخاطر كبيرة في بيئة الذكاء الاصطناعي الحالية.",
    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-27"
   },
   {
-   "title": "محادثات Claude المشاركة قد تكون متاحة على محركات البحث",
-   "summary": "كشفت تقارير عن مشكلة تتعلق بميزة مشاركة المحادثات في Claude، التي تسمح للمستخدمين بإنشاء روابط عامة لمحاوراتهم. يبدو أن هذه الروابط ظهرت في نتائج محركات البحث، ما عرّض محادثات المستخدمين للكشف العام غير المقصود.",
+   "title": "تحذير: محادثات كلود المشاركة قد تكون ظهرت في نتائج بحث جوجل",
+   "summary": "كشفت مشكلة أمنية أن ميزة \"مشاركة المحادثة\" في كلود، التي تسمح للمستخدمين بإنشاء روابط عامة للمحادثات والمشاريع، قد أدت إلى ظهور محتويات حساسة في محركات البحث.",
    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-27"
   },
   {
-   "title": "مايكروسوفت تطلق أول نموذج أمان ذكي وتقدّم نظام حماية سيبراني جديد",
-   "summary": "أطلقت مايكروسوفت نموذج الذكاء الاصطناعي الأول المتخصص في الأمان السيبراني، وقدّمت في الوقت ذاته منصة حماية جديدة معتمدة على الأنظمة الذكية القادرة على العمل بشكل مستقل لحماية البنية التحتية التقنية.",
+   "title": "مايكروسوفت تطلق نموذج الذكاء الاصطناعي الأول للأمن السيبراني",
+   "summary": "أعلنت مايكروسوفت عن إطلاق نموذج أمان متخصص وتقديم منصة حماية جديدة تعتمد على أنظمة الذكاء الاصطناعي المستقلة لتعزيز قدراتها في مجال الأمن السيبراني.",
    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -96,38 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "المستخدمون يمكنهم الآن محادثة Meta AI من خلال الرسائل المباشرة في Threads",
-   "summary": "بدأت Meta بطرح مساعد الذكاء الاصطناعي Meta AI في الرسائل المباشرة على تطبيق Threads. يتيح الدمج للمستخدمين التفاعل مع المساعد الذكي بشكل مباشر ضمن منصة الوسائط الاجتماعية.",
-   "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "إغلاق فجوة البيانات في اكتشاف العقاقير بالذكاء الاصطناعي",
-   "summary": "يواجه اكتشاف العقاقير ضغوطاً متزايدة من ارتفاع التكاليف والمخاطر، حيث تضاعفت نفقات تطوير العقاقير كل تسع سنوات منذ الخمسينيات. يمكن للذكاء الاصطناعي أن يساهم في تسريع العملية وتقليل التكاليف من خلال تحسين استخدام البيانات.",
-   "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "بناء بيئة مؤسسية تدعم الوكلاء الذكيين",
-   "summary": "يتجاوز وعد الوكلاء الذكيين في المؤسسات مجرد محادثات محسّنة، ليشمل تنفيذ مهام الأعمال الشاملة عبر الأفراد والعمليات والبيانات والأنظمة. تتطلب هذه التطبيقات بنية تحتية موثوقة توفر قدرة حاسوبية كافية وإمكانية وصول آمنة للبيانات.",
-   "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "تشغيل خدمة iMessage على حاسوب Raspberry Pi",
-   "summary": "مشروع يتيح تشغيل بروتوكول iMessage على أجهزة Raspberry Pi، مما يوسّع إمكانيات هذه الأجهزة الصغيرة للتواصل عبر منصات Apple. يعكس هذا التطور اهتمام المطورين بجعل الخدمات الموثوقة متاحة على منصات مفتوحة وميسورة التكلفة.",
-   "url": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
    "date": "2026-07-27"
   }
  ]
