@@ -1,21 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-28T16:27:59.489846+00:00",
+ "updated": "2026-07-28T21:54:30.005684+00:00",
  "items": [
   {
-   "title": "مراكز البيانات قد تواجه انقطاعات كهربائية مؤقتة لمنع أعطال الشبكة الأمريكية الرئيسية",
-   "summary": "مع تسارع وتيرة بناء مراكز البيانات، يسعى مشغلو الشبكة الكهربائية إلى مواجهة الضغط المتزايد على الموارد. قد يضطرون لفرض انقطاعات مؤقتة لتجنب انهيار الشبكة الموحدة الأمريكية الكبرى.",
+   "title": "شركة متخصصة في كشف البرامج الآلية تجمع 200 مليون دولار من صندوق استثماري",
+   "summary": "حصلت شركة Spur Intelligence على تمويل بقيمة 200 مليون دولار من Insight Partners لتطوير تقنيتها في تمييز حركة المستخدمين الحقيقيين عن البرامج الآلية والروبوتات على الإنترنت.",
+   "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "شركة Runlayer ترفع دعوى قضائية ضد Rippling بتهمة سرقة فكرة منتجها",
+   "summary": "تتهم شركة Runlayer منافستها Rippling بسرقة فكرة بوابة تقنية (MCP) بعد أن قيّمت Rippling المنتج ثم قررت بناء منتج مشابه بنفسها.",
+   "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "سام ألتمان يعلن استعداده لإبطاء تطور الذكاء الاصطناعي",
+   "summary": "غيّر مؤسس OpenAI موقفه بشأن سرعة تطوير الذكاء الاصطناعي بعد حادثة أمنية وصفها بأنها كانت تأثيرها عميقاً عليه.",
+   "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "مراكز البيانات قد تواجه انقطاعات كهربائية مؤقتة لمنع أعطال الشبكة الأمريكية الأكبر",
+   "summary": "يسعى مشغلو الشبكة الكهربائية لمنع أعطال محتملة في أكبر شبكة أمريكية بفرض انقطاعات مراقبة على مراكز البيانات، نتيجة الضغط الكبير من البناء السريع لمراكز جديدة يستهلك موارد طاقة ضخمة.",
    "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-07-28"
   },
   {
-   "title": "شركة Fish Audio تجمع 52 مليون دولار لتطوير نماذج ذكاء اصطناعي صوتية",
-   "summary": "منذ إطلاقها العام الماضي، وصلت الشركة إلى 8 ملايين مستخدم لنماذجها المفتوحة والمستضافة، وحققت إيرادات سنوية متكررة بقيمة 21 مليون دولار. التمويل الجديد سيعزز قدرتها على خدمة المبدعين والمؤسسات.",
+   "title": "شركة متخصصة في نماذج الصوت الذكية تجمع 52 مليون دولار لتمويل الإنشاء",
+   "summary": "جمعت Fish Audio تمويلاً بـ 52 مليون دولار لتطوير نماذج صوت مدعومة بالذكاء الاصطناعي موجهة للمبدعين والمؤسسات. منذ إطلاقها حققت المنصة أكثر من 8 ملايين مستخدم وتحقق إيرادات سنوية متكررة بقيمة 21 مليون دولار.",
    "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "قادة الذكاء الاصطناعي يوقعون بياناً يطالبون الحكومة بمراقبة تطور الأنظمة الآلية",
+   "summary": "وقع موظفون من شركات عملاقة بما فيها OpenAI و Anthropic و Google و Meta وآخرون بياناً موجهاً للحكومة الأمريكية يدعو إلى إبطاء تطور نماذج الذكاء الاصطناعي الحدودية أو على الأقل تعجيل إقرار آليات حكومية دولية منسقة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "تكاليف الذكاء الاصطناعي تثير قلق أسواق المال العالمية",
+   "summary": "أعلنت جوجل عن زيادة كبيرة في توقعات نفقاتها للذكاء الاصطناعي لتصل إلى 205 مليارات دولار، بزيادة من توقعات الربع السابق البالغة 190 مليار. هذا الارتفاع المهم في الاستثمارات التكنولوجية أثار قلق المستثمرين حول استدامة أرباح الشركات التكنولوجية الكبرى.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "منصة بيرپليكسيتي توسع أداتها لتحويل حاسبات ويندوز إلى وكيل ذكي",
+   "summary": "طوّرت بيرپليكسيتي نسخة من أداة الحاسب الشخصي لأجهزة ويندوز، تعمل كنظام ذكي يُشغّل محلياً على الجهاز دون الاعتماد على السحابة. تحاكي الأداة وظيفة \"العامل الرقمي متعدد الأغراض\" وتتيح للحواسيب تنفيذ مهام معقدة بتفويض من المستخدم.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "الخواتم الذكية تبرز كحل واعد لدمج الذكاء الاصطناعي بقرب من المستخدم",
+   "summary": "شهدت تكنولوجيا الخواتم الذكية تطوراً ملحوظاً بفضل تحسن القدرات الصوتية للنماذج اللغوية، حيث أصبحت حتى الإصدارات الأساسية منها قادرة على فهم ومعالجة الأوامر الصوتية بدقة عالية. يعكس هذا التوجه رغبة المستخدمين في أجهزة صغيرة وسهلة الحمل تتفاعل مع الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "منصة Hugging Face تُستخدم في إنشاء صور مزيفة ضارة دون رقابة فعلية",
+   "summary": "كشفت منظمة أوروبية متخصصة في تحليل الذكاء الاصطناعي أن منصة Hugging Face تُستغل لإنشاء صور مزيفة ضارة بدون موافقة، حيث وجدت أن سبعة من أفضل تسع نماذج معالجة صور على المنصة تُستخدم بهذه الطريقة. يشير البحث إلى أن الجهود الحالية للمنصة في الحد من هذا الاستخدام غير كافية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-28"
+  },
+  {
+   "title": "مهندسو الرقائق في سامسونج ينتقلون إلى منافسة SK Hynix",
+   "summary": "يشهد قطاع الرقائق الإلكترونية في كوريا الجنوبية هجرة متزايدة من المواهب، حيث ينتقل مهندسون من سامسونج إلى الشركة المنافسة SK Hynix بحثاً عن ظروف عمل أفضل. يعكس هذا الاتجاه تحولاً في ديناميكية سوق العمل الكوري في مجال الصناعات السيمائية الحساسة.",
+   "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
    "date": "2026-07-28"
   },
   {
@@ -43,38 +115,6 @@ window.NEWS_DATA = {
    "date": "2026-07-28"
   },
   {
-   "title": "Perplexity توسع أداة Personal Computer لتشغيل أنظمة Windows كوكلاء ذكاء اصطناعي",
-   "summary": "أداة جديدة توفر نسخة Windows من Personal Computer، مما يسمح بتحويل أجهزة الكمبيوتر الشخصية إلى عمال رقميين محليين يعملون بالذكاء الاصطناعي. تعمل بنفس آلية النسخة التي أطلقت على Mac في أبريل الماضي.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-28"
-  },
-  {
-   "title": "الحلقات الذكية تبرز كأداة ذكاء اصطناعي عملية",
-   "summary": "مع تطور تقنيات الذكاء الاصطناعي، أصبحت الحلقات الذكية خياراً واعداً للمستخدمين. تستفيد هذه الأجهزة من تحسّنات ملحوظة في تقنيات التحكم الصوتي، حيث أثبتت حتى النماذج الأساسية كفاءة عالية في فهم ومعالجة الأوامر الكلامية.",
-   "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-28"
-  },
-  {
-   "title": "منصة Hugging Face تواجه انتقادات بشأن استخدامها في إنشاء صور مزيفة ضارة",
-   "summary": "كشفت دراسة من منظمة متخصصة أن منصة Hugging Face لنماذج الذكاء الاصطناعي تُستخدم في إنشاء صور مزيفة غير موافق عليها، بما في ذلك صور مسيئة للأطفال والنساء. رغم شهرة المنصة، تبقى جهودها في منع هذه الاستخدامات الضارة محدودة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-07-28"
-  },
-  {
-   "title": "مهندسو Samsung في أشباه الموصلات ينتقلون للعمل لدى SK Hynix",
-   "summary": "يشهد قطاع الرقائق الإلكترونية في كوريا الجنوبية حراكاً وظيفياً ملحوظاً، حيث ينتقل عدد من مهندسي Samsung المتخصصين إلى شركة SK Hynix المنافسة. يعكس الاتجاه تحولات في بيئة العمل والمزايا الوظيفية بين عمالقة الصناعة.",
-   "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-28"
-  },
-  {
    "title": "جامعة تكساس إيه آند إم تنضم إلى مشروع جينيسيس لتطبيق الذكاء الاصطناعي في العلوم",
    "summary": "انضمت جامعة تكساس إيه آند إم إلى مشروع جينيسيس الذي يهدف إلى توظيف تقنيات الذكاء الاصطناعي في تحويل البحث العلمي. يعكس هذا الانضمام التزام المؤسسة الأكاديمية بدمج التكنولوجيا المتقدمة في مجالات الدراسة والاستكشاف العلمي.",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc0NLWHF2UVZEZDZscEJPaTdJbUhYdU9pa1QteUJFYkdfZXlDQ3R1emluMlctNHE2TUd0N09ONjBsT09LdURFdkp0c1l4MC1YR08wTWNkOFViM3B4SG0tZUFCdl9FOURITXV3cFV4dE0xVzgwSjdwZmpYRDhJWUNFT1hoLXZuZFh0R3RQYk5IeEVadFM4aXE2N3VZTUdWQ2lRRG5GbVFDODBTaDRxRE5rMk1PeW9kN2FONjNwZDd3aXpxRW9mbm41NEEwX1lQb2xUNU1yMw?oc=5",
@@ -89,46 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-07-28"
-  },
-  {
-   "title": "دمج الذكاء الاصطناعي في العمليات الزراعية: فرص جديدة للمزارع",
-   "summary": "يتناول الموضوع كيفية استخدام تقنيات الذكاء الاصطناعي في قطاع الثروة السمينة والزراعة لتحسين الإنتاجية وكفاءة العمليات. يسلط الضوء على الفوائد العملية لتطبيق هذه التكنولوجيا في العمليات الزراعية الحديثة.",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3dXRFZ4Tlg2NGxrWTZza0dpZnEtMkpyV0g0dnBlQVhXTUQwY2dnM21YVWpYX2E3emE2UHRnbmFvZnRUaWlhTUFqY2s2bThTWW83Z21ZdmFWQ01TdGlaa1FJdl9lMzZrM1duQ2FNRk5uZWZvVmlxSjVHbjFzdHI5UDhvYWlpOG5IN09Pdzk2eG9idXVteVhUX0o4ZU83YnBkZjJCbU5Bc1FZUWdkdnJwdkVkUmowVDl4ME5pM1VoeVlURzN6MS00?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-28"
-  },
-  {
-   "title": "أسهم الذكاء الاصطناعي الأكثر جاذبية للاستثمار الحالي",
-   "summary": "يقدم تحليل استثماري يركز على اختيار ثلاثة أسهم في قطاع الذكاء الاصطناعي تتمتع بفرص نمو واعدة. يهدف إلى توجيه المستثمرين نحو الخيارات الأفضل في هذا القطاع سريع التطور.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXlYa2g4QUZoU1QtR1haS1VkN25zamtyLWgyUXloWWxjdjNpZWlMR19leWRvdGtxdUF2N2dEYXFKNFpOcHQ1dUpPZ1dSZEJ2eGxRM21tSlpiSkxtWnBybTZPMXpsVE51cXNlR2gyak9zQ3ZEdUg1dS0xTndKVFVvNHFUdlVLNWpFR1pVVE9TajFJWExzZXlTZg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-28"
-  },
-  {
-   "title": "رئيس أنثروبك يعترض على فرض حظر على نماذج الذكاء الاصطناعي مفتوحة الأوزان",
-   "summary": "صرّح داريو أمودي، الرئيس التنفيذي لشركة أنثروبك، بمعارضته لفرض حظر على نماذج الذكاء الاصطناعي مفتوحة المصدر والأوزان. يعكس الموقف الجدل المستمر بين المؤسسات حول أفضل الطرق لتنظيم تطور تكنولوجيا الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbndXX3ltNnRzWkh2aFdJTGs5clRQc3BKT1J2YmJyaUw4YldNLWE4SXVkNzNJWHpNWDF6ZnlTdU9nSWhxV0UwaEdDRDJBNk5CYjVXNVczMDU3cGtvMEY1aEk3LTR0amJEakRvNTZDbHptVXFZbFV3dllHY2d3TnVZdTdRWQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-28"
-  },
-  {
-   "title": "رئيس أنثروبيك: لا أعترض على النماذج مفتوحة الأوزان لكنني قلق من تقدم الذكاء الاصطناعي الصيني",
-   "summary": "أوضح داريو أمودي الموقف من النماذج مفتوحة الأوزان قائلاً إنه لا يعارضها من حيث المبدأ، لكنه يشعر بقلق متزايد من التطورات السريعة في مجال الذكاء الاصطناعي الصيني وتأثيراتها المحتملة على المشهد العام.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkZqakVyZ2htYkthcGIwZG84QXdmQWV2UTVUS0dnSC0wU1p1NEhJcmZTcFpaRmFjZkFHdmhPRkZUaVp1eWx6SU9kM2Z3elNNbnI4ZWpTeGctT0diMEsyVVdEeEY1TGFOZjF2eDVSaEFjX0ZITGF0WVd5X3liT2lHNGhGUHhnX3dab1lIdGNHeGlodVhYZFZzdjhrTUplcW5LQnVyeHNGeUJiLUdFMy1GZ21NdXJZUnZwdWpZY01B?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-07-28"
-  },
-  {
-   "title": "ساتيا نادلا: الشركات التي تعتمد على نموذج واحد قد لا تستطيع البقاء",
-   "summary": "حذر رئيس مايكروسوفت من أن الشركات التي تفتقر إلى نماذجها الخاصة أو إلى طبقة أمان بُنيت لفصل استفساراتها عن النموذج ذاته ستواجه مخاطر كبيرة في بيئة الذكاء الاصطناعي الحالية.",
-   "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-07-27"
   }
  ]
 };
