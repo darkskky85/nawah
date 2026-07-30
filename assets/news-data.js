@@ -1,13 +1,77 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-07-30T16:20:03.899400+00:00",
+ "updated": "2026-07-30T21:58:08.335087+00:00",
  "items": [
   {
-   "title": "أوكتا تستحوذ على شركة بيرميسو المتخصصة في أمان الذكاء الاصطناعي",
-   "summary": "استحوذت شركة أوكتا على الشركة الناشئة بيرميسو بقيمة تقدّر بحوالي 200 مليون دولار، لتعزيز قدراتها في كشف التهديدات الموجهة للهويات الرقمية. تساعد هذه الخطوة المؤسسات على حماية وكلاء الذكاء الاصطناعي والهويات غير البشرية في بيئات السحابة.",
+   "title": "قاضٍ أمريكي: إدارة ترامب لم تقدم أدلة كافية لاتهام Anthropic بمخاطر سلسلة التوريد",
+   "summary": "رفض قاضٍ فيدرالي أدلة الإدارة الأمريكية على أن شركة Anthropic تشكل خطراً على سلسلة توريد التكنولوجيا، مما يطعن في قرار حظر تقنياتها الذكية. القرار يعكس شكوكاً قضائية حول أساس الحظر المفروض على الشركة.",
+   "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-30"
+  },
+  {
+   "title": "جهاز Friend الذكي يعود بقدرات صوتية جديدة وسعر مضاعف",
+   "summary": "أداة جديدة ظهرت باسم Friend وهي جهاز ذكي قابل للارتداء يوفر محادثات صوتية مع المستخدم. أعيد إطلاق الجهاز برفع السعر بشكل ملحوظ مقابل إضافة خاصية الحوار الصوتي.",
+   "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-30"
+  },
+  {
+   "title": "جوجل تعتمد الذكاء الاصطناعي لإصلاح أخطاء Chrome بوتيرة غير مسبوقة",
+   "summary": "أعلنت جوجل عن ارتفاع حاد في عدد الأخطاء المكتشفة والمعالجة في متصفحها بيونيو الماضي مقارنة بعامين سابقين، بفضل استخدام نماذج اللغة الكبيرة وأدوات الذكاء الاصطناعي في عملية البحث والإصلاح.",
+   "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-30"
+  },
+  {
+   "title": "LinkedIn تضيف خاصية لتبليغ عن المحتوى المنتج بالذكاء الاصطناعي",
+   "summary": "أطلقت LinkedIn أدوات جديدة للحد من المنشورات منخفضة الجودة المولدة بالذكاء الاصطناعي، بما فيها خيار تبليغ مباشر بعنوان \"يبدو أنه محتوى ذكي منخفض الجودة\". كما استبدلت أداتها للكتابة بمساعدة الذكاء الاصطناعي بأداة تدقيق نحوي وتحريري.",
+   "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-07-30"
+  },
+  {
+   "title": "Okta تستحوذ على شركة Permiso المتخصصة في أمن الذكاء الاصطناعي",
+   "summary": "أعلنت Okta عن استحواذها على شركة Permiso الناشئة بقيمة تقدر بنحو 200 مليون دولار، لتعزيز قدراتها في كشف تهديدات الهويات الرقمية. الصفقة تمكن المؤسسات من حماية وكلاء الذكاء الاصطناعي والهويات غير البشرية عبر بيئات السحابة.",
    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-07-30"
+  },
+  {
+   "title": "جهاز Friend الذكي ينطلق من جديد مع مكبر صوت وسعر مضاعف",
+   "summary": "عادت شركة Friend بإصدار محدث من جهازها الذكي القابل للارتداء بإضافة مكبر صوت للحوار المباشر مع المستخدم. الإصدار الجديد يأتي برفع السعر بنسبة كبيرة عن النسخة السابقة من الجهاز.",
+   "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-07-30"
+  },
+  {
+   "title": "ثغرة أساسية تجعل نماذج اللغة الكبيرة عرضة للهجمات",
+   "summary": "أظهرت دراسة بحثية قدمت في مؤتمر التعلم الآلي الدولي أن نماذج اللغة الكبيرة تعاني من عيب بنيوي جذري يجعل تأمينها الكامل ضد الهجمات مستحيلاً. هذا الاكتشاف يثير تساؤلات جدية حول أمان وموثوقية هذه النماذج في التطبيقات الحساسة.",
+   "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-07-30"
+  },
+  {
+   "title": "متصفح كروم قد يحصل على تحديثات أسرع بدون إعادة تشغيل",
+   "summary": "تتضمن الإصدارات الأخيرة من كروم عدداً أكبر من التصحيحات الأمنية مقارنة بنسخ سابقة عديدة مجتمعة، مما يشير إلى تسريع في وتيرة معالجة الثغرات الأمنية وتحسين الحماية.",
+   "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
+   "date": "2026-07-30"
+  },
+  {
+   "title": "جوجل تكشف عن نسخة محسّنة من روبوتات جيميني 2.0",
+   "summary": "أطلقت جوجل جيميني روبوتكس 2.0 بثلاثة نماذج مختلفة يركز على تحسين مهارات التعامل الدقيق والسلامة، مع إتاحة واحد من هذه النماذج فقط للعموم حالياً.",
+   "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
    "date": "2026-07-30"
   },
   {
@@ -43,14 +107,6 @@ window.NEWS_DATA = {
    "date": "2026-07-30"
   },
   {
-   "title": "عيب أساسي يترك نماذج اللغة الكبيرة عرضة للاختراق",
-   "summary": "يرى فريق من الباحثين في ورقة قدموها بمؤتمر الآلات التعليمية الدولي أن من المستحيل تأمين نماذج اللغة الكبيرة بشكل كامل ضد الهجمات الإلكترونية بسبب عيب أساسي في طريقة عملها. تحمل هذه الخلاصات تداعيات كبيرة على سلامة واستقرار هذه الأنظمة.",
-   "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-07-30"
-  },
-  {
    "title": "منصة LangWatch تضيف ميزة تتبع استخدام نموذج Claude Code",
    "summary": "أضافت منصة LangWatch إمكانية مراقبة وتتبع استخدام نموذج Claude Code، مما يتيح للمطورين متابعة أداء التطبيقات والتكاليف المرتبطة بهذا النموذج بشكل دقيق.",
    "url": "https://www.producthunt.com/products/langwatch",
@@ -72,62 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.producthunt.com/products/tablo-a-desktop-cat-widget",
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
-   "date": "2026-07-30"
-  },
-  {
-   "title": "أداة AI Search Console لتحليل بيانات محركات البحث",
-   "summary": "أداة جديدة ظهرت باسم AI Search Console تدمج قدرات الذكاء الاصطناعي في تحليل أداء المواقع بمحركات البحث. تساعد المستخدمين على فهم أداء كلماتهم الرئيسية والحصول على رؤى تحسين الظهور.",
-   "url": "https://www.producthunt.com/products/ai-search-console",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-07-30"
-  },
-  {
-   "title": "الذكاء الاصطناعي يتوسع في القطاع الصحي بركيزة على العمليات الإدارية",
-   "summary": "أظهرت دراسة من مجلة The American Journal of Managed Care أن تطبيقات الذكاء الاصطناعي تشهد نموا ملحوظا في المؤسسات الصحية، خاصة في المجالات الإدارية. يعكس هذا التوسع جهود القطاع الصحي لتحسين الكفاءة وتقليل التكاليف التشغيلية.",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTNMUkV1V2xPcEdUMHBfRkU0ZEVDYXFfa1JER2dULUFkME9SVi1ORExBbmtlZjVyLXcxY3pNdGhkSW1NeHVhQ09xWEpnMGN1bjhuYi1DVkFDdVlLd215YmFJaDJ1ZE4wS2xyV1hyUFg2b0tOTTFsQ1BGMUwyN2YtS3JnVk9WTDVhMVlPQmNjemtZMUdzdzZJT2Z1Z2M2eEVBaXpsYzFfT1AtOVVwLTNKRERkSFQyZ3JUX2c?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-30"
-  },
-  {
-   "title": "جلسة استماع برلمانية حول دور الذكاء الاصطناعي في شبكات الاتصالات",
-   "summary": "عقدت السيناتورة ديب فيشر جلسة استماع تركز على تطبيقات الذكاء الاصطناعي في البنية التحتية لشبكات الاتصالات، وأثره على قطاع الاتصالات الأمريكي. تعكس الجلسة اهتمام الكونغرس المتزايد بتنظيم استخدام الذكاء الاصطناعي في القطاعات الحساسة.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUW05eEN6eTJJNWRMbWhkZ08wQWwxNkFybG4wcXJXOVhEckNiS0FoZWkydXItWTFYeVkxN3FiQ3NFdjZja3Q3YnNwQWUtTFNrbkVsTlN4dVFsZHI5T2VhNHhjV3pIQlJIMVo1c1NKN0RnWWNEdWRBUkNwQ21oWC1wZTYwUFpQVC1kQ3RMRjZJYW9JU2dUQzRz?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-30"
-  },
-  {
-   "title": "مسؤولياتُ الإشراف على تقنيات إنفاذ القانون وأنظمة الذكاء الاصطناعي الناشئة",
-   "summary": "يناقش الموضوع المسؤوليات القانونية والإشرافية المتعلقة باستخدام أنظمة الذكاء الاصطناعي والمراقبة من قبل أجهزة إنفاذ القانون. يعكس النقاش الحاجة الملحة لوضع إطار عمل يوازن بين فعالية الأدوات التقنية وحماية الحقوق والخصوصية.",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPSVV1MDlSdkE4SVlMdUhjZXBVc2NJU1paQklqZ0ZLRktkdE9qem5TTmxJdDRGejBCVlc5X1VYU0FXbXE0bER1cXU4LTQ0Y0l6NjAtWGt2cjc2ZTNjRXpuSzNZSTZTSEV6dXRlbWRaZGZQUTZxZFgtelgtSW9yVFdCMkVCandUaXdwaUQycm80QnhMdUo5N0NPRmZkaTNyaVk3S2NTWGUxdE1RaWRZdUJVcXdxcE0tanpMOHJheThUaGc0emNVaW9YQ1JlMnZsWGZfa3ZfZjVheU9vX2lYQjRCV0FnUUFERVBqSnNPbW50MGpiQTE5UU5BSExpbnBPbjRhM3NBX0paQmZvaXhtdEN2R1hqSlViRzdMZXNOaGhxd2dPM1Rv?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-30"
-  },
-  {
-   "title": "الذكاء الاصطناعي كأداة للحد من الجرائم الجنسية داخل السجون",
-   "summary": "تشير الدراسات إلى إمكانية استخدام أنظمة الذكاء الاصطناعي في كشف والوقاية من الاعتداءات الجنسية داخل المؤسسات السجنية، وذلك من خلال تحليل الأنماط السلوكية والمراقبة الذكية. يفتح هذا الاستخدام نقاشات حول التوازن بين الأمان والخصوصية في البيئات المحتجزة.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0IxMmJwY3hzSmhDUDBnbGI3WGtWTFRNeDFPZThmOWZFb3JZbng5WEluOUtLWkVMeFB0d0h6X1dhcElTQjdCcFBVNmswYl9jbDdkYXM5WmZmVG5GVHNobHdpYlBJdzFndmZJc09jMFhpNkMyVXpjVGJZOXEybUlYUWZMbHdocGk5aW94bWNEcVA2MEtkTFlBMXZQdTRvYWo0a1FrRHEydGZyWXNIakR1aHJQZHpYUlAwSlJMS1NB?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-30"
-  },
-  {
-   "title": "وارن دي سوزا.. أول مسؤول للذكاء الاصطناعي في جامعة يوتي ساوثويسترن",
-   "summary": "عيّنت جامعة يوتي ساوثويسترن الطبية وارن دي سوزا في منصب رئيس الذكاء الاصطناعي، ليصبح أول شخص يتولى هذا المنصب في المؤسسة. يعكس التعيين توجه المؤسسات الأكاديمية والطبية نحو تعميق استثماراتها في تطبيقات وأبحاث الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkazRYR2RIVmdXTDgtOGwyZV95UzVyUFJiQlBfOEJxaDNTWW9KN24zTGVHTlR2VkRWaDVBUEhBdVdxVjRNQ0VuVWdldlYxYWhYdGJudGUyZkJheDdmSXE4REhGV2lWdXR1TnJOODBMcnhDejdWRGhjQV9nSQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-07-30"
-  },
-  {
-   "title": "مايكروسوفت تعمّق منافستها المباشرة مع OpenAI و Anthropic",
-   "summary": "أعلنت مايكروسوفت عن نماذج ذكاء اصطناعي خاصة بها وأدوات مساعدة متنوعة، بما فيها منتجات تنافس عروضاً معروفة في السوق. تؤكد الشركة على التزامها بالنمو المستمر في قطاع الذكاء الاصطناعي والتنافسية المباشرة مع اللاعبين الرئيسيين.",
-   "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-07-30"
   }
  ]
