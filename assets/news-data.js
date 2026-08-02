@@ -1,21 +1,53 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-02T05:45:52.628442+00:00",
+ "updated": "2026-08-02T10:24:06.399501+00:00",
  "items": [
+  {
+   "title": "لوميتشاتس: منصة محادثات ذكية مجانية",
+   "summary": "أداة جديدة ظهرت باسم لوميتشاتس توفر خدمة محادثات قائمة على الذكاء الاصطناعي بصيغة مجانية. تركز على تقديم تجربة تفاعلية سهلة الاستخدام للمستخدمين دون تكاليف مالية.",
+   "url": "https://www.producthunt.com/products/lumichats-offline",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-02"
+  },
+  {
+   "title": "بنك كونيتيكت الشهير يعتمد الذكاء الاصطناعي في منصبه الجديد",
+   "summary": "أعلن أحد البنوك البارزة في ولاية كونيتيكت عن تبنيه للذكاء الاصطناعي من خلال إنشاء دور وظيفي متخصص في هذا المجال. تعكس الخطوة توجه المؤسسات المالية نحو دمج التقنيات الذكية في عملياتها وخدماتها.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2dvU2NqN0FSWHNqNGlYRlNlWWhSUEVZVEtyNUtiZ0o1OEYyb0U0NEpVc001d3ZxS3RtbUlBbFZ4ZF92eFFKYzBmQnJnaFBSN1lQTEI0dGlsUHNVWDZWcWFscEpkYUZlUFJ2UlFqUXBWQ2Y3ZEE0OFhIa1BfUld0T1Ytb2FJdlBFUmMwUmR0VUxhMm5OOFdMaHc4YkdxS2pRLW1kYw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-02"
+  },
+  {
+   "title": "ثلاث أسهم ذكاء اصطناعي موصى بها للشراء في أغسطس",
+   "summary": "حللت منصة مالية أسهم شركات متخصصة في الذكاء الاصطناعي واختارت ثلاثة أسهم تتمتع بآفاق استثمارية جيدة في الشهر الحالي، مركزة على الشركات الرائدة في هذا القطاع النمو السريع.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSDZqYjNxMzVHY1pEamxmVXJxVHpGYnNhR1E1dVhCdmFPc29VanFRSzVTUER5d0pNNlZVNmJaRUVNVV9wb2oyUHMxRW9ucmQxR3VCUFliN3dGSkRpZjBXMnFoUzhVanRvME5lbWd0YURsZWY1VklXRUtHUnpuQ1ljOXVoRjI2ZDAtd2ZWcTlQQnFuWEFma0VrNl9Oa05nQQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-02"
+  },
+  {
+   "title": "ثلاث شركات ذكاء اصطناعي يستثمر فيها رجل الأعمال بيل أكمان",
+   "summary": "تناولت المقالة ثلاث شركات متخصصة في الذكاء الاصطناعي تستحوذ على حافظة الملياردير بيل أكمان الاستثمارية، مسلطة الضوء على الأسباب التي تدفع المستثمرين الكبار للاهتمام بهذه الشركات.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUkyREtVR01kbXhlRXpacjJTM2t5UnlIRV9fY2h3dmRwck9rejZGcFdYZnctd3BUWXBVTDhMRnNGQ2ZSMXlad1F5S0dtMTI3dno3WXRweFBQR2JkWjhUOWFhNDluenNwb2ZrQ1pwWTMwOXZuUklqNUZtN213ckV2QkJXMjFUckVINDVqLTBMZU5nMFVCVVJ2aA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-02"
+  },
+  {
+   "title": "عمالقة التكنولوجيا يدعمون نماذج الذكاء الاصطناعي المفتوحة المصدر",
+   "summary": "أعلنت شركات كبرى منها ميتا وميكروسوفت وإنفيديا وآي بي إم دعمها للنماذج المفتوحة الوزن في الذكاء الاصطناعي، مما يعكس توجهاً صناعياً نحو تعزيز الابتكار والمنافسة المفتوحة في هذا القطاع الحيوي.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0hQcXlIMVB5UFFwVXM1Y0pZQm5XOXBzUmNveTg4RjZCc2RNdjdOVFV4U2JDZWdrTTRuTVROZ3lodE5FRVpielNWTVUyaFJkQlhHLVZmSVBWc1BRUHhNS1dNUjNTZ1lCb0drYk9pQ2hLQUtIUXlQUUc4eDNGVGYxOVQ5S1JSaDF0Q3BKSFFncDBKYUZCVV9fTm1aZXd6bjZKanB2dg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-02"
+  },
   {
    "title": "إطلاق نموذج DeepSeek-V4-Flash-0731",
    "summary": "أصدرت شركة DeepSeek نسخة محسّنة من نموذجها اللغوي تركز على الأداء السريع والكفاءة. يمثل الإصدار خطوة نحو توفير قدرات معالجة نصية أقوى مع استهلاك موارد حاسوبية أقل.",
    "url": "https://www.producthunt.com/products/deepseek",
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
-   "date": "2026-08-02"
-  },
-  {
-   "title": "أسهم الذكاء الاصطناعي التي يملكها بيل أكمان",
-   "summary": "مقالة تسلط الضوء على ثلاث شركات متخصصة في الذكاء الاصطناعي اختارها رجل الأعمال بيل أكمان لمحفظته الاستثمارية. تعكس الاختيارات رؤيته للقطاعات الواعدة في مجال التكنولوجيا والذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUkyREtVR01kbXhlRXpacjJTM2t5UnlIRV9fY2h3dmRwck9rejZGcFdYZnctd3BUWXBVTDhMRnNGQ2ZSMXlad1F5S0dtMTI3dno3WXRweFBQR2JkWjhUOWFhNDluenNwb2ZrQ1pwWTMwOXZuUklqNUZtN213ckV2QkJXMjFUckVINDVqLTBMZU5nMFVCVVJ2aA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-08-02"
   },
   {
@@ -27,43 +59,51 @@ window.NEWS_DATA = {
    "date": "2026-08-02"
   },
   {
-   "title": "رفض قضائي لمحاولة شركة xAI وقف قانون مينيسوتا الخاص بتطبيقات تعديل الصور",
-   "summary": "رفضت المحكمة دعوى شركة xAI لإيقاف تطبيق قانون مينيسوتا الذي يحظر التطبيقات التي تسمح بتحويل الصور إلى محتوى عري. يسمح القرار بسريان القانون الرامي لحماية الأفراد من الاستخدام غير المأذون لهذه التكنولوجيا.",
+   "title": "محكمة ترفض طعن شركة xAI ضد قانون مينيسوتا لحظر تطبيقات تزييف الصور",
+   "summary": "رفضت محكمة أمريكية دعوى قضائية قدمتها شركة xAI للطعن في قانون مينيسوتا الذي يحظر تطبيقات تعديل الصور الحساسة، مما يسمح للقانون بالدخول حيز التنفيذ رغم معارضة الشركة.",
    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-01"
   },
   {
-   "title": "يوتيوبر يعترف بأن استخدامه لنماذج اللغة الاصطناعية أضحى إدماناً غير صحي",
-   "summary": "اعترف المحتوى الإنجليزي بأن التفاعل المكثف مع نماذج اللغة الكبيرة أثار في نفسه مستويات دوبامين مفرطة تؤثر سلباً على صحته وسلوكه. دعا الاعتراف الملاحظات حول الآثار النفسية المحتملة للاستخدام المكثف لأدوات الذكاء الاصطناعي.",
+   "title": "يوتيوبر معروف يعترف بأن استخدامه للنماذج اللغوية غير صحي",
+   "summary": "اعترف الناشئ الشهير هانك جرين بأن تفاعله المكثف مع نماذج اللغة الكبرى أصبح يسبب له تأثيرات نفسية سلبية، مشيراً إلى أن هذا الاستخدام لا يعود بالنفع عليه أو على المجتمع.",
    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-01"
   },
   {
-   "title": "الرئيس التنفيذي لـ OpenAI يروج لاستخدام ChatGPT في تربية الأطفال",
-   "summary": "أبدى سام ألتمان حماساً لتسليط الضوء على حالات استخدام جديدة لـ ChatGPT في مجال التربية الأسرية. يعكس الموضوع نقاشاً مستمراً حول أدوار الذكاء الاصطناعي في جوانب الحياة اليومية والعائلية.",
+   "title": "الرئيس التنفيذي لـ OpenAI يروّج لاستخدام ChatGPT في تربية الأطفال",
+   "summary": "أعرب سام ألتمان، الرئيس التنفيذي لشركة OpenAI، عن حماسه تجاه حالة استخدام جديدة لنموذج ChatGPT في مجال الأبوة والأمومة، معتبراً إياها تطبيقاً عملياً مثيراً للاهتمام يمكن أن يساعد الوالدين في مهامهم اليومية.",
    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-01"
   },
   {
-   "title": "مفتاح ذكي برسم 9 دولارات يقيد وصولك إلى التطبيقات المسببة للإدمان",
-   "summary": "أداة جديدة تستخدم تقنية NFC تتطلب من المستخدم مسح مفتاح فيزيائي حقيقي لفتح التطبيقات التي تستهلك الوقت والانتباه. توفر الأداة طريقة عملية لإضافة حاجز جسدي بين المستخدم والتطبيقات ذات الاستهلاك العالي.",
+   "title": "مفتاح ذكي بسعر تسعة دولارات يقيّد تطبيقاتك الجاذبة",
+   "summary": "أداة جديدة تعتمد تقنية NFC توفر آلية فيزيائية لتقييد الوصول إلى التطبيقات المشتتة للانتباه، إذ تتطلب مسح المفتاح فعلياً على الهاتف الذكي لفتح هذه التطبيقات، مما يضيف حاجزاً ملموساً بين المستخدم والتشتت الرقمي.",
    "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-01"
   },
   {
-   "title": "هل أغنية في قائمة بيلبورد الأميركية من صنع الذكاء الاصطناعي؟",
-   "summary": "أثارت أغنية \"Rubberz\" للفنان Fenix Flexin من فريق Shoreline Mafia تساؤلات حول احتمالية استخدام الذكاء الاصطناعي في إنتاجها بعد وصولها إلى المركز 58 في قائمة بيلبورد الأميركية. تعكس الحالة نقاشات أوسع حول صعوبة تمييز المحتوى الموسيقي المولد بالآلة عن المحتوى البشري التقليدي.",
+   "title": "أغنية صاعدة في تصنيف بيلبورد تثير الشكوك حول أصولها الفنية",
+   "summary": "أثارت أغنية \"Rubberz\" للفنان Fenix Flexin، التي تسلقت إلى المركز 58 في تصنيف بيلبورد الشهير، تساؤلات واسعة بشأن جودتها الفنية وحقيقة مصدر إنتاجها، مع احتمالات بأن يكون جزء منها أو كلها من إنتاج أدوات الذكاء الاصطناعي.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-08-01"
+  },
+  {
+   "title": "جوجل تسحب أداة ذكاء اصطناعي جديدة بعد ساعات من إطلاقها",
+   "summary": "اضطرت شركة جوجل إلى التراجع عن إطلاق أداة ذكاء اصطناعي جديدة وسحبها من الخدمة في غضون ساعات قليلة من بدء توفرها للمستخدمين، مما يشير إلى وجود مشاكل تقنية أو سلوكية في الأداة استدعت هذا الإجراء السريع.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHlwMWtIMHVaTHA0R3QwRU1YT0ZhUGk3ejgwdENRNWhydHE0TXNMQ0VwTEdfX3dzckpueG8wQnJkcmltYjZaaV9lVDJWaVhKbnZNWFFtNDl3SGsyYXlFWmN4RWxpcGJBT2lXUFBMdkpGZDkwbnc5N2xibnkybFJtOHpEaC0?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
    "date": "2026-08-01"
   },
   {
@@ -86,46 +126,6 @@ window.NEWS_DATA = {
    "title": "توقعات بأن استثمارات البنية التحتية للذكاء الاصطناعي ستحول أسهماً معينة إلى استثمارات رابحة",
    "summary": "يتوقع المحللون أن الموجة التاريخية من الاستثمارات في بناء البنية التحتية اللازمة للذكاء الاصطناعي ستعود بأرباح ضخمة على أسهم شركات معينة في هذا المجال.",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHhsdFpWNHlWalExQzFhNlVLcVJCUnN2aHV0aGU2cXNaUXhGcjJPSXF2M01aVVFxbkRMLWdNdmlvcldfTUh0S3dNWkJvQzJjNV9OZ2xWNnozM1lLWjhVWXFmZ3NqUXFUSEFWWW9RQmh4Tmw2YXVFdWRlUFl2OWVXMVhwQmxONHYzMDctdmUtUUU5YmJsREVkNjN5YTFOQmFOMGtTcVhPejZRVXBLNlRF?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-01"
-  },
-  {
-   "title": "واجهة برمجية جديدة من Mubert لتوليد الموسيقى",
-   "summary": "أداة جديدة ظهرت باسم Mubert API توفر إمكانية دمج خدمات توليد الموسيقى القائمة على الذكاء الاصطناعي ضمن التطبيقات والمشاريع المختلفة. تتيح الواجهة للمطورين الوصول إلى نماذج توليد موسيقية متقدمة دون الحاجة لبناء البنية التحتية بأنفسهم.",
-   "url": "https://www.producthunt.com/products/mubert",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-01"
-  },
-  {
-   "title": "الأطباء في طليعة قيادة نقاش الذكاء الاصطناعي بالرعاية الصحية",
-   "summary": "يؤكد المتخصصون في المجال الطبي على ضرورة أن يكون الأطباء في مقدمة النقاش حول تطبيقات الذكاء الاصطناعي في القطاع الصحي، بما يضمن توجيه التطور التكنولوجي نحو خدمة المرضى بشكل فعّال وآمن.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1ZOSmE0bnQzOGN5bnJ2U3NPbEI1TGlzc2IzZzNPb1pncFNIV1R5YmFCRHB0aUh0LVFVeU9YMHdXVS1sY0xwTi1kWGJTNjFQX0NyRnZaZDBaZjNwOEVGZXpzeTFRZF9lMnIzX08tZFhPdUdNQmhUZGNnQWV2Y1pkUWNBOGpCRU01cUZHV2xfMnVuWjBBZ0RFYzVxbWl2d2ZNVm9VZm1LWDAyNWdWVV85V21kUQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-01"
-  },
-  {
-   "title": "شركات عملاقة تدعم معايير النماذج المفتوحة للذكاء الاصطناعي",
-   "summary": "اجتمعت شركات مثل ميتا ومايكروسوفت وإنفيديا وآي بي إم خلف دعم نماذج ذكاء اصطناعي مفتوحة الوزن، مما قد يسهم في توسيع إمكانية الوصول إلى التكنولوجيا وتقليل الاعتماد على الحلول الملكية.",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0hQcXlIMVB5UFFwVXM1Y0pZQm5XOXBzUmNveTg4RjZCc2RNdjdOVFV4U2JDZWdrTTRuTVROZ3lodE5FRVpielNWTVUyaFJkQlhHLVZmSVBWc1BRUHhNS1dNUjNTZ1lCb0drYk9pQ2hLQUtIUXlQUUc4eDNGVGYxOVQ5S1JSaDF0Q3BKSFFncDBKYUZCVV9fTm1aZXd6bjZKanB2dg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-01"
-  },
-  {
-   "title": "مناطق تعليمية في كونيتيكت تختار منصة ذكاء اصطناعي موحدة",
-   "summary": "اتجهت عدة أقسام تعليمية في ولاية كونيتيكت إلى اعتماد نفس منصة الذكاء الاصطناعي، مما يعكس توجهاً متزايداً نحو توظيف هذه التقنيات في العمليات التعليمية والإدارية.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGkyYVNXWVhDeXV2OEx0V1JQVENVVVBmV1JEZE84MTJJd1lYTkRPODVyblh6d1NobkcwdFVYbjFyaFE4X1F2R2ZYemg3WXZmYkp5cGw5dFJfV3dMWk9jaUx2TTh6X3MycjBld3RJRkZGc3NEaUFlcG0wbXZyczNkQ3I5N19OVElLdHotakVfQWtqSUJiRFpxTkl6a29pTUxqRFpKdTlYMlVIRXlELV9pbHpB?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-01"
-  },
-  {
-   "title": "جوجل إيرث توقف ميزة توليد الصور بالذكاء الاصطناعي",
-   "summary": "قررت جوجل إيرث إلغاء خاصية توليد الصور بالاعتماد على الذكاء الاصطناعي، في خطوة قد تعكس إعادة نظر في بعض تطبيقات المنصة أو تركيزاً على ميزات أخرى.",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11QURXX2stVklORmd3LXVyMFpXSl9iR0M1cXotcXpVME1NT0pWYmJTWGlIOG9PcUNLam9iRlktd09sOVkwdldLQUdSVDRTRy10M1V6LWJmTVpwc1BGeHJN?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-01"
