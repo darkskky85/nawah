@@ -1,37 +1,85 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-02T21:42:52.196698+00:00",
+ "updated": "2026-08-03T06:08:35.198542+00:00",
  "items": [
   {
-   "title": "سام ألتمان ينادي بإبطاء وتيرة تطور الذكاء الاصطناعي",
-   "summary": "طالب رئيس أوبن إيه آي بضرورة أن يتبنى القطاع نهجاً أكثر حذراً في تطوير تقنيات الذكاء الاصطناعي. يعكس الموقف نقاشاً متنامياً حول توازن الابتكار مع المسؤولية في صناعة التكنولوجيا المتسارعة.",
+   "title": "أسهم قد تستفيد من فقاعة الذكاء الاصطناعي",
+   "summary": "يناقش التحليل المالي الأسهم التي قد تحقق مكاسب إذا تراجعت توقعات الاستثمار في الذكاء الاصطناعي عن مستوياتها الحالية. يركز على الشركات ذات الأساسيات القوية خارج قطاع الذكاء الاصطناعي الرئيسي.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEs4Mk9UQVJjbUhHYUdDWnZQSXhwa3IxU0d2VmZkX09zd1dwbmhmcFNhTG1QdWs0ZnRJdkdzeTRZZXA4T2g0M205TDF1dU5KQVc4bE1aR2k2Q0kzNzNLMzlCOHlDZVc4dkFOZTAzOE1sNnlJSDVpLTVUUE1wQTNkaWZMaVZpdGtyc3hFRFZkX1hvOGxscGxkYkRHeEItbW90TkRlR3dUdVRzWmc5?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "شركات عملاقة تدعم نماذج الذكاء الاصطناعي مفتوحة الأوزان",
+   "summary": "اجتمعت شركات كبرى منها ميتا ومايكروسوفت ونفيديا وآي بي إم لدعم تطوير نماذج ذكاء اصطناعي مفتوحة الأوزان. يعكس هذا التوجه اهتماماً متزايداً بإتاحة التكنولوجيا على نطاق أوسع بدلاً من احتكارها.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0hQcXlIMVB5UFFwVXM1Y0pZQm5XOXBzUmNveTg4RjZCc2RNdjdOVFV4U2JDZWdrTTRuTVROZ3lodE5FRVpielNWTVUyaFJkQlhHLVZmSVBWc1BRUHhNS1dNUjNTZ1lCb0drYk9pQ2hLQUtIUXlQUUc4eDNGVGYxOVQ5S1JSaDF0Q3BKSFFncDBKYUZCVV9fTm1aZXd6bjZKanB2dg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "برنامج رئيس الذكاء الاصطناعي من إس إيه إس بالتعاون مع الحكومات المحلية",
+   "summary": "أطلقت شركة إس إي إس مبادرة لتعيين رؤساء متخصصين في الذكاء الاصطناعي للعمل مع الحكومات المحلية. تهدف المبادرة لتعزيز دمج تقنيات الذكاء الاصطناعي في القطاع الحكومي والعام.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFVybGU4ZDVlUXR0R08xWlA4SVp3LUpSc0pjRXNlQWVraXVnOWFyY01IYmJhdUoya2wtd245dWN5RWJoVS1Vem5kbUp4V3NFWWhnd0pKMWs0aXRMa29RS0NfaFpsODJtSmc2MG9rcExPMG52QTE3dlVKNjZJMU5DeVItZW5KVTVPelJfa01jQnV6Y3R0YmJRb2J5azlnaTlxQ2FIXzZ6TFJUWFIwMzg3am9rcHhRWEU?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "برنامج أكاديمي بجامعة ترين لمعالجة قضايا الذكاء الاصطناعي",
+   "summary": "أطلقت جامعة ترين برنامجاً مدته سبعة أشهر بقيادة فريق متخصص لدراسة وتحليل التحديات والقضايا المرتبطة بتطبيقات الذكاء الاصطناعي. يركز البرنامج على فهم التأثيرات العملية والأخلاقية للتكنولوجيا.",
+   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPaHNnSDhsOWlFZXdXX1J0cUViMl83VlJZQ1ZvbWoxTFN4WDZyUG8yMnh1SGFDMTZfZFJPMkl0VlBra2NaNWhjSmZJWE56RXMtWVZGdVFoN2tZTDdXY1FPa1IyLXZlMlk5VVRmTmhwdVlQdFU5VjlGM1I0bjNNRHV2OTQwdXU3OENPZGtYaDFZaDk2d3VTbUE2dlZ1VnN3empTN2hVUnlyS3NMSlhYZFA5anpjNDVrMTZaS1A0azZITUxTTmpISHVDWmV2OFptUEpuRFRobHdUVEpRMDVwNEtnZWJmazRCYTl6dmNla3dQRnQ5b19KYmo2dGxwXzBrTm9OMGk5TEdidXo5b1dmc1d4ZUM1b1FSR2ZKanNFLW5NdWtjU2NWQTNRb05sNHc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "علي بابا تطلق نموذج ذكاء اصطناعي بأداء منافس",
+   "summary": "أصدرت علي بابا نموذج ذكاء اصطناعي جديداً يحقق مستويات أداء تنافسية مع نماذج من شركات عملاقة أخرى مثل أنثروبيك. يضيف الإصدار خياراً جديداً في سوق نماذج اللغات الكبرى.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjlHM1ZsVFZ2VWZiRG4xcTd3aWdrU2U2SEwySXh3RWxPYWhBSlM0MTU2M2M3dlVDTnN5TDVUUkJvUGw5WXczVlB0ZzBPMk5NTjhOWkwwcGRHYWk4MGVUdjhRNUc5NXFkN1BFSHdrVnJtM0ZXSDNwM3phcnA5WE1LWjMwbUVhRHV2YUl2SmFBUVZUbXNTQ0EtZVBXRHhoSjlobzJuOWk4SnJvalVfZTdaWkVtRHdjN21v?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "سام ألتمان يدعو لإبطاء وتيرة تطوير الذكاء الاصطناعي",
+   "summary": "ناقش سام ألتمان، مؤسس أوبنإيه آي، موضوع إبطاء معدل تطوير تقنيات الذكاء الاصطناعي. يعكس النقاش نقاشات صناعية أوسع حول التوازن بين الابتكار والحذر الأخلاقي.",
    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-02"
   },
   {
-   "title": "الموسيقيون مجرد ذكاء اصطناعي تماثلي؟ تصريحات رئيس فندر تثير الجدل",
-   "summary": "أثارت تصريحات رئيس شركة فندر للآلات الموسيقية حول الذكاء الاصطناعي والموسيقى انتقادات واسعة. جاءت التعليقات خلال الحديث عن الذكرى السنوية الخمسين والسبعين لآلة تليكاستر الشهيرة، وأضافت للانتقادات التي تواجهها الشركة مؤخراً.",
+   "title": "رئيس فندر يعلق على الموسيقيين والذكاء الاصطناعي",
+   "summary": "أثارت تعليقات رئيس شركة فندر لصناعة الأدوات الموسيقية حول الذكاء الاصطناعي الموسيقى جدلاً. أتى النقد في سياق نقاشات متكررة حول دور التكنولوجيا في الفنون الإبداعية.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-02"
   },
   {
-   "title": "هل أغنية بيلبورد الرائجة من إنتاج الذكاء الاصطناعي؟",
-   "summary": "أثار استهلال أغنية \"روبرز\" لفنان من فرقة شور لاين مافيا إلى قائمة بيلبورد الساخنة تساؤلات حول أصول الأغنية. وجد الغناء نفسه سريعاً محل جدل حول احتمالية استخدام محتوى منتج بواسطة الذكاء الاصطناعي في الإنتاج الموسيقي.",
+   "title": "هل أغنية فينيكس فليكسين على قائمة بيلبورد من إنتاج الذكاء الاصطناعي؟",
+   "summary": "أثارت أغنية \"Rubberz\" للمغني فينيكس فليكسين، التي احتلت المركز 58 على قائمة بيلبورد الأمريكية، شكوكاً حول أصول إنتاجها واستخدام تقنيات الذكاء الاصطناعي فيها. يعكس هذا الجدل القلق المتزايد من احتمالية استخدام الذكاء الاصطناعي في صناعة الموسيقى بطرق قد لا تكون شفافة.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-02"
   },
   {
-   "title": "طلاب المدارس الثانوية الإسرائيليين يستخدمون الذكاء الاصطناعي لدراسة اللغة الإنجليزية",
-   "summary": "قررت مؤسسات تعليمية إسرائيلية تطبيق تقنيات الذكاء الاصطناعي في مناهج تعليم اللغة الإنجليزية للطلاب الثانويين. يهدف هذا التوجه إلى تحسين جودة التعليم واستثمار التطورات التكنولوجية في العملية التعليمية.",
+   "title": "إسرائيل تدرج الذكاء الاصطناعي في مناهج اللغة الإنجليزية بالمدارس الثانوية",
+   "summary": "أعلنت السلطات الإسرائيلية عن خطة لتوظيف تقنيات الذكاء الاصطناعي في برامج تعليم اللغة الإنجليزية للطلاب في المدارس الثانوية. تهدف المبادرة إلى تحسين تجربة التعلم وإتاحة تفاعل شخصي مع المحتوى التعليمي.",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zSC1mbDdobFlDRS1tYmI5eXl3Q25VdVBfRk1QalA4RVNlMHBZUHQwbzVpVGN2NFdnTXhKZk1hLUdnSS1MTEZ0VHRsc0tkTUtDa1hWSDdBTldGVzJ0?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-08-02"
+  },
+  {
+   "title": "نموذج أسترا من OpenAI: إنجازات حقيقية لكن توقعات مبالغ فيها",
+   "summary": "أطلقت OpenAI نموذج الذكاء الاصطناعي الجديد \"Astra\" الذي حقق نتائج تقنية مميزة في عدة مجالات، إلا أن المراقبون يرون أن الحديث الإعلامي عنه يحتوي على مبالغات حول إمكانياته الفعلية. يعكس هذا النقاش الفجوة بين التطور التقني الفعلي والتوقعات الترويجية في صناعة الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmcXFpN2pDczFwYUxBMEc1ZF9BbDQ3RS1hWU1YQkM0bFRRT1AwTk1NRXhlNmV0X3hFSzVENktCZHp1WXFlMEd6ZFA4YmV3MC1meHMydy1KMjRMM2s5c0tYMi1jQVZ1NmkySkNOZmJHbTRZY19RYkVmVg?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-08-02"
   },
   {
@@ -59,14 +107,6 @@ window.NEWS_DATA = {
    "date": "2026-08-02"
   },
   {
-   "title": "نموذج Astra من OpenAI: إمكانيات حقيقية وتوقعات مبالغ فيها",
-   "summary": "نموذج Astra الجديد من OpenAI حقق تقدماً تقنياً ملموساً، لكن التوقعات المحيطة به تجاوزت قدراته الفعلية بشكل كبير. يشير الخبراء إلى أهمية الفصل بين الإمكانيات الحقيقية والتسويق الترويجي في مجال الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmcXFpN2pDczFwYUxBMEc1ZF9BbDQ3RS1hWU1YQkM0bFRRT1AwTk1NRXhlNmV0X3hFSzVENktCZHp1WXFlMEd6ZFA4YmV3MC1meHMydy1KMjRMM2s5c0tYMi1jQVZ1NmkySkNOZmJHbTRZY19RYkVmVg?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-02"
-  },
-  {
    "title": "OpenAI تواجه تحديات في الحفاظ على مركزها الريادي",
    "summary": "فقدت OpenAI جزءاً من هيمنتها على سوق الذكاء الاصطناعي وسط منافسة شديدة من شركات أخرى. تسعى الآن لاستعادة موقعها من خلال تطوير نماذج أكثر قوة وتقديم خدمات متقدمة.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPektzS3JzanYyeWtKSFpFaVJ4VFFBUGJNOEkzTHdYSVdtcXpzclZJaDFyNV9HcjcwN3F5OEN0U3VUVmhMMnpqeDRpVnlGanRseE0yczFHUER3ZEljRFZ2NVVzSkN1VmJZU2R1TjgxRmplUFZlWWVucGN6SGQ2TmRBU3pJQ09PZWphRUVSS2hJYkVGYUxSUXAzcw?oc=5",
@@ -88,46 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjRxVEJ0YVIyTFBhRHpXaWw0V0xVRnFsT3REanBuRDFBWkZDeTJ2OWRPZk5CR3pjMjBVXzhNRzlQN1M5bE1pQUpONHN3TC0zQnJWVEpVZkVtNnA3Y2h4ang4SVlDYnEtTzlJNzBITHBacWN5MnRPejFONUVJZFZWM3RpYVpwLW5rVnhLTmE1b1hibW5FSG9kYjB2NDVUWGVWVzRhLUUwZzFvWDBiN0tZZ0JISVZmTGJTMUE?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
-   "date": "2026-08-02"
-  },
-  {
-   "title": "لوميتشاتس: منصة محادثات ذكية مجانية",
-   "summary": "أداة جديدة ظهرت باسم لوميتشاتس توفر خدمة محادثات قائمة على الذكاء الاصطناعي بصيغة مجانية. تركز على تقديم تجربة تفاعلية سهلة الاستخدام للمستخدمين دون تكاليف مالية.",
-   "url": "https://www.producthunt.com/products/lumichats-offline",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-02"
-  },
-  {
-   "title": "ثلاث أسهم ذكاء اصطناعي موصى بها للشراء في أغسطس",
-   "summary": "حللت منصة مالية أسهم شركات متخصصة في الذكاء الاصطناعي واختارت ثلاثة أسهم تتمتع بآفاق استثمارية جيدة في الشهر الحالي، مركزة على الشركات الرائدة في هذا القطاع النمو السريع.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSDZqYjNxMzVHY1pEamxmVXJxVHpGYnNhR1E1dVhCdmFPc29VanFRSzVTUER5d0pNNlZVNmJaRUVNVV9wb2oyUHMxRW9ucmQxR3VCUFliN3dGSkRpZjBXMnFoUzhVanRvME5lbWd0YURsZWY1VklXRUtHUnpuQ1ljOXVoRjI2ZDAtd2ZWcTlQQnFuWEFma0VrNl9Oa05nQQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-02"
-  },
-  {
-   "title": "ثلاث شركات ذكاء اصطناعي يستثمر فيها رجل الأعمال بيل أكمان",
-   "summary": "تناولت المقالة ثلاث شركات متخصصة في الذكاء الاصطناعي تستحوذ على حافظة الملياردير بيل أكمان الاستثمارية، مسلطة الضوء على الأسباب التي تدفع المستثمرين الكبار للاهتمام بهذه الشركات.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUkyREtVR01kbXhlRXpacjJTM2t5UnlIRV9fY2h3dmRwck9rejZGcFdYZnctd3BUWXBVTDhMRnNGQ2ZSMXlad1F5S0dtMTI3dno3WXRweFBQR2JkWjhUOWFhNDluenNwb2ZrQ1pwWTMwOXZuUklqNUZtN213ckV2QkJXMjFUckVINDVqLTBMZU5nMFVCVVJ2aA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-02"
-  },
-  {
-   "title": "عمالقة التكنولوجيا يدعمون نماذج الذكاء الاصطناعي المفتوحة المصدر",
-   "summary": "أعلنت شركات كبرى منها ميتا وميكروسوفت وإنفيديا وآي بي إم دعمها للنماذج المفتوحة الوزن في الذكاء الاصطناعي، مما يعكس توجهاً صناعياً نحو تعزيز الابتكار والمنافسة المفتوحة في هذا القطاع الحيوي.",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0hQcXlIMVB5UFFwVXM1Y0pZQm5XOXBzUmNveTg4RjZCc2RNdjdOVFV4U2JDZWdrTTRuTVROZ3lodE5FRVpielNWTVUyaFJkQlhHLVZmSVBWc1BRUHhNS1dNUjNTZ1lCb0drYk9pQ2hLQUtIUXlQUUc4eDNGVGYxOVQ5S1JSaDF0Q3BKSFFncDBKYUZCVV9fTm1aZXd6bjZKanB2dg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-02"
-  },
-  {
-   "title": "إطلاق نموذج DeepSeek-V4-Flash-0731",
-   "summary": "أصدرت شركة DeepSeek نسخة محسّنة من نموذجها اللغوي تركز على الأداء السريع والكفاءة. يمثل الإصدار خطوة نحو توفير قدرات معالجة نصية أقوى مع استهلاك موارد حاسوبية أقل.",
-   "url": "https://www.producthunt.com/products/deepseek",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
    "date": "2026-08-02"
   }
  ]
