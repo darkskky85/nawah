@@ -1,37 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-03T21:57:06.932880+00:00",
+ "updated": "2026-08-04T05:37:07.602928+00:00",
  "items": [
   {
-   "title": "أمازون تدعم منصة البرمجة التفاعلية سوبربلوكس في بيئاتها السحابية",
-   "summary": "سمحت أمازون ويب سيرفيسز بدمج أداة سوبربلوكس للبرمجة بواجهة تفاعلية ضمن الأنظمة السحابية الخاصة بعملائها. تعكس هذه الخطوة توجهاً نحو فصل التطبيقات عن نماذج الذكاء الاصطناعي.",
+   "title": "باحثو جامعة تكساس يحصلون على تمويل من وزارة الطاقة الأمريكية لمشاريع الذكاء الاصطناعي",
+   "summary": "حصل باحثون متخصصون في الذكاء الاصطناعي بجامعة تكساس على منح تمويلية ضمن مبادرة حكومية من وزارة الطاقة الأمريكية. يعكس هذا التمويل الاهتمام المتزايد بدعم البحث الأكاديمي في مجالات الذكاء الاصطناعي والحوسبة المتقدمة على الصعيد الفيدرالي.",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbjY5OEJ3RW9mRUcxMHBDQVQwYk5BNEEyNUdtSS1mamtibmowem1QdVZZSG51NTk3TXhzZU9EbHZnb09ZdmJIbGVWMGpJWFoxWHhQelpWRElPUFZKQmpRYXhVdXZFQWhacTJVYm9TZjIxQWF5cWhlQU4ybGpGdlViNmp5eXJoN0poSlNkSHJXSVMxSnMwM19lbzVFbkQ3WmxmNXoyTkItN0hJdlRkZ0ZBYWN1WjFvM2cycWVPWUtlTFZ3QkE1?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "علي بابا تطلق نموذج كوين الجديد لتعزيز إنجازاتها في مجال الذكاء الاصطناعي",
+   "summary": "أطلقت مجموعة علي بابا الصينية نموذج ذكاء اصطناعي جديد باسم كوين، مواصلة جهودها في تطوير تقنيات ذكاء اصطناعي متقدمة. يعكس هذا الإطلاق التنافس المتسارع بين الشركات الصينية والعالمية في مجال نماذج اللغة الكبيرة.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjlHM1ZsVFZ2VWZiRG4xcTd3aWdrU2U2SEwySXh3RWxPYWhBSlM0MTU2M2M3dlVDTnN5TDVUUkJvUGw5WXczVlB0ZzBPMk5NTjhOWkwwcGRHYWk4MGVUdjhRNUc5NXFkN1BFSHdrVnJtM0ZXSDNwM3phcnA5WE1LWjMwbUVhRHV2YUl2SmFBUVZUbXNTQ0EtZVBXRHhoSjlobzJuOWk4SnJvalVfZTdaWkVtRHdjN21v?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "رئيس بالانتير يحذر من عدم موثوقية مختبرات الذكاء الاصطناعي الريادية",
+   "summary": "بعد ربع مالي قياسي حقق مليار دولار أرباح، حذر رئيس شركة بالانتير مجدداً من أن مختبرات الذكاء الاصطناعي الحدودية لا تتمتع بمستويات ثقة كافية للعمل مع المؤسسات. يعكس موقفه المخاوف المتزايدة حول الموثوقية والمساءلة في قطاع الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "أمازون ويب سيرفيسز تدمج أداة البرمجة بالتصور مع السحابة الخاصة",
+   "summary": "سمحت أمازون ويب سيرفيسز بدمج أداة سوبربلوكس للبرمجة البصرية داخل السحابات الخاصة لعملائها. تمثل هذه الخطوة تطوراً نحو فصل التطبيقات عن نماذج الذكاء الاصطناعي المركزية.",
    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-03"
   },
   {
-   "title": "منصة Design Arena تجمع 7.9 ملايين دولار لتحسين جودة تقييم نماذج الذكاء الاصطناعي",
-   "summary": "يستخدم أكثر من 5.3 ملايين شخص حول العالم منصة Design Arena لتقديم تقييمات بشرية نوعية لنماذج الذكاء الاصطناعي المتقدمة. تلعب هذه التقييمات دوراً حاسماً في تطوير أنظمة ذكاء اصطناعي أكثر فعالية.",
+   "title": "منصة تقييم التصاميم تجمع 7.9 ملايين دولار لتحسين جودة نماذج الذكاء الاصطناعي",
+   "summary": "جمعت منصة Design Arena التمويل لتطوير خدماتها التي تستقطب ملايين المستخدمين عالمياً لتقديم تقييمات بشرية للمختبرات الريادية. تعتمد مختبرات الذكاء الاصطناعي على مثل هذه التقييمات لقياس جودة نماذجها وتحسينها.",
    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-03"
   },
   {
-   "title": "رحلة علاقات عامة فاخرة من أوبن إيه آي تثير انتقادات على مواقع التواصل",
-   "summary": "أثارت الرحلة الترويجية الأولى التي نظمتها شركة أوبن إيه آي لمؤثرين رقميين موجة من الانتقادات والجدل على الإنترنت وسط مخاوف متزايدة حول استخدامات الذكاء الاصطناعي.",
+   "title": "انتقادات موجهة للمؤثرين الذين شاركوا في الرحلة الفاخرة الأولى لـ أوبن إيه آي",
+   "summary": "أثارت رحلة العلاقات العامة الفاخرة الأولى التي نظمتها أوبن إيه آي للمؤثرين انتقادات عبر الإنترنت. يأتي الانتقاد في سياق استمرار الجدل العام حول استخدامات الذكاء الاصطناعي وأخلاقياته.",
    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-03"
   },
   {
-   "title": "آبل تحدّث مساعدها الذكي سيري لكن التحديث يبدو محبطاً",
-   "summary": "أطلقت آبل أخيراً تحديثاً شاملاً لمساعدها سيري يحوّله إلى أداة ذكاء اصطناعي قادرة كما كان مخططاً. لكن وصول هذا التحديث في وقت أصبحت فيه القدرات الأساسية لمساعد ذكي لا تثير الإثارة التي كانت تثيرها سابقاً.",
+   "title": "آبل تحدث مساعدها سيري لكن التحديث يفتقد عامل المفاجأة",
+   "summary": "أنهت آبل أخيراً تطويرها الطويل لسيري ليصبح مساعداً ذكياً فعالاً كما هو متوقع منه. إلا أن التحديث يأتي في وقت لم تعد فيه القدرات الأساسية للمساعدات الذكية كافية لإثارة الحماس في السوق.",
    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "قواعد الاتحاد الأوروبي الجديدة لتمييز الذكاء الاصطناعي والروبوتات تدخل حيز التنفيذ",
+   "summary": "بدأ تطبيق التزامات شفافية جديدة في الاتحاد الأوروبي بموجب قانون الذكاء الاصطناعي الشامل اعتباراً من الثاني من أغسطس. تفرض القواعس على الشركات الإفصاح للمستخدمين عند تفاعلهم مع روبوتات محادثة أو محتوى مزيّف ينتجه الذكاء الاصطناعي، بهدف تعزيز شفافية الإنترنت.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "علي بابا الصينية تطلق نموذج ذكاء اصطناعي جديد لمنافسة التطبيقات الأمريكية",
+   "summary": "أعلنت شركة علي بابا الصينية عن نموذج ذكاء اصطناعي جديد باسم Qwen3.8-Max، وأشارت إلى أنه يحقق أداءً يضاهي أفضل الأنظمة الأمريكية من Anthropic وOpenAI والمنصات الصينية المنافسة. تأتي الخطوة كجزء من سباق تنافسي متسارع في مجال الذكاء الاصطناعي بين القوى التقنية العالمية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "الجدل حول تعليقات رئيس فندر بشأن الذكاء الاصطناعي والموسيقى",
+   "summary": "أثارت تصريحات رئيس شركة فندر للآلات الموسيقية حول الذكاء الاصطناعي والموسيقى ردود فعل سلبية على وسائل التواصل مؤخراً. جاءت التعليقات خلال حديث عن مرور 75 سنة على تأسيس الجيتار الشهير، ولكنها أضافت جدلاً لسلسلة من القرارات المثيرة للجدل للشركة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-03"
+  },
+  {
+   "title": "هل أغنية في قائمة بيلبورد الساخنة من إنتاج الذكاء الاصطناعي؟",
+   "summary": "أثيرت تساؤلات حول أصول أغنية \"روبرز\" للفنان فينيكس فليكسن، التي تصدرت المراتب العليا في قائمة بيلبورد الساخنة، مع اشتباهات من قبل المستمعين بأنها قد تكون من إنتاج الذكاء الاصطناعي. يعكس الجدل حول الأغنية القلق المتزايد من استخدام التقنيات الذكية في صناعة الموسيقى دون الإفصاح الكافي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-08-03"
   },
   {
@@ -40,38 +96,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "الاتحاد الأوروبي يفعّل قواعد جديدة للكشف عن الروبوتات والمحتوى المزيف",
-   "summary": "دخلت قوانين أوروبية جديدة حيّز التنفيذ بهدف تسهيل تمييز الناس للمساعدات الذكية والمحتوى المزيف بالذكاء الاصطناعي. ألزمت متطلبات الشفافية الجديدة بموجب قانون الذكاء الاصطناعي الأوروبي الشركات بالإفصاح عند تفاعل الأشخاص مع أنظمة ذكاء اصطناعي.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "علي بابا الصينية تطلق نموذج ذكاء اصطناعي ضخم لمنافسة النماذج الأمريكية",
-   "summary": "أعلنت شركة علي بابا الصينية عن إطلاق نموذج ذكاء اصطناعي جديد باسم Qwen3.8-Max، وتؤكد أن قدراته تضاهي أفضل الأنظمة الأمريكية من OpenAI و Anthropic، بالإضافة إلى المنافسين المحليين. تسعى الشركة لتعزيز موقعها في سباق الذكاء الاصطناعي العالمي المتنامي.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "الجدل يحيط بتصريحات رئيس فندر حول الموسيقيين والذكاء الاصطناعي",
-   "summary": "أثارت تصريحات رئيس شركة فندر إدوارد كول المتعلقة بالذكاء الاصطناعي والموسيقى جدلاً واسعاً بين الموسيقيين والعامة. جاءت التصريحات خلال مقابلة بمناسبة الذكرى السنوية الـ 75 لجيتار تيليكاستر الشهير، وأضافت ضغوطاً إضافية على سمعة الشركة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "أغنية في تصنيفات بيلبورد تثير شكوكاً حول استخدام الذكاء الاصطناعي",
-   "summary": "اكتسبت أغنية \"روبرز\" للفنان فينيكس فليكسين شهرة متسارعة على منصات التدفق، لتحتل المركز 58 في تصنيفات بيلبورد الساخنة. غير أن نجاح الأغنية أثار تساؤلات حول احتمالية استخدام تقنيات الذكاء الاصطناعي في إنتاجها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-08-03"
   },
   {
@@ -102,30 +126,6 @@ window.NEWS_DATA = {
    "title": "جامعة واشنطن تبدأ برنامج ماجستير في الذكاء الاصطناعي",
    "summary": "أطلقت جامعة واشنطن الحكومية برنامج درجة الماجستير المتخصص في الذكاء الاصطناعي، مما يعكس الطلب المتزايد على خبرات أكاديمية معمّقة في هذا المجال. يهدف البرنامج إلى تدريب باحثين ومتخصصين قادرين على التعامل مع التحديات العملية والنظرية في تطبيقات الذكاء الاصطناعي.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTI5ZFQ3S3l5MXJKV1duUExEajRUb19CZXVwVnV0T1FvRURLNkJ6OVU4YkVqLThacnpEZU83QmNoXzJ5WUJUOEk5TjFsMENld2k2d2xjRm05VzBwbDE2RFh4MWhfTW9VQWotY19zUV9NMnFSNWphNTJqMEFXd2NyTzgxZVM0Zjg5b2pJVWpjdklHWW83STJCRQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "مؤتمر جامعة مونتانا يناقش فرص وتحديات الذكاء الاصطناعي",
-   "summary": "تنظم جامعة مونتانا الحكومية مؤتمراً للبحث في إمكانيات الذكاء الاصطناعي وتحدياته، حيث يجمع بين الباحثين والمختصين لاستكشاف تطبيقاته المستقبلية والمشاكل التي قد تواجه توسعه في المجتمع.",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDkxX2VrNWdEZ3lSSGdHQVJ3M0NadGR5OHkydDlVakV6ZDdvaUZuQWoxMlM0YlVpZGhCXzhkOFZVelI0NjMzTWRyRDRGT3pFdTFjUFc4VmhaOEg0bzFDS2NwUm5ZN0VFTFp1SDJtRFhrSU9NM3RRMTBlSHh6NWtTVWpwZnItYzFQMnA0STIyTHpuZGVwa2NRUklFQmFOdU9abEVkTkJJa1Q2Y3FwWGdtRDFMOHN2ZzVqcFNOQkFXd0RHb0tG?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "باحثون يطورون أداة ذكاء اصطناعي لإدارة شبكات الكهرباء الحديثة",
-   "summary": "ابتكر فريق بحثي من كلية الهندسة المشتركة بين جامعة فلوريدا الزراعية وفلوريدا للعلوم والتقنية أداة ذكاء اصطناعي مخصصة لتحسين إدارة وتشغيل شبكات الكهرباء المعاصرة وزيادة كفاءتها.",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNkJYOVJFZWhDMjFCZ25YQVhSTVJsU3ppN0F0ajlQbkpidjRZamxGeGVKT2VBZzltd2VBZV92QTBrOUpKUFd1WHAydWVoLTJoaGZ6eVFyN0gzLUNTZ3RHcG41S29rZDJUWmU1N19XNk4zTGZzTWVnMjllT1BfWHNmeG5HSkV3NkpiVFQ2bThGMGJoa3J1QkZHa3hvUzN5dUpLN3E5N3lvX0RZa1ZZRVU5d1RiejZqN1pEdnZZelFpVnF1dVJjQ0s0OFJoSjRLTGVrSDNNUHZ1ZDBPd1RKajlPY01GVG40Q1R0LUhQdmVXVEc3eHc?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "كلية الحرب البحرية الأمريكية تناقش تطبيقات الذكاء الاصطناعي",
-   "summary": "يشارك طلاب وأساتذة في كلية الحرب البحرية الأمريكية في نقاشات متعمقة حول استخدامات الذكاء الاصطناعي وإمكانياته في المجال العسكري والأمني.",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLW5vWWdDcElOa3d4RkR0dVBtUFJvS0g4azFmazMyYVVfM1VKMzhMOENHdWJrZ3M3N05HTjNmdmoyQlBxZHM3eWh2RnpuejhzOUFlMFJvbXFSUFBmZ3hGUDdfMFFRNUFlU0x3UEVjdTlTcDFPb1JOdlZnMGlYMHRqdTVqSWdIX2JpcUplVWVQOXdkNmJCeVdoNy1uX1VlQk9fdmtDSGx0Mmdyc2pGUElFS1hwc0ZMQkMzRGlHbTRpcXZ2cmJMMjd2SU5IakhKeVB4TGhSOEZRRE1NR0FxNzN0WVlyMWxEbXo1RzVV?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-03"
