@@ -1,7 +1,103 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-04T16:45:42.746795+00:00",
+ "updated": "2026-08-04T22:03:04.514266+00:00",
  "items": [
+  {
+   "title": "سبيس إكس تشتري بطاريات تيسلا بقيمة 329 مليون دولار خلال هذا العام",
+   "summary": "أنفقت سبيس إكس مئات الملايين من الدولارات على بطاريات ميجاباك من تيسلا، ما يعكس التكامل العميق بين شركات إيلون ماسك المختلفة وتعاونها في مشاريع البنية التحتية.",
+   "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "نماذج الذكاء الاصطناعي المفتوحة تقترب من إمكانيات الأنظمة المتقدمة لكن الثغرات الأمنية تبقى",
+   "summary": "كشف تقرير حديث أن نموذج ذكاء اصطناعي مفتوح الأوزان يقترب من قدرات الأنظمة الحدودية، لكنه يفتقد لآليات حماية أساسية، مما يثير قلقاً متجدداً حول أن الأنظمة القوية قد تسبق الأطر التنظيمية والضوابط الأمنية.",
+   "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "أنثروبيك توقّع اتفاقية بقيمة 10 مليارات دولار مع منصة فولتا السحابية",
+   "summary": "أعلنت أنثروبيك عن شراكة بمليارات الدولارات مع شركة فولتا المتخصصة في خدمات الذكاء الاصطناعي السحابية، استمراراً لسلسلة من الاتفاقيات الضخمة في هذا المجال.",
+   "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "تطبيق \"رينكلز\" يكشف القصص المخفية عن الأماكن حولك",
+   "summary": "أداة جديدة ظهرت باسم رينكلز، وهي تطبيق متاح على نظامي آي أو إس وأندرويد يعمل كمرشد سياحي صوتي يعتمد على الذكاء الاصطناعي لكشف التاريخ المحلي والقصص المخفية للأماكن.",
+   "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "تحالف آمان الذكاء الاصطناعي بقيادة إنفيديا يُظهر تقدماً سريعاً",
+   "summary": "بعد أسبوع من تأسيسه، بات التحالف المفتوح للذكاء الاصطناعي الآمن بقيادة إنفيديا يضم أكثر من 120 شركة ويقدم مقترحات عملية للدفاع ضد وكلاء الذكاء الاصطناعي الضارة.",
+   "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "قسم مراكز البيانات في إيه إم دي ينمو بقوة بينما الألعاب تتراجع",
+   "summary": "حقق قطاع مراكز البيانات في إيه إم دي نمواً كبيراً مدفوعاً بالطلب على سعات الذكاء الاصطناعي، حيث تضاعفت إيراداته سنوياً لتصل إلى 6.7 مليارات دولار، بينما شهد قسم الألعاب تراجعاً نسبياً.",
+   "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "إيرادات SpaceX من الذكاء الاصطناعي تتجاوز إيراداتها الفضائية",
+   "summary": "حققت شركة SpaceX إيرادات من قسم الذكاء الاصطناعي بلغت 2.6 مليار دولار، أي ثلاثة أضعاف السنة السابقة، معظمها من عقود توفير قوة حسابية لشركات ذكاء اصطناعي أخرى. يعكس هذا النمو توجه الشركة نحو الاستثمار في خدمات البنية التحتية الحسابية.",
+   "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "حملة ترويجية من OpenAI تثير جدلاً بين مؤثري الإنترنت",
+   "summary": "نظمت OpenAI رحلة ترفيهية لدعوة مؤثري إنترنت، إلا أن الحملة أثارت انتقادات من المؤثرين غير المدعويين والجمهور العام. مثل هذه الرحلات الترويجية قد تولد مشاعر سلبية وتؤثر على سمعة الشركة الراعية للحملة.",
+   "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "استخدام نماذج اللغة الكبرى بطرق غير صحية أكثر شيوعاً من المتوقع",
+   "summary": "انتقد مشهور يوتيوب وعالم علمي استخدامه لأدوات الذكاء الاصطناعي بطريقة وصفها بأنها غير صحية، مؤكداً أنه استعملها لإيجاد مصادر بحثية فقط. يسلط الموقف الضوء على النقاش الدائر حول الممارسات الصحيحة والأخلاقية لاستخدام هذه التقنيات.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "تكساس تفرض تدقيقاً جديداً على مراكز البيانات قبل الربط بالشبكة الكهربائية",
+   "summary": "أصدرت ولاية تكساس متطلبات تدقيق جديدة على مراكز البيانات الراغبة بالاتصال بشبكة الطاقة الكهربائية، قد تؤخر موافقات إنشاء منشآت جديدة. يهدف الإجراء إلى التحقق من الالتزام بمعايير معينة قبل تحميل الشبكة بأحمال إضافية.",
+   "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "أداة جديدة لحماية البيانات الحساسة",
+   "summary": "أداة جديدة ظهرت باسم AirProof AI متخصصة في كشف ومعالجة البيانات الحساسة والخصوصية داخل تطبيقات الذكاء الاصطناعي. تهدف الأداة إلى توفير طبقة حماية إضافية لضمان عدم تسريب المعلومات السرية أثناء استخدام نماذج الذكاء الاصطناعي.",
+   "url": "https://www.producthunt.com/products/airproof-ai",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "نقابة عمالية تطالب بشفافية أكثر حول استخدام الذكاء الاصطناعي",
+   "summary": "طالبت نقابة عمالية مركز هيلث آند ساينس بجامعة أوريغون (OHSU) بزيادة الشفافية والوضوح حول كيفية استخدام تقنيات الذكاء الاصطناعي في العمليات الإدارية والطبية. تأتي هذه الدعوة ضمن نقاش أوسع عن الحاجة لتوازن بين الابتكار التكنولوجي وحقوق العاملين.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcF9wQWVMUEdXcGduYnREQllKeVNIdUdJajlzZWpxSXNxR0FLQTA5ZzAyejJWRHM5NDBLYkU1c0pMcE15R3Zwdnc5MjAzVllTNk1BYTkwRGswN1JxRFJZYW9mZXdUODdCSzh5b205UFRMWEVPRHJISk5UZ3F2WUFNY0NvVWs5bDQ2aEhfeEVWeDhMUzduZFU3SVNiU3RiTE9GVUNFU2dqOHJKQmZTQzVHX3pLdw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-04"
+  },
   {
    "title": "سبوتيفاي توسّع خدمة الريميكس والتغطيات بدعم شركات التوزيع المستقلة",
    "summary": "انضمت شبكة ميرلين، التي تمثل أكثر من 30 ألف شركة موسيقى مستقلة، إلى جهود سبوتيفاي لإطلاق أداة مدفوعة تستخدم الذكاء الاصطناعي. ستسمح الخدمة للمستخدمين بإنشاء تغطيات وريميكسات مولّدة بالذكاء الاصطناعي لأغاني الفنانين المشاركين مع ضمان حماية حقوقهم.",
@@ -33,102 +129,6 @@ window.NEWS_DATA = {
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-04"
-  },
-  {
-   "title": "أداة جديدة ظهرت باسم Sonic Inference Pod من شركة Runware",
-   "summary": "أعلنت شركة رانوير المتخصصة في بنية الذكاء الاصطناعي عن إطلاق مركز بيانات معياري محمول يهدف لاستكشاف مفهوم مراكز البيانات المتنقلة والقابلة للتوسع.",
-   "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "تكساس تشترط نجاح التدقيق قبل ربط مراكز البيانات بالشبكة الكهربائية",
-   "summary": "أصدرت تكساس معايير تفتيش جديدة على مراكز البيانات قد تؤخر موافقات المشاريع الراغبة في الاتصال بالشبكة الكهربائية، بعد أن وجّه الحاكم السلطات المختصة بالتحقق من تأثيرها على الموارد الطاقية.",
-   "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "أوبنإيه تدخل نزاعها مع أبل إلى ساحة الرأي العام",
-   "summary": "أعلنت أوبنإيه علنياً ردّها على دعوى أبل التي تتهمها بسرقة أسرار تجارية، حيث نشرت وثائق وإيضاحات لدحض ادعاءات أبل. تحوّل النزاع القانوني بين الشركتين إلى جدل علني يتعلق بحقوق الملكية الفكرية والممارسات التنافسية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "هل يستطيع ريديت مكافحة موجة جديدة من بريد الذكاء الاصطناعي العشوائي؟",
-   "summary": "تواجه منصة ريديت تحديات متزايدة من محتوى مُنشأ بالذكاء الاصطناعي يهدف لتحسين ترتيب محركات البحث والإعلان عن منتجات، مما يخفي النقاشات الحقيقية بين المستخدمين. تسعى المنصة للتمييز بين التفاعلات الحقيقية والمحتوى الآلي المزيّف.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "قواعد الاتحاد الأوروبي لتسميات وشفافية الذكاء الاصطناعي بدأت نفاذها",
-   "summary": "بدأت تطبيق متطلبات جديدة من قانون الذكاء الاصطناعي الأوروبي في الثاني من آب، تفرض على الشركات الإفصاح عندما يتفاعل الأشخاص مع الروبوتات الحوارية والمحتوى المزيّف. تهدف هذه الإجراءات لزيادة شفافية استخدام تقنيات الذكاء الاصطناعي وحماية المستهلكين.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "الذكاء الاصطناعي في علم الأورام: تأثيره على التجارب السريرية والعمليات العلاجية",
-   "summary": "يستعرض المقال دور الذكاء الاصطناعي المتنامي في مجال الأورام، وكيفية تأثيره على تصميم التجارب السريرية وتحسين سير العمليات الطبية والنتائج العلاجية للمرضى. يبرز الفرص والتحديات المرتبطة بدمج هذه التقنيات في الممارسة الإكلينيكية.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "باحثون بجامعة تكساس يحصلون على منح من وزارة الطاقة الأمريكية لمشاريع الذكاء الاصطناعي",
-   "summary": "منحت وزارة الطاقة الأمريكية تمويلاً لفريق بحثي متخصص بالذكاء الاصطناعي في جامعة تكساس. يأتي هذا التمويل ضمن مبادرة فيدرالية تهدف دعم الأبحاث في مجالات الذكاء الاصطناعي ذات الأولوية الاستراتيجية.",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbjY5OEJ3RW9mRUcxMHBDQVQwYk5BNEEyNUdtSS1mamtibmowem1QdVZZSG51NTk3TXhzZU9EbHZnb09ZdmJIbGVWMGpJWFoxWHhQelpWRElPUFZKQmpRYXhVdXZFQWhacTJVYm9TZjIxQWF5cWhlQU4ybGpGdlViNmp5eXJoN0poSlNkSHJXSVMxSnMwM19lbzVFbkQ3WmxmNXoyTkItN0hJdlRkZ0ZBYWN1WjFvM2cycWVPWUtlTFZ3QkE1?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "ثلاث شركات متخصصة بالذكاء الاصطناعي تستحق الاستثمار حسب تقييم متخصصين",
-   "summary": "قدّم محللون استثماريون قائمة بثلاث أسهم متعلقة بقطاع الذكاء الاصطناعي يرونها فرصاً استثمارية جاذبة. اختيارهم يعكس توقعات بنمو مستمر في القطاع والطلب على حلول ذكاء اصطناعي متقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDB2WkJMckRFYkNPLUJBTE9TWFN6a1BObDJqUEdINDFkbGYxSENWT3Jib2ZFbE1MRGlZT1l0R2ZQTGt1N281Sk5SRHFJRjZuanRIM3JkXzhwYmhWaUgwSGhYb0ttdm9mbmVxNEZXZDlqM1E2X0JERWFZaGNSeVJ6c0I5UzZ2N1NIZDJsN2c1TEtlRTg0MUVJ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "دراسة شاملة: دور الذكاء الاصطناعي في تحسين تشخيص سرطان الثدي بالصور الطبية",
-   "summary": "أجرى باحثون مراجعة منهجية لتقييم أداء خوارزميات الذكاء الاصطناعي في تحليل صور سرطان الثدي. تغطي الدراسة نتائج التشخيص والنماذج التنبؤية والتطبيقات السريرية الفعلية لهذه التقنيات.",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PZ2g0emFNSTFVWlRsbHFjS0VzSFpzaFlid3h3TDZuMkl2S1pZdnVzbnFPU1hlY3lsS3EzYjBTcnBuaGhKSlF5TWxadWRuTDh1dkhWdng3OGRvNHNfR0NTWlBrWWpqVzdFczNlSQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "جوجل تضخ مئتي مليار دولار في استراتيجية تمويل شركة أنثروبيك",
-   "summary": "كشفت مصادر عن حجم الاستثمار الهائل الذي خصصته جوجل لشركة أنثروبيك المتخصصة بتطوير نماذج لغوية متقدمة. يعكس هذا التمويل المنافسة الشرسة في سوق الذكاء الاصطناعي بين عمالقة التكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQlV0a0ZQV0NYRkVGM0Z4QndJSmV0U1ctNjlKT1d2dHZEcDRuVHRXZDJwRm94MXM4TUE0akFsOE9IU1ZQcU9WblJVVzMxY1pyUnNZVHRIb2l2MkhsaXhQRDVBLV96RVhIRmgxQ3ZxUU9RRkxpYjF4bC0wREZLanR6MHB2U3c?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "علي بابا تطلق نموذج كوين الجديد لتعزيز إنجازاتها في مجال الذكاء الاصطناعي",
-   "summary": "أطلقت مجموعة علي بابا الصينية نموذج ذكاء اصطناعي جديد باسم كوين، مواصلة جهودها في تطوير تقنيات ذكاء اصطناعي متقدمة. يعكس هذا الإطلاق التنافس المتسارع بين الشركات الصينية والعالمية في مجال نماذج اللغة الكبيرة.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjlHM1ZsVFZ2VWZiRG4xcTd3aWdrU2U2SEwySXh3RWxPYWhBSlM0MTU2M2M3dlVDTnN5TDVUUkJvUGw5WXczVlB0ZzBPMk5NTjhOWkwwcGRHYWk4MGVUdjhRNUc5NXFkN1BFSHdrVnJtM0ZXSDNwM3phcnA5WE1LWjMwbUVhRHV2YUl2SmFBUVZUbXNTQ0EtZVBXRHhoSjlobzJuOWk4SnJvalVfZTdaWkVtRHdjN21v?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "رئيس بالانتير يشكك في موثوقية شركات تطوير الذكاء الاصطناعي بعد ربح قياسي",
-   "summary": "حقّقت شركة بالانتير أرباحاً تاريخية وصلت إلى مليار دولار، لكن رئيسها حذّر من أن معامل تطوير الذكاء الاصطناعي لا يستحقون ثقة المؤسسات الكبرى حالياً. انتقاده يسلط الضوء على التخوفات من سلامة وموثوقية حلول الذكاء الاصطناعي الحالية.",
-   "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-03"
   }
  ]
 };
