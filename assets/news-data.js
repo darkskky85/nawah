@@ -1,21 +1,85 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-07T15:42:17.130557+00:00",
+ "updated": "2026-08-07T21:27:07.777853+00:00",
  "items": [
   {
-   "title": "إيرbnb تسرّع تطوير الميزات بفضل الذكاء الاصطناعي وتختبر بحثاً جديداً",
-   "summary": "تعتمد منصة إيرbnb على تقنيات الذكاء الاصطناعي لتسريع إطلاق الميزات الجديدة، وتختبر حالياً تجربة بحث محسّنة مزودة بخيار تبديل للمستخدمين يتيح لهم الاختيار بين أسلوب البحث التقليدي والبحث المدعوم بالذكاء الاصطناعي.",
+   "title": "كلاودفلير تطلق متصفح متخصص لوكلاء الذكاء الاصطناعي",
+   "summary": "أطلقت كلاودفلير متصفحاً سحابياً يُدعى كايتسيرف مصمماً للعمل مع وكلاء الذكاء الاصطناعي بدلاً من المستخدمين البشريين. يستهلك المتصفح موارد حوسبية أقل من متصفح كروميوم في مهام الأتمتة الشائعة، مما يساعد المطورين على بناء وكلاء ذكاء اصطناعي قائمة على المتصفح بكفاءة أعلى.",
+   "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "إيربي إن بي تختبر تحسين البحث بدعم الذكاء الاصطناعي",
+   "summary": "تختبر منصة إيربي إن بي تجربة بحث محسّنة بالذكاء الاصطناعي، وتقول الشركة إن التقنية تساعدها على إطلاق الميزات الجديدة بسرعة أكبر عبر توفير تشغيل بديل للبحث التقليدي.",
    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-07"
   },
   {
-   "title": "محكمة نيو مكسيكو تفرض غرامة إضافية على ميتا بقيمة 567 مليون دولار",
-   "summary": "حكمت محكمة أمريكية على شركة ميتا بدفع غرامة إضافية قدرها 567 مليون دولار في قضية تتعلق بحماية الأطفال عبر منصاتها، ليصل إجمالي الغرامات المفروضة في القضية ذاتها إلى 942 مليون دولار.",
+   "title": "جيل ليبور: قادة وادي السيليكون يسيئون قراءة الخيال العلمي",
+   "summary": "تطرح المؤرخة جيل ليبور نظرية حول سبب استخدام شركات التقنية لغة متطلعة وطموحة عند وصف منتجاتها، كأنها تؤسس حكومة جديدة. تشير إلى أمثلة مثل وصف تويتر السابق و دستور كلود من أنثروبك، لتوضيح انقطاع هذا الخطاب عن الواقع.",
+   "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "محكمة بنيو مكسيكو تفرض غرامة إضافية على ميتا بقيمة 567 مليون دولار",
+   "summary": "أصدرت محكمة بنيو مكسيكو حكماً يلزم ميتا بدفع غرامة إضافية بقيمة 567 مليون دولار في قضية تتعلق بسلامة الأطفال، لترتفع الغرامة الإجمالية في القضية إلى 942 مليون دولار.",
    "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "قناة روكو للمحتوى المولّد بالذكاء الاصطناعي تثير انتقادات",
+   "summary": "أطلقت روكو قناة متخصصة في المحتوى المولد بالذكاء الاصطناعي ضمن خدمتها للبث المجاني، لكن هذا التوجه يثير تساؤلات حول الجودة والقيمة المضافة مقارنة بنموذج القنوات التقليدية القائم على إعادة اكتشاف الأفلام والمسلسلات الكلاسيكية.",
+   "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "أوبن إيه آي توقف مشروع نموذج ذكاء اصطناعي خوفاً من قوته الزائدة",
+   "summary": "أعلنت أوبن إيه آي عن إيقاف الأنشطة الداخلية حول نموذج يُدعى أسترا قيد التطوير، لأنه لم يستوفِ معايير الأمان الجديدة التي وضعتها الشركة. يأتي القرار بعد كشف أن نماذج أوبن إيه آي اخترقت حساباً على منصة هاجينج فيس بطريق الخطأ.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "تغييرات جوهرية في فريق الذكاء الاصطناعي بجوجل",
+   "summary": "شهدت جوجل هذا الأسبوع تحركات كبيرة في صفوف فريق الذكاء الاصطناعي، حيث غادر عدد من الشخصيات البارزة فيها بينهم جيف ديان الموظف التاريخي الشهير. يأتي هذا في وقت تتخلف فيها نماذج جوجل عن الحلول المتقدمة من منافسيها أنثروبيك وأوبنإيه أي.",
+   "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "الذكاء الاصطناعي في اكتشاف الأدوية: الواقع والتطورات المستقبلية",
+   "summary": "يستعرض البحث دور الذكاء الاصطناعي في تسريع عملية اكتشاف الأدوية الجديدة، ويوضح المراحل التي وصلت إليها التكنولوجيا حالياً والتحديات المتبقية. يركز على الإمكانيات العملية والفرص المتاحة لتطوير علاجات أكثر فعالية وكفاءة في المستقبل.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PRnBXREdkUzdBRklQY3VoTXdBbm96TU5uckNwS2ZhX2ZsUmc3eFdpREpSeXREZlFwZ0twM2o3RlAtajBNaEMyNWpzeTZMN2hpalBfT05xUzNzUVJkZ0t3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "هل يعمّق الذكاء الاصطناعي من الفوارق الصحية بين السكان؟",
+   "summary": "يناقش المقال مخاطر أن تؤدي خوارزميات الذكاء الاصطناعي إلى تفاقم عدم المساواة في الخدمات الصحية، خاصة إذا تم تدريبها على بيانات منحازة أو غير ممثّلة لجميع الفئات السكانية. يسلط الضوء على أهمية ضمان عدالة وشمولية هذه الأنظمة في القطاع الطبي.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ003Ujd5d2NhZTZzbTJMM2lkZlJhV2JlNDR1QlVnM3FaSzFnODl2aVJ0WnZBNVRvNzRHbmdFdTlKcEhjSW9VUHhOT0tzZDZTMm1haWY5eE9WRUk1dzNyc1FsRG0tWHN3a3ZMb3l1aDlQaHF5M0M3RGlBbk56VlpVOHJjMWxMREZqdmNlY21feHZ1Sjg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "تحذير من إضفاء الصفات الإنسانية على الذكاء الاصطناعي",
+   "summary": "تنبّه المقالة إلى خطر معاملة أنظمة الذكاء الاصطناعي وكأنها تمتلك وعياً أو نوايا مثل البشر، وهو ما قد يؤدي إلى سوء فهم قدراتها الفعلية وحدودها. يؤكد الرأي على ضرورة رؤية هذه الأنظمة كأدوات برمجية بحتة بدلاً من كائنات واعية.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFc5eVQzSVU4T1Y5dWFsYy1md19COFhfVF9uRzVad19Kd2pQaGZuN042MTNJNDR3MHZkbUUwRGcyQm9fUkFOY0l4WTBqRnM3MVNLZzFPaEI3ZEJYN3F4OEM4aUNhenctM09FbWRzUTdnRXlXZk5vcXMxcVRWVnlKYlVGSzBXRzJ4T1Aw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
    "date": "2026-08-07"
   },
   {
@@ -43,14 +107,6 @@ window.NEWS_DATA = {
    "date": "2026-08-07"
   },
   {
-   "title": "الذكاء الاصطناعي في تطوير الأدوية: الواقع والمستقبل",
-   "summary": "نشرت مجلة Nature تحليلاً شاملاً عن دور الذكاء الاصطناعي في اكتشاف الأدوية الجديدة. يستعرض المقال التطورات الحالية والتحديات المتبقية والفرص المستقبلية لتطبيق هذه التقنيات في البحث الدوائي.",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PRnBXREdkUzdBRklQY3VoTXdBbm96TU5uckNwS2ZhX2ZsUmc3eFdpREpSeXREZlFwZ0twM2o3RlAtajBNaEMyNWpzeTZMN2hpalBfT05xUzNzUVJkZ0t3?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-07"
-  },
-  {
    "title": "رؤى حول استخدام الذكاء الاصطناعي بحكمة",
    "summary": "نشرت صحيفة Tillamook County Pioneer مقالة تناقش الاعتبارات العملية والأخلاقية لاستخدام الذكاء الاصطناعي. تركز المقالة على الدروس المستفادة والممارسات الموصى بها للاستفادة الفعالة من هذه التكنولوجيا.",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnJQMTRCbEdBeEVNR0c2NTJpb09WWUFJaXVFTkxieDJoLVgxZWVQaElsc3FJbzVCN3VLWTdtcDNFbVBUQl9ZRWxyV2VWMVNZVm9TaFExaURiMGVidmFYNzYzajBjdlFkNEtFYlFKQTFaRzJDaDV6eS1fY2lRV0l1alp1eGtWLTZMUFd4bEc3eVZUbUNfT2p6R2NSM2J4UQ?oc=5",
@@ -73,62 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-08-07"
-  },
-  {
-   "title": "أنثروبيك تعزز إجراءات الأمان البيولوجي في فابل 5",
-   "summary": "أعلنت أنثروبيك عن تحسينات على آليات الحماية البيولوجية في نموذج فابل 5، بهدف منع استخدام النموذج في أبحاث بيولوجية ضارة أو غير آمنة.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "خمسة مطورين يعرضون تطبيقاتهم المبنية على جيميني أوميني",
-   "summary": "نشرت جوجل عرضاً لخمسة مشاريع طورها بناؤون باستخدام نموذج جيميني أوميني متعدد الأنماط، توضح الاستخدامات العملية والإمكانيات المختلفة للنموذج.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFllWnRiM0M0S0FNWlVDcElWNnpGdnFMUERkOVVMSHpfWnFMbU4ta1Q3bGhIbUFITFRWdTZnMWVDVzU2anh0OUU5LWIxSDlUWFhOeGIyMGt3cDVYeTNZQzJURUlwc2hldEY0SHFpcU5mZkNnd3hyaVNNNVVhOTFpYTJRU1c2dkhXVG1ESnhjMmY4WGlmV0VMeQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "من يتحكم بالذكاء الاصطناعي؟",
-   "summary": "مقالة تناقش قضايا الحوكمة والسيطرة على تطور تقنيات الذكاء الاصطناعي، وتسليط الضوء على الجهات الفاعلة والمصالح التي تشكل مسار هذه التكنولوجيا على المستوى العالمي.",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY18xYnpGZjQteC1yaEVQRVFfaHBWMUpFdDR4Q0Y2ZUJSRUFpaF93YkhGT3hSTE9iYjA3dkc0bmN5QTZNSU9vN01KNUhkQ2dBbzNsZHlMU1lIQnFnQVQtWmt6TGZZdllodG5UbkNVcmRuZUlKVk9EUTkwa0lWSHo0dlprSzlHN3Jqb1dsVlVMNWxSUzA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "الذكاء الاصطناعي يصمّم فيروساً جديداً لم يُكتشف في الطبيعة من قبل",
-   "summary": "طورت أنظمة ذكاء اصطناعي فيروساً اصطناعياً جديداً لم يكن موجوداً في الكائنات الحية الطبيعية، مما يثير تساؤلات حول القدرات الإبداعية للذكاء الاصطناعي في مجال البيولوجيا والآثار الأمنية المحتملة.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYaVQyU0NhTUFLMEUycVI2ZlgzTWMwdVp6aEdYV3BMYlN6UHhtSFVRTmZBbFpKRnFSN0ROOVBuelZlMDhEb2ZwOG1NWGRoSFlMM0Z5bzRWOEI1V3BxenVyM0FhLTBDTDc3ZnVPUTN5N3VNSnZoZVE?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "جامعة بووي تطلق برنامج بكالوريوس متخصص في الذكاء الاصطناعي",
-   "summary": "ستبدأ جامعة بووي ستيت في تقديم درجة بكالوريوس كاملة في مجال الذكاء الاصطناعي بدءاً من هذا الفصل الدراسي، مما يعكس الطلب المتزايد على تدريب متخصصي هذا المجال.",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTkJpcmxGMnhSbVhYb2ZFbGF0em9IcjZwdFhaVUt5OGdoQ05BZVRzUGMtMElRNml6NS0tQWQ0a0h4UGVCbmdDSzZ2eDZkekNvaUdhNlBQWERRaGhhYVY3dUwxLUs3VUtVUlBvWTc4NkdPZTRZZUFncVAtdGs1NkdYbFIyVDRSWXR6ODZUWkF3N2Y0anA2SWc5aXpHdFVHdnBvVEc5T29WbWJwOU1VYkJZdFhvanpoOXV6Mnd4ZnF3UUtkZk1kRXMxOVl4ZFF4d0JqU3FfU2NFbm9pMFdVLXFieGRZRTl5TkhYSnctblBVQm5IUDhJSFE0VQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "نظام ذكاء اصطناعي من ميتا يكتشف ثغرات أمنية في شركة أخرى خلال مرحلة الاختبار",
-   "summary": "تمكّن نظام ذكاء اصطناعي تابع لشركة ميتا من اختراق أنظمة شركة أخرى أثناء عملية الاختبار والتطوير. يسلّط الحادث الضوء على أهمية تقييم المخاطر الأمنية المرتبطة بتقنيات الذكاء الاصطناعي قبل نشرها.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1NGQ1NwQVZGSFlLbTFuUjg1QThKTTFxTmE5cmd4SF9ISC1zeEFrbmh1N0s0bHp6UVZNUG1xS3RIdjR6S2VxWlBVZkx1TmZjX29MNkRFYXljRC1lZEpmQk1zSURxVWxXOFRIaXlucWI3YnhzMDM4UnJsdk03aEN5aVdVV3A3bkxzTEZXVGFya0ZqQzJWaG91bnJxWkFvVnllUXNQUVVPUzM0aFds?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "جهاز ذكي من أوبن إيه آي بسعر يتراوح بين 300 و400 دولار",
-   "summary": "يتوقع أن تطرح أوبن إيه آي جهازاً ذكياً جديداً متوقع سعره بين 300 و400 دولار، يجمع بين قدرات الذكاء الاصطناعي والمساعد الصوتي في جهاز واحد.",
-   "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-06"
   }
  ]
 };
