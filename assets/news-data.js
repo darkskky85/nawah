@@ -1,13 +1,45 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-07T04:45:50.825922+00:00",
+ "updated": "2026-08-07T09:48:23.663938+00:00",
  "items": [
   {
-   "title": "جامعة بووي ستيت تطلق برنامج بكالوريوس متخصص في الذكاء الاصطناعي",
-   "summary": "أعلنت جامعة بووي ستيت عن إطلاق برنامج درجة البكالوريوس في الذكاء الاصطناعي اعتباراً من الفصل الدراسي القادم. يعكس هذا القرار الطلب المتزايد على الكوادر المتخصصة في مجال الذكاء الاصطناعي في سوق العمل.",
+   "title": "من يتحكم بالذكاء الاصطناعي؟",
+   "summary": "مقالة تناقش قضايا الحوكمة والسيطرة على تطور تقنيات الذكاء الاصطناعي، وتسليط الضوء على الجهات الفاعلة والمصالح التي تشكل مسار هذه التكنولوجيا على المستوى العالمي.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY18xYnpGZjQteC1yaEVQRVFfaHBWMUpFdDR4Q0Y2ZUJSRUFpaF93YkhGT3hSTE9iYjA3dkc0bmN5QTZNSU9vN01KNUhkQ2dBbzNsZHlMU1lIQnFnQVQtWmt6TGZZdllodG5UbkNVcmRuZUlKVk9EUTkwa0lWSHo0dlprSzlHN3Jqb1dsVlVMNWxSUzA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "التأمّلات حول استخدام الذكاء الاصطناعي بحكمة",
+   "summary": "مقال يعرض وجهات نظر وتأملات حول كيفية الاستفادة من تقنيات الذكاء الاصطناعي بشكل صحيح ومسؤول في الحياة اليومية والتطبيقات العملية.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnJQMTRCbEdBeEVNR0c2NTJpb09WWUFJaXVFTkxieDJoLVgxZWVQaElsc3FJbzVCN3VLWTdtcDNFbVBUQl9ZRWxyV2VWMVNZVm9TaFExaURiMGVidmFYNzYzajBjdlFkNEtFYlFKQTFaRzJDaDV6eS1fY2lRV0l1alp1eGtWLTZMUFd4bEc3eVZUbUNfT2p6R2NSM2J4UQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "الذكاء الاصطناعي يصمّم فيروساً جديداً لم يُكتشف في الطبيعة من قبل",
+   "summary": "طورت أنظمة ذكاء اصطناعي فيروساً اصطناعياً جديداً لم يكن موجوداً في الكائنات الحية الطبيعية، مما يثير تساؤلات حول القدرات الإبداعية للذكاء الاصطناعي في مجال البيولوجيا والآثار الأمنية المحتملة.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYaVQyU0NhTUFLMEUycVI2ZlgzTWMwdVp6aEdYV3BMYlN6UHhtSFVRTmZBbFpKRnFSN0ROOVBuelZlMDhEb2ZwOG1NWGRoSFlMM0Z5bzRWOEI1V3BxenVyM0FhLTBDTDc3ZnVPUTN5N3VNSnZoZVE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "جامعة بووي تطلق برنامج بكالوريوس متخصص في الذكاء الاصطناعي",
+   "summary": "ستبدأ جامعة بووي ستيت في تقديم درجة بكالوريوس كاملة في مجال الذكاء الاصطناعي بدءاً من هذا الفصل الدراسي، مما يعكس الطلب المتزايد على تدريب متخصصي هذا المجال.",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTkJpcmxGMnhSbVhYb2ZFbGF0em9IcjZwdFhaVUt5OGdoQ05BZVRzUGMtMElRNml6NS0tQWQ0a0h4UGVCbmdDSzZ2eDZkekNvaUdhNlBQWERRaGhhYVY3dUwxLUs3VUtVUlBvWTc4NkdPZTRZZUFncVAtdGs1NkdYbFIyVDRSWXR6ODZUWkF3N2Y0anA2SWc5aXpHdFVHdnBvVEc5T29WbWJwOU1VYkJZdFhvanpoOXV6Mnd4ZnF3UUtkZk1kRXMxOVl4ZFF4d0JqU3FfU2NFbm9pMFdVLXFieGRZRTl5TkhYSnctblBVQm5IUDhJSFE0VQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "أنثروبك تعزّز الضوابط الأمنية لنموذج Claude 5 في مجال البيولوجيا",
+   "summary": "أعلنت شركة أنثروبك عن تحسينات في آليات الحماية والضوابط الأمنية الخاصة بنموذج Claude 5، خاصة فيما يتعلق بالتطبيقات البيولوجية الحساسة وتقليل المخاطر المحتملة.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-08-07"
   },
   {
@@ -19,56 +51,48 @@ window.NEWS_DATA = {
    "date": "2026-08-07"
   },
   {
-   "title": "تحسينات على آليات الحماية البيولوجية في نموذج Fable 5",
-   "summary": "تعمل شركة أنثروبيك على تعزيز الضوابط الأمنية المتعلقة بالتطبيقات البيولوجية في نموذج الذكاء الاصطناعي Fable 5. تهدف هذه التحسينات إلى منع الاستخدام الضار للنموذج في المجالات البيولوجية الحساسة.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "جهاز مكبر صوت ذكي جديد من OpenAI بسعر يتراوح بين 300 و400 دولار",
-   "summary": "يُتوقع أن يطلق OpenAI جهاز مكبر صوت ذكي مزوّد بتقنيات الذكاء الاصطناعي برسوم تتراوح بين 300 و400 دولار أميركي. يأتي الجهاز كجزء من استراتيجية الشركة لتوسيع خط منتجاتها إلى فئات جديدة من الأجهزة الذكية.",
+   "title": "سماعة ذكية جديدة من OpenAI بسعر يتراوح بين 300 و400 دولار",
+   "summary": "تستعد OpenAI لإطلاق جهاز سماعة ذكية جديد يدمج تقنيات الذكاء الاصطناعي، وتشير التقارير إلى أن سعره سيكون في نطاق 300 إلى 400 دولار أمريكي.",
    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-06"
   },
   {
-   "title": "ChatGPT يتيح محادثات نصية غير محدودة للمستخدمين المجانيين",
-   "summary": "أضافت OpenAI ميزة جديدة إلى ChatGPT تتيح للمستخدمين المجانيين الوصول إلى محادثات نصية غير محدودة، بالإضافة إلى زر جديد يساعد في معالجة الاستفسارات المعقدة. يعكس التحديث جهود الشركة لتحسين تجربة المستخدم الأساسية.",
+   "title": "ChatGPT يوفّر الدردشة النصية غير المحدودة للمستخدمين المجانيين",
+   "summary": "أطلقت OpenAI ميزة الدردشة النصية غير المحدودة لمستخدمي ChatGPT المجانيين، إلى جانب إضافة زر تفكير جديد يساعد في التعامل مع الاستفسارات والمشاكل المعقدة.",
    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-06"
   },
   {
-   "title": "منصة Naïve تجمع 28.5 مليون دولار لأتمتة مراحل تأسيس وإدارة الشركات",
-   "summary": "جمعت منصة Naïve تمويلاً بقيمة 28.5 مليون دولار لتطوير أدوات تقنية تعتمد على الذكاء الاصطناعي لأتمتة المهام الروتينية في عملية إنشاء وتشغيل الشركات. تهدف المنصة إلى تقليل الجهد البشري المطلوب في البنية التحتية والعمليات الإدارية الأساسية.",
+   "title": "منصة ناييف تجمع 28.5 مليون دولار لأتمتة مهام تأسيس وإدارة الشركات",
+   "summary": "حصلت شركة ناييف على تمويل لتطوير بنية تحتية تستخدم الذكاء الاصطناعي بهدف أتمتة معظم العمليات المتعلقة بإنشاء وتشغيل الأعمال التجارية. تقدم المنصة حلاً يقلل من الأعمال الإدارية الروتينية التي يضطر رواد الأعمال لتنفيذها يدوياً.",
    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-06"
   },
   {
-   "title": "تطبيقات تعارف الجيل الجديد تستبدل النموذج التقليدي بالمطابقة الذكية",
-   "summary": "تطبيقات تعارف موجهة للشباب الصغار تتخلى عن نظام التمرير التقليدي لصالح خوارزميات ذكاء اصطناعي تقترح شركاء محتملين. تعكس هذه التحولات عدم رضا الجيل الجديد عن الطرق القديمة في البحث عن علاقات.",
+   "title": "تطبيقات مواعدة جديدة للشباب تستبدل نظام السحب بالمطابقة الذكية",
+   "summary": "تتجه تطبيقات مواعدة موجهة لجيل الألفية الثالثة، مثل ديتو، نحو الاستغناء عن آلية السحب التقليدية لصالح نظام مطابقة يعتمد على الذكاء الاصطناعي. يعكس هذا التحول استياء هذا الجيل من نماذج التطبيقات القديمة ورغبتهم في خيارات بديلة.",
    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-06"
   },
   {
-   "title": "OpenAI ترى أن ممارسات أمان آبل نفسها تضعف قضيتها في دعوى الملكية الفكرية",
-   "summary": "في ردها على دعوى آبل المتعلقة بسرقة أسرار تجارية، احتجت OpenAI بأن إجراءات أمان الشركة المدعية وسياساتها في فصل الموظفين، بما في ذلك السماح بوصول مديري الشركة لحسابات iCloud الموظفين السابقين، تضعف من ادعاءاتها حول حماية المعلومات الحساسة.",
+   "title": "أوبن إيه آي تطعن في ممارسات حماية آبل في قضية الأسرار التجارية",
+   "summary": "في إجراء قانوني ضد آبل، احتجت أوبن إيه آي بأن ممارسات آبل الخاصة بحماية البيانات ومعالجة موارد الموظفين السابقين لا تدعم ادعاءات آبل بشأن الأسرار التجارية. شملت الأدلة المقدمة حالات كان فيها موظفون سابقون قادرين على الوصول إلى حسابات آي كلاود الخاصة بهم بعد تركهم للعمل.",
    "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-06"
   },
   {
-   "title": "أول جهاز من OpenAI مع مصمم آبل السابق يتخذ شكل سماعة محمولة صغيرة",
-   "summary": "الجهاز الذي تطوره OpenAI بالتعاون مع جوني آيف سابقاً يُتوقع أن يكون سماعة ذكية حاملة بحجم قطعة الهوكي، تعمل بالبطارية وبدون شاشة عرض. من المقرر إطلاقه عام 2027 بسعر يُتوقع أن يتجاوز نطاق التطبيقات الحالية.",
+   "title": "جهاز ذكي من أوبن إيه آي وجوني آيف بحجم قرص الهوكي",
+   "summary": "يعمل أوبن إيه آي مع مصمم آبل السابق جوني آيف على تطوير جهاز ذكي يشبه مكبر صوت ذكي بدون شاشة، وبحجم يقترب من قرص الهوكي ويعمل بالبطارية. من المتوقع إطلاق الجهاز في عام 2027 بسعر يقدّر بمئات الدولارات.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
    "source": "The Verge AI",
    "tag": "منتجات",
@@ -102,30 +126,6 @@ window.NEWS_DATA = {
    "title": "اليمين واليسار متفقان: معارضة مشاريع مراكز البيانات",
    "summary": "ينامش الانتقاد المتزايد لمشاريع مراكز البيانات المخصصة للذكاء الاصطناعي في الولايات المتحدة. أقرت لجنة مقاطعة هيرناندو بفلوريدا مؤخراً وقفاً مدته سنة واحدة على موافقات مراكز البيانات الجديدة، مما يعكس تحفظات سياسية وبيئية واسعة النطاق.",
    "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "سونو تضيف علامات مائية لموسيقى الذكاء الاصطناعي",
-   "summary": "تخطط منصة سونو لإضافة علامات مائية وحدود على التحميلات لمكافحة الاستخدام غير المصرح للموسيقى المولدة بالذكاء الاصطناعي. الخطوة تهدف إلى تقليل الإساءات الواسعة النطاق والتوافق مع الأطر التنظيمية الناشئة.",
-   "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "OpenAI ترفع دعوى Apple وتصفها بأنها خالية من الأساس القانوني",
-   "summary": "طلبت OpenAI من القاضي الفيدرالي رفض دعوى Apple التي تتهمها بسرقة أسرار تجارية، واصفة الاتهامات بأنها \"بلا أساس\". قالت الشركة في طلبها إن Apple تحرّف حقائق القضية والإجراءات التي اتخذتها الشركة الناشئة.",
-   "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "موسوعة Grokipedia من Elon Musk توقفت عن التحديث لأكثر من ثلاثة أشهر",
-   "summary": "لم تحدّث موسوعة Grokipedia التابعة لشركة xAI محتوياتها منذ نهاية أبريل، رغم أن Elon Musk وعد بأن تكون \"تحسناً ضخماً\" على Wikipedia. الموسوعة التي تعتمد على مقالات مولّدة بالذكاء الاصطناعي بدت أنها توقفت عن النشاط بعد ثلاثة أشهر من إطلاقها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-06"
