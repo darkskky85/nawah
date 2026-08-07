@@ -1,7 +1,95 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-06T11:11:38.510404+00:00",
+ "updated": "2026-08-07T00:59:36.134566+00:00",
  "items": [
+  {
+   "title": "سماعة ذكية من أوبن إيه آي بسعر يتراوح بين 300 و400 دولار",
+   "summary": "كشفت تقارير عن جهاز ذكي جديد من أوبن إيه آي سيأتي بسعر يتراوح بين 300 و400 دولار، مما يشير إلى أنه منتج متميز موجه للمستخدمين الذين يبحثون عن مساعد ذكي متقدم بإمكانيات معاصرة.",
+   "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "تشات جي بي تي يوفّر للمستخدمين المجانيين محادثات نصية غير محدودة",
+   "summary": "أطلقت أوبن إيه آي ميزة جديدة تتيح للمستخدمين المجانيين من تشات جي بي تي المحادثات النصية غير المحدودة، مع إضافة زر تفكير مبتكر يساعد في معالجة الاستفسارات المعقدة بشكل أفضل.",
+   "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "منصة ناïف تجمع 28.5 مليون دولار لأتمتة مهام تأسيس وإدارة الشركات",
+   "summary": "جمعت شركة ناïف تمويلاً بملايين الدولارات لتطوير بنية تحتية قائمة على الذكاء الاصطناعي تهدف إلى أتمتة معظم العمليات المتعلقة بتأسيس وتشغيل الأعمال التجارية، مما يقلل العبء على رواد الأعمال.",
+   "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "تطبيقات مواعدة جديدة لجيل زي تستبدل المسح السريع بالمطابقة الذكية",
+   "summary": "ظهرت تطبيقات تواعد موجهة للجيل الشاب تخلت عن نموذج المسح السريع التقليدي لصالح خوارزميات مطابقة تعتمد على الذكاء الاصطناعي، استجابة لعزوف هذا الجيل عن الأساليب التقليدية.",
+   "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "أوبنإيه تطعن في ممارسات آبل الأمنية في قضية الأسرار التجارية",
+   "summary": "ترد شركة أوبنإيه في الدعوى التي رفعتها آبل حول الأسرار التجارية بالطعن في كفاءة إجراءات الأمان والفصل الوظيفي لدى آبل، بما في ذلك السماح لمدير بالوصول إلى حساب iCloud لموظف سابق.",
+   "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "جهاز ذكي من تصميم جوني آيف وأوبنإيه بحجم قرص هوكي",
+   "summary": "يطور جوني آيف مع أوبنإيه جهازاً ذكياً بدون شاشة يعمل بالبطارية وبحجم قرص الهوكي، من المتوقع إطلاقه عام 2027 بسعر يتجاوز الألف دولار.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "سونو تعلن عن إجراءات لمكافحة الموسيقى الاصطناعية العشوائية",
+   "summary": "أعلنت منصة سونو لتوليد الموسيقى بالذكاء الاصطناعي عن خطط لإضافة علامات مائية وتحديث سياسات التحميل بهدف الحد من انتشار المقاطع الموسيقية العشوائية وتعزيز الشفافية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "تشات جي بي تي يتيح للمستخدمين المجانيين محادثات نصية غير محدودة",
+   "summary": "بدأت أوبنإيه بإزالة حد أقصى على عدد المحادثات النصية للمستخدمين المجانيين وصاحبي اشتراك جو، مما يسمح لهم بالتفاعل غير المقيد مع الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "سوفتبنك تتبرع بـ 50 مليون دولار لمكتبة ترامب قبل صفقة مركز بيانات فيدرالية",
+   "summary": "أسهمت شركة سوفتبنك اليابانية بـ 50 مليون دولار لمكتبة ترامب الرئاسية في يناير، وذلك قبل أشهر من إعلانها عن استئجار أراضٍ من الحكومة الفيدرالية لبناء مركز بيانات ضخم في أوهايو. كشفت الشركة عن توقيت هذه التبرع في رد على رسالة من السناتورة إليزابيث وارن في يونيو.",
+   "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "اليمين واليسار متفقان: معارضة مشاريع مراكز البيانات",
+   "summary": "ينامش الانتقاد المتزايد لمشاريع مراكز البيانات المخصصة للذكاء الاصطناعي في الولايات المتحدة. أقرت لجنة مقاطعة هيرناندو بفلوريدا مؤخراً وقفاً مدته سنة واحدة على موافقات مراكز البيانات الجديدة، مما يعكس تحفظات سياسية وبيئية واسعة النطاق.",
+   "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "سونو تضيف علامات مائية لموسيقى الذكاء الاصطناعي",
+   "summary": "تخطط منصة سونو لإضافة علامات مائية وحدود على التحميلات لمكافحة الاستخدام غير المصرح للموسيقى المولدة بالذكاء الاصطناعي. الخطوة تهدف إلى تقليل الإساءات الواسعة النطاق والتوافق مع الأطر التنظيمية الناشئة.",
+   "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
+   "date": "2026-08-06"
+  },
   {
    "title": "OpenAI ترفع دعوى Apple وتصفها بأنها خالية من الأساس القانوني",
    "summary": "طلبت OpenAI من القاضي الفيدرالي رفض دعوى Apple التي تتهمها بسرقة أسرار تجارية، واصفة الاتهامات بأنها \"بلا أساس\". قالت الشركة في طلبها إن Apple تحرّف حقائق القضية والإجراءات التي اتخذتها الشركة الناشئة.",
@@ -41,94 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-06"
-  },
-  {
-   "title": "باحثون ينطورون أداة ذكاء اصطناعي لإدارة شبكات الكهرباء الحديثة",
-   "summary": "طور باحثون من كلية الهندسة بجامعتي فلوريدا أداة تعتمد على الذكاء الاصطناعي لتحسين إدارة وتشغيل شبكات الكهرباء المعقدة والحديثة.",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQelVrTV9xOHphTU1aSHphWWVfWVhPc2VUU2tXelFMQkVaQzZiOF93VHg1UE5GbUE0a2NRY0djc3NkdXVWRmx6WG12Uzg4NXpYNTBDaWJLZHp5OWJpNzJnaFhEUk1MZEkwM2x5WDBUUzdJX2NfcTY2VnJhQXM5QVI4Qi1KS0RkUDVvMUl3am1GYUNJSlhPb1Jhcng3ZzBpT2o3YTRobGEtem1mLWFyNkUyb3RlVE9aSHM3eENMMFYycjNacDRseE0wdXljYmtDQ0FjMmk4SGo0dkbSAdgBQVVfeXFMUHpVa01fcTh6YU1NWkh6YVllX1lYT3NlVFNrV3pRTEJFWkM2Yjhfd1R4NVBORm1BNGtjUWNHY3NzZHV1VkZselhtdlM4ODV6WDUwQ2liS2R6eTliaTcyZ2hYRFJNTGRJMDNseVgwVFM3SV9jX3E2NlZyYUFzOUFSOEItSktEZFA1bzFJd2ptRmFDSUpYT29SYXJ4N2cwaU9qN2E0aGxhLXptZi1hcjZFMm90ZVRPWkhzN3hDTDBWMnIzWnA0bHhNMHV5Y2JrQ0NBYzJpOEhqNHZG?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "OpenAI تسعى لرفع دعوى آبل بشأن أسرار التجارة",
-   "summary": "قررت شركة OpenAI الطعن في الدعوى القضائية التي رفعتها آبل ضدها بخصوص الأسرار التجارية، وتسعى لإسقاء الاتهامات الموجهة إليها.",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LT3hrQ05xWEVpRTZVeHRiTFRseEVmRTFMbjZISDhDangzY2N5TzMwb0VRclBWanZxZ0I0dTJZeVRSN1lqUzRXTmdEYVEyOFZ5UHdUQW05dFZhN3ZyTEIyNExMV0IzZTY1QkVLLUxQWFY?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "أوبن إيه آي تطلب إسقاط دعوى آبل بشأن أسرار تجارية",
-   "summary": "طلبت شركة أوبن إيه آي رفع دعوى قضائية قدمتها آبل ضدها بخصوص أسرار تجارية. وتسعى الشركة للتخلص من الاتهامات من خلال طلب رسمي للمحكمة بإسقاط القضية.",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSmhWTlh0eU9takRMMExHYjRRTmNmMm9EcFVlUXJfdzg4Qnc3MWdmWWJXYUJOaDcwWFlTRmFWZGhTd2NKRzlnY2V1RFdmWENIWFNSV2Z5ZVV5U1JOaEZGdlV3MGdZSjFIclhjbTdtRkt6c2ZyWHMxQkR4UEFRV1M4bmgwd0FDZ2JaeWJhM0pCWlRWUTAyVzZTbElOSDk?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "شركة Shelfmark للذكاء الاصطناعي تجمع 3.5 مليون دولار وتسعى للتوسّع",
-   "summary": "حصلت شركة Shelfmark المتخصصة في الذكاء الاصطناعي على تمويل بقيمة 3.5 مليون دولار، وتخطط لاستخدام هذا الرأسمال لتعزيز عملياتها والتوسّع في السوق خلال المرحلة القادمة.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1VRb1FaOGNmN3hkOEgzeXhMcGljNjJPT0tONkRJaE5oVHBkdjVXb1c3aHBhSTdSVXJabFdxY0VLd3FGM05Idk55ajEzcm41TW5qSWg4ZTV4SzZZTXRscnFOTFBESmdqeWpRb19OS0dyWmRaOXoybmg1YUhqZ1k1eDFScDh0alJjQXNKQ0ZzMWcycW9nSzZuT0JNTFl0Wm83OGtCenlSN0dJOWpPd2FlUzRTOA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "ميتا تطلق أداة ذكاء اصطناعي متخصصة للتعامل مع أكواد البرمجيات الضخمة",
-   "summary": "أداة جديدة ظهرت باسم Muse Code من تطوير ميتا، وهي وكيل ذكاء اصطناعي مصمم للتعامل مع مشاريع البرمجيات الكبيرة والمعقدة. تركز الأداة على تسهيل المهام البرمجية المعقدة ضمن قواعد أكواد ضخمة.",
-   "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "كلافيو تستحوذ على وكالة إيلياس تورس في عودة مثيرة لرائد تقني",
-   "summary": "استحوذت منصة كلافيو للتسويق الرقمي على وكالة الرائد التقني إيلياس تورس، الذي ينضم إلى الشركة كرئيس للمنتجات لقيادة فريق متخصص بوكلاء الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "رئيس أبحاث الذكاء الاصطناعي بغوغل يؤسس شركة ناشئة جديدة مع باحثين آخرين",
-   "summary": "غادر جيف دين وعدد من الباحثين البارزين في غوغل الشركة لتأسيس شركة ناشئة متخصصة. تركز المبادرة الجديدة على توظيف الذكاء الاصطناعي لتسريع وتطوير عمليات الاكتشاف العلمي.",
-   "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "شوبيفاي: البحث بالذكاء الاصطناعي يزيد المبيعات بدلاً من منافسة محركات البحث",
-   "summary": "أعلنت شوبيفاي أن تقنيات البحث المدعومة بالذكاء الاصطناعي تعزز الزيارات والمبيعات دون تحويل حركة المستخدمين من محركات البحث التقليدية. شهدت الطلبات والزيارات المدفوعة بالذكاء الاصطناعي نموّاً ثلاثياً خلال الربع الثاني.",
-   "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "أداة جديدة لتنفيذ المهام عبر المتصفح بسرعة وكفاءة",
-   "summary": "أداة جديدة ظهرت باسم Hark تقدم عاملاً ذكياً متخصصاً في التنقل والتفاعل عبر صفحات الويب لإنجاز المهام الموكلة إليه. تؤكد الشركة أن حلها يتفوق على المنافسين من حيث السرعة والتكلفة.",
-   "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "مؤشرات قوية على استخدام فنيكس فليكسن لمولد موسيقى ذكاء اصطناعي",
-   "summary": "أطلقت شركة Treblo أداة مفتوحة المصدر للكشف عن الموسيقى المُنتجة بالذكاء الاصطناعي، وأشارت المؤشرات الأولية إلى أن أغنية \"Rubberz\" للفنان فنيكس فليكسن تم إنتاجها باستخدام هذه التقنية، وهو ما يؤكد الشكوك السابقة حول أصل الأغنية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "جوجل تُعيد تشكيل قيادتها في مجال الذكاء الاصطناعي",
-   "summary": "أعلنت جوجل عن تغييرات قيادية مهمة في قطاع الذكاء الاصطناعي، حيث سيتولى ديميس هاسابيس رئاسة قسم جوجل DeepMind وتصبح مسؤوليته العلمية العليا على مستوى شركة Alphabet. التعيين يعكس إعادة هيكلية استراتيجية لدعم جهود الشركة في مجال الذكاء الاصطناعي.",
-   "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-05"
   }
  ]
 };
