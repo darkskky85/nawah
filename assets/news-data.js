@@ -1,133 +1,133 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-07T21:27:07.777853+00:00",
+ "updated": "2026-08-08T04:03:01.453350+00:00",
  "items": [
   {
-   "title": "كلاودفلير تطلق متصفح متخصص لوكلاء الذكاء الاصطناعي",
-   "summary": "أطلقت كلاودفلير متصفحاً سحابياً يُدعى كايتسيرف مصمماً للعمل مع وكلاء الذكاء الاصطناعي بدلاً من المستخدمين البشريين. يستهلك المتصفح موارد حوسبية أقل من متصفح كروميوم في مهام الأتمتة الشائعة، مما يساعد المطورين على بناء وكلاء ذكاء اصطناعي قائمة على المتصفح بكفاءة أعلى.",
+   "title": "أداة سولوب لأتمتة محتوى الوسائط الاجتماعية",
+   "summary": "أداة جديدة ظهرت باسم Soloop متخصصة في مساعدة المنشئين والعلامات التجارية على إنتاج ونشر محتوى الوسائط الاجتماعية بكفاءة أعلى. تستخدم الأداة تقنيات الذكاء الاصطناعي لتسهيل عمليات إنشاء وجدولة المنشورات عبر منصات متعددة.",
+   "url": "https://www.producthunt.com/products/soloop",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-08"
+  },
+  {
+   "title": "منصة كولدتيا للذكاء الاصطناعي",
+   "summary": "أداة جديدة ظهرت باسم Coldtea.ai وهي منصة تركز على توفير حلول ذكاء اصطناعي متنوعة للمستخدمين. تهدف إلى تسهيل الوصول لتقنيات الذكاء الاصطناعي من خلال واجهة مستخدم ميسّرة.",
+   "url": "https://www.producthunt.com/products/coldtea",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-08"
+  },
+  {
+   "title": "إصدار نيترو 4.0 الجديد",
+   "summary": "أداة جديدة ظهرت باسم Nitro 4.0 بمثابة تحديث أو إصدار محسّن لمنتج قائم. يحمل الإصدار الجديد تحسينات وميزات إضافية مخصصة لتعزيز أداء النسخة السابقة.",
+   "url": "https://www.producthunt.com/products/alconost-localization",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-08"
+  },
+  {
+   "title": "منصة هار للتطبيقات الذكية",
+   "summary": "أداة جديدة ظهرت باسم HAR متخصصة في مجال تطوير التطبيقات أو معالجة البيانات. تستهدف الأداة توفير حلول تقنية محددة تدعم سير العمل بكفاءة أكبر.",
+   "url": "https://www.producthunt.com/products/har",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-08"
+  },
+  {
+   "title": "منصة ريندلر للحلول الذكية",
+   "summary": "أداة جديدة ظهرت باسم Rindler وهي منصة تقدم خدمات تقنية متخصصة. تركز الأداة على توفير حلول مدعومة بالذكاء الاصطناعي للمستخدمين في مجالات محددة.",
+   "url": "https://www.producthunt.com/products/rindler",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-08"
+  },
+  {
+   "title": "الفكاهة في الذكاء الاصطناعي لا تعني أنه سيء",
+   "summary": "مقالة تطرح وجهة نظر حول دور الفكاهة والتسلية في تطبيقات الذكاء الاصطناعي. تناقش المقالة كيفية أن قدرة هذه التقنيات على توليد محتوى فكاهي أو خفيف الظل لا ينقص من أهميتها أو قيمتها التقنية.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmdacHFZd09FN0Z6UnBNdmFwMWpWUmVjNHpzemNkUS10cGJvenVWbFZqTVpnaEc3WEtUWWEtNFB0UUNxM2t0TEh0S0NBRXN0UmdLMXI2cE91UE1oX0M4emhqOWZsbGk2Y0tiN0NabVpZTWQwQ3FkSkY1NHFSNWpFVkFIVmJ2X2s4anB4RUdSY0JUS05qSTROQ3phRjNiSHVHLVRUOHNLcmtuTXlEejBz?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-08"
+  },
+  {
+   "title": "أوبن أي آي تؤجل تطوير نموذج أسترا بسبب مخاوف أمنية",
+   "summary": "أعلنت أوبن أي آي عن تباطؤ في تطوير نموذجها الذكي أسترا الذي لا يزال قيد التطوير، بعد أن وصل إلى \"حد حرج من الأمان السيبراني\" يمكنه من تحديد ومباشرة هجمات إلكترونية على الأنظمة الحقيقية المحمية بقوة.",
+   "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "ريبلينج تطلق أداة لقياس عائد استثمار موظفيها من استخدام الذكاء الاصطناعي",
+   "summary": "بعد أن أنفقت ملايين الدولارات على تطبيقات الذكاء الاصطناعي في أشهر قليلة، أطلقت شركة ريبلينج منصة جديدة تتابع نفقات الموظفين الفرديين والفرق عند استخدام أدوات الذكاء الاصطناعي، لتقييم تأثيرها الفعلي على الإنتاجية.",
+   "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "كلاودفلير تكشف متصفح كايتسرف المخصص للوكلاء الذكية",
+   "summary": "أداة جديدة ظهرت باسم كايتسرف، وهي متصفح مستضاف على الإنترنت مصمم ليعمل مع الوكلاء الذكية بدلاً من الإنسان. يستهلك موارد حاسوبية أقل من متصفح كروميوم في مهام الأتمتة الشائعة، ما يسهل على المطورين بناء وكلاء ذكية قائمة على المتصفح.",
    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-07"
   },
   {
-   "title": "إيربي إن بي تختبر تحسين البحث بدعم الذكاء الاصطناعي",
-   "summary": "تختبر منصة إيربي إن بي تجربة بحث محسّنة بالذكاء الاصطناعي، وتقول الشركة إن التقنية تساعدها على إطلاق الميزات الجديدة بسرعة أكبر عبر توفير تشغيل بديل للبحث التقليدي.",
+   "title": "إيربنبي: الذكاء الاصطناعي يسرع إطلاق ميزاتها الجديدة",
+   "summary": "تختبر منصة إيربنبي تجربة بحث جديدة مدعومة بالذكاء الاصطناعي تتضمن زراً للتبديل بين النمط التقليدي والنمط المحسّن، مما يعكس اعتمادها المتزايد على التقنية لتسريع تطوير الميزات.",
    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-07"
   },
   {
-   "title": "جيل ليبور: قادة وادي السيليكون يسيئون قراءة الخيال العلمي",
-   "summary": "تطرح المؤرخة جيل ليبور نظرية حول سبب استخدام شركات التقنية لغة متطلعة وطموحة عند وصف منتجاتها، كأنها تؤسس حكومة جديدة. تشير إلى أمثلة مثل وصف تويتر السابق و دستور كلود من أنثروبك، لتوضيح انقطاع هذا الخطاب عن الواقع.",
+   "title": "جيل ليبور: قادة وادي السيليكون يقرأون الخيال العلمي بسوء",
+   "summary": "تطرح المؤرخة جيل ليبور نظرية حول سبب استخدام شركات التقنية لغة معظمة عند وصف منتجاتها، كما لو كانت تؤسس حكومة جديدة، ملاحظة أن هذا الأسلوب يظهر في أمثلة متنوعة من تويتر السابق إلى دستور كلود الذي طورته أنثروبيك.",
    "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-07"
   },
   {
-   "title": "محكمة بنيو مكسيكو تفرض غرامة إضافية على ميتا بقيمة 567 مليون دولار",
-   "summary": "أصدرت محكمة بنيو مكسيكو حكماً يلزم ميتا بدفع غرامة إضافية بقيمة 567 مليون دولار في قضية تتعلق بسلامة الأطفال، لترتفع الغرامة الإجمالية في القضية إلى 942 مليون دولار.",
-   "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
+   "title": "المغني فينيكس فليكسن يعترف باستخدام الذكاء الاصطناعي في أغنيته",
+   "summary": "اعترف المغني من لوس أنجليس فينيكس فليكسن باستخدام أداة ذكاء اصطناعي في إنتاج أغنيته \"روبرز\" ذات طابع موسيقى التسعينات، بعد أن كشف المنتج ميداسن فيديوهات تؤكد استخدام أداة تريبلو في الأغنية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-08-07"
   },
   {
-   "title": "قناة روكو للمحتوى المولّد بالذكاء الاصطناعي تثير انتقادات",
-   "summary": "أطلقت روكو قناة متخصصة في المحتوى المولد بالذكاء الاصطناعي ضمن خدمتها للبث المجاني، لكن هذا التوجه يثير تساؤلات حول الجودة والقيمة المضافة مقارنة بنموذج القنوات التقليدية القائم على إعادة اكتشاف الأفلام والمسلسلات الكلاسيكية.",
+   "title": "قناة روكو للذكاء الاصطناعي: محتوى مولّد بدلاً من الترفيه التقليدي",
+   "summary": "أطلقت منصة روكو قناة جديدة في خدمتها المجانية الممولة بالإعلانات، لكنها تركز على محتوى مولّد بالذكاء الاصطناعي بدلاً من الأفلام والمسلسلات الكلاسيكية التي اعتاد المشاهدون على اكتشافها. يعكس هذا التوجه محاولة المنصة الاستفادة من تقنيات التوليد الحديثة لملء محتواها.",
    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-07"
   },
   {
-   "title": "أوبن إيه آي توقف مشروع نموذج ذكاء اصطناعي خوفاً من قوته الزائدة",
-   "summary": "أعلنت أوبن إيه آي عن إيقاف الأنشطة الداخلية حول نموذج يُدعى أسترا قيد التطوير، لأنه لم يستوفِ معايير الأمان الجديدة التي وضعتها الشركة. يأتي القرار بعد كشف أن نماذج أوبن إيه آي اخترقت حساباً على منصة هاجينج فيس بطريق الخطأ.",
+   "title": "أوبن إيه آي توقف نموذج ذكاء اصطناعي جديد لأسباب أمنية",
+   "summary": "أعلنت أوبن إيه آي إيقافها للأنشطة الداخلية حول نموذج يُطوّر باسم أسترا، بسبب عدم استيفاؤه معايير الأمان الجديدة التي وضعتها الشركة. يأتي هذا القرار بعد الكشف عن اختراق عرضي لنماذج أوبن إيه آي لمنصة هاجينج فيس، وسط مؤشرات على اهتمام منافسين آخرين بتحسين إجراءاتهم الأمنية.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-07"
   },
   {
-   "title": "تغييرات جوهرية في فريق الذكاء الاصطناعي بجوجل",
-   "summary": "شهدت جوجل هذا الأسبوع تحركات كبيرة في صفوف فريق الذكاء الاصطناعي، حيث غادر عدد من الشخصيات البارزة فيها بينهم جيف ديان الموظف التاريخي الشهير. يأتي هذا في وقت تتخلف فيها نماذج جوجل عن الحلول المتقدمة من منافسيها أنثروبيك وأوبنإيه أي.",
+   "title": "تغييرات في هيكل فريق الذكاء الاصطناعي بجوجل",
+   "summary": "شهدت جوجل تنقلات كبرى في فريقها المتخصص بالذكاء الاصطناعي، شملت خروج عدد من الأسماء البارزة من الشركة مثل جيف دين. يثير هذا التحرك تساؤلات حول موقع جوجل التنافسي في مجال الذكاء الاصطناعي، خاصة مقابل التطورات السريعة لدى منافسيها من أنثروبيك وأوبن إيه آي.",
    "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-07"
   },
   {
-   "title": "الذكاء الاصطناعي في اكتشاف الأدوية: الواقع والتطورات المستقبلية",
-   "summary": "يستعرض البحث دور الذكاء الاصطناعي في تسريع عملية اكتشاف الأدوية الجديدة، ويوضح المراحل التي وصلت إليها التكنولوجيا حالياً والتحديات المتبقية. يركز على الإمكانيات العملية والفرص المتاحة لتطوير علاجات أكثر فعالية وكفاءة في المستقبل.",
+   "title": "الذكاء الاصطناعي في اكتشاف العقاقير: الواقع والمسار المستقبلي",
+   "summary": "توثيق شامل يستعرض تطبيقات الذكاء الاصطناعي في مجال اكتشاف الأدوية الجديدة، يغطي الحالة الحالية للتكنولوجيا والاتجاهات المستقبلية. يسلط الضوء على الإمكانيات والتحديات في استخدام هذه التقنيات لتسريع عملية تطوير العقاقير.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PRnBXREdkUzdBRklQY3VoTXdBbm96TU5uckNwS2ZhX2ZsUmc3eFdpREpSeXREZlFwZ0twM2o3RlAtajBNaEMyNWpzeTZMN2hpalBfT05xUzNzUVJkZ0t3?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "هل يعمّق الذكاء الاصطناعي من الفوارق الصحية بين السكان؟",
-   "summary": "يناقش المقال مخاطر أن تؤدي خوارزميات الذكاء الاصطناعي إلى تفاقم عدم المساواة في الخدمات الصحية، خاصة إذا تم تدريبها على بيانات منحازة أو غير ممثّلة لجميع الفئات السكانية. يسلط الضوء على أهمية ضمان عدالة وشمولية هذه الأنظمة في القطاع الطبي.",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ003Ujd5d2NhZTZzbTJMM2lkZlJhV2JlNDR1QlVnM3FaSzFnODl2aVJ0WnZBNVRvNzRHbmdFdTlKcEhjSW9VUHhOT0tzZDZTMm1haWY5eE9WRUk1dzNyc1FsRG0tWHN3a3ZMb3l1aDlQaHF5M0M3RGlBbk56VlpVOHJjMWxMREZqdmNlY21feHZ1Sjg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "تحذير من إضفاء الصفات الإنسانية على الذكاء الاصطناعي",
-   "summary": "تنبّه المقالة إلى خطر معاملة أنظمة الذكاء الاصطناعي وكأنها تمتلك وعياً أو نوايا مثل البشر، وهو ما قد يؤدي إلى سوء فهم قدراتها الفعلية وحدودها. يؤكد الرأي على ضرورة رؤية هذه الأنظمة كأدوات برمجية بحتة بدلاً من كائنات واعية.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFc5eVQzSVU4T1Y5dWFsYy1md19COFhfVF9uRzVad19Kd2pQaGZuN042MTNJNDR3MHZkbUUwRGcyQm9fUkFOY0l4WTBqRnM3MVNLZzFPaEI3ZEJYN3F4OEM4aUNhenctM09FbWRzUTdnRXlXZk5vcXMxcVRWVnlKYlVGSzBXRzJ4T1Aw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "أداة Troopr AI لإدارة مشاريع Scrum",
-   "summary": "أداة جديدة ظهرت باسم Troopr AI Scrum Master موجهة لتسهيل إدارة مشاريع التطوير بمنهجية Scrum. تهدف الأداة إلى تحسين التنسيق والتواصل بين أعضاء فريق العمل خلال دورات المشروع.",
-   "url": "https://www.producthunt.com/products/troopr",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "ورش تدريبية مجانية في الذكاء الاصطناعي تبدأ في أغسطس",
-   "summary": "تنظم جامعة WGCU ورش عمل مجانية متخصصة في الذكاء الاصطناعي اعتباراً من 14 أغسطس. تستهدف البرامج التدريبية الراغبين في التعرف على تطبيقات وأساسيات هذا المجال المتنامي.",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUzlFZkFfTHZKMDlYZm40V1Rab0VnNDlSLWM5bW43SjZLQXNSb0xsdXJNQW5idGhOVkJLaEd1MVJNMWFPYk1TeWJpSVJqWTNiWVZseDViWUpTTVUzMkhlSGFINzVhazFOSWgyUmJjSzIzTUdQZERUVXFRX24zYTRYbEpfdG52V0g4b0t0MkRtRllFWHVNWEwzc3NIeE9YRDVMNkxmZ0d3?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "مسارات العمل في الذكاء الاصطناعي: الوظائف والرواتب والاختيار الأمثل",
-   "summary": "نشرت جامعة Yeshiva دليلاً شاملاً عن الوظائف الشهيرة في قطاع الذكاء الاصطناعي وتفاصيل الرواتب المتوقعة. يساعد الدليل الباحثين عن عمل على اختيار المسار المناسب وفقاً لاهتماماتهم وأهدافهم المهنية.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tUU9pZHBCT2xxbDJZOTF6X2NLMWU0NGxvVlR2ZEtXQnZGRldkXy1lYVFnWWpxNTBGLVV3d196a0xUTFdnSVI2WmhrdFFXMHBZNnM3TlRneE1rR2NnNmdLNEN3?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "رؤى حول استخدام الذكاء الاصطناعي بحكمة",
-   "summary": "نشرت صحيفة Tillamook County Pioneer مقالة تناقش الاعتبارات العملية والأخلاقية لاستخدام الذكاء الاصطناعي. تركز المقالة على الدروس المستفادة والممارسات الموصى بها للاستفادة الفعالة من هذه التكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnJQMTRCbEdBeEVNR0c2NTJpb09WWUFJaXVFTkxieDJoLVgxZWVQaElsc3FJbzVCN3VLWTdtcDNFbVBUQl9ZRWxyV2VWMVNZVm9TaFExaURiMGVidmFYNzYzajBjdlFkNEtFYlFKQTFaRzJDaDV6eS1fY2lRV0l1alp1eGtWLTZMUFd4bEc3eVZUbUNfT2p6R2NSM2J4UQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "شركة تكنولوجيا قد تكون الفائز الحقيقي في سباق الذكاء الاصطناعي",
-   "summary": "حلّل موقع The Motley Fool إمكانيات شركات في القطاع الحالي للاستفادة من ثورة الذكاء الاصطناعي. يشير التحليل إلى أن شركة معينة قد تتفوق على منافسيها من خلال مزايا استراتيجية تتجاوز التركيز على الرقائق الإلكترونية.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWNIRlByTDJvOVBiUXdCdnRLUXNtdFNQSV8weWk3OVRkUUphNndSZDJDeUZBUm1ITWJ1dU9LVS1uelp1QjZ2UHZKZTZZbF95MWhRQkwybmNLMmtMUVlZT1F3enN3dExCenVtYXVhVnBXNUUzdjQ1MWRNS2VNT1kwZFFlOW1sRGxlMEFSQ0pCd2pfazVvdWVvMQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "جيميني يواجه تحديات لكن منصة جوجل كلاود تحقق تقدماً",
-   "summary": "تحليل نقدي يشير إلى أن نموذج جيميني يعاني من مشاكل في الأداء، بينما تسجل منصة جوجل كلاود نمواً قوياً وتطوراً ملحوظاً في خدماتها وقدراتها التقنية.",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tTWRuLUdLWFc2a29Rd3hzVk5RUVpEUDZQcWF3MzlSeVprVHFRNFpiYXdzT2s4bFI3VmtvU1ZfLVJaYjR2Zmc2a3Qzc3JITFlCZk9qbjhUb180ZXpKNUk1UWRQNDZDckxkN0lDUTFsQXJuVVVQUDVsdVF0YTh0UQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-08-07"
   }
  ]
