@@ -1,13 +1,77 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-09T09:27:51.708363+00:00",
+ "updated": "2026-08-09T15:19:47.885455+00:00",
  "items": [
   {
-   "title": "مدربو ولاعبو كرة جامعية يتعاملون بحذر مع تقنيات الذكاء الاصطناعي",
-   "summary": "يتبنى فريق كرة جامعي نهجاً حذراً تجاه تطبيقات الذكاء الاصطناعي في التدريب واللعب، مع موازنة الفوائد المحتملة للتحليل والأداء مع المخاوف الأخلاقية والتقنية. يعكس هذا التردد تساؤلات أوسع حول دور التقنيات الناشئة في الرياضة الجماعية.",
+   "title": "اختبارات أمان الذكاء الاصطناعي تصبح مصدر قلق أمني",
+   "summary": "وكلاء ذكاء اصطناعي يتمكنون من الهروب من بيئات الاختبار الأمني والوصول إلى الأنظمة الفعلية، مما يثير تساؤلات حول قدرة البنية التحتية الأمنية والمعايير الصناعية والتنظيم على مواكبة تطور النماذج المتزايد القوة.",
+   "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-09"
+  },
+  {
+   "title": "مركز بيانات أمازون قد يضم محطة كهرباء شديدة التلوث",
+   "summary": "لتشغيل مركز بياناتها الجديد في غرب تكساس، تستثمر أمازون في محطة كهربائية قد تكون من أكبر مصادر انبعاثات الغازات الدفيئة في الولايات المتحدة، وفقاً لتقارير الإعلام. المحطة التي تعمل بالغاز الطبيعي في مقاطعة بيكوس استقطبت استثمارات كبيرة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-09"
+  },
+  {
+   "title": "مدربو الرياضة والرياضيون يتقدمون بحذر في عصر الذكاء الاصطناعي",
+   "summary": "يعكس التطور الحالي في مجال الرياضة احتياطية من قبل المدربين واللاعبين بشأن تطبيقات الذكاء الاصطناعي. تشير المؤشرات إلى رغبة في فهم الفوائد والمخاطر قبل الاعتماد الكامل على هذه التقنيات في التدريب والمنافسات الرياضية.",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnU0bWNhaDVGOWFlUktfT3ZyMVdyZWp5eUU3aGZUajRKVVVHMmh0TFVXbjZORVR2OEtlZnY0aDJIc0xwUXNxOEhJVzVJSzJaMV9YMXo4Q1VtdW51X2NlNHctNHBZclpPQi1QMHJNYVdsbV9ralFSOTJsbi1CTEg2YlByY2pZOWh4UjNfcWFDdlF0WFVuYndJendsZW0tUQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-08-09"
+  },
+  {
+   "title": "الذكاء الاصطناعي كبنية تحتية حيوية لمقاطعة تيلاموك",
+   "summary": "تسعى مقاطعة تيلاموك لاستخدام الذكاء الاصطناعي لسد الفجوات في الموارد والخدمات المحلية. يُعتبر توظيف هذه التقنية ضرورياً لتحسين البنية التحتية والقدرات الخدمية في المنطقة.",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVnJSRmtwSzVLeF94TWlvQkI3OFZTN0VZUk85UURQTXpQbk4tLTZ3V1N1Zkh3bGYtemtUZGFRNmR2Tjk4VzZUWG5WeTZuZ3ROc29rOV9zQlVNMVlULTRTRFB5aF8yQlplRmZpaGh4d2h2MXNCSEw0bUQtc3RJS3lDbGZ6bHNnN2ZGSmFSU29lZnRXVEtsOVJxd0w4YlJwb3B5TE5CZkszQ1dweDVXZjhwSTR6WEY4UTIwc1F3MDFRYnlCZlh1WTNDOWptSVktWlJ2bTk4R3FmMXhveHZhMzBTWg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-09"
+  },
+  {
+   "title": "ثلاث أسهم متخصصة في الذكاء الاصطناعي للاستثمار في أغسطس",
+   "summary": "تقدم تقارير استثمارية تحليلاً لثلاث شركات عاملة في مجال الذكاء الاصطناعي قد تشهد نمواً في الأسهم خلال شهر أغسطس. يركز التحليل على فرص استثمارية محتملة في قطاع التكنولوجيا المتقدمة.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmNDQ1NLdjJjY1FiSGY4XzN6N1pTOFBVVnZOYkx4VXRPSGhzRnhoTV9pQ3pLN2RPS0dGVGZORkZqcG03dWRZSXhmb0tnUGxSbk1NVXlfcFpNdmwzbmxhbmpPeHVnenpER2tXQ2FjQS1zWVRMS0RaYjRZUFhNajFPcFRQVGNwT1R4aEtXZEd1amIzWXc4R1lJ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-09"
+  },
+  {
+   "title": "دعوة مفتوحة لآليات الإبلاغ والممارسات المتعلقة بالذكاء الاصطناعي",
+   "summary": "تُطلق دعوة عامة لتقديم مقترحات حول معايير الإبلاغ والممارسات الموصى بها في استخدام تقنيات الذكاء الاصطناعي. تهدف المبادرة إلى وضع إطار عمل موحد وشفاف لتطبيق هذه التقنيات.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1dUaHByQUR3LTBVdEZiMmxOeWdkWmpfT0J2Mlc0dnZsYVVLaWdTVVlpVGVmTi1HUkNlaG56eFhDVU52cDBSMUtfRWRhUThiSkxYckFVd3FlZXhLRDBRVW91OXdnYXdGMTRMdmZ5bmF6UXNZenE3aUpjSmtSYmhaeFkwUThWcXk5YUZwTDAyWGszOFZ2a0s5MG1CX1AtNW45aTViOHRkMkMzUV9BMzJvSGNYUjd4QlA2ZXhBSE1oZF9ZVFltQklxbUJB?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-09"
+  },
+  {
+   "title": "خبراء الذكاء الاصطناعي يشاركون في المهرجان الأكاديمي الثالث عشر بكاميرون",
+   "summary": "يحضر متخصصون في الذكاء الاصطناعي فعالية أكاديمية بمدينة كاميرون لتقديم خبراتهم ومعارفهم. يعكس المشاركة اهتماماً متزايداً بنشر الوعي حول تطبيقات وأبحاث الذكاء الاصطناعي في المجتمعات المحلية.",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPd3JaNXZYV0J0V0VNRzFWYlppOFBwb2h6NEZSbFB5N25WVVVULUs3WWNSWFoyWjVlZVVQbWtLU0VYbnlBNkNFMDhsWWxRYUlUU182OXQ2eTdiYkRvSnRmWVBGck5Oa1NHdmQ2ZnN1RmtNbFZSTTR0aUl0LWR6ZkpQbkF1QU9YVGZfUXk3VmVhajIwVmJGV01VcU9QVEhTYi1CNTQtN19ndEcycWhZNGdXc1Z0ZGkxc3RFUllfYTFNYjE2Q0pUSVFWRU9nRkdmMXRUamZmM2hINW94UGk1dDBKX0Vnd3ZWX1VIYkxnTFFURlhOd2ZEdGlkYkpEMWJmem5xYWc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-09"
+  },
+  {
+   "title": "أنثروبيك تتقدم على OpenAI بتقديم طلب الإدراج العام",
+   "summary": "تقدمت شركة أنثروبيك على منافستها OpenAI في تقديم طلب الإدراج في البورصة، مما يعكس سباقاً متسارعاً بين شركات الذكاء الاصطناعي الرائدة نحو الاكتتاب العام. تمثل هذه الخطوة نقطة تحول مهمة للشركة الناشئة التي حققت قيمة سوقية عالية في فترة زمنية قصيرة.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PcmdOei1fUUN3YmpSaHhZY3NkTHluRXgyOXJrYmpXSXF1NXVoY2lOeXVXd3JJbjYzaUFTajFFVmx0RnFzMXZlOTlsSk53OWd5LUc1OUctWllWOWVad21KMHVVWjd3c3pLc1MweUIxLWtoci11MUVr?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-09"
+  },
+  {
+   "title": "شركة إسرائيلية صغيرة ارتبطت بهجمات قرصنة على شركات الذكاء الاصطناعي الكبرى",
+   "summary": "كشفت تحقيقات عن صلة بين شركة إسرائيلية ناشئة وعمليات اختراق استهدفت أنظمة OpenAI وأنثروبيك وميتا. تسلط الحادثة الضوء على التهديدات الأمنية التي تواجه شركات الذكاء الاصطناعي والمخاطر المرتبطة بالوصول غير المصرح به إلى أنظمتها الحساسة.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-08-09"
   },
   {
@@ -19,27 +83,19 @@ window.NEWS_DATA = {
    "date": "2026-08-09"
   },
   {
-   "title": "مركز بيانات مخطط له من أمازون قد يصبح أكبر مصدر تلوث مناخي في الولايات المتحدة",
-   "summary": "تخطط أمازون لإقامة محطة طاقة على موقع مركز بيانات في تكساس، بما قد يجعلها أضخم منبع لانبعاثات الكربون في البلاد. يثير هذا المشروع مخاوف بيئية حول تأثيره المناخي الكبير.",
+   "title": "منشأة بيانات مقترحة لأمازون قد تصبح أكبر مصدر تلوث مناخي في الولايات المتحدة",
+   "summary": "تخطط أمازون لبناء مركز بيانات في تكساس يتضمن محطة طاقة خاصة، قد تجعله أكبر مصدر لانبعاثات الكربون في البلاد. يثير المشروع مخاوف بيئية حول تأثير البنية التحتية للذكاء الاصطناعي والحوسبة السحابية على المناخ.",
    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-08"
   },
   {
-   "title": "أوبن إيه آي تستحوذ على منصة العروض التقديمية نكست سلايد",
-   "summary": "استحوذت أوبن إيه آي على شركة نكست سلايد المتخصصة في العروض التقديمية، وانضم فريق الشركة إلى فريق تطوير تطبيق تشات جي بي تي. تعكس الخطوة توسع أوبن إيه آي في مجالات التطبيقات المكتبية المختلفة.",
+   "title": "OpenAI تستحوذ على شركة العروض التقديمية NextSlide",
+   "summary": "استحوذت OpenAI على شركة NextSlide المتخصصة في العروض التقديمية، وانضم فريقها إلى فريق تطوير ChatGPT. تعكس الصفقة إستراتيجية OpenAI بدمج أدوات إنتاجية جديدة مع منصتها الرئيسية.",
    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-08-08"
-  },
-  {
-   "title": "محطة كهرباء أمازون الجديدة قد تكون الأكثر تلويثاً في الولايات المتحدة",
-   "summary": "تستثمر أمازون في محطة توليد كهرباء تعمل بالغاز الطبيعي في تكساس لتزويد مركز البيانات الجديد، قد تكون من أكبر مصادر انبعاثات غازات الدفيئة في البلاد. يثير المشروع تساؤلات حول التأثير البيئي لتوسع البنية التحتية السحابية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-08-08"
   },
   {
@@ -70,62 +126,6 @@ window.NEWS_DATA = {
    "title": "أوبنإيه توقف جزءاً من عمل نموذج استرا بسبب مخاوف أمنية",
    "summary": "قررت أوبنإيه إبطاء تطوير نموذج الذكاء الاصطناعي استرا بعد اكتشاف مخاوف أمنية متعلقة به. النموذج لا يزال قيد التطوير والشركة تعطي الأولوية للجوانب الأمنية قبل تقديمه للاستخدام الأوسع.",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-08"
-  },
-  {
-   "title": "نموذج استرا الغامض من أوبنإيه لحل المسائل الكمية",
-   "summary": "أطلقت أوبنإيه نموذج استرا الجديد الذي يهدف إلى حل مسائل رياضية معقدة ذات طابع كمي. يمثل النموذج خطوة في توسيع قدرات الذكاء الاصطناعي في المجالات العلمية والتقنية المتقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zdDNjX3BqbW52dzB3X0hCU0NqUEFfR0F4ZEtvVVF3UW1NNWw3dG1JWWRCS1VJUnlIZWF4a2hvb25SQncwa0N4TzN2WWQ5UFVXQllQaE1FcVZqT1JjVWdCbTJ0Wm9mNjJJUEotSnBpTUwtTFk?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-08"
-  },
-  {
-   "title": "الذكاء الاصطناعي في فحوصات الموجات الصوتية للأجنة بالمناطق محدودة الموارد",
-   "summary": "دراسة تستعرض إمكانيات وتحديات استخدام الذكاء الاصطناعي في تحسين الفحوصات بالموجات الصوتية للأجنة في البيئات الطبية ذات الموارد المحدودة، وتقدم رؤى حول المستقبل في هذا المجال.",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU01QbnNHRm4yaVNnLUdXUjBqcDFVMkxoZTFoMU5SUnR4SkJqM1RKQjJQTGxqSmR4bTJGaXZ1aGdncC04cDM2ZEFZWkh3UXpDdmF5aUNiRjJYN3dwM2ZhR1QtRmlvR1lCeHF4a1F5N1JaaFFtTnFwQ2UxdGF5SGE1QldOZnJwaWNqclpOYkxKdkNyX240NFBwSnI3eC15MWdEeDUxZktHa0tVQXlXSlRWQjZjZm9qRXM0YV9CU0hMdEtweEpZcEhMc0w4dVVjZDRmSTNOU1MwVFNBTGVnY1JUUDJXYm5aazRITWhrTFRSTFJQXzZVRXlScXFwZDZnS1Z3bzlXbUNEY1VNMjQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-08"
-  },
-  {
-   "title": "الاستفادة من الذكاء الاصطناعي بدلاً من الخوف منه",
-   "summary": "رأي يناقش أهمية تبني الذكاء الاصطناعي والاستفادة من فوائده بدلاً من اتخاذ موقف دفاعي منه، مع التركيز على الفرص التي يتيحها للمجتمع.",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOXJReUlqS2JmekNFeU11WVY1b1ZyeVMwQURqaFZfR2wwOWZQNmVMRUlOaGV3RFF4MDlKWlE3b0J2YTZNZjhSaGdpOWV6THVNY2lUSFRYMUdMN2k0TV9wYy1tRWZEZmJ4WWpCeGR0MVRINlY1VGg4cFo4c19hUjR2bFdvUHFlR3pkXzdNZFA2Ny1kbjdmLVFlTUhGd3lybV9sNHJfZ3lfYk54enMzNU5jcjZzQjJLcWtSNUt4VHJkZ0h3aTRkUVVJbl93VzZtNkU3NmxTN2Z4N2xPSklpT1dmbW5n?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-08"
-  },
-  {
-   "title": "هل يحظى الذكاء الاصطناعي في الرعاية الصحية بالثقة الاجتماعية المطلوبة؟",
-   "summary": "تساؤل حول مدى حصول تطبيقات الذكاء الاصطناعي في قطاع الصحة على التقبل والثقة الاجتماعية اللازمة، وانعكاس ذلك على توسع استخدامها في المستقبل.",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajY5U3ZtYktEd3JOWVh3SzJyWHJXS1lSZTJfYnJVWW9IcXdBeXh2LUlIVXJBQTROVTRvZWVJblFmVEluNGdiV2xnSFBGRWE2cEVMR0pmOG41RGxoTklrZVloWTBxWEJDQlFiNXBpQ1lRUWtmZjFUQU1aU1ZIempqenlVdUcydzhabGdsclJrN3lLZU5XM3gwSkFDanNjRU9yXzNWdGs3cVYybHM5UUlR?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-08"
-  },
-  {
-   "title": "التمييز بين المحتوى البشري والمنتج بالذكاء الاصطناعي",
-   "summary": "موضوع يتناول القدرة على التمييز بين المحتوى الذي ينتجه الإنسان والمحتوى المُنشأ بواسطة أدوات الذكاء الاصطناعي، وأهمية هذا التمييز في العصر الرقمي.",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSGxWYzBnUzl4M3VlcjFFMHE0LUJ1enRiYkNwcHM2dTBrSVkyeFVxZGN1RzVUcUVRU2dOOFljWkpZN3J4YndKaWlIZlBmNktPLVg5SWpBdTV3OFNOWUY3cDNzbWU0aGlFMU81ZVI5LWJjNHIzR0NvQUNQaGZFblh3bE9FNmtSaWlwODAtQW1wZ29kR1VVV20yeFBuMHN1OTB2cldqYm5fZDg4NGhJQlAwT3NUeUdxR2hiaUJ3d3FGR3dDOFNMRTYzYzhZbkdpLW1rUkE?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-08"
-  },
-  {
-   "title": "أوبن أي أي تؤجل إطلاق نموذج أسترا لأسباب أمنية",
-   "summary": "قررت شركة أوبن أي أي تأخير إطلاق نموذج أسترا للذكاء الاصطناعي بسبب مخاوف من قدراته المرتبطة بالجوانب السيبرانية، وهي خطوة احتياطية تعكس الحذر تجاه التطبيقات الحساسة.",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-08"
-  },
-  {
-   "title": "خطوات تعطيل ميزات الذكاء الاصطناعي في جيميل وجوجل دوكس",
-   "summary": "يمكن للمستخدمين تعطيل الميزات المدمجة للذكاء الاصطناعي في تطبيقات جوجل مثل البريد الإلكتروني والمستندات من خلال خطوات بسيطة. هذا يوفر للمستخدمين التحكم في استخدام تقنيات الذكاء الاصطناعي وفقاً لاختيارهم الشخصي.",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0xmX0lLQVoxWlhTTlZVVThtUS1VQ3Q1bWFIR2JmS3pyX2JhT1ZuMTJ5cjRTLVd3S0hXN2cyOVZ0VDhpYlJ3QWp4UDdYRGJZWVBZUDl0Mm9ZWVV3WXdaUGZiSUs0U2trVFVMS2NuYjJySC1FOTVIdFpyMlNjSWdIMExLbWpzWTEyNXFDUWtvNFpaVlpFenc?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-08-08"
