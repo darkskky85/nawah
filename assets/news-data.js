@@ -1,21 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-10T10:07:44.428094+00:00",
+ "updated": "2026-08-10T15:47:52.165588+00:00",
  "items": [
   {
-   "title": "الذكاء الاصطناعي للعلم يحتاج التفكير المنطقي أكثر من البيانات",
-   "summary": "البحث العلمي لا يقتصر على جمع البيانات الضخمة، بل يتطلب قدرات تفكير منطقية عميقة. أنظمة الذكاء الاصطناعي الحالية تحتاج تطويراً ليس فقط في معالجة البيانات، بل في القدرة على الاستدلال العلمي والتحليل الناقد المشابه لتفكير العلماء.",
+   "title": "شركة ناشئة تبحث عن مواد جديدة لتطوير رقاقات إلكترونية أكثر كفاءة",
+   "summary": "حصلت شركة Discovered Materials على تمويل بقيمة 9 ملايين دولار لتمويل البحث عن مواد مبتكرة تساعد في بناء رقاقات إلكترونية ذات كفاءة أعلى وتوليد حرارة أقل، مما يعزز من إمكانيات تطوير أجهزة أكثر استقراراً وأداءً.",
+   "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-10"
+  },
+  {
+   "title": "مركز بيانات أمازون قد يعتمد على محطة طاقة ملوثة للبيئة",
+   "summary": "تخطط أمازون لاستثمار أموال كبيرة في بناء محطة طاقة تعمل بالغاز الطبيعي بولاية تكساس لتشغيل مركز بيانات جديد، وقد تصبح هذه المحطة من أكبر مصادر انبعاثات غازات الاحتباس الحراري في الولايات المتحدة حسب تقرير نيويورك تايمز.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-10"
+  },
+  {
+   "title": "الذكاء الاصطناعي في العلوم يحتاج إلى التفكير المنطقي وليس البيانات فقط",
+   "summary": "تطبيق الذكاء الاصطناعي في المجالات العلمية يتطلب قدرة على التفكير الاستنتاجي والاستدلال العلمي بما يتجاوز مجرد معالجة البيانات الضخمة، حتى يتمكن من فهم المبادئ الأساسية والتوصل إلى اكتشافات حقيقية جديدة.",
    "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
    "source": "MIT Tech Review AI",
    "tag": "أبحاث",
    "date": "2026-08-10"
   },
   {
-   "title": "شركات ناشئة تسعى نحو الموجة التالية في نماذج اللغة الكبرى",
-   "summary": "بعد الإنجازات الأساسية لنماذج اللغة الكبرى، تركز الشركات الناشئة على تطوير تطبيقات وحلول متخصصة وأكثر فعالية. تتنافس هذه الشركات على ابتكار استخدامات عملية جديدة للتكنولوجيا في قطاعات صناعية مختلفة.",
+   "title": "شركات ناشئة تسعى لابتكار الجيل القادم من نماذج اللغة الكبرى",
+   "summary": "تركز عدة شركات ناشئة على تطوير نماذج لغة كبيرة جديدة تتجاوز القدرات الحالية، بعد أن أحدثت تقنية الانتباه المقدمة من جوجل عام 2017 ثورة في مجال الذكاء الاصطناعي وفتحت آفاقاً واسعة للابتكار.",
    "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
    "source": "MIT Tech Review AI",
    "tag": "أبحاث",
+   "date": "2026-08-10"
+  },
+  {
+   "title": "الذكاء الاصطناعي في المدارس الأمريكية: آباء ومعلمون وطلاب يتعاملون مع التكنولوجيا الجديدة",
+   "summary": "يناقش التقرير تداعيات توظيف الذكاء الاصطناعي في المؤسسات التعليمية بولاية نيبراسكا الأمريكية. يعكس الخبر اهتمام المجتمع التعليمي بفهم تأثير هذه التقنيات على العملية التعليمية والتفاعل بين الطلاب والمعلمين وأولياء الأمور.",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbjBwcDJJb0piWEM3X2Z4OVJ2WThBTVdsc2p5MGVmdl9Jei1BSkdrT2RNaUtMdmNzUDMwUjRyZkxmQy1GMWhyMjUzZXUwUks1MDFwZlY4UnlOUWtEV1l5ZVc2NF9kLXB6cDlGX2gydmg3U0kwem1tUGFGQjJpXy03dnNZVXlpajRGWmd5UlczeGxmR21SRFdIdUMwcDB3VkdoVEFqQ1poSi1GcHdoMUxkYk14RVFQSDl4Yk9GNmlsdjJwWGpZY2V4TTF0ZzBfbG55X2x4bVRFR3VlbVdJemFXdG1jY0ZzdUtZUlRqTTB3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-10"
+  },
+  {
+   "title": "كاليفورنيا تطلق برنامج دفاع سيبراني بالذكاء الاصطناعي لحماية البنية التحتية",
+   "summary": "أعلن الحاكم الأمريكي عن مبادرة جديدة تجمع بين الذكاء الاصطناعي والأمان السيبراني لتعزيز حماية البنى التحتية الحيوية بالولاية. تركز المبادرة على تطوير قدرات الدفاع الرقمي باستخدام تقنيات ذكاء اصطناعي متقدمة.",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMDI0S2JKNWxnN1VfMURGNTdWQ0RuQXEwdjNER3F0U3pkdVlMdjZyUGsxaFdkLVNGdEkwQ1o0MWNuakk4RS1OVG05cEJsS2M3U1JBMUhiRlJTMGVZRHpVOUhFeTdVUU5DLXgtLW96S2pKVkRGbFRjV054VnI5V3RUa1lnbFhJWUNPQm1lb1lFT05MUUl4YUZTN1dEQ1J2cW9jcDdPQ1NTZURFVUNuTlFnT3IzbmR4THhKZXNTU3FDaTgtZV91OGRFVDRGaGwxQ2daQUE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-10"
+  },
+  {
+   "title": "الذكاء الاصطناعي سيؤثر على حياتك الاجتماعية بطرق لم تتوقعها",
+   "summary": "تناقش مقالة رأي نشرتها صحيفة نيويورك تايمز التأثيرات المستقبلية للذكاء الاصطناعي على العلاقات الاجتماعية والتفاعلات البشرية. يسلط المقال الضوء على كيفية أن تشكل هذه التقنيات جوانب شخصية من حياتنا اليومية بطرق متعددة.",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlMxM0hfLTFyTUxHTXA4eXJOUklfcFBKekFfSlotX3N6SVZxcWVtQ05CbmNwdnBiQ2tzV3FXRHNWMHlsSHV5YTlzY1h5ZXZxZDhSWUk4ck9LcV81VDg3a0ROZTlHV0dGWHR4NnRxcGVzUXN4RlQyOXpxMFpWbzhnZ3hQbGhYa3U1dGowMXlnLXlwQQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-10"
+  },
+  {
+   "title": "الخبراء: الذكاء الاصطناعي لن يهدّد وظائفك في الوقت الراهن",
+   "summary": "يؤكد متخصصون أن المخاوف من استبدال الذكاء الاصطناعي للعاملين في سوق العمل مبالغ فيها حالياً. الخبراء يرون أن التأثير الفعلي على الوظائف سيكون تدريجياً وليس فورياً، مما يتيح وقتاً للتكيف والتدريب المهني.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX3NSUlNEM1lOVVY5OUthRW1OQ01WRlBpaEdYTVlIamg0RDNOR0FUWGlsakFnRHptTkxvY2kxcU10eUhpa1dvQ0RqdlQ3QjZCTWNEQndub3NiV09lemJCX1E1ckc0eXpjai1IVk42OGNnd253NkhYVlZnMllMWk9ReEtnQi1ENXh5dVNsMzdOVk9NZkt1c2lPbk5FWmhabHBBVUh4a25XRy0?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-10"
+  },
+  {
+   "title": "الذكاء الاصطناعي: بين الإعلانات المبالغ فيها والمخاطر الحقيقية والمقاومة",
+   "summary": "تحليل نقدي يفحص الفجوة بين الوعود المرفقة بتقنيات الذكاء الاصطناعي والمخاطر الفعلية المرتبطة بها. الجزء الثاني من السلسلة يتعمق في الجدل حول التأثيرات الاجتماعية والاقتصادية للتكنولوجيا والتحفظات التي تواجهها.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZERBVXROOGRmUndSNHJUaU1BSUxoZmxNQ2d2X3JkNFZkcUhKclFKaVU5aUQ0U2ZDNnBOQkJKX1ppel81dVE1dmVaWjFuQ3NGcV9wMkN4ZHhDUG1oRTRROEFZck1mdDUybDA5WE5MeWhfNHNBWlFuNXB3emdZZ2JiMTlQeFFsQlVGNWgxWTR1OU14SDVadnFVNFFGVTl1M3NsNmp1aUhnQQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-10"
+  },
+  {
+   "title": "OpenAI تفرض قيوداً أشد على نموذجها الجديد لمعالجة مخاطر الأمان الإلكتروني",
+   "summary": "اتخذت OpenAI إجراءات احترازية لتقييد استخدام نموذجها الجديد بسبب المخاوف الأمنية المتعلقة بالعمليات الإلكترونية. القرار يعكس تصاعد النقاش حول مسؤولية شركات الذكاء الاصطناعي في التحكم بالمخاطر المحتملة لتكنولوجياتهم.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42YVhOUXpnOEtLdW41SXZndUQ2OWd6cmstNHBhc2JqVGZZaE05Z3pIQk8tYUtVU2t1dGdpYWJvSzBWQWNFTDFLWXp0LWtJUGQ4TWNXVnZlWkFIa2Z2TkNPMGRQRWRsOXA3WjlMNDJDbm5Lc2V6SW9UR9IBfkFVX3lxTE00VHJaekgzSDJvajdabVhmN2JXSmVZeHkyS19xNHp6dkhnOHNKZ2tETHhtYlBTTHlILXNHQ3YxZW9vYTBhN0djbnhDLTJpM3NkZ1pDZ0cwZ05YeDhseVF6TWFXS0RvQUFmdXQtNVUyM0k0bTYyMGY5b0N3YmNjUQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-10"
+  },
+  {
+   "title": "قلق الجمهور من الذكاء الاصطناعي يصل لذروته",
+   "summary": "تتصاعد المخاوف والمشاعر السلبية حول تأثيرات الذكاء الاصطناعي بشكل ملحوظ في أوساط المجتمع. الحالة من الخوف والريبة تعكس حاجة ملحة لحوار شفاف حول فوائد وأخطار هذه التقنيات.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93Ty1WLWJ0bmdYNmZuVnRYRi0yam8yTFE1TzVJam1JZjhfMHJnekdXajZjYzlLejFPX3FiZVNnT0lfTmZFUFk1YkVCZG5jVnl5RkFSc1h2SFlnekRpZWNrMTAwUExld3BqVDNoa1VJNkYzWE9qUWdwTQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-08-10"
   },
   {
@@ -51,83 +123,11 @@ window.NEWS_DATA = {
    "date": "2026-08-10"
   },
   {
-   "title": "تأثير الذكاء الاصطناعي على الحياة الاجتماعية للشباب",
-   "summary": "يستعرض مقال رأي كيف يؤثر الذكاء الاصطناعي بشكل مباشر على التفاعلات الاجتماعية والعلاقات بين الشباب والمراهقين، موضحاً التغييرات الملموسة في طرق التواصل والتفاعل الاجتماعي في العصر الرقمي.",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlMxM0hfLTFyTUxHTXA4eXJOUklfcFBKekFfSlotX3N6SVZxcWVtQ05CbmNwdnBiQ2tzV3FXRHNWMHlsSHV5YTlzY1h5ZXZxZDhSWUk4ck9LcV81VDg3a0ROZTlHV0dGWHR4NnRxcGVzUXN4RlQyOXpxMFpWbzhnZ3hQbGhYa3U1dGowMXlnLXlwQQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-10"
-  },
-  {
    "title": "تحويل تقنيات الذكاء الاصطناعي المعقدة إلى خدمات قيمة للعملاء",
    "summary": "تناقش مقالة كيفية تقديم الذكاء الاصطناعي كخدمة شاملة للشركات والعملاء، مع التركيز على تبسيط التقنيات المعقدة وجعلها سهلة التطبيق لتحقيق قيمة عملية حقيقية في بيئات الأعمال.",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa1dvRmhrcXZRUXVpMXgtVzNTUDJSVGZiaFUzMDdMNmxNblpOblZzOXBEWjl1NjZSdHlLT3ZpS3Nqa1BzUXZYZFlrSGxmbXFnZFBCU2xrZWdjcTFDT1FHcXZhM2ZFWGhIQmZYeHpCaHpidmFNQzVxeTkxbno4UDYwYVp2THlGV3JwWUt2T0dn?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "جامعة تكساس ويسليان تطلق برنامج بكالوريوس في الإنسانيات والذكاء الاصطناعي",
-   "summary": "أعلنت جامعة تكساس ويسليان عن برنامج دراسي جديد يجمع بين الإنسانيات والذكاء الاصطناعي، مما يعكس توجهاً نحو دمج المعرفة الإنسانية مع التطبيقات التقنية الحديثة في التعليم العالي.",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeWk1b1o4MDdHWXpWR1RNZ0o2bUhXakUtSmttalVxSVJwZ0t0aEhSZTh6R2h6SV9qSW9wS09wdDRHZ0g4ckVVU01UaXhobmpKMHMtZXNXWU9pMXBsenk0aEhXOTZkYWMwekVtUUNIZmk4bWRyaDBYdnRoNW84NDlnaHA5Yk5Hak9zTHFOcVVFMDBtaEw4djFnRFJnTjUxWHdIeGZfd0dLODZ6WXcxeGVqdE92MXltY1NmRUtuNEY0ckc3VUVlUkQ1UkxsQVVHdkFUWmtzYQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "شراكة أيكون وأنثروبك ستصل إلى مواقعك قبل أن تكون مستعداً",
-   "summary": "أعلنت شركة أيكون عن اتفاقية مع أنثروبك لدمج تقنيات الذكاء الاصطناعي في التجارب السريرية. تهدف الشراكة إلى تسريع عمليات الأبحاث الطبية باستخدام نماذج ذكاء اصطناعي متقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSkhNMm45WkRjemZHYzJWMC13WlctdUVmUUVwV085NVRhZzc1ZTJsbTZQOVpCNnZzU0l3SE85bUZmQWtXRTZQQ0VGTmJEaldiOVlHWTVtX2FtdElxSGMzV2MydWNWdHVxb05VaEpXTHdxSjM1NXpvTjhma25KTVRod0NjRU9CZXh6aHZacG4zc2VRTDFuMENxLUZ0SWMxVnJVMEtmZ1p3Q29JSjdwUjZveko5YjZmbFEzQnhhd0IwREtJa2d5NDhHc05oMWdyQW8?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "نموذج أسترا من أوبن إيه آي يحقق أداءً عالياً في الأمان السيبراني",
-   "summary": "كشفت أوبن إيه آي عن نموذج ذكاء اصطناعي جديد يُدعى أسترا يظهر قدرات قوية في مجال الأمان السيبراني. أداء النموذج المتقدم في هذا المجال أثار نقاشات حول الآثار الأمنية المحتملة.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUk1TmNlQ3lxLVljTnlXM1BSYWpNZTNpRjFBRXVNYkJ4M1VqMmREeW5xUnNyUU9pa0JRWHhoZ1lJb0k3OUJ2MW9OdGI3aG1tMmh6ZkRfMzM2YU01U1BoWjdjSlhTNlB6ck1vYUZTYVozSTRCei1CVzBrblpEQW1lbzc0ZjY?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "تحديث جديد لقدرات توليد الصور في منصة جروك",
-   "summary": "أطلقت منصة جروك نسخة محدثة من أداة توليد الصور تحمل اسم Grok Imagine 2.0، وتتضمن تحسينات على جودة الصور المُنتجة والقدرات التقنية للخوارزمية. يأتي هذا التحديث ضمن جهود المنصة المستمرة لتطوير أدواتها في مجال الذكاء الاصطناعي.",
-   "url": "https://www.producthunt.com/products/grok",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "أداة جديدة للتعامل مع سطر الأوامر",
-   "summary": "أداة جديدة ظهرت باسم Soup CLI توفر واجهة سطر أوامر لتسهيل مهام محددة في بيئات التطوير. تركز الأداة على تبسيط العمليات التقنية المعقدة من خلال أوامر برمجية مباشرة.",
-   "url": "https://www.producthunt.com/products/soup-cli",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "أداة مساعدة للتعامل مع التوثيق البرمجي",
-   "summary": "أداة جديدة ظهرت باسم DocsAlot CLI تختص بإدارة والتعامل مع ملفات التوثيق البرمجي عبر سطر الأوامر. تهدف الأداة إلى تسريع عملية معالجة وتنظيم الوثائق التقنية للمشاريع البرمجية.",
-   "url": "https://www.producthunt.com/products/docsalot-2",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "يونيتري والسباق الصيني نحو الإدراج البورصي للروبوتات الإنسانية",
-   "summary": "تسعى شركات صينية متخصصة في تطوير الروبوتات الإنسانية للدخول إلى الأسواق المالية، وتبرز شركة يونيتري كلاعب رئيسي في هذا المجال. يعكس هذا التوجه الاهتمام المتزايد برأس المال الاستثماري في تكنولوجيا الروبوتات المتقدمة على المستوى العالمي.",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjB2dzNKb3VmRVFmUlhoXzMyTFBwQ2p0V3JhX3N0TWV2Mkcza2pfR09rNUdYQXJzX25MV3V6eXJBdXdqdjVXMnJPQldxRFp5M0ZUNVVrSWVhODB4SF9BdXVXNVUzTVJWYnFqS2F4bWV5VW1zdlZxMGFzUGwtbEh4Y0VULWVxTE9mUVRXa3huQ1ZnNGVxYndWbWVhcDJ4OWI5bXJxWUg5emIyYU9mUlVEQzJjNXA1S0FaNFhF?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "أوبن إيه آي توسّع خدماتها نحو المعلنين الصغار والمتوسطين",
-   "summary": "تسعى أوبن إيه آي إلى جذب فئة جديدة من العملاء من المشاريع الصغيرة والمتوسطة في مجال الإعلان الرقمي. تمثل هذه الخطوة تطوراً في استراتيجية الشركة لتوسيع قاعدة العملاء خارج الشركات الكبرى.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRcU5qcHdodXphS2hUejlZY2tzQmlWX2EteTNMOXB6MFlmY01adUlleHFtZG56OVFUVWs3RmNXZ2d0UEpKTzlmT2pmaVY2eE5aUFRTVXNXX0lBaE5zMW1DMWQzMS0wYzBpLXN6aW1NTVYxRlBYa2c?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-08-10"
   }
  ]
