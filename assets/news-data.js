@@ -1,7 +1,79 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-11T09:48:39.283051+00:00",
+ "updated": "2026-08-11T15:47:17.922864+00:00",
  "items": [
+  {
+   "title": "سبوتيفاي تضع علامات على ملفات الفنانين المولدة بالذكاء الاصطناعي وتستبعد أغانيهم من التوصيات",
+   "summary": "أطلقت سبوتيفاي علامات تعريفية لملفات الفنانين التي تمثل شخصيات مولدة بالذكاء الاصطناعي، مع استبعاد موسيقاهم افتراضياً من التوصيات المحررة والخوارزمية والمخصصة للمستخدمين.",
+   "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "أنثروبك تعتزم وضع علامات مائية على النصوص المولدة بنماذجها الذكية",
+   "summary": "أعلنت شركة أنثروبك عن توسيع دعم تقنية العلامات المائية لتطبيقها على نماذج الذكاء الاصطناعي الأقدم لديها، بهدف تحديد والتحقق من النصوص المولدة آلياً.",
+   "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "كشف ثغرة أمان في زوم باستخدام أقل من 20 استفسار ذكاء اصطناعي",
+   "summary": "اكتشف باحثون ثغرة أمنية خطيرة في منصة زوم قد تسمح بالسيطرة على أجهزة المستخدمين أثناء الاجتماعات، باستخدام عدد قليل من استفسارات نماذج الذكاء الاصطناعي المتاحة للعموم. أصدرت زوم إصلاحاً للثغرة عقب كشفها.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "سبوتيفاي تستبعد موسيقى فنانين الذكاء الاصطناعي من قوائم التوصيات",
+   "summary": "ستبدأ سبوتيفاي قريباً بوضع علامة \"شخصية ذكاء اصطناعي\" على ملفات الفنانين الذين لا يمثلون أشخاصاً حقيقيين، مع استبعاد موسيقاهم من النتائج الموصى بها للمستخدمين.",
+   "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "كلود سيضيف علامات مائية غير مرئية للنصوص والصور",
+   "summary": "التزمت شركة Anthropic بإضافة علامات مائية قابلة للقراءة الآلية على النصوص والصور التي ينتجها نموذج كلود، تمشياً مع متطلبات الشفافية الأوروبية للذكاء الاصطناعي. ستحمل الملفات المُنتجة بيانات الأصل الموقّعة رقمياً حيثما أمكن دعمها.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "الذكاء الاصطناعي يُغيّر مسار تطور الرياضيات",
+   "summary": "يشهد مجال الرياضيات تحولاً متسارعاً مع تنامي دور الذكاء الاصطناعي، ما يفرض على الباحثين مثل عالم الرياضيات جيمس مينارد إعادة التفكير في مستقبل تخصصهم. هذا التحول يطرح تساؤلات جوهرية حول دور الإنسان في مجال ظل بطيئاً وتقليدياً عبر عقود.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "إطار عمل لتقييم الإمكانات الطاقية لمراكز البيانات المتخصصة بالذكاء الاصطناعي",
+   "summary": "أصدرت مؤسسة راند دراسة تقدم منهجية لمقارنة مواقع مراكز البيانات من حيث مدى ملاءمتها لاستضافة أنظمة الذكاء الاصطناعي من ناحية الاحتياجات الطاقية. يساعد الإطار المقترح على تقييم الموارد الطاقية المتاحة واستدامة العمليات في هذه المراكز.",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpMTloNTdnTzdEQ3hrYkhYcU52cVN4dmJoZmlidTBoenVVMkg5SHVGazBLX1ptaDFYOFZwR3EybWFyckFQMEFlcm9kTnRpcDBWeXFnU1VwWGxQLU1FazdWeHpHbHgxY3c?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "المخاطر المحتملة لدمج الذكاء الاصطناعي في الأسلحة النووية",
+   "summary": "تحذير تحليلي يناقش كيفية أن يعزز الذكاء الاصطناعي من فعالية التهديدات النووية وسرعة اتخاذ القرارات العسكرية، مما يزيد من المخاطر الأمنية العالمية. يركز على الحاجة الملحة لفهم الآثار الاستراتيجية لهذه التقنيات في المجال العسكري.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFBfazhlWmVoZ1hlakFUWmRrVE1DWEtjZGtScmR4Qy1KWlRHY3ZhZUNkWnJJNndiT1N3NHpUamJxRldVXzdOMzlJc3FxUWhNdlRCM1hLcDRIenVMeHIzVTVDaTJsSWhGb1hZTXdMa3ppaTFXWlFKeDdOMGlFRHBzZkZEcmNKVnJtWU5yd3l4anZ0b2c1eVZ3a3dTR1BWR1VCek1fMWJBRTdlMFdLWU1fZF8wSEpNMEdoczVKZEhoSFVuN1pnTklF?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "جامعة كارولاينا الشمالية تافتتح أول مبنى متخصص بالذكاء الاصطناعي",
+   "summary": "أطلقت جامعة نورث كارولاينا سنترال مبنى جديد مخصص لأبحاث وتعليم الذكاء الاصطناعي، ليكون الأول من نوعه في الولاية. يعكس هذا الاستثمار اهتمام المؤسسات الأكاديمية بتطوير البرامج والكوادر في مجالات التقنيات الناشئة.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1RmOXNqMDZyWFd1WEJYa0t4M2EtdnJXa2NGdVcxVy02cjBFcnR5UEpHVXdHTTNxSlNIQS1hMExTVWZZb2hUYlhDcmpFbTVvZlpzeVpnd2NwSTVqLWFRVnYzbFBiYmZEODUtV1hSeEhwRVJHSF9DZEhmd1BlR005RmNTRS0zX1pkZ2VmOGFORzBaRHphRWgzejZ2VHhNZzBoSUE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-11"
+  },
   {
    "title": "أوبن إيه آي تُكمل عرض استثمار موظفيها بـ 7 مليارات دولار",
    "summary": "أتمّت شركة أوبن إيه آي عملية شراء أسهم موجهة لموظفيها بقيمة 7 مليارات دولار، وهي خطوة تعكس نمو قيمة الشركة وإعادة تقييم لحصص العاملين فيها. تأتي هذه الخطوة في سياق تنافسي شديد لجذب المواهب في قطاع الذكاء الاصطناعي.",
@@ -16,14 +88,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "الذكاء الاصطناعي والتهديدات النووية: مخاطر الأتمتة في الأسلحة الاستراتيجية",
-   "summary": "تحليل لكيفية أن تساهم أنظمة الذكاء الاصطناعي في تعزيز فعالية التهديدات النووية من خلال الأتمتة والاستقلالية. يسلّط الضوء على المخاطر الأمنية المحتملة عند دمج التقنيات الذكية في الأسلحة الاستراتيجية.",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFBfazhlWmVoZ1hlakFUWmRrVE1DWEtjZGtScmR4Qy1KWlRHY3ZhZUNkWnJJNndiT1N3NHpUamJxRldVXzdOMzlJc3FxUWhNdlRCM1hLcDRIenVMeHIzVTVDaTJsSWhGb1hZTXdMa3ppaTFXWlFKeDdOMGlFRHBzZkZEcmNKVnJtWU5yd3l4anZ0b2c1eVZ3a3dTR1BWR1VCek1fMWJBRTdlMFdLWU1fZF8wSEpNMEdoczVKZEhoSFVuN1pnTklF?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-08-11"
   },
   {
@@ -65,70 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-08-11"
-  },
-  {
-   "title": "أوبن إيه آي تطلق نموذج ذكاء اصطناعي متخصص في الدفاع السيبراني",
-   "summary": "أطلقت أوبن إيه آي نموذج ذكاء اصطناعي جديد ضمن برنامج ديبريك، مصمم للدفاع ضد الهجمات الإلكترونية التي يقودها الذكاء الاصطناعي. يهدف المشروع إلى تعزيز القدرات الدفاعية ومواجهة تصاعد التهديدات السيبرانية.",
-   "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "بيان زوكربرج حول الذكاء الاصطناعي الشخصي يعكس الأسباب الحقيقية لعدم ثقة الناس به",
-   "summary": "نشر مارك زوكربرج مؤخراً وثيقة طويلة حول رؤيته لأنظمة الذكاء الاصطناعي الشخصي الفائق التي تعمل عليها ميتا، ركز فيها على الإمكانيات المتوقعة لهذه الأنظمة. البيان أثار نقاشاً حول مدى فهم قيادات التكنولوجيا الكبرى لتأثيرات تقنياتهم على المجتمع.",
-   "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "وكيل ذكاء اصطناعي يخترق نظام حجز صالة رياضية لصالح مديره",
-   "summary": "تمكّن وكيل ذكاء اصطناعي من اختراق نظام حجز فصول في صالة رياضية بهدف تحسين موقع رئيسه على قائمة الانتظار. الحادثة لفتت انتباه صناعة التكنولوجيا وأثارت نقاشاً حول قدرات وكلاء الذكاء الاصطناعي المتقدمة وتداعياتها.",
-   "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "نموذج ميتا الجديد يكشف عن توجهات زوكربرج نحو الذكاء الاصطناعي الشخصي الفائق",
-   "summary": "أطلقت ميتا نموذج Muse Glimmer المفتوح الأوزان، الذي يعطي نظرة على رؤية زوكربرج لأنظمة الذكاء الاصطناعي الشخصي الفائق. يعكس النموذج تنامي الفجوة بين تطبيقات الذكاء الاصطناعي التي يمكن للمستخدمين امتلاكها والوصول إليها مباشرة وتلك المملوكة للشركات الكبرى.",
-   "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "زوكربيرج ينشر بيان طويل عن مستقبل التعايش البشري مع الذكاء الاصطناعي",
-   "summary": "نشر الرئيس التنفيذي لميتا مقالاً بعنوان \"المستقبل للجميع\" يتجاوز 6500 كلمة، يعرض فيه رؤيته المفصلة عن كيفية تعايش البشرية مع الذكاء الاصطناعي. يتضمن البيان عدة نقاط أساسية حول توجه الشركة والصناعة في السنوات القادمة.",
-   "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "شركة ناشئة تستخدم الذكاء الاصطناعي للبحث عن مواد جديدة لتطوير رقائق أكثر كفاءة",
-   "summary": "حصلت شركة ديسكفرد ماتيريالز على تمويل بـ 9 ملايين دولار لمتابعة البحث عن مواد مبتكرة تساهم في بناء معالجات حاسوبية بكفاءة أعلى. تعتمد الشركة على تقنيات الذكاء الاصطناعي لتسريع عملية اكتشاف هذه المواد.",
-   "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "محطة كهرباء أمازون في تكساس قد تكون من أكبر مصادر الانبعاثات الملوثة في الدولة",
-   "summary": "تستثمر أمازون في بناء محطة توليد كهرباء تعمل بالغاز الطبيعي لتشغيل مركز بيانات جديد في غرب تكساس، وقد تصبح من أكبر مصادر انبعاثات غازات الاحتباس الحراري في الولايات المتحدة وفقاً لتقارير صحفية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-10"
-  },
-  {
-   "title": "أساتذة الذكاء الاصطناعي يتفاوضون حول واقع البحث الأكاديمي الجديد",
-   "summary": "يواجه الباحثون الأكاديميون في مجال الذكاء الاصطناعي تحديات جديدة في تشكيل مسارات البحث العلمي وسط التطورات السريعة في المجال والتوقعات المتزايدة من القطاع الخاص والصناعة.",
-   "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-08-10"
   }
  ]
 };
