@@ -1,7 +1,119 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-11T15:47:17.922864+00:00",
+ "updated": "2026-08-11T21:33:40.193294+00:00",
  "items": [
+  {
+   "title": "OpenAI توفّر تطبيق ChatGPT المخصص لأنظمة لينكس",
+   "summary": "أطلقت OpenAI نسخة سطح المكتب من ChatGPT على نظام التشغيل لينكس بعد توفرها على أنظمة أخرى. يتيح التطبيق للمستخدمين على لينكس الوصول المباشر إلى ChatGPT دون الحاجة للمتصفح.",
+   "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "تطبيق Gemini من جوجل يتخطى مليار مستخدم نشط",
+   "summary": "أعلنت جوجل وصول تطبيق Gemini إلى مليار مستخدم شهري، مع استخدام 63% منهم ميزة الصوت في التفاعل مع المساعد. يولّد النموذج أكثر من 150 مليون صورة يومياً حسب الأرقام التي شاركتها الشركة.",
+   "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "Brad Lightcap، الرئيس التنفيذي العامل في OpenAI، يترك الشركة",
+   "summary": "أعلن Brad Lightcap بعد سنوات طويلة برئاسته لقسم العمليات في OpenAI عن رحيله من الشركة. ذكر في رسالة للموظفين أنه متحمس للمساهمة في مهمة الشركة من منظور جديد.",
+   "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "River AI تجمع 1.1 مليار دولار في جولة تمويل من General Catalyst",
+   "summary": "حصلت شركة River AI الناشئة، التي أسسها أحد مؤسسي xAI إيغور بابوشكين، على تمويل بقيمة 1.1 مليار دولار في وقت مبكر جداً. تركز الشركة على تطوير وكلاء ذكية شخصية متقدمة.",
+   "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "نموذج Anthropic التجريبي يحرز تقدماً في فرضية ريمان الرياضية",
+   "summary": "استطاع أحد نماذج Anthropic غير المطروحة تحقيق تقدم ملموس في فرضية ريمان، إحدى أبرز المسائل الرياضية غير المحلولة منذ أكثر من 150 سنة. لم تحل الشركة المسألة لكن النتائج تجاوزت التوقعات الأولية.",
+   "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "ChatGPT وGemini يتجاوزان حد المليار مستخدم",
+   "summary": "وصل كل من ChatGPT من OpenAI و Gemini من جوجل إلى علامة المليار مستخدم، وهي إحدى أكبر الأرقام في تاريخ تطبيقات الذكاء الاصطناعي. يمثل هذا الإنجاز زخماً قوياً لكلا المنصتين في تبني المستخدمين للتقنيات الحديثة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "مسؤول تنفيذي آخر يغادر OpenAI",
+   "summary": "أعلن براد لايتكاب، رئيس المشاريع الخاصة السابق والرئيس التشغيلي السابق في OpenAI، رحيله بعد ثماني سنوات في الشركة. أفاد في مذكرة داخلية أنه سيبدأ مشروعاً جديداً، وسط سلسلة رحيلات قيادية من الشركة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "جوجل تكشف عن أجهزة Pixel الجديدة في أغسطس",
+   "summary": "ستعلن جوجل في 12 أغسطس عن سلسلة أجهزة Pixel جديدة، حيث تشير التسريبات إلى وصول خيارات لونية متعددة لأجهزة Pixel 11، مع احتمالية إضافة ميزة إضاءة مدمجة في نماذج Pro.",
+   "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "آبل تطور ميزة للتحقق من صحة صور iPhone",
+   "summary": "تعمل آبل على ميزة في iOS تتحقق من تاريخ التقاط الصور مباشرة عبر كاميرا iPhone. النظام المقترح يضمّن بيانات الأصل في الصور وقت الالتقاط، مما يساعد في إثبات أصالة الصورة.",
+   "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "ثغرة أمان خطيرة في Zoom تُكتشف بمساعدة نماذج ذكاء اصطناعي",
+   "summary": "أصلحت Zoom ثغرة أمان حرجة كانت قد تسمح بسيطرة المهاجمين على أجهزة المستخدمين أثناء الاجتماعات. اكتشف الباحثون الفجوة باستخدام أقل من 20 طلب موجه لنماذج ذكاء اصطناعي متاحة علناً.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "جيميني تصل إلى مليار مستخدم وتصبح أسرع منتج نمواً لدى جوجل",
+   "summary": "حققت خدمة جيميني من جوجل علامة فارقة بوصولها إلى مليار مستخدم، لتصير الأسرع نمواً بين منتجات الشركة جميعاً. يبقى السؤال حول استدامة هذا الزخم مع تباطؤ وتيرة إطلاق نماذج جديدة.",
+   "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "نموذج لغوي صغير الحجم من Tines",
+   "summary": "أداة جديدة ظهرت باسم Tines 3B، وهي نموذج لغوي مُصغّر مصمّم للعمل على أجهزة محدودة الموارد. تركّز على توفير قدرات معالجة نصوص فعّالة دون الحاجة إلى بنى تحتية حوسبية ثقيلة.",
+   "url": "https://www.producthunt.com/products/tines",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "منصة Octomind للحوسبة السحابية والتكامل",
+   "summary": "أداة جديدة ظهرت باسم Octomind Cloud and Hub، وهي منصة توفر خدمات حوسبة سحابية وتجميع موارد رقمية. تهدف إلى تسهيل إدارة البيانات والتطبيقات عبر بيئات موزعة.",
+   "url": "https://www.producthunt.com/products/octomind-plug-n-play-ai-agents",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "تحليلات المنتجات للوكلاء الذكيين والمستخدمين",
+   "summary": "أداة جديدة ظهرت لتوفير تحليلات متقدمة حول سلوك الوكلاء الذكيين والمستخدمين. تساعد في فهم تفاعلات الأنظمة الآلية والبشرية من خلال مقاييس وتقارير مخصصة.",
+   "url": "https://www.producthunt.com/products/kubit",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-11"
+  },
   {
    "title": "سبوتيفاي تضع علامات على ملفات الفنانين المولدة بالذكاء الاصطناعي وتستبعد أغانيهم من التوصيات",
    "summary": "أطلقت سبوتيفاي علامات تعريفية لملفات الفنانين التي تمثل شخصيات مولدة بالذكاء الاصطناعي، مع استبعاد موسيقاهم افتراضياً من التوصيات المحررة والخوارزمية والمخصصة للمستخدمين.",
@@ -16,118 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "كشف ثغرة أمان في زوم باستخدام أقل من 20 استفسار ذكاء اصطناعي",
-   "summary": "اكتشف باحثون ثغرة أمنية خطيرة في منصة زوم قد تسمح بالسيطرة على أجهزة المستخدمين أثناء الاجتماعات، باستخدام عدد قليل من استفسارات نماذج الذكاء الاصطناعي المتاحة للعموم. أصدرت زوم إصلاحاً للثغرة عقب كشفها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "سبوتيفاي تستبعد موسيقى فنانين الذكاء الاصطناعي من قوائم التوصيات",
-   "summary": "ستبدأ سبوتيفاي قريباً بوضع علامة \"شخصية ذكاء اصطناعي\" على ملفات الفنانين الذين لا يمثلون أشخاصاً حقيقيين، مع استبعاد موسيقاهم من النتائج الموصى بها للمستخدمين.",
-   "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "كلود سيضيف علامات مائية غير مرئية للنصوص والصور",
-   "summary": "التزمت شركة Anthropic بإضافة علامات مائية قابلة للقراءة الآلية على النصوص والصور التي ينتجها نموذج كلود، تمشياً مع متطلبات الشفافية الأوروبية للذكاء الاصطناعي. ستحمل الملفات المُنتجة بيانات الأصل الموقّعة رقمياً حيثما أمكن دعمها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "الذكاء الاصطناعي يُغيّر مسار تطور الرياضيات",
-   "summary": "يشهد مجال الرياضيات تحولاً متسارعاً مع تنامي دور الذكاء الاصطناعي، ما يفرض على الباحثين مثل عالم الرياضيات جيمس مينارد إعادة التفكير في مستقبل تخصصهم. هذا التحول يطرح تساؤلات جوهرية حول دور الإنسان في مجال ظل بطيئاً وتقليدياً عبر عقود.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "إطار عمل لتقييم الإمكانات الطاقية لمراكز البيانات المتخصصة بالذكاء الاصطناعي",
-   "summary": "أصدرت مؤسسة راند دراسة تقدم منهجية لمقارنة مواقع مراكز البيانات من حيث مدى ملاءمتها لاستضافة أنظمة الذكاء الاصطناعي من ناحية الاحتياجات الطاقية. يساعد الإطار المقترح على تقييم الموارد الطاقية المتاحة واستدامة العمليات في هذه المراكز.",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpMTloNTdnTzdEQ3hrYkhYcU52cVN4dmJoZmlidTBoenVVMkg5SHVGazBLX1ptaDFYOFZwR3EybWFyckFQMEFlcm9kTnRpcDBWeXFnU1VwWGxQLU1FazdWeHpHbHgxY3c?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "المخاطر المحتملة لدمج الذكاء الاصطناعي في الأسلحة النووية",
-   "summary": "تحذير تحليلي يناقش كيفية أن يعزز الذكاء الاصطناعي من فعالية التهديدات النووية وسرعة اتخاذ القرارات العسكرية، مما يزيد من المخاطر الأمنية العالمية. يركز على الحاجة الملحة لفهم الآثار الاستراتيجية لهذه التقنيات في المجال العسكري.",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFBfazhlWmVoZ1hlakFUWmRrVE1DWEtjZGtScmR4Qy1KWlRHY3ZhZUNkWnJJNndiT1N3NHpUamJxRldVXzdOMzlJc3FxUWhNdlRCM1hLcDRIenVMeHIzVTVDaTJsSWhGb1hZTXdMa3ppaTFXWlFKeDdOMGlFRHBzZkZEcmNKVnJtWU5yd3l4anZ0b2c1eVZ3a3dTR1BWR1VCek1fMWJBRTdlMFdLWU1fZF8wSEpNMEdoczVKZEhoSFVuN1pnTklF?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "جامعة كارولاينا الشمالية تافتتح أول مبنى متخصص بالذكاء الاصطناعي",
-   "summary": "أطلقت جامعة نورث كارولاينا سنترال مبنى جديد مخصص لأبحاث وتعليم الذكاء الاصطناعي، ليكون الأول من نوعه في الولاية. يعكس هذا الاستثمار اهتمام المؤسسات الأكاديمية بتطوير البرامج والكوادر في مجالات التقنيات الناشئة.",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1RmOXNqMDZyWFd1WEJYa0t4M2EtdnJXa2NGdVcxVy02cjBFcnR5UEpHVXdHTTNxSlNIQS1hMExTVWZZb2hUYlhDcmpFbTVvZlpzeVpnd2NwSTVqLWFRVnYzbFBiYmZEODUtV1hSeEhwRVJHSF9DZEhmd1BlR005RmNTRS0zX1pkZ2VmOGFORzBaRHphRWgzejZ2VHhNZzBoSUE?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "أوبن إيه آي تُكمل عرض استثمار موظفيها بـ 7 مليارات دولار",
-   "summary": "أتمّت شركة أوبن إيه آي عملية شراء أسهم موجهة لموظفيها بقيمة 7 مليارات دولار، وهي خطوة تعكس نمو قيمة الشركة وإعادة تقييم لحصص العاملين فيها. تأتي هذه الخطوة في سياق تنافسي شديد لجذب المواهب في قطاع الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "مستقبل بوز: كيف ستتغيّر السماعات مع تطور الذكاء الاصطناعي",
-   "summary": "تناقش ليلا سنايدر الرئيسة التنفيذية لشركة بوز كيفية تطوّر دور الشركة من مُنتج سماعات رأس تقليدية إلى علامة تدمج تقنيات الذكاء الاصطناعي في منتجاتها. تعتمد الشركة على خبرتها الستين سنة في البحث والتطوير لقيادة هذا التحول في السوق.",
-   "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "الإشراف البشري ضروري: دور المراقبة في قرارات الشركات المعتمدة على الذكاء الاصطناعي",
-   "summary": "دراسة تؤكد أهمية الرقابة البشرية عند استخدام الذكاء الاصطناعي في اتخاذ القرارات التنظيمية والإدارية. تناقش كيفية أن الاعتماد الكامل على الآلات يحتاج توازنًا مع التدخل والحكم البشري.",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORjIwYXRvZ052b0Nsa19XbEJ1akhYUUlVMVB3UHYzMXVJaTFuTFgxS2kzb2ZtUm9CY09hTXI0UEIxVHBZS3hFaWhMeWxCX09MMmlObkxkTlU0am1wMDdRRE5VTndmbXhMbnlhOHMtYmQwY09uRE90dkhMS0htOTl3Q09HZjNDbzhEU1lwOGxTbGRod1V3cmhGMEZHMm02OC1aVkJpd2VhSkxiNlJlalZISVhsQTJGUTBuSXgzcTZZWHdfYVRrc2puOUlSYVppeDNrQ0F6LTZMWnlpVVdXTWEw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "قوانين أسيموف الثلاثة: هل يمكنها أن تحكّم الذكاء الاصطناعي؟",
-   "summary": "تقييم نقدي لقدرة القوانين الثلاثة الكلاسيكية للعالم إسحاق أسيموف على التحكم في أنظمة الذكاء الاصطناعي الحديثة. يستعرض الفجوات بين الخيال العلمي والواقع التكنولوجي المعاصر.",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGlHaUNGVW82VjI5dW93NzJtWklfcXdLQzdZMUc1TjNuMTdrQkRuRlpfMml3WUNNU0JmYlNHcVFBUVFZUGRqZjl1TkNFZzh3ZV9OOHNEVVlsbnlUemc5by1XVUhselBIcWNMcEp1amtrWVlOcElYMlFUTF9lZ2NMZU1Xbm10NkVuOW9WMndVQnZHaW1uS0dDeXE1OHIzUEpsemtiYTlxM2tzaW1PMVZpZ2NIa1NwRnQzX0dwWFl2REtqREcxV0t4UGRn?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "أنثروبيك تسعى لتعزيز ثقة المستثمرين قبل طرح أسهمها",
-   "summary": "تحرّك استراتيجي من شركة أنثروبيك لتقوية علاقاتها مع المستثمرين تحضيرًا لعملية الطرح العام المتوقع. تعكس الخطوة اهتمام السوق المتزايد بشركات الذكاء الاصطناعي الناشئة.",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkwyZ1VpWlNrT3d1MXNJbmJkXzRSSVpjMkl6UWt6TmlxZF9rdVFaeWc5TmZ1bVBYbjJsNkZpS2txNi1Yal82amFHYjdiRGlrWGswT3RTUVEzc1Q3Zzg2WUNscDZsV3IwTE80aGJFUjJvVzRWQ3pIbnZlSWlLLWZlX0l1N1FiaHpYVEpJTWlzNTJuOVRKdXpnUHlab2NCMnlaNFVtdXJPZWV2RW1DX0E?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "جامعة نورث كارولاينا المركزية تفتتح معهداً متخصصاً في الذكاء الاصطناعي",
-   "summary": "افتتحت جامعة نورث كارولاينا المركزية معهداً جديداً مكرساً لدراسة وتطوير تطبيقات الذكاء الاصطناعي. يعكس هذا الإجراء الاهتمام المتزايد بتوسيع البحث العلمي في مجال الذكاء الاصطناعي عبر المؤسسات الأكاديمية الأمريكية.",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aVVhycFluYVpxbWRtYS1KN1czYUxxdk1raGp3VTI1NHVLMm53TThuWms5X0dzMjZDYTFuWkItOG9vdWMteENEWHJmUkduQXc?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "أوبن إيه آي تتمم عرض أسهم موظفيها بقيمة 7 مليارات دولار",
-   "summary": "أكملت شركة أوبن إيه آي عملية شراء أسهم موظفيها بقيمة إجمالية بلغت 7 مليارات دولار. تمثل هذه العملية فرصة لموظفي الشركة للاستفادة من قيمتها المتنامية قبل أي طرح عام محتمل.",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObnBLRGdHa3lNaVVxZjRNUU9tN2tjSDdGeVg1V3E3dW85TDI0OXNJaVZmaVYxeDEzN1RaY3dZQWhWU0JiQk1sUm1sTHk1NmRJVUEtX3ZWaTRvQUdJUFlXNjg4TU0yT0JFb0J6aXV5M0hhTlpsQW4yUWFocXBZdC00Sjh0S0I1TF9QMXo0M0VGZHBneVJ2TUhxRnc5Qk8?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-08-11"
   }
  ]
