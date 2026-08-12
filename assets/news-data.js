@@ -1,66 +1,90 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-12T04:40:10.260621+00:00",
+ "updated": "2026-08-12T09:52:24.922345+00:00",
  "items": [
   {
-   "title": "سابير تنفي استبدال كتّاب لعبتها بنماذج الذكاء الاصطناعي",
-   "summary": "أنكرت شركة سابير استخدام ChatGPT لاستبدال الكتّاب البشريين في لعبة \"ريدشير ستيميولاتور\"، بينما تؤكد الكاتبة السابقة أنها تم استغناء عنها لصالح الذكاء الاصطناعي. يثير الخلاف تساؤلات حول توظيف تقنيات الذكاء الاصطناعي في الإنتاج الإبداعي.",
+   "title": "شركة Saber تنفي استبدال كتّابها بنماذج الذكاء الاصطناعي",
+   "summary": "أنكرت شركة Saber استبدال الكتّاب البشريين بـ ChatGPT في لعبة Rideshare Stimulator، رغم ادعاء كاتبة سابقة بفصلها لهذا السبب. أثار الخلاف نقاشاً حول دور الذكاء الاصطناعي في الإنتاج الإبداعي في صناعة الألعاب.",
    "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-12"
   },
   {
-   "title": "الذكاء الاصطناعي في تحليل صور المرارة: مراجعة سريعة وتحليل تلوي استكشافي للأداء التشخيصي",
-   "summary": "دراسة نشرتها مجلة Cureus تفحص دور الذكاء الاصطناعي في تحسين تشخيص أمراض المرارة من خلال تحليل الصور الطبية. تسلط المراجعة الضوء على كيفية إمكانية الخوارزميات الذكية مساعدة الأطباء في اكتشاف الحالات المرضية بدقة أكبر وتسريع عملية التشخيص.",
+   "title": "المدارس تستثمر مليارات في الذكاء الاصطناعي لكنها تتردد في تقييم جدواه",
+   "summary": "تنفق المؤسسات التعليمية مبالغ ضخمة على تقنيات الذكاء الاصطناعي، لكنها تواجه صعوبات في تحديد القيمة الفعلية لهذه الاستثمارات وتقييم تأثيرها الحقيقي على جودة التعليم والإدارة المدرسية.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXVxSElkOG1aV0JFZmk5Q3Y1WnJHbkxJbjlNaUhmMzVWQlhrbGNLTVozSHRtUUFRRGI4enJjUUVZdmZxdkg1aTF3XzF6TTF5ZlU5X0VBd1ptUTJVUUwzRW1BZDM1eGdCQlRnaWs5cjA2UTI3SGZrMk9QbTBvTElpVDU0Wm9sUkp5a3VGdlFmWnFWMTNiWXN0UWZJY0FTdUJYcTBiMWNhbw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "الذكاء الاصطناعي في تحليل صور المرارة: مراجعة أدلة وتحليل تلوي للأداء التشخيصي",
+   "summary": "دراسة تحليلية تقيّم دقة الذكاء الاصطناعي في تشخيص أمراض المرارة من خلال الصور الطبية، وتفحص إمكانية استخدامه كأداة مساعدة للأطباء في تحسين دقة التشخيص.",
    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWThMdnV4bENIaGFDbUF2ejNYUHozNDlPUlNtTzlQOTF5dTVrTFZPUFB2dXNYVE5EMGhTMTVKSE13MnotdHRBaWtESEQ4anFXNUlJeUdHMlJ0WjRBX3hTT1lpU05wQ3FoX21OaGwtTHVSa0tNZ216c3J3Q0ZzQ3ZFUWFDcHRXSjFfVGRCRkhLNjZEMTNHdmlUQXUxaFBWdExSbEFxR1laNlVoLURBaE9XcDRrZXV0dkVLd3lYYjR1VUhfSWJOd292Ym5wNktPZDFYdVhkNjkwV2tfNmVwaEZYM0VqbFIxNFhKQjlhR0RZWTZPazdUbU5sc2NXaFZmT3ZtWHFqdFByWGdPSDRFVFQxdE1HZExQdw?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-12"
   },
   {
-   "title": "شركة Accel تغلق صندوقها الاستثماري الهندي بـ 550 مليون دولار في وقت قياسي",
-   "summary": "أغلقت شركة Accel الأمريكية للاستثمارات جولة تمويل ضخمة لصندوقها الموجه للهند، مما يعكس الثقة المتجددة في سوق التكنولوجيا الهندية. الشركة لا تزال تملك أكثر من نصف صندوقها السابق البالغ 650 مليون دولار متاحاً للاستثمار في شركات ناشئة هندية.",
+   "title": "العوامل التي تحمي الأطباء من الانخداع بنماذج اللغة الكبرى",
+   "summary": "بحث يكشف الخصائص والممارسات التي تجعل الأطباء الاختصاصيين أقل عرضة للتأثر بأخطاء نماذج اللغة الاصطناعية عند استخدامها في التحليل الطبي.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMS1xMDliX29MbGdBX1VjV2FuM09nQVJCai04a21LamdKNHVocUd5Y1RqSmpEdnNEYkJtZWVocE9SNTBZSUZVRmlvTFRWQlR5Q0hEeWVsSlEtUmJiRldKRkRybUNjWlFCWnVIbHNXbEJLZzlnYXR3R1E5ZjIzQXFBNU5iQzU3VlE2emVWUmJGdzg4NS15RG1ady1ZV0tJSGFfTGd5OWp2aEl1NHBuRHRUZjdPWEtLcXJBWFdPRVRyYTc5b3pZU2Z4TjR3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "علامات مائية لـ Anthropic تفتح جبهة جديدة في كشف النصوص المولدة آلياً",
+   "summary": "أطلقت شركة Anthropic تقنية علامات مائية للنصوص تهدف إلى تمييز المحتوى المُنتج بالذكاء الاصطناعي عن النصوص البشرية، وذلك كخطوة نحو التحقق من أصالة المعلومات الرقمية.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TMFZTUmdmZWw4Q3RNNlpOcG01TkQ3bi1QRVF6LUpnWTJlTGFKT1Z5QmtONlJ1SXdtbnNfdEVpdkgxY2dvOHZGRTVPRlJBdVYyVFB0UzlGUjBsNmlvMzh3RDFWblk2SGNCZGRNM2xmS3BuMXN1SUFXZ0U0TVdOdw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "صندوق Accel للاستثمار في الهند يجمع 550 مليون دولار في أسابيع قليلة",
+   "summary": "أغلقت شركة Accel لرأس المال الاستثماري صندوقها الهندي الجديد بـ 550 مليون دولار في وقت قياسي، فيما تحتفظ بأكثر من نصف رصيد صندوقها السابق البالغ 650 مليون دولار للاستثمار القادم.",
    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-11"
   },
   {
-   "title": "OpenAI تطلق تطبيق ChatGPT سطح المكتب لنظام Linux",
-   "summary": "أتاحت OpenAI تطبيقاً مخصصاً لـ ChatGPT على أنظمة لينكس بعد توفره على أنظمة أخرى. التطبيق يمكّن مستخدمي لينكس من الوصول المباشر والسلس إلى خدمات الذكاء الاصطناعي دون الاعتماد على المتصفح.",
+   "title": "OpenAI توفر تطبيق ChatGPT المخصص لأنظمة Linux",
+   "summary": "أطلقت OpenAI نسخة تطبيق سطح مكتب متخصصة من ChatGPT لأنظمة التشغيل Linux، مما يوفر للمستخدمين على هذه الأنظمة إمكانية الوصول المباشر للنموذج بسهولة أكبر.",
    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-11"
   },
   {
-   "title": "تطبيق Gemini من جوجل يتجاوز المليار مستخدم نشط",
-   "summary": "وصل مساعد Gemini الذكي من جوجل إلى علامة المليار مستخدم، مع استخدام غالبيتهم الميزة الصوتية للتفاعل المباشر. يولّد التطبيق يومياً أكثر من 150 مليون صورة، مما يعكس انتشاراً واسعاً واستخداماً متنوعاً لخدمات الذكاء الاصطناعي.",
+   "title": "تطبيق جيميني من جوجل يتجاوز مليار مستخدم",
+   "summary": "وصل تطبيق جيميني إلى علامة مليار مستخدم، مما يعكس انتشاراً واسعاً للمساعد الذكي. وتشير الإحصائيات إلى أن 63% من المستخدمين يعتمدون على الميزة الصوتية للتفاعل المباشر، بينما يولد التطبيق أكثر من 150 مليون صورة يومياً.",
    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-11"
   },
   {
-   "title": "Brad Lightcap، الرئيس التنفيذي للعمليات بـ OpenAI، يترك الشركة للمشاريع الجديدة",
-   "summary": "أعلن Brad Lightcap، أحد أقدم التنفيذيين في OpenAI، عن رحيله من الشركة لانطلاقته في مسار جديد. أشار إلى أنه سيستمر في دعم رسالة الشركة من موضع مختلف، مما يشير إلى انتقال استراتيجي بدلاً من انقطاع.",
+   "title": "رئيس العمليات التنفيذي في أوبن إيه آي يغادر الشركة",
+   "summary": "أعلن براد لايتكاب، رئيس العمليات التنفيذي في أوبن إيه آي لسنوات، عن مغادرته الشركة لبدء مشروع جديد. وأوضح في رسالته للموظفين أنه متحمس لدعم الشركة وتطوير مهمتها من منظور مختلف.",
    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-11"
   },
   {
-   "title": "General Catalyst تستثمر 1.1 مليار دولار في الشركة الناشئة River AI",
-   "summary": "حصلت شركة River AI، المؤسسة بواسطة أحد مؤسسي xAI، على جولة تمويل ضخمة بـ 1.1 مليار دولار في أسابيعها الأولى. تركز الشركة على تطوير وكلاء ذكية شخصية، مما يعكس اهتماماً متزايداً من رأس المال الاستثماري بتقنيات الوكلاء الذاتية.",
+   "title": "شركة River AI الناشئة تجمع 1.1 مليار دولار في جولة تمويل",
+   "summary": "حصلت شركة River AI، التي أسسها أحد مؤسسي xAI إيغور بابوشكين، على تمويل بقيمة 1.1 مليار دولار بقيادة صندوق جنرال كاتاليست. تركز الشركة على تطوير وكلاء ذكيين شخصيين بعد أسابيع قليلة من تأسيسها.",
    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-11"
   },
   {
-   "title": "تطبيقا ChatGPT وGemini يتجاوزان حاجز مليار مستخدم",
-   "summary": "أعلن الرئيس التنفيذي لجوجل أن تطبيق Gemini وصل إلى مليار مستخدم شهري، ليصبح أسرع منتج نمواً في تاريخ الشركة. حقق كل من Gemini و ChatGPT هذا الإنجاز، مما يعكس الاعتماد المتسارع على تطبيقات الذكاء الاصطناعي في الحياة اليومية.",
+   "title": "تشات جي بي تي وجيميني يعبران حد مليار مستخدم",
+   "summary": "حقق تطبيق جيميني من جوجل مليار مستخدم شهري ليصبح أسرع منتج للشركة في تحقيق هذه النقطة، بينما وصلت تطبيقات الذكاء الاصطناعي الأخرى مثل تشات جي بي تي إلى نفس الإنجاز، مما يعكس نمواً سريعاً في قطاع المساعدات الذكية.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
    "source": "The Verge AI",
    "tag": "منتجات",
@@ -104,30 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "جيميني تصل إلى مليار مستخدم وتصبح أسرع منتج نمواً لدى جوجل",
-   "summary": "حققت خدمة جيميني من جوجل علامة فارقة بوصولها إلى مليار مستخدم، لتصير الأسرع نمواً بين منتجات الشركة جميعاً. يبقى السؤال حول استدامة هذا الزخم مع تباطؤ وتيرة إطلاق نماذج جديدة.",
-   "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "نموذج لغوي صغير الحجم من Tines",
-   "summary": "أداة جديدة ظهرت باسم Tines 3B، وهي نموذج لغوي مُصغّر مصمّم للعمل على أجهزة محدودة الموارد. تركّز على توفير قدرات معالجة نصوص فعّالة دون الحاجة إلى بنى تحتية حوسبية ثقيلة.",
-   "url": "https://www.producthunt.com/products/tines",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "منصة Octomind للحوسبة السحابية والتكامل",
-   "summary": "أداة جديدة ظهرت باسم Octomind Cloud and Hub، وهي منصة توفر خدمات حوسبة سحابية وتجميع موارد رقمية. تهدف إلى تسهيل إدارة البيانات والتطبيقات عبر بيئات موزعة.",
-   "url": "https://www.producthunt.com/products/octomind-plug-n-play-ai-agents",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
    "date": "2026-08-11"
   }
  ]
