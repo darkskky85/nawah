@@ -1,37 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-11T21:33:40.193294+00:00",
+ "updated": "2026-08-12T04:40:10.260621+00:00",
  "items": [
   {
-   "title": "OpenAI توفّر تطبيق ChatGPT المخصص لأنظمة لينكس",
-   "summary": "أطلقت OpenAI نسخة سطح المكتب من ChatGPT على نظام التشغيل لينكس بعد توفرها على أنظمة أخرى. يتيح التطبيق للمستخدمين على لينكس الوصول المباشر إلى ChatGPT دون الحاجة للمتصفح.",
+   "title": "سابير تنفي استبدال كتّاب لعبتها بنماذج الذكاء الاصطناعي",
+   "summary": "أنكرت شركة سابير استخدام ChatGPT لاستبدال الكتّاب البشريين في لعبة \"ريدشير ستيميولاتور\"، بينما تؤكد الكاتبة السابقة أنها تم استغناء عنها لصالح الذكاء الاصطناعي. يثير الخلاف تساؤلات حول توظيف تقنيات الذكاء الاصطناعي في الإنتاج الإبداعي.",
+   "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "الذكاء الاصطناعي في تحليل صور المرارة: مراجعة سريعة وتحليل تلوي استكشافي للأداء التشخيصي",
+   "summary": "دراسة نشرتها مجلة Cureus تفحص دور الذكاء الاصطناعي في تحسين تشخيص أمراض المرارة من خلال تحليل الصور الطبية. تسلط المراجعة الضوء على كيفية إمكانية الخوارزميات الذكية مساعدة الأطباء في اكتشاف الحالات المرضية بدقة أكبر وتسريع عملية التشخيص.",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWThMdnV4bENIaGFDbUF2ejNYUHozNDlPUlNtTzlQOTF5dTVrTFZPUFB2dXNYVE5EMGhTMTVKSE13MnotdHRBaWtESEQ4anFXNUlJeUdHMlJ0WjRBX3hTT1lpU05wQ3FoX21OaGwtTHVSa0tNZ216c3J3Q0ZzQ3ZFUWFDcHRXSjFfVGRCRkhLNjZEMTNHdmlUQXUxaFBWdExSbEFxR1laNlVoLURBaE9XcDRrZXV0dkVLd3lYYjR1VUhfSWJOd292Ym5wNktPZDFYdVhkNjkwV2tfNmVwaEZYM0VqbFIxNFhKQjlhR0RZWTZPazdUbU5sc2NXaFZmT3ZtWHFqdFByWGdPSDRFVFQxdE1HZExQdw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "شركة Accel تغلق صندوقها الاستثماري الهندي بـ 550 مليون دولار في وقت قياسي",
+   "summary": "أغلقت شركة Accel الأمريكية للاستثمارات جولة تمويل ضخمة لصندوقها الموجه للهند، مما يعكس الثقة المتجددة في سوق التكنولوجيا الهندية. الشركة لا تزال تملك أكثر من نصف صندوقها السابق البالغ 650 مليون دولار متاحاً للاستثمار في شركات ناشئة هندية.",
+   "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "OpenAI تطلق تطبيق ChatGPT سطح المكتب لنظام Linux",
+   "summary": "أتاحت OpenAI تطبيقاً مخصصاً لـ ChatGPT على أنظمة لينكس بعد توفره على أنظمة أخرى. التطبيق يمكّن مستخدمي لينكس من الوصول المباشر والسلس إلى خدمات الذكاء الاصطناعي دون الاعتماد على المتصفح.",
    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-11"
   },
   {
-   "title": "تطبيق Gemini من جوجل يتخطى مليار مستخدم نشط",
-   "summary": "أعلنت جوجل وصول تطبيق Gemini إلى مليار مستخدم شهري، مع استخدام 63% منهم ميزة الصوت في التفاعل مع المساعد. يولّد النموذج أكثر من 150 مليون صورة يومياً حسب الأرقام التي شاركتها الشركة.",
+   "title": "تطبيق Gemini من جوجل يتجاوز المليار مستخدم نشط",
+   "summary": "وصل مساعد Gemini الذكي من جوجل إلى علامة المليار مستخدم، مع استخدام غالبيتهم الميزة الصوتية للتفاعل المباشر. يولّد التطبيق يومياً أكثر من 150 مليون صورة، مما يعكس انتشاراً واسعاً واستخداماً متنوعاً لخدمات الذكاء الاصطناعي.",
    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-11"
   },
   {
-   "title": "Brad Lightcap، الرئيس التنفيذي العامل في OpenAI، يترك الشركة",
-   "summary": "أعلن Brad Lightcap بعد سنوات طويلة برئاسته لقسم العمليات في OpenAI عن رحيله من الشركة. ذكر في رسالة للموظفين أنه متحمس للمساهمة في مهمة الشركة من منظور جديد.",
+   "title": "Brad Lightcap، الرئيس التنفيذي للعمليات بـ OpenAI، يترك الشركة للمشاريع الجديدة",
+   "summary": "أعلن Brad Lightcap، أحد أقدم التنفيذيين في OpenAI، عن رحيله من الشركة لانطلاقته في مسار جديد. أشار إلى أنه سيستمر في دعم رسالة الشركة من موضع مختلف، مما يشير إلى انتقال استراتيجي بدلاً من انقطاع.",
    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-11"
   },
   {
-   "title": "River AI تجمع 1.1 مليار دولار في جولة تمويل من General Catalyst",
-   "summary": "حصلت شركة River AI الناشئة، التي أسسها أحد مؤسسي xAI إيغور بابوشكين، على تمويل بقيمة 1.1 مليار دولار في وقت مبكر جداً. تركز الشركة على تطوير وكلاء ذكية شخصية متقدمة.",
+   "title": "General Catalyst تستثمر 1.1 مليار دولار في الشركة الناشئة River AI",
+   "summary": "حصلت شركة River AI، المؤسسة بواسطة أحد مؤسسي xAI، على جولة تمويل ضخمة بـ 1.1 مليار دولار في أسابيعها الأولى. تركز الشركة على تطوير وكلاء ذكية شخصية، مما يعكس اهتماماً متزايداً من رأس المال الاستثماري بتقنيات الوكلاء الذاتية.",
    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "تطبيقا ChatGPT وGemini يتجاوزان حاجز مليار مستخدم",
+   "summary": "أعلن الرئيس التنفيذي لجوجل أن تطبيق Gemini وصل إلى مليار مستخدم شهري، ليصبح أسرع منتج نمواً في تاريخ الشركة. حقق كل من Gemini و ChatGPT هذا الإنجاز، مما يعكس الاعتماد المتسارع على تطبيقات الذكاء الاصطناعي في الحياة اليومية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "مسؤول بارز آخر يغادر OpenAI",
+   "summary": "أعلن براد لايتكاب، نائب الرئيس السابق في OpenAI ورئيس قسم المشاريع الخاصة، عن رحيله بعد ثماني سنوات في الشركة. لم يكشف لايتكاب تفاصيل كثيرة عن خطواته القادمة، مكتفياً بالإشارة إلى أنه سيبدأ مشروعاً جديداً.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "جوجل تكشف عن أحدث أجهزة Pixel في الحدث القادم",
+   "summary": "ستعقد جوجل حدثاً في 12 أغسطس للإعلان عن سلسلة Pixel 11 الجديدة. تشير التسريبات إلى توفر ألوان متعددة وإضافة مصدر ضوء مدمج لموديلات Pro، بجانب تحسينات أخرى متوقعة.",
+   "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "آبل تطور ميزة للتحقق من صحة صور iPhone",
+   "summary": "تعمل آبل على ميزة جديدة في نظام iOS تتحقق من توقيت التقاط الصور مباشرة من كاميرا iPhone. ستضيف الميزة بيانات أصالة للصور تماشياً مع معايير تحديد الصور المزيفة (Deepfakes).",
+   "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-08-11"
   },
   {
@@ -40,38 +96,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "ChatGPT وGemini يتجاوزان حد المليار مستخدم",
-   "summary": "وصل كل من ChatGPT من OpenAI و Gemini من جوجل إلى علامة المليار مستخدم، وهي إحدى أكبر الأرقام في تاريخ تطبيقات الذكاء الاصطناعي. يمثل هذا الإنجاز زخماً قوياً لكلا المنصتين في تبني المستخدمين للتقنيات الحديثة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "مسؤول تنفيذي آخر يغادر OpenAI",
-   "summary": "أعلن براد لايتكاب، رئيس المشاريع الخاصة السابق والرئيس التشغيلي السابق في OpenAI، رحيله بعد ثماني سنوات في الشركة. أفاد في مذكرة داخلية أنه سيبدأ مشروعاً جديداً، وسط سلسلة رحيلات قيادية من الشركة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "جوجل تكشف عن أجهزة Pixel الجديدة في أغسطس",
-   "summary": "ستعلن جوجل في 12 أغسطس عن سلسلة أجهزة Pixel جديدة، حيث تشير التسريبات إلى وصول خيارات لونية متعددة لأجهزة Pixel 11، مع احتمالية إضافة ميزة إضاءة مدمجة في نماذج Pro.",
-   "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "آبل تطور ميزة للتحقق من صحة صور iPhone",
-   "summary": "تعمل آبل على ميزة في iOS تتحقق من تاريخ التقاط الصور مباشرة عبر كاميرا iPhone. النظام المقترح يضمّن بيانات الأصل في الصور وقت الالتقاط، مما يساعد في إثبات أصالة الصورة.",
-   "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-08-11"
   },
   {
@@ -104,30 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.producthunt.com/products/octomind-plug-n-play-ai-agents",
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "تحليلات المنتجات للوكلاء الذكيين والمستخدمين",
-   "summary": "أداة جديدة ظهرت لتوفير تحليلات متقدمة حول سلوك الوكلاء الذكيين والمستخدمين. تساعد في فهم تفاعلات الأنظمة الآلية والبشرية من خلال مقاييس وتقارير مخصصة.",
-   "url": "https://www.producthunt.com/products/kubit",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "سبوتيفاي تضع علامات على ملفات الفنانين المولدة بالذكاء الاصطناعي وتستبعد أغانيهم من التوصيات",
-   "summary": "أطلقت سبوتيفاي علامات تعريفية لملفات الفنانين التي تمثل شخصيات مولدة بالذكاء الاصطناعي، مع استبعاد موسيقاهم افتراضياً من التوصيات المحررة والخوارزمية والمخصصة للمستخدمين.",
-   "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "أنثروبك تعتزم وضع علامات مائية على النصوص المولدة بنماذجها الذكية",
-   "summary": "أعلنت شركة أنثروبك عن توسيع دعم تقنية العلامات المائية لتطبيقها على نماذج الذكاء الاصطناعي الأقدم لديها، بهدف تحديد والتحقق من النصوص المولدة آلياً.",
-   "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-08-11"
   }
  ]
