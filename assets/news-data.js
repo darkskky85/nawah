@@ -1,13 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-12T09:52:24.922345+00:00",
+ "updated": "2026-08-12T15:48:21.486925+00:00",
  "items": [
   {
-   "title": "شركة Saber تنفي استبدال كتّابها بنماذج الذكاء الاصطناعي",
-   "summary": "أنكرت شركة Saber استبدال الكتّاب البشريين بـ ChatGPT في لعبة Rideshare Stimulator، رغم ادعاء كاتبة سابقة بفصلها لهذا السبب. أثار الخلاف نقاشاً حول دور الذكاء الاصطناعي في الإنتاج الإبداعي في صناعة الألعاب.",
+   "title": "صفقة استحواذ بـ 250 مليون دولار تنهار وسط اتهامات بالاحتيال والتزوير",
+   "summary": "انهارت صفقة استحواذ كبرى على منصة VideoVerse، حيث لا يزال المستثمرون ينتظرون حصتهم من الأموال المتفق عليها. يواجه المؤسس المشارك فينياك شريفاستاف عدة قضايا قانونية تتضمن اتهامات بالاحتيال وتزوير التوقيعات.",
+   "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "جوجل تكشف عن هاتفها الجديد Pixel 11 وساعة ذكية وعلامة تتبع في مؤتمرها السنوي",
+   "summary": "أطلقت جوجل سلسلة Pixel 11 الجديدة وساعة Pixel Watch 5 المحدثة بمزايا ذكاء اصطناعي متقدمة، إلى جانب علامة تتبع Pixel Tag التي تنافس تقنية AirTag من آبل. جاءت الإعلانات ضمن حدث Made by Google 2026 الذي ضمن عدداً من التحسينات على خدمات الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "شركة Blacksmith لاختبار الأكواد ترفع قيمتها السوقية بنحو عشرة أضعاف",
+   "summary": "شهدت شركة Blacksmith المتخصصة في اختبار الأكواس الموجهة بالذكاء الاصطناعي قفزة حادة في تقييمها السوقي خلال فترة قصيرة. أرجعت الشركة النمو السريع إلى زيادة إيراداتها بأكثر من عشرة أضعاف على مدار العام الماضي.",
+   "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "ساعة Pixel Watch 5 الذكية تركز على الذكاء الاصطناعي والصحة",
+   "summary": "أطلقت جوجل ساعة Pixel Watch 5 بسعر 399 دولار مع تركيز على قدرات الذكاء الاصطناعي والمراقبة الصحية. تتضمن الساعة معالج Qualcomm محسّن وبطارية محسّنة قليلاً، إلى جانب تصميم جديد وخيارات ألوان متعددة، مع ارتفاع السعر بـ 50 دولاراً مقارنة بالجيل السابق.",
+   "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "حكاية لقاح سرطان الكلاب بالذكاء الاصطناعي تتحول إلى شركة ناشئة",
+   "summary": "أسس رائد أعمال أسترالي شركة Gamgee بعد نجاح تجربته الشهيرة في استخدام ChatGPT وGrok وأدوات ذكاء اصطناعي أخرى لتطوير لقاح سرطان مخصص لكلبه. تهدف الشركة الناشئة إلى تقديم خدمات لقاحات mRNA مخصصة بناءً على هذه التجربة الرائدة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "Grok يتحول إلى وكيل ذكاء اصطناعي يمكن تكليفه بالمهام",
+   "summary": "أطلقت شركة xAI خدمة Grok Bot، وهي وكيل ذكاء اصطناعي متصل دائماً يعمل كـ \"فريق عمل ذكي\" مستقل قادر على إنجاز المهام. يمكن لهذه الوكلاء الدخول إلى التطبيقات والأدوات والمواقع المختلفة لإكمال مهام متعددة الخطوات في بيئة سحابية مشتركة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "سيبر تنفي استبدال كتاب لعبتها بنماذج الذكاء الاصطناعي",
+   "summary": "أثارت تصريحات رئيس التنفيذي ماثيو كارش جدلاً حول مصير فريق الكتابة في لعبة \"محاكي الركوب\" المطورة من قبل يونجين، بعد أن ادعت الكاتبة السابقة ستيلا ساكو أن الشركة استبدلتها بـ ChatGPT. الشركة تنكر هذه الاتهامات مجددة التزامها برفع الأداء البشري.",
    "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "دور الذكاء الاصطناعي في تطوير التجارة الصيدلانية وإمكانية الوصول للأدوية",
+   "summary": "يستعرض الخبر كيفية استخدام تقنيات الذكاء الاصطناعي في تحسين سلاسل التوزيع الدوائية وتوسيع إمكانية وصول المرضى للعلاجات. تؤدي هذه التطبيقات دوراً متنامياً في تعزيز كفاءة القطاع الصيدلاني وتقليل الفجوات في الخدمات الطبية.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYVQwcDlzMW9BbW1ETFJhWWItdVU1c0ZLb29Eb2hLUVRLaTZINU5wa3pwTjk5MkhKUzBXalBYajZITWRQY3ZPRGZBSEphQ0otOUpfelpyOTRBZnhqcUoxNVF4QTBOTk5wU3drREVXLS1TM0dwN3VYd3lSTlpiZzFSaHJHMnJsWWdyLTVDQWsyZHZFbEk?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "تجربة عملية: الذكاء الاصطناعي يكتب رواية وتظهر النتائج مقبولة",
+   "summary": "يروي الخبر تجربة استخدام نماذج الذكاء الاصطناعي لكتابة رواية كاملة، حيث أسفرت التجربة عن نصوص ذات جودة معقولة. يشير هذا إلى نضج متزايد في قدرات هذه التقنيات على إنتاج محتوى إبداعي متماسك.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWkyN2kza1RRU1ZaeFczaGprd0hzRGx3TFc0cDgta1V4Y1VjSXVYaGM3Q213OU92dDdlNUt5Uk1KQ1RIaFI5WmJaTGswaV9YZzdpaUN1SjEwaFI4aENXZ1BnblF5b1lxWjBXT2tJXy03VF85YjEtODI3VWRsMFdCRm94NHpVUlEzcnFBbFhsZUFNUm5WTVBTT0FJSWY0elpobXp1Y1VnSVN4WHZJOGY5RVBQaHdMRjZ0NWhIei1aNA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "رؤية مارك زوكربرج الجديدة: الذكاء الاصطناعي الشخصي للجميع",
+   "summary": "أعلن مؤسس فيسبوك عن توجه استراتيجي جديد لشركة ميتا يركز على تطوير أنظمة ذكاء اصطناعي شخصية تخدم المستخدمين بشكل فردي. يعكس هذا التوجه محاولة الشركة للبقاء في المقدمة في سباق تطبيقات الذكاء الاصطناعي المتطورة.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV0FITXNRd0VONHgzd3FsUWNyOURnSWNUR0hUaEUwa1FOMlFiTngzZ3p4VmdyR1hHcktsa1l4c21Cc3FzUnNyRWtucHBXWnQ3bGU2V3BOVHpNSUF5MVdGU19jQmtPX1lYR2RDT09pVHpNQVVfYjA4MWp6ajlUQWhvdU5ZbktZbE0xblRkSnc4OGE4WWREME4xeU9MQktkTDhk?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "الجامعات في نبراسكا تتبنى نهجاً إنسانياً لدمج الذكاء الاصطناعي في التعليم",
+   "summary": "تسعى مؤسسات التعليم العالي في ولاية نبراسكا إلى دمج الذكاء الاصطناعي بطريقة تحافظ على الدور الإنساني في العملية التعليمية. يركز هذا النهج على استخدام التكنولوجيا كأداة مساعدة بدلاً من أن تحل محل العنصر البشري في التدريس والتفاعل مع الطلاب.",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdWJpZXVGV25TS2o0eWN6VHFCY3VlQmxfXzZOWDU1TExTN2syNmZMc3F3U0dyVlN0MHhsUXZhSTBNTklEMFBtMnI3QUc4VUtjc0lrYUVwVnpwdWVXa1NpTXV2Y0tEWmFZTEpMSGNKYW1TdUZ5aDFuQ2lUNXlaM21BY1Z5XzlMbTNvLUF0R0c3LV8xeXJvdVdQelFzR0ViVmVXVmRsN2RhSEFRSDVBbTB0MElxWUk1Z0pVc3FiajBTU2ZYMTk5RENDT2tRSzdXUHBOZFhpMjhYMHZqRG5pTE9JOGlRQWxES2JMdm5INGFKTQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
    "date": "2026-08-12"
   },
   {
@@ -48,86 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "OpenAI توفر تطبيق ChatGPT المخصص لأنظمة Linux",
-   "summary": "أطلقت OpenAI نسخة تطبيق سطح مكتب متخصصة من ChatGPT لأنظمة التشغيل Linux، مما يوفر للمستخدمين على هذه الأنظمة إمكانية الوصول المباشر للنموذج بسهولة أكبر.",
-   "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "تطبيق جيميني من جوجل يتجاوز مليار مستخدم",
-   "summary": "وصل تطبيق جيميني إلى علامة مليار مستخدم، مما يعكس انتشاراً واسعاً للمساعد الذكي. وتشير الإحصائيات إلى أن 63% من المستخدمين يعتمدون على الميزة الصوتية للتفاعل المباشر، بينما يولد التطبيق أكثر من 150 مليون صورة يومياً.",
-   "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "رئيس العمليات التنفيذي في أوبن إيه آي يغادر الشركة",
-   "summary": "أعلن براد لايتكاب، رئيس العمليات التنفيذي في أوبن إيه آي لسنوات، عن مغادرته الشركة لبدء مشروع جديد. وأوضح في رسالته للموظفين أنه متحمس لدعم الشركة وتطوير مهمتها من منظور مختلف.",
-   "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "شركة River AI الناشئة تجمع 1.1 مليار دولار في جولة تمويل",
-   "summary": "حصلت شركة River AI، التي أسسها أحد مؤسسي xAI إيغور بابوشكين، على تمويل بقيمة 1.1 مليار دولار بقيادة صندوق جنرال كاتاليست. تركز الشركة على تطوير وكلاء ذكيين شخصيين بعد أسابيع قليلة من تأسيسها.",
-   "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "تشات جي بي تي وجيميني يعبران حد مليار مستخدم",
-   "summary": "حقق تطبيق جيميني من جوجل مليار مستخدم شهري ليصبح أسرع منتج للشركة في تحقيق هذه النقطة، بينما وصلت تطبيقات الذكاء الاصطناعي الأخرى مثل تشات جي بي تي إلى نفس الإنجاز، مما يعكس نمواً سريعاً في قطاع المساعدات الذكية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "مسؤول بارز آخر يغادر OpenAI",
-   "summary": "أعلن براد لايتكاب، نائب الرئيس السابق في OpenAI ورئيس قسم المشاريع الخاصة، عن رحيله بعد ثماني سنوات في الشركة. لم يكشف لايتكاب تفاصيل كثيرة عن خطواته القادمة، مكتفياً بالإشارة إلى أنه سيبدأ مشروعاً جديداً.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "جوجل تكشف عن أحدث أجهزة Pixel في الحدث القادم",
-   "summary": "ستعقد جوجل حدثاً في 12 أغسطس للإعلان عن سلسلة Pixel 11 الجديدة. تشير التسريبات إلى توفر ألوان متعددة وإضافة مصدر ضوء مدمج لموديلات Pro، بجانب تحسينات أخرى متوقعة.",
-   "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "آبل تطور ميزة للتحقق من صحة صور iPhone",
-   "summary": "تعمل آبل على ميزة جديدة في نظام iOS تتحقق من توقيت التقاط الصور مباشرة من كاميرا iPhone. ستضيف الميزة بيانات أصالة للصور تماشياً مع معايير تحديد الصور المزيفة (Deepfakes).",
-   "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "نموذج Anthropic التجريبي يحرز تقدماً في فرضية ريمان الرياضية",
-   "summary": "استطاع أحد نماذج Anthropic غير المطروحة تحقيق تقدم ملموس في فرضية ريمان، إحدى أبرز المسائل الرياضية غير المحلولة منذ أكثر من 150 سنة. لم تحل الشركة المسألة لكن النتائج تجاوزت التوقعات الأولية.",
-   "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "ثغرة أمان خطيرة في Zoom تُكتشف بمساعدة نماذج ذكاء اصطناعي",
-   "summary": "أصلحت Zoom ثغرة أمان حرجة كانت قد تسمح بسيطرة المهاجمين على أجهزة المستخدمين أثناء الاجتماعات. اكتشف الباحثون الفجوة باستخدام أقل من 20 طلب موجه لنماذج ذكاء اصطناعي متاحة علناً.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-08-11"
   }
  ]
