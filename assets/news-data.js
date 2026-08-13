@@ -1,42 +1,90 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-13T04:43:31.263541+00:00",
+ "updated": "2026-08-13T09:52:35.966844+00:00",
  "items": [
   {
-   "title": "أنثروبيك تبحث عن شراء شركة ديكارت إيه آي",
-   "summary": "بحسب مصادر إعلامية، تجري شركة أنثروبيك محادثات لشراء شركة ديكارت إيه آي المتخصصة في مجال الذكاء الاصطناعي، وهي خطوة قد تعزز قدرات المنصة التكنولوجية للشركة.",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRlV4bzBCa2VxRlZkN1VMdzh3UVR0VmJ5d0VIUEpLQkZBRFBpaC1sSkFuTzAtaU0zZkdjNmh1dFB0ZXdQLW5rcU82Q3g3SW1xOEpXWjl6MmpuOUQzVkhFcXBFRFRsWnpXb0t6RFNFRlZfV0d5VXdJSVVKUjBKcGI0YTJvM2ltekctTHQ0WlhyWkFQQQ?oc=5",
+   "title": "ما يفكر به الأطفال في الذكاء الاصطناعي وفقاً لأصواتهم",
+   "summary": "دراسة استطلعت آراء الأطفال حول الذكاء الاصطناعي مباشرة، فكشفت عن تنوع في طرق استخدامهم للتقنية، تراوحت بين الاستعانة بها في المهام الدراسية وبين توظيفها في مشاريع إبداعية. تعكس النتائج تفاعل الأجيال الناشئة مع هذه التكنولوجيا بطرق تختلف عما توقعه الباحثون.",
+   "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-08-13"
+  },
+  {
+   "title": "مجموعة أمان سيبراني جديدة من تحالف تقنيات الذكاء الاصطناعي",
+   "summary": "أعلنت منظمة متخصصة في الذكاء الاصطناعي والرعاية الصحية عن تشكيل مجموعة متخصصة في الأمن السيبراني، بهدف تعزيز حماية البيانات والأنظمة الصحية من التهديدات الإلكترونية المتزايدة.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSEJfOGFQa0d4TW9ONGVxSWx1NkRVQm5WUThYdkZmRWJ4cG5GNGtDMXlSUVh5dlo5YWoyeDJSdEo2SVg4M19GTk5XcEttbE8zV1FEMS11V1BJTU1OdWFEOGpMZThPVVBRXzRxZGdlbTVaQ29zR0JtQzZiRDBOQld6Um9mTlRzdTVwZW4wSWJEOA?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-13"
+  },
+  {
+   "title": "جامعة مورغان ستيت تطلق برنامج درجة في الذكاء الاصطناعي مع مسارات التعلم الآلي الكمي",
+   "summary": "أعلنت جامعة مورغان ستيت عن إطلاق برنامج تعليمي متخصص في الذكاء الاصطناعي يتضمن مقررات متقدمة في مجال التعلم الآلي الكمي، ما يعكس اهتماماً متزايداً بتدريب الكوادر على تقنيات الذكاء الاصطناعي الحديثة.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTmpkamJ4bjlsWGlCUjFUTDhBQzVEb2J6dHN0b0xGR055U2owdFdSNWpPQ3hDaHp3UUlSbzhoRldmYkJrWE5KZFl0N0YyZnlqVXRQb2MxZENjdmJ6WjlHWGNXZllGRzZWbHhxRnVkYVdGVFRseWE4cjJ6V2RzcUo1dlhpcmVjWC1uWVV0cllJUkQ4QWN6?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-13"
+  },
+  {
+   "title": "الأنماط والتحديات في الأنظمة متعددة الوكلاء الناشئة",
+   "summary": "نشرت شركة أنثروبك دراسة تحلل الأنماط والمشاكل المحتملة في أنظمة الذكاء الاصطناعي متعددة الوكلاء، مع التركيز على التحديات التقنية والأمنية التي قد تواجهها مع تطورها.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVFQ4NnRrVGF2dXBQMmhjNzhmQUVZQVF6ckVvWlpkMVdHMnpFOVpodWhoUEw4bWdacG1JRE9kUUZpUWN2WnJiZ3NHaFY0LWJHMF9zOGFGR0tlZmhta180N2Nkaw?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-08-13"
   },
   {
-   "title": "أنثروبيك تتفاوض على استحواذ شركة ديكارت بـ 6 مليارات دولار",
-   "summary": "تسعى شركة أنثروبيك المتخصصة في الذكاء الاصطناعي للاستحواذ على الشركة الناشئة ديكارت بقيمة تقدر بـ 6 مليارات دولار. يأتي هذا كجزء من تحركات الشركة لتعزيز قدراتها التكنولوجية والموارد البشرية.",
+   "title": "أنثروبك تسعى لاستحواذ شركة ديكارت بمليارات الدولارات",
+   "summary": "وفقاً لمصادر إعلامية، تجري شركة أنثروبك محادثات متقدمة للاستحواذ على شركة ديكارت الناشئة بقيمة تقدر بحوالي ستة مليارات دولار، في صفقة قد تعزز من إمكانيات أنثروبك في تطوير تقنيات الذكاء الاصطناعي.",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-08-13"
   },
   {
-   "title": "مستخدمو كلود يعترضون على نظام العلامات المائية الذي قد يكشف استخدامهم الأداة",
-   "summary": "أطلقت أنثروبيك نظاماً يضع علامات مائية على المحتوى المُنتج من نموذج كلود، الأمر الذي أثار استياء المستخدمين الذين يخشون من كشف استخدامهم الأداة في بيئات العمل والدراسة.",
+   "title": "أنثروبك في مفاوضات للاستحواذ على شركة ديكارت للذكاء الاصطناعي",
+   "summary": "أفادت مصادر عن وجود محادثات بين شركة أنثروبك وشركة ديكارت المتخصصة في الذكاء الاصطناعي بشأن صفقة استحواذ محتملة، وهي خطوة قد تعكس استراتيجية التوسع في هذا القطاع.",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRlV4bzBCa2VxRlZkN1VMdzh3UVR0VmJ5d0VIUEpLQkZBRFBpaC1sSkFuTzAtaU0zZkdjNmh1dFB0ZXdQLW5rcU82Q3g3SW1xOEpXWjl6MmpuOUQzVkhFcXBFRFRsWnpXb0t6RFNFRlZfV0d5VXdJSVVKUjBKcGI0YTJvM2ltekctTHQ0WlhyWkFQQQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-13"
+  },
+  {
+   "title": "أنثروبك تفاوض على استحواذ الشركة الإسرائيلية ديكارت بملياري دولار",
+   "summary": "تجري شركة أنثروبك الأمريكية محادثات لشراء شركة ديكارت، وهي شركة إسرائيلية متخصصة في الذكاء الاصطناعي، بقيمة تقدر بستة مليارات دولار حسب تقارير إعلامية متعددة.",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YZmhfWnFacjlJZmdyeXlyYW5GSTNka3ZTM3FHUjdzLUhRb3o4a210T1ptWEVfSF9VZnhOdkxQaEo5eFlpMVJhaElfODdyOTl0eFB6UmE2N05EUXZCWkZ1aV9TYlp4ZEk?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-13"
+  },
+  {
+   "title": "مستثمرو Anthropic يراهنون على تقييم تريليوني دولار في طرح عام قياسي",
+   "summary": "يسعى مستثمرو شركة Anthropic المتخصصة في تطوير نماذج لغوية ذكية إلى طرحها للاكتتاب العام برفع تقييمها إلى تريليوني دولار. يعكس هذا الطرح الزخم المتزايد في سوق الذكاء الاصطناعي والثقة برفعة قطاع الشركات الناشئة في هذا المجال.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWRXMGN5WXlraTZ5dzRnUHVkcEtuUnhDV1FJU1pBNUVndnJXRkM5dkdrSDVXbDVLckNaOTZnUm9uRks4ZDRPN1JJSDF2SmFwX2tTTHNncTZiT21hd1hoc1VyVEJPZnlHZnNMcVRGczM4QVlVV1R6TG96VnpjWUktbUJHVVM?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-13"
+  },
+  {
+   "title": "احتجاجات من مستخدمي Claude على نظام العلامات المائية الجديد",
+   "summary": "أطلقت Anthropic نظام علامات مائية يكشف استخدام نموذج Claude في الأغراض الوظيفية والأكاديمية، ما أثار استياء عدد من المستخدمين الذين انتقدوا الإجراء عبر وسائل التواصل. يهدف النظام لتنظيم استخدام الأداة لكن لقي مقاومة من جزء من المجتمع.",
    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-12"
   },
   {
-   "title": "أمازون ستدرب نماذجها على محتوى بث تويتش بشكل افتراضي",
-   "summary": "أعلنت أمازون عن خطة لاستخدام محتوى مذيعي تويتش في تدريب أنظمة الذكاء الاصطناعي لديها ما لم يختر المستخدمون إلغاء الاشتراك. يشير هذا النهج إلى تركيز الشركات على توفير البيانات بسهولة للتطبيقات الجديدة.",
+   "title": "أمازون تتيح تدريب نماذجها على محتوى بث Twitch افتراضياً",
+   "summary": "قررت أمازون استخدام محتوى بثّاء Twitch لتطوير نماذج ذكائها الاصطناعي ما لم يختر البثّاؤون الامتناع. أقرّ المسؤولون أن خيار الموافقة الصريحة لن ينجح عملياً، مما أثار نقاشاً حول الموازنة بين مصالح الشركات والمستخدمين.",
    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-12"
   },
   {
-   "title": "شركة كوجنيشن الناشئة تتطلع لجمع تمويل جديد بتقييم 40 مليار دولار",
-   "summary": "تسعى كوجنيشن المتخصصة في أدوات البرمجة بالذكاء الاصطناعي لجولة تمويل جديدة بتقييم يصل إلى 40 مليار دولار، بعد أقل من سنة من جمعها مليار دولار بتقييم 26 مليار.",
+   "title": "شركة Cognition للأكواد الذكية تسعى لجمع تمويل جديد بتقييم 40 مليار دولار",
+   "summary": "تُجري شركة Cognition المتخصصة في حلول الكود المدعومة بالذكاء الاصطناعي محادثات لجولة تمويل جديدة برفع تقييمها إلى 40 مليار دولار. يأتي هذا بعد أشهر قليلة من جمعها مليار دولار بتقييم 26 مليار دولار.",
    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -80,54 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "قصة لقاح سرطان الكلاب بالذكاء الاصطناعي تنجب شركة ناشئة",
-   "summary": "رجل أعمال أسترالي استخدم ChatGPT وأدوات ذكاء اصطناعي أخرى لتطوير لقاح سرطان مخصص لكلبه، وهو يطلق الآن شركة ناشئة باسم جامجي لتقديم لقاحات الحمض النووي الريبوسومي الرسالي المخصصة للحيوانات الأليفة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "تطبيق إدارة العلاقات Mesh من Automattic يصل إلى أجهزة أندرويد",
-   "summary": "أداة جديدة ظهرت باسم Mesh من شركة Automattic، وهي تطبيق يوفر إدارة جهات الاتصال والعلاقات بدعم الذكاء الاصطناعي، وأصبح متاحاً الآن على منصة أندرويد بعد توفره على منصات أخرى.",
-   "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "Grok يتحول إلى عامل ذكاء اصطناعي مستقل يمكنك تكليفه بالمهام",
-   "summary": "أطلقت SpaceX AI خدمة Grok Bot وهي وكلاء ذكاء اصطناعي يعملون بشكل مستقل لتنفيذ المهام الوظيفية. تتمتع هذه الوكلاء بقدرة الدخول إلى التطبيقات والأدوات الموجودة لديك وإتمام مهام متعددة الخطوات.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "توسيع نطاق وكلاء الذكاء الاصطناعي بالاعتماد على البيانات الموثوقة",
-   "summary": "يواجه القادة في المؤسسات تحديات في تحقيق العائد على الاستثمار من وكلاء الذكاء الاصطناعي، حيث يتطلب نجاحها الاعتماد على بيانات موثوقة وحسنة التدريب. تزايد اعتماد المؤسسات على هذه الوكلاء يجعل جودة البيانات عاملاً حاسماً في النجاح.",
-   "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "صفقة استحواذ بـ 250 مليون دولار تنهار وسط اتهامات بالاحتيال والتزوير",
-   "summary": "انهارت صفقة استحواذ كبرى على منصة VideoVerse، حيث لا يزال المستثمرون ينتظرون حصتهم من الأموال المتفق عليها. يواجه المؤسس المشارك فينياك شريفاستاف عدة قضايا قانونية تتضمن اتهامات بالاحتيال وتزوير التوقيعات.",
-   "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "جوجل تكشف عن هاتفها الجديد Pixel 11 وساعة ذكية وعلامة تتبع في مؤتمرها السنوي",
-   "summary": "أطلقت جوجل سلسلة Pixel 11 الجديدة وساعة Pixel Watch 5 المحدثة بمزايا ذكاء اصطناعي متقدمة، إلى جانب علامة تتبع Pixel Tag التي تنافس تقنية AirTag من آبل. جاءت الإعلانات ضمن حدث Made by Google 2026 الذي ضمن عدداً من التحسينات على خدمات الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-08-12"
   }
  ]
