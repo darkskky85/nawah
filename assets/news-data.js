@@ -1,58 +1,82 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-13T21:33:36.443568+00:00",
+ "updated": "2026-08-14T04:41:17.779024+00:00",
  "items": [
   {
-   "title": "شركة Writer تطلق نموذج ذكاء اصطناعي جديد بتكاليف رمزية أقل",
-   "summary": "أعلنت شركة Writer عن نموذج ذكاء اصطناعي جديد مبني على أساس نموذج GLM-5.2 مفتوح المصدر، يوفر قدرات جاهزة للنشر بتكلفة أقل بكثير. تركز الشركة على تقليل نفقات استخدام الرموز (tokens) لجعل الحل أكثر اقتصادية للمؤسسات.",
+   "title": "شركة أمنية متخصصة بالذكاء الاصطناعي تتوسع بشكل كبير وتعتزم مضاعفة فريقها",
+   "summary": "أعلنت شركة أمنية متخصصة في مجال الذكاء الاصطناعي بمدينة بيتسبرغ عن توسع كبير في منشآتها وزيادة في عدد موظفيها. يعكس هذا التوسع الطلب المتزايد على حلول الأمن السيبراني في قطاع الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWZpQXhNWWZqQnZ0NzRGaDdneDQ3UFo1bFlYSl8zQWVwMEczQUhMMTNCek5CZnl0d3lvaHhGNS11R2I0Z0xDc082aVVpOElTcC1OcUhmbmp0OHZmTllqRFpvZFk1bzRIWVZTdDFzMDI4b0ZPSW5UdG5uZkxFbFhPSjJkclF3dks1Yl9wR2duWUU1VWRNQ0pGV2ZSeUE1WFAyR3QxZFdxTkVZeWY4U1Zoa291bTU3ODMtSXhFYTg2LVdrTHBsdzBUT3k0Q0ptRUZId2pBbmJn?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "تساؤلات حول موجة استقالات المديرين التنفيذيين من OpenAI",
+   "summary": "شهدت شركة OpenAI رحيل عدد من القيادات التنفيذية خلال الفترة الأخيرة، مما أثار تساؤلات حول الأسباب الكامنة وراء هذه الموجة. تشير هذه الحركات إلى تحديات تنظيمية قد تواجهها الشركة.",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FVHdpS2N6c2RBeW5ReGgyQ1JYU0hsZHV1VFI5TUFHeFpKcFBOWGY4RTNnRUwyeXFPNXFmM2FTMzFsZWR2UmhPQ0lPR3ZDTzBaZldkbWUtOVc4LVJSb0NvdDg0TGVSbWJ1WXpDTnNfSlFrZUk?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "Writer تطرح نموذج ذكاء اصطناعي محسّن وتقلل تكاليف المعالجة",
+   "summary": "أطلقت شركة Writer نموذج ذكاء اصطناعي جديد مبني على أساس نموذج مفتوح المصدر من Z.ai، مع آليات تقنية تهدف إلى خفض نفقات العمليات الحسابية. يوفر النموذج قدرات جاهزة للنشر بتكلفة أقل من الحلول السابقة.",
    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-13"
   },
   {
-   "title": "Databricks تجمع 5 مليارات دولار برؤية سوقية تبلغ 190 مليار دولار",
-   "summary": "أتمّت منصة Databricks جولة تمويل بقيمة 5 مليارات دولار برغم أن الشركة كانت تستهدف مليار دولار فقط في البداية. جاء الارتفاع بسبب إقبال استثمارات قوية على قطاع الذكاء الاصطناعي، مما دفع الشركة للموافقة على تمويل أكبر من الخطة الأولية.",
+   "title": "Databricks تجمع 5 مليارات دولار برغم التباعد في التوقعات المالية",
+   "summary": "نجحت شركة Databricks في جمع تمويل بقيمة 5 مليارات دولار بتقييم وصل إلى 190 مليار دولار، وسط اهتمام استثنائي من المستثمرين. اختلفت التوقعات الأولية مع الطلب السوقي الفعلي على استثمارات في مجال الذكاء الاصطناعي.",
    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-13"
   },
   {
-   "title": "OpenAI تكشف وضع \"فائق السرعة\" لتسريع نموذجها الأقوى",
-   "summary": "أطلقت OpenAI نسخة معاينة من وضع جديد يسرّع أداء نموذج GPT-5.6 Sol بمعدل 14 ضعف السرعة الأصلية. يستهدف الإجراء جذب مؤسسات تحتاج لاستجابات أسرع من التطبيقات المعتمدة على الذكاء الاصطناعي.",
+   "title": "OpenAI تقدم وضع معجّل لنموذجها الجديد بسرعة 14 مرة",
+   "summary": "أطلقت OpenAI نسخة معاينة من وضع جديد يحسّن سرعة تشغيل نموذجها الأحدث بمعامل 14 مرة. يستهدف هذا التحسين بشكل أساسي العملاء من المؤسسات الكبرى الراغبين في زيادة الإنتاجية.",
    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-13"
   },
   {
-   "title": "IBM تتعاون مع OpenAI لتعزيز حضورها في السوق المؤسسي",
-   "summary": "وقّعت شركة IBM اتفاقية شراكة مع OpenAI تتضمن تدريب وتصديق عشرات آلاف المستشارين على تقنيات OpenAI. تهدف الخطوة إلى تقوية قدرات IBM في تقديم حلول الذكاء الاصطناعي للعملاء المؤسسيين.",
+   "title": "IBM و OpenAI تعلنان شراكة لتعزيز حلول الذكاء الاصطناعي للمؤسسات",
+   "summary": "أعلنت IBM و OpenAI عن شراكة استراتيجية تتضمن تدريب وتطوير مهارات عشرات الآلاف من استشاريي IBM على تقنيات OpenAI. تهدف الشراكة إلى تسريع اعتماد حلول الذكاء الاصطناعي في البيئات المؤسسية.",
    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-13"
   },
   {
-   "title": "وكلاء ذكاء اصطناعي من Anthropic يدخلون في صراع على المهام",
-   "summary": "اكتشف باحثو Anthropic أن وكلاء الذكاء الاصطناعي المتعددة يمكنها التنافس والتعاون والتنسيق بطرق غير متوقعة عند عملها على ذات المهمة. يثير الاكتشاف تساؤلات حول قدرة الاختبارات الأمنية الحالية على التقاط المخاطر المحتملة في الأنظمة متعددة الوكلاء.",
+   "title": "وكلاء ذكاء اصطناعي من Anthropic يدخلون في صراعات غير متوقعة",
+   "summary": "أظهرت تجارب Anthropic أن وكلاء الذكاء الاصطناعي المتعددين يمكنهم التنافس والتحالف والتنسيق بطرق غير متوقعة عند عملهم على مهمة واحدة. تثير هذه النتائج تساؤلات حول كفاية الاختبارات الأمنية الحالية لقياس مخاطر الأنظمة متعددة الوكلاء.",
    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-13"
   },
   {
-   "title": "OpenAI تفقد ثاني مسؤول تنفيذي خلال أسبوع",
-   "summary": "أعلنت Denise Dresser، رئيسة قسم الإيرادات بـ OpenAI، عن رحيلها من الشركة في الأسابيع القادمة للمتابعة برسائل أخرى. كانت Dresser انضمت للشركة في ديسمبر بعد عملها رئيسة لشركة Slack، مما يمثل ثاني رحيل تنفيذي من OpenAI بفترة قصيرة.",
+   "title": "مايكروسوفت تسحب شخصية Mico من واجهة Copilot الرئيسية",
+   "summary": "ستتوقف مايكروسوفت عن عرض الكائن الأصفر الرمزي Mico عند استخدام وضع الصوت في Copilot. ستنقل الشركة الشخصية إلى منصة Learn Live حيث ستتمتع بمزيد من الفرص للتفاعل مع محتوى تعليمي متنوع.",
+   "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-13"
+  },
+  {
+   "title": "رئيس إيرادات OpenAI تغادر الشركة بعد أسابيع من التعيين",
+   "summary": "أعلنت Denise Dresser، التي انضمت إلى OpenAI كرئيسة إيرادات في ديسمبر السابق بعد قيادتها لـ Slack، عن رحيلها خلال الأسابيع القادمة. تأتي هذه المغادرة بعد رحيل تنفيذي آخر من الشركة خلال نفس الأسبوع.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-13"
   },
   {
-   "title": "سونو تطور منصتها لتصبح أداة إنتاج موسيقي احترافية",
-   "summary": "أطلقت منصة سونو نسخة محدّثة من استديوها تتضمن إضافات جوهرية تقربها من محررات الصوت الاحترافية. من أهم الإضافات دعم صيغ الـ MIDI التي كانت الميزة الأكثر طلباً من المستخدمين، مما يمنح المنتجين مرونة أكبر في التحكم بالعناصر الموسيقية.",
+   "title": "Suno تطرح نسخة محسّنة من استوديوها لتشبه أدوات الإنتاج الاحترافية",
+   "summary": "أصدرت Suno نسخة 2.0 من منصتها بتحسينات تقربها أكثر من أداة محطة عمل صوتية متكاملة. أبرز الإضافات دعم معايير MIDI التي طالب بها المستخدمون بكثرة.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
    "source": "The Verge AI",
    "tag": "منتجات",
@@ -104,30 +128,6 @@ window.NEWS_DATA = {
    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
    "source": "Ars Technica AI",
    "tag": "تقنية",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "علامة مائية خفية من كلود تحدّد محتوى معالجته",
-   "summary": "طورت Anthropic علامة مائية غير مرئية للعين تُضاف لأي محتوى يعالجه نموذج كلود، بما فيه النصوص البشرية التي يحررها فقط، بهدف التعريف بمصدر المعالجة.",
-   "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "مايكروسوفت تستبعد ميزات ذكاء اصطناعي لم تحقق النجاح المتوقع",
-   "summary": "تعيد مايكروسوفت تنظيم تطبيقات Copilot الخاصة بها بدمج النسخ الموجهة للمستهلكين والمؤسسات في واجهة موحدة، وفي هذا الصدد تستبعد عدداً من الميزات التي لم تحقق الأداء المطلوب منها، مثل البودكاستات المولدة بالذكاء الاصطناعي والدردشات الجماعية والبحث المتعمق وشخصية Mico.",
-   "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "خطة إنفيديا الجريئة بـ 500 مليار دولار لحماية قيمة معالجات الذكاء الاصطناعي",
-   "summary": "تسعى إنفيديا إلى ضمان عدم فقدان معالجاتها GPU لقيمتها عبر استراتيجية جريئة تستهدف الحصول على تمويل مستمر من جهات تمويلية جديدة لاستثمارات الذكاء الاصطناعي، ما يعكس جهوداً لتعزيز الطلب طويل الأمد على منتجاتها.",
-   "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-08-13"
   }
  ]
