@@ -1,29 +1,101 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-14T15:40:18.886025+00:00",
+ "updated": "2026-08-14T21:14:51.087521+00:00",
  "items": [
   {
-   "title": "شركة ناشئة فرنسية تطور تقنية لاستخراج أداء أكبر من معالجات الرسومات",
-   "summary": "تطعن شركة Kog الفرنسية في الاعتقاد الشائع بأن معالجات الرسومات غير مناسبة لتطبيقات الذكاء الاصطناعي الموزعة. تركز الشركة على تحسين كفاءة استخدام هذه المعالجات لإنجاز حسابات الاستدلال بشكل أعمق وأفضل.",
+   "title": "غوغل تسمح بإزالة العلامة المرئية من الصور التي تولدها نماذجها",
+   "summary": "أطلقت غوغل خيارًا يمكّن المستخدمين من إزالة العلامة المائية الظاهرة على الصور التي تنتجها أدوات الذكاء الاصطناعي التابعة لها. تجدر الملاحظة أن هذا الخيار لا يؤثر على العلامات غير المرئية التي تُستخدم للتحقق من كون الملف من إنتاج نموذج ذكاء اصطناعي.",
+   "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "هل يعتقد مارك زوكربيرج فعلًا أن الذكاء الاصطناعي للجميع؟",
+   "summary": "أطلقت ميتا نموذج الذكاء الاصطناعي المفتوح الوزن \"غليمر\" الذي يمكن لأي شخص تحميله وتشغيله على أجهزته الخاصة، في تناقض مع نموذج \"ميوز سبارك\" الأقوى الذي يبقى محصورًا خلف واجهات برمجية خاصة بالشركة. صاحب الإطلاق رسالة من زوكربيرج يجادل بأن الذكاء الاصطناعي يجب أن يكون في متناول الجميع.",
+   "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "شركة ناشئة فرنسية تستخرج إمكانيات أكبر من معالجات الرسوميات",
+   "summary": "تطرح شركة كوغ الفرنسية الناشئة نقاشًا حول الفهم السائد بأن معالجات الرسوميات غير مناسبة للمهام التي تتطلب وكلاء ذكاء اصطناعي، مشيرة إلى أن هذا الاعتقاد قد لا يكون صحيحًا من الناحية التقنية.",
    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-14"
   },
   {
-   "title": "أسعار الغاز الطبيعي قد تفاجئ شركات البيانات الضخمة بفواتير هائلة",
-   "summary": "توقعات جديدة تشير إلى احتمالية ارتفاع أسعار الغاز الطبيعي بمعدل ثلاثة أضعاف في أجزاء من الولايات المتحدة، مما قد يفرض أعباءً مالية ضخمة على شركات البيانات الضخمة التي تعتمد عليه لتشغيل مراكز الذكاء الاصطناعي.",
+   "title": "مراكز البيانات الضخمة قد تندم على الاعتماد على الغاز الطبيعي",
+   "summary": "تشير توقعات جديدة إلى احتمالية ارتفاع أسعار الغاز الطبيعي بنسبة تصل إلى ثلاثة أضعاف في بعض مناطق الولايات المتحدة، وهو ما قد يفرض أعباءً مالية ضخمة على الشركات العملاقة العاملة في مجال مراكز بيانات الذكاء الاصطناعي.",
    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-14"
   },
   {
-   "title": "آبل تطور نموذج ذكاء اصطناعي خاص بالسوق الصينية بالتعاون مع علي بابا",
-   "summary": "طورت آبل نموذج لغة كبير مخصص للسوق الصينية بالشراكة مع عملاق التكنولوجيا المحلي علي بابا، في تعاون نادر عابر للحدود رغم التوترات المتنامية بين بكين وواشنطن.",
+   "title": "الذكاء الاصطناعي \"المفتوح\" من ميتا وصفقة بـ 250 مليون دولار تنحرف عن مسارها",
+   "summary": "أطلقت ميتا نموذج الذكاء الاصطناعي المفتوح الوزن \"غليمر\" الذي يمكن تحميله وتشغيله على الأجهزة الشخصية، بينما يبقى نموذجها الأقوى \"ميوز سبارك\" حصريًا خلف واجهات برمجية خاصة. جاء الإطلاق مع رسالة من زوكربيرج يدعو إلى جعل الذكاء الاصطناعي متاحًا للجميع.",
+   "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "تغيير شعار إنستغرام يثير تساؤلات",
+   "summary": "عدّلت إنستغرام شعارها الكتابي الذي يعتبر علامة مميزة معروفة، معتقدة أنه بدا قديم الطراز. لكن الشعار الجديد يختلف بشكل كبير عن السابق، بل يصعب التعرف عليه كلوغو إنستغرام تقليدي، ما أثار استفهامات عن الدافع وراء هذا القرار.",
+   "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "جوجل تتيح إزالة العلامات المائية من محتوى جيميني",
+   "summary": "أطلقت جوجل خيار جديد يسمح للمستخدمين بإلغاء العلامات المائية المرئية من الصور والفيديوهات والموسيقى المُنتجة بواسطة أدوات الذكاء الاصطناعي. يمكن تفعيل أو تعطيل هذا الخيار عبر إعدادات «Media watermark» في تطبيق جيميني وأداة إنشاء الفيديوهات Flow.",
+   "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "أبل تطور نموذج ذكاء اصطناعي للسوق الصينية بالتعاون مع علي بابا",
+   "summary": "طورت أبل نموذج لغة كبير مخصص للسوق الصينية بالشراكة مع شركة علي بابا الصينية، في خطوة نادرة للتعاون العابر للحدود وسط التوترات المتزايدة بين بكين وواشنطن. يعكس هذا التعاون محاولة أبل التكيف مع المتطلبات المحلية للسوق الصينية.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "إطلاق جيميني 3.7 فلاش",
+   "summary": "أصدرت جوجل نسخة محدّثة من نموذج جيميني تحمل رقم 3.7 وتركيز على الأداء السريع. تهدف هذه النسخة إلى تحسين سرعة الاستجابة والكفاءة في معالجة المهام المختلفة.",
+   "url": "https://www.producthunt.com/products/gemini-3-7-flash",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "استكشاف الذكاء الاصطناعي بعيداً عن الحدود: شرق آسيا كمنهج بحثي",
+   "summary": "دعوة لتقديم أبحاث في جامعة أوهايو الأمريكية تستكشف كيفية تشكيل شرق آسيا للنقاشات والممارسات حول الذكاء الاصطناعي خارج الإطار الغربي التقليدي. يركز المشروع على فهم كيف يعاد تعريف الذكاء الاصطناعي في سياقات جغرافية وثقافية مختلفة.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGJESGZIWEZYbGZTb0FBQzFwcHhTUjRHMjYzMzh5XzlzblRfdTczM0pqaEliQ3Q1RVFsMURVRmlUZkRpc1hTckdXUktnQnFIZldMdXBqc3Z2M0VSajRxM3Z5ZHJET2JMWUNobHA4RnJuOXhrTm9nbFhJb1JtMTJDaG50WTdQRlN3OVkxaVZySGw3aFNISWhycTZGblJwNkFieVE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "بناء سير عمل ذكية باستخدام أدوات أمازون السحابية",
+   "summary": "أطلقت أمازون ويب سرفيسز أدوات جديدة تدمج خدمات SageMaker AI و Bedrock AgentCore لتمكين المطورين من بناء أنظمة ذكية قادرة على اتخاذ قرارات مستقلة. تركز الأدوات على تبسيط عملية إنشاء تطبيقات تعمل بنحو ذاتي في البيئات السحابية.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclNtaTBseU1RNVdMN0ZfYTlCLXpFUmt3aEppRnNMTUhPS1BGeVR4cDRxYkR2dnY2WHpMZ2NQSk5YTGo5SE42UlFtY0h1OGZ1UFJMSkwxODI0ejRTVm1VN1l2dWdrS2MybFRBUnZVejVMZW1DNHd1b0RGQ0ZXWl9BMmRTSjFpZXpTVktsVEU2WEMwWk4tbjlRS3BPS0Z0WVhHeEhBU0pjdHVKSm1ldkRteThKUQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "دمج الإلكترونيات المرنة مع الذكاء الاصطناعي",
+   "summary": "يستعرض بحث جديد كيفية دمج المواد الإلكترونية المرنة والمتقدمة مع تقنيات الذكاء الاصطناعي لتطوير أنظمة ذكية متطورة. يشمل الدراسة تطورات في المواد والهندسة التي تفتح آفاقاً جديدة للتطبيقات الطبية والصناعية.",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56Z1BfSUI3ZjNIdHpzNC11cWVwZUxrUFUzSTVTTXNaS0E2OUpGUEFqVUxRU05Ca01jOUhDNklrb183OGVrR3ZsUHkxYkU2WHB5eWREcmRRbUlZbWhO?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
    "date": "2026-08-14"
   },
   {
@@ -56,78 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX29HSEx2N1htblFaZ2hUcXc2NFQ5ajNKeTVhbGFCVnV6bS1YOTVlRk5fb0N3SWIyVDJid2hlTVJMeDByOHBxTkdjM2RhMnN5bFRNSG42Q1JWVU83M1FraFg1WkVBekdta3FoaW9aU3NqS3pmYzluREt3bVIxclY4T9IBhgFBVV95cUxOaDBuaEZ4eHhkanRhT1BRQktraFdxd2E2dG9TQ3F2NGZnTEVyWjh3UHlTcXFSS2lzWUJSanYxRzBMUm9zeW1FQjNqYjB1U29qZktDcVdhRjZhUkotNlplaG04ZmVTUFdZZjMzRVpXdjB4cVpPbkIxZzRjSTY3NUxlZjdqWTlWZw?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "كاميرات ذكاء اصطناعي على جسر كورونادو لتعزيز الأمان والمراقبة",
-   "summary": "تم تركيب كاميرات مزودة بتقنيات الذكاء الاصطناعي على جسر كورونادو لتحسين المراقبة الأمنية والكشف عن الحوادث بكفاءة أعلى. تهدف هذه الخطوة إلى تعزيز سلامة المستخدمين والتعامل السريع مع الحالات الطارئة.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOW9DZ05yUnEtSlhzRHpiQ1ZHTGVkOFlfbHJ4TnkxLVJGeEJ4ZklLWkZ4OWtFZWFZOXpMM2FCcjkxcEdDMnAyX21fZG9XVzhYaVRQN0RzdDhGV0FjTE1xZS1TeWpOZnZTM0lxM2ZkWnBUdjNqYUI3MzRuRVc0cUI1TUhWR0xRRWsycmxaMVBTU1owc28yQ2E2NEVfVQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "جوجل تعلن عن سبع ميزات جديدة في هاتف بكسل 11",
-   "summary": "أطلقت جوجل سلسلة من التحديثات والمميزات الجديدة في جهازها الذكي بكسل 11، تركز على تحسين الأداء والقدرات الذكية. تتضمن التحديثات تطويرات في المعالجة وتجارب المستخدم المختلفة.",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "أنثروبك تواجه تحديات تقييمية قبل الطرح العام المتوقع",
-   "summary": "تواجه شركة أنثروبك للذكاء الاصطناعي تقييماً بقيمة تريليوني دولار، لكن أساس أعمالها الحالي لا يبرر هذا المستوى التقييمي قبل دخولها سوق البورصة. يعكس هذا الفجوة بين التوقعات السوقية والواقع المالي للشركة.",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVOdW9zemhxOWQyYWV6V1NHMFpjUzY3WHBVVl83a3lNYnRaOHE4ZUpLYjd2ZFhTRWJpUmZEd3M2cFczVDZxb2ZNUURmRE9scnY2SDJSdFROdzVSdVpzNkRKYklfQS0xMko2M3A1RV94Y3RZRHpZYkdHYVVtNEhnMTRXTTY4Y3YyVGFGdVp0TnFpX3cwXzFncE1jNnhpUGs0dE83OThTVmdmOTh1UmYtdlpOZEs5X3cwSGd6dUg4a2IxYnNvSUdn?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "مكبر الصوت الذكي من أوبن إيه آي سيتخذ شكلاً مستديراً مميزاً",
-   "summary": "تخطط أوبن إيه آي لإطلاق جهاز مكبر صوت ذكي بتصميم مستدير فريد يختلف عن الأجهزة التقليدية. يأتي هذا الجهاز كجزء من توسع الشركة نحو منتجات عتادية تدمج قدرات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JVDRxQk9ZdGgzNWhMYzFDY1FWMWtqekVCUVBobzBGcmlNNVdWVTJrelJwamhMdE1IMDU5SG41dktadFFJZTdrRWVrdDl4VTd1c19ESzV0NzFuMldpMmVOcFFBcmdzQ19vWWtXOXRXQTRfcUdWRFJEOVl6b0syZw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "شعب ناڤاجو ينشئ مجموعة عمل متخصصة لصياغة سياسات الذكاء الاصطناعي",
-   "summary": "وافقت لجنة ناابيك'ياتي (الجسم التشريعي لشعب ناڤاجو) على تكوين مجموعة عمل متخصصة بصياغة سياسات وطنية ناظمة لاستخدام تقنيات الذكاء الاصطناعي، وذلك بعد إقرار بيان موقف حول الموضوع.",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRTB2YzU3TUtBTWp1eThQNVpMZVVQdnQ0aU9pN1JKdFQwcC1lUWJmTWQwWXFHdENlQjUtZnE3T1JBX0dsbTV3UDJMb1J1NGJOZ2szbTIteWxHcmhlM0F2Q2VyeDJmRDU2QlpRZWRrMm92ZGx4ZHpzMzVnNFdmd1pJSjF0TVhZT1RoTS1zM3QtOGp6UTk1bVllM0M3SHlMLUY1YVZwYTJnck9EUlFkemtRaGRXZ1ljMC1ObG9EcnRUek1VMzdWbVU5ZWFncGlGNzlvZFhWOHp3bzE5eDM2MFRfMUZYblQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "منافسة السعر بين أوبن إيه آي وأنثروپيك تشتد مع تقدم منافسين صينيين",
-   "summary": "دخلت شركتا أوبن إيه آي وأنثروپيك في حرب أسعار متنامية للسيطرة على السوق، في الوقت الذي يشهد فيه المجال ضغطاً متزايداً من جانب شركات ذكاء اصطناعي صينية ناشئة تكتسب حصة سوقية متسارعة.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "نموذج جيميني فلاش الجديد يصل السوق قبل إطلاق جيميني 3.5 برو",
-   "summary": "أطلقت غوغل نموذج جيميني فلاش المحسّن، وهو إصدار سريع الأداء موجه للتطبيقات التي تتطلب استجابة فورية، قبل الانتظار لإطلاق النسخة الأحدث جيميني 3.5 برو.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLZXdBMzlkSW1zbGloS0VNNXhBNXRpaFpMSGNPNzI0NThxN1JOUzcwbjZQY001T2V0OFM2eWNMX05aVk1KeUx6am9RUHdrQjEybDdhVnBGMTJGSkQ3cm5HTFRHcXBtQQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "شركة ز.إيه تطور نموذج ذكاء اصطناعي جديد للعمل البرمجي لمنافسة الرواد",
-   "summary": "كشفت شركة ز.إيه عن نموذج ذكاء اصطناعي مخصص لمهام البرمجة والترميز، مستهدفة منافسة الشركات الرائدة في المجال مثل أوبن إيه آي وأنثروپيك من خلال تقديم قدرات معالجة برمجية محسّنة.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPai1NQklvd1FVc2RJS0dlRzdOc2Q5SWN1QTFSSWlqRmJYNXRvNVh2M3BNWEZjVFUyY0E3U1ZtUW1Bbk02R0ZjeGZIVnNDYTZRUzdZMDYxSVBIVkN3bmV6eVJWWk5EUnlCLWI2T1N5OHZvV1RtWVBsdVlCMTZvRVliMm1WOGFuc21VbDFTeURFb08wTzdUVk1VU1hxWWdKM05PNXdhR0Yyc1E0TGtRS3d3dlNzU3Q?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "تساؤلات حول موجة استقالات المديرين التنفيذيين من OpenAI",
-   "summary": "شهدت شركة OpenAI رحيل عدد من القيادات التنفيذية خلال الفترة الأخيرة، مما أثار تساؤلات حول الأسباب الكامنة وراء هذه الموجة. تشير هذه الحركات إلى تحديات تنظيمية قد تواجهها الشركة.",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FVHdpS2N6c2RBeW5ReGgyQ1JYU0hsZHV1VFI5TUFHeFpKcFBOWGY4RTNnRUwyeXFPNXFmM2FTMzFsZWR2UmhPQ0lPR3ZDTzBaZldkbWUtOVc4LVJSb0NvdDg0TGVSbWJ1WXpDTnNfSlFrZUk?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-08-14"
   }
  ]
