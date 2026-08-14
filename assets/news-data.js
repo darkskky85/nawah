@@ -1,13 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-14T09:50:10.970952+00:00",
+ "updated": "2026-08-14T15:40:18.886025+00:00",
  "items": [
   {
-   "title": "شركة أمنية متخصصة في الذكاء الاصطناعي بولاية بنسلفانيا توسّع عملياتها وتخطط لمضاعفة موظفيها",
-   "summary": "أعلنت شركة متخصصة في أمان الذكاء الاصطناعي بمدينة بيتسبرغ عن توسيع ملحوظ في البنية التحتية والمساحات المكتبية، وأكدت على نيتها مضاعفة عدد كوادرها البشرية خلال الفترة القادمة، مما يعكس نموّاً متسارعاً في هذا المجال الحيوي.",
+   "title": "شركة ناشئة فرنسية تطور تقنية لاستخراج أداء أكبر من معالجات الرسومات",
+   "summary": "تطعن شركة Kog الفرنسية في الاعتقاد الشائع بأن معالجات الرسومات غير مناسبة لتطبيقات الذكاء الاصطناعي الموزعة. تركز الشركة على تحسين كفاءة استخدام هذه المعالجات لإنجاز حسابات الاستدلال بشكل أعمق وأفضل.",
+   "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "أسعار الغاز الطبيعي قد تفاجئ شركات البيانات الضخمة بفواتير هائلة",
+   "summary": "توقعات جديدة تشير إلى احتمالية ارتفاع أسعار الغاز الطبيعي بمعدل ثلاثة أضعاف في أجزاء من الولايات المتحدة، مما قد يفرض أعباءً مالية ضخمة على شركات البيانات الضخمة التي تعتمد عليه لتشغيل مراكز الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "آبل تطور نموذج ذكاء اصطناعي خاص بالسوق الصينية بالتعاون مع علي بابا",
+   "summary": "طورت آبل نموذج لغة كبير مخصص للسوق الصينية بالشراكة مع عملاق التكنولوجيا المحلي علي بابا، في تعاون نادر عابر للحدود رغم التوترات المتنامية بين بكين وواشنطن.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "منصة Suno تتطور نحو أداة إنتاج موسيقي احترافية",
+   "summary": "أطلقت منصة Suno نسخة محدثة من استوديوها تقربها من محررات الموسيقى الاحترافية الحقيقية، مع إضافة دعم معيار MIDI الذي يعتبر من أكثر الميزات المطلوبة من المستخدمين.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "شركة أمان الذكاء الاصطناعي في بيتسبرغ توسّع عملياتها وتزيد موظفيها",
+   "summary": "أعلنت شركة متخصصة في أمان الذكاء الاصطناعي عن توسع كبير في عملياتها بمدينة بيتسبرغ، حيث ستزيد مساحة مكاتبها بمعدل أربع مرات، مع التزام بمضاعفة عدد الموظفين خلال الفترة القادمة.",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWZpQXhNWWZqQnZ0NzRGaDdneDQ3UFo1bFlYSl8zQWVwMEczQUhMMTNCek5CZnl0d3lvaHhGNS11R2I0Z0xDc082aVVpOElTcC1OcUhmbmp0OHZmTllqRFpvZFk1bzRIWVZTdDFzMDI4b0ZPSW5UdG5uZkxFbFhPSjJkclF3dks1Yl9wR2duWUU1VWRNQ0pGV2ZSeUE1WFAyR3QxZFdxTkVZeWY4U1Zoa291bTU3ODMtSXhFYTg2LVdrTHBsdzBUT3k0Q0ptRUZId2pBbmJn?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "شركة ذكاء اصطناعي جديدة تحتل مرتبة عالية بين الأسهم الشعبية على منصة Robinhood",
+   "summary": "حققت شركة ناشئة في مجال الذكاء الاصطناعي إنجازاً ملفتاً بدخولها قائمة الأسهم الخمسة الأكثر تداولاً على منصة Robinhood للاستثمار، مما يعكس الاهتمام المتزايد للمستثمرين الأفراد بقطاع الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFlvZjRkc1hZaDRqVC02Q3daXzhxTXZuMzBmRXlKMEFERDhHVnVqSVNKV2VkMVJXeTRnMjNhY1pmMGJndGVmcms1Y0QtaHpsOW41SlJTSk02Q1V3a0RTdERILUZ1QlFnTHZRMFVaOVdYRXFBVkxFMnBGSzM1aWx3Rnd4VW51X1ZYVlY1WU9IeUd3MXNYRUNYSA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "تطبيقات الذكاء الاصطناعي تدخل الفصول الدراسية",
+   "summary": "يشهد الفصل الدراسي الجديد توجهاً متزايداً لاستخدام تقنيات الذكاء الاصطناعي في العملية التعليمية، حيث توظفها المدارس لتحسين التدريس والتعلم الفردي للطلاب.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX29HSEx2N1htblFaZ2hUcXc2NFQ5ajNKeTVhbGFCVnV6bS1YOTVlRk5fb0N3SWIyVDJid2hlTVJMeDByOHBxTkdjM2RhMnN5bFRNSG42Q1JWVU83M1FraFg1WkVBekdta3FoaW9aU3NqS3pmYzluREt3bVIxclY4T9IBhgFBVV95cUxOaDBuaEZ4eHhkanRhT1BRQktraFdxd2E2dG9TQ3F2NGZnTEVyWjh3UHlTcXFSS2lzWUJSanYxRzBMUm9zeW1FQjNqYjB1U29qZktDcVdhRjZhUkotNlplaG04ZmVTUFdZZjMzRVpXdjB4cVpPbkIxZzRjSTY3NUxlZjdqWTlWZw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "كاميرات ذكاء اصطناعي على جسر كورونادو لتعزيز الأمان والمراقبة",
+   "summary": "تم تركيب كاميرات مزودة بتقنيات الذكاء الاصطناعي على جسر كورونادو لتحسين المراقبة الأمنية والكشف عن الحوادث بكفاءة أعلى. تهدف هذه الخطوة إلى تعزيز سلامة المستخدمين والتعامل السريع مع الحالات الطارئة.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOW9DZ05yUnEtSlhzRHpiQ1ZHTGVkOFlfbHJ4TnkxLVJGeEJ4ZklLWkZ4OWtFZWFZOXpMM2FCcjkxcEdDMnAyX21fZG9XVzhYaVRQN0RzdDhGV0FjTE1xZS1TeWpOZnZTM0lxM2ZkWnBUdjNqYUI3MzRuRVc0cUI1TUhWR0xRRWsycmxaMVBTU1owc28yQ2E2NEVfVQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "جوجل تعلن عن سبع ميزات جديدة في هاتف بكسل 11",
+   "summary": "أطلقت جوجل سلسلة من التحديثات والمميزات الجديدة في جهازها الذكي بكسل 11، تركز على تحسين الأداء والقدرات الذكية. تتضمن التحديثات تطويرات في المعالجة وتجارب المستخدم المختلفة.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "أنثروبك تواجه تحديات تقييمية قبل الطرح العام المتوقع",
+   "summary": "تواجه شركة أنثروبك للذكاء الاصطناعي تقييماً بقيمة تريليوني دولار، لكن أساس أعمالها الحالي لا يبرر هذا المستوى التقييمي قبل دخولها سوق البورصة. يعكس هذا الفجوة بين التوقعات السوقية والواقع المالي للشركة.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVOdW9zemhxOWQyYWV6V1NHMFpjUzY3WHBVVl83a3lNYnRaOHE4ZUpLYjd2ZFhTRWJpUmZEd3M2cFczVDZxb2ZNUURmRE9scnY2SDJSdFROdzVSdVpzNkRKYklfQS0xMko2M3A1RV94Y3RZRHpZYkdHYVVtNEhnMTRXTTY4Y3YyVGFGdVp0TnFpX3cwXzFncE1jNnhpUGs0dE83OThTVmdmOTh1UmYtdlpOZEs5X3cwSGd6dUg4a2IxYnNvSUdn?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "مكبر الصوت الذكي من أوبن إيه آي سيتخذ شكلاً مستديراً مميزاً",
+   "summary": "تخطط أوبن إيه آي لإطلاق جهاز مكبر صوت ذكي بتصميم مستدير فريد يختلف عن الأجهزة التقليدية. يأتي هذا الجهاز كجزء من توسع الشركة نحو منتجات عتادية تدمج قدرات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JVDRxQk9ZdGgzNWhMYzFDY1FWMWtqekVCUVBobzBGcmlNNVdWVTJrelJwamhMdE1IMDU5SG41dktadFFJZTdrRWVrdDl4VTd1c19ESzV0NzFuMldpMmVOcFFBcmdzQ19vWWtXOXRXQTRfcUdWRFJEOVl6b0syZw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-08-14"
   },
   {
@@ -49,86 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-08-14"
-  },
-  {
-   "title": "منصة رايتر تُطلق نموذج ذكاء اصطناعي محسّن مع آليات للتحكم بتكاليف العمليات الحسابية",
-   "summary": "أداة جديدة من منصة رايتر تجمع بين نموذج ذكاء اصطناعي مبني على تقنيات ز.إيه المفتوحة المصدر وأدوات إدارية لخفض نفقات المعالجة الحسابية، بهدف توفير حل جاهز للاستخدام الفوري بتكلفة منخفضة.",
-   "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "دايتابريكس تجمع 5 مليارات دولار برغم خلاف التوقعات الأولية",
-   "summary": "سعت شركة دايتابريكس لجمع مليار دولار، لكن الطلب الاستثماري القوي دفعها لقبول عرض أعلى بكثير، فأنهت الجولة برأسمال 5 مليارات دولار وتقييم 190 مليار دولار. يعكس هذا الطلب الشديد على حلول الذكاء الاصطناعي رغم تكاليفها العالية.",
-   "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "أوبن إيه آي تطلق وضعاً معجّلاً لنموذجها الأحدث بسرعة 14 ضعفاً",
-   "summary": "أعلنت أوبن إيه آي عن نسخة معجّلة من نموذجها الأقوى حالياً تعمل بسرعة أعلى بكثير، بهدف جذب المستخدمين من المؤسسات التي تبحث عن أداء أسرع وأكفأ للتطبيقات الإنتاجية.",
-   "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "آيبي إم تتحالف مع أوبن إيه آي لتعزيز خدمات الذكاء الاصطناعي للشركات",
-   "summary": "وقّعت آيبي إم اتفاقية شراكة مع أوبن إيه آي تتضمن تدريب وإعادة تأهيل عشرات الآلاف من استشاريي الشركة على تقنيات أوبن إيه آي لتقديم خدمات متقدمة للعملاء المؤسسين.",
-   "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "وكلاء ذكاء اصطناعي من أنثروبيك تنخرط في نزاع على المهام الموكلة إليها",
-   "summary": "كشف باحثو أنثروبيك أن وكلاء الذكاء الاصطناعي يمكن أن يتعارضوا وينسقوا فيما بينهم بطرق غير متوقعة عند عملهم على مهمة واحدة، مما يثير تساؤلات حول كفاية الاختبارات الأمنية الحالية لأنظمة متعددة الوكلاء.",
-   "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "مايكروسوفت تسحب شخصية Mico من واجهة Copilot الرئيسية",
-   "summary": "ستتوقف مايكروسوفت عن عرض الكائن الأصفر الرمزي Mico عند استخدام وضع الصوت في Copilot. ستنقل الشركة الشخصية إلى منصة Learn Live حيث ستتمتع بمزيد من الفرص للتفاعل مع محتوى تعليمي متنوع.",
-   "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "رئيس إيرادات OpenAI تغادر الشركة بعد أسابيع من التعيين",
-   "summary": "أعلنت Denise Dresser، التي انضمت إلى OpenAI كرئيسة إيرادات في ديسمبر السابق بعد قيادتها لـ Slack، عن رحيلها خلال الأسابيع القادمة. تأتي هذه المغادرة بعد رحيل تنفيذي آخر من الشركة خلال نفس الأسبوع.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "Suno تطرح نسخة محسّنة من استوديوها لتشبه أدوات الإنتاج الاحترافية",
-   "summary": "أصدرت Suno نسخة 2.0 من منصتها بتحسينات تقربها أكثر من أداة محطة عمل صوتية متكاملة. أبرز الإضافات دعم معايير MIDI التي طالب بها المستخدمون بكثرة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "تحليل فيلم معاد بالذكاء الاصطناعي يكشف أن الأجزاء الأفضل من صنع الإنسان",
-   "summary": "يستكشف التحليل جودة الفيلم المصنوع بواسطة الذكاء الاصطناعي بمقارنة أجزاؤه المختلفة. يتضح أن المشاهد والعناصر التي أضافها الإنسان كانت أكثر تأثيراً وإبداعاً من الأجزاء التي اعتمدت بالكامل على التوليد الآلي للمحتوى.",
-   "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "هل تسعى جوجل فعلاً للفوز في سباق الذكاء الاصطناعي؟",
-   "summary": "أعادت جوجل تنظيم قسم الذكاء الاصطناعي فيها (جوجل ديب مايند) بشكل جذري، ما أثار تساؤلات في الصناعة حول مدى جدية التزام الشركة بمواصلة المنافسة في مجال الذكاء الاصطناعي. الخطوة تعكس تحديات تواجهها الشركة في هذا السباق التنافسي المتسارع.",
-   "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-13"
   }
  ]
 };
