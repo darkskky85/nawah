@@ -1,58 +1,90 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-14T21:14:51.087521+00:00",
+ "updated": "2026-08-15T03:28:51.398322+00:00",
  "items": [
   {
-   "title": "غوغل تسمح بإزالة العلامة المرئية من الصور التي تولدها نماذجها",
-   "summary": "أطلقت غوغل خيارًا يمكّن المستخدمين من إزالة العلامة المائية الظاهرة على الصور التي تنتجها أدوات الذكاء الاصطناعي التابعة لها. تجدر الملاحظة أن هذا الخيار لا يؤثر على العلامات غير المرئية التي تُستخدم للتحقق من كون الملف من إنتاج نموذج ذكاء اصطناعي.",
+   "title": "كيف يستخدم المحتالون الذكاء الاصطناعي للإيقاع بك",
+   "summary": "يسلط التقرير الضوء على الأساليب التي يوظفها المحتالون تقنيات الذكاء الاصطناعي لتنفيذ عمليات احتيال موجهة ضد الأفراد، مما يشير إلى أهمية الحذر من هذه المخاطر الناشئة في العصر الرقمي.",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPck1tT0lDLVFQeXRHQjJScU8wN2xHNWl6SEFiQk8tcU9JMTZ1dHhObUxHbWRHLUs5YmZUM1hXaVJIaVF3cEdVTW1ENUJEVjExdWRvVWZFcmJud1ZQRkxqWl9LQWpSdVhFS0ZpdzV2WFFBT2VvZkQ1aDZXNWh1bnoxdlRGc2g4MGVodGtXSUJNNmlORGoxV1Bnblk1UjhxcXEzbWVBV0ZMOXJmbFBXeWxBOVMtWU4wSjY5cXpoUjBEcXByaU51eGlZWTNmeUhoTnJHQ2ZxZQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "جامعات كاليفورنيا تطلق برنامج مرشد ذكاء اصطناعي للموظفين وسط تخوّفات أمنية",
+   "summary": "أطلقت جامعات كاليفورنيا برنامجاً لتدريب موظفيها على استخدام أدوات الذكاء الاصطناعي، لكن المبادرة تثير قلقاً حول حماية البيانات والخصوصية. يسعى البرنامج لتعزيز الثقافة التقنية في الجامعات مع الالتزام بمعايير أمان البيانات.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdTl1ZlN2dWE2VDgzM2lGOVZWWWlzYmw5UWp4cmlzNkhjcXBLaVNxdWJ6VXJ0T3dtZkJNOWZKQ2RlWUJmTk1keGNyZmY3dzAzT1hfcnFCY0Npanhfb0xFajFCeFN5TUJ6MEtUTG1JLXpkR0lLSXk3SDhPTUx0WDhzUFI1Y0lpaDVNaVZIUUxtX3Z4NDhzRmY5NUhzelRiNGFScTdybjNsN0NrUQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "تقييم اكتتاب Anthropic يتوقف على توقعات إيرادات بمئات المليارات دولار",
+   "summary": "يرتبط تقييم شركة Anthropic في طرحها العام بتوقعات إيرادات تتراوح بين 190 و200 مليار دولار بحلول 2028، وفقاً لمصادر في الصناعة. تعكس التوقعات الطموحة آمال المستثمرين في نمو سوق تطبيقات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "جوجل تكشف عن سبع ميزات جديدة في هاتفها Pixel 11",
+   "summary": "أعلنت جوجل عن تحديثات متعددة لهاتف Pixel 11، تشمل تحسينات في القدرات الحسابية والميزات المدمجة. تركز التحديثات على تعزيز تجربة المستخدم والأداء العام للجهاز.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "جوجل تتيح حذف العلامة المرئية من الصور المولدة بالذكاء الاصطناعي",
+   "summary": "سمحت جوجل للمستخدمين بإزالة العلامة المرئية من الصور المُنشأة عبر أدواتها للذكاء الاصطناعي. مع ذلك ستبقى هناك علامات غير مرئية مدمجة لتتبع الملفات المولدة آلياً.",
    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-14"
   },
   {
-   "title": "هل يعتقد مارك زوكربيرج فعلًا أن الذكاء الاصطناعي للجميع؟",
-   "summary": "أطلقت ميتا نموذج الذكاء الاصطناعي المفتوح الوزن \"غليمر\" الذي يمكن لأي شخص تحميله وتشغيله على أجهزته الخاصة، في تناقض مع نموذج \"ميوز سبارك\" الأقوى الذي يبقى محصورًا خلف واجهات برمجية خاصة بالشركة. صاحب الإطلاق رسالة من زوكربيرج يجادل بأن الذكاء الاصطناعي يجب أن يكون في متناول الجميع.",
+   "title": "هل يعتقد زوكربيرج فعلاً أن الذكاء الاصطناعي للجميع؟",
+   "summary": "أطلقت Meta نموذج ذكاء اصطناعي مفتوح يمكن لأي شخص تحميله وتشغيله، بينما تحتفظ بنماذج أقوى خلف خوادمها الخاصة. يعكس التوجه رؤية زوكربيرج في ديمقراطية الذكاء الاصطناعي، لكن الممارسة قد تخالف هذه الرؤية.",
    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-14"
   },
   {
-   "title": "شركة ناشئة فرنسية تستخرج إمكانيات أكبر من معالجات الرسوميات",
-   "summary": "تطرح شركة كوغ الفرنسية الناشئة نقاشًا حول الفهم السائد بأن معالجات الرسوميات غير مناسبة للمهام التي تتطلب وكلاء ذكاء اصطناعي، مشيرة إلى أن هذا الاعتقاد قد لا يكون صحيحًا من الناحية التقنية.",
+   "title": "شركة ناشئة فرنسية تحسّن استخدام معالجات الرسوميات في مهام الذكاء الاصطناعي",
+   "summary": "تطرح شركة Kog الفرنسية حلاً يعزز كفاءة معالجات الرسوميات في تطبيقات الذكاء الاصطناعي المستقلة. يطعن الحل في الاعتقاد الشائع بأن هذه المعالجات غير ملائمة لمثل هذه الأعمال الحسابية.",
    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-14"
   },
   {
-   "title": "مراكز البيانات الضخمة قد تندم على الاعتماد على الغاز الطبيعي",
-   "summary": "تشير توقعات جديدة إلى احتمالية ارتفاع أسعار الغاز الطبيعي بنسبة تصل إلى ثلاثة أضعاف في بعض مناطق الولايات المتحدة، وهو ما قد يفرض أعباءً مالية ضخمة على الشركات العملاقة العاملة في مجال مراكز بيانات الذكاء الاصطناعي.",
+   "title": "أسعار الغاز الطبيعي قد تثقل كاهل عمالقة التكنولوجيا",
+   "summary": "توقعات اقتصادية تشير إلى احتمال ارتفاع أسعار الغاز الطبيعي بنسب كبيرة في أجزاء من الولايات المتحدة، مما قد يفرض تكاليف ضخمة على شركات البنية التحتية الكبرى لتشغيل مراكز بيانات الذكاء الاصطناعي الخاصة بها.",
    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-14"
   },
   {
-   "title": "الذكاء الاصطناعي \"المفتوح\" من ميتا وصفقة بـ 250 مليون دولار تنحرف عن مسارها",
-   "summary": "أطلقت ميتا نموذج الذكاء الاصطناعي المفتوح الوزن \"غليمر\" الذي يمكن تحميله وتشغيله على الأجهزة الشخصية، بينما يبقى نموذجها الأقوى \"ميوز سبارك\" حصريًا خلف واجهات برمجية خاصة. جاء الإطلاق مع رسالة من زوكربيرج يدعو إلى جعل الذكاء الاصطناعي متاحًا للجميع.",
+   "title": "ميتا تطلق نموذج ذكاء اصطناعي مفتوح الوزن",
+   "summary": "أطلقت ميتا نموذج ذكاء اصطناعي جديد باسم جليمر يمكن لأي شخص تحميله وتشغيله على أجهزته الخاصة، في خطوة نحو ديمقراطية تكنولوجيا الذكاء الاصطناعي، بموازاة نموذج أقوى يبقى محصوراً خلف تطبيقات الشركة.",
    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-14"
   },
   {
-   "title": "تغيير شعار إنستغرام يثير تساؤلات",
-   "summary": "عدّلت إنستغرام شعارها الكتابي الذي يعتبر علامة مميزة معروفة، معتقدة أنه بدا قديم الطراز. لكن الشعار الجديد يختلف بشكل كبير عن السابق، بل يصعب التعرف عليه كلوغو إنستغرام تقليدي، ما أثار استفهامات عن الدافع وراء هذا القرار.",
+   "title": "إنستجرام تتبنى تصميماً جديداً للشعار",
+   "summary": "غيرت إنستجرام شعارها هذا الأسبوع بعد سنوات من الاعتماد على التصميم السابق، حيث يختلف الشعار الجديد بشكل ملحوظ عن النسخة القديمة وأثار تغييره استفسارات حول دوافع الشركة وراء هذا التعديل.",
    "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-14"
   },
   {
-   "title": "جوجل تتيح إزالة العلامات المائية من محتوى جيميني",
-   "summary": "أطلقت جوجل خيار جديد يسمح للمستخدمين بإلغاء العلامات المائية المرئية من الصور والفيديوهات والموسيقى المُنتجة بواسطة أدوات الذكاء الاصطناعي. يمكن تفعيل أو تعطيل هذا الخيار عبر إعدادات «Media watermark» في تطبيق جيميني وأداة إنشاء الفيديوهات Flow.",
+   "title": "غوغل تسمح بإزالة علامات الذكاء الاصطناعي المرئية",
+   "summary": "أتاحت غوغل للمستخدمين إمكانية إلغاء علامات الذكاء الاصطناعي المرئية من الصور والفيديوهات والموسيقى المُنشأة بأدواتها، عبر خيار جديد في جيميني وأداة الفيديو فلو، مما يمنح المستخدمين مرونة أكبر في التحكم بهوية محتواهم.",
    "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
    "source": "The Verge AI",
    "tag": "منتجات",
@@ -94,38 +126,6 @@ window.NEWS_DATA = {
    "title": "دمج الإلكترونيات المرنة مع الذكاء الاصطناعي",
    "summary": "يستعرض بحث جديد كيفية دمج المواد الإلكترونية المرنة والمتقدمة مع تقنيات الذكاء الاصطناعي لتطوير أنظمة ذكية متطورة. يشمل الدراسة تطورات في المواد والهندسة التي تفتح آفاقاً جديدة للتطبيقات الطبية والصناعية.",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56Z1BfSUI3ZjNIdHpzNC11cWVwZUxrUFUzSTVTTXNaS0E2OUpGUEFqVUxRU05Ca01jOUhDNklrb183OGVrR3ZsUHkxYkU2WHB5eWREcmRRbUlZbWhO?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "منصة Suno تتطور نحو أداة إنتاج موسيقي احترافية",
-   "summary": "أطلقت منصة Suno نسخة محدثة من استوديوها تقربها من محررات الموسيقى الاحترافية الحقيقية، مع إضافة دعم معيار MIDI الذي يعتبر من أكثر الميزات المطلوبة من المستخدمين.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "شركة أمان الذكاء الاصطناعي في بيتسبرغ توسّع عملياتها وتزيد موظفيها",
-   "summary": "أعلنت شركة متخصصة في أمان الذكاء الاصطناعي عن توسع كبير في عملياتها بمدينة بيتسبرغ، حيث ستزيد مساحة مكاتبها بمعدل أربع مرات، مع التزام بمضاعفة عدد الموظفين خلال الفترة القادمة.",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWZpQXhNWWZqQnZ0NzRGaDdneDQ3UFo1bFlYSl8zQWVwMEczQUhMMTNCek5CZnl0d3lvaHhGNS11R2I0Z0xDc082aVVpOElTcC1OcUhmbmp0OHZmTllqRFpvZFk1bzRIWVZTdDFzMDI4b0ZPSW5UdG5uZkxFbFhPSjJkclF3dks1Yl9wR2duWUU1VWRNQ0pGV2ZSeUE1WFAyR3QxZFdxTkVZeWY4U1Zoa291bTU3ODMtSXhFYTg2LVdrTHBsdzBUT3k0Q0ptRUZId2pBbmJn?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "شركة ذكاء اصطناعي جديدة تحتل مرتبة عالية بين الأسهم الشعبية على منصة Robinhood",
-   "summary": "حققت شركة ناشئة في مجال الذكاء الاصطناعي إنجازاً ملفتاً بدخولها قائمة الأسهم الخمسة الأكثر تداولاً على منصة Robinhood للاستثمار، مما يعكس الاهتمام المتزايد للمستثمرين الأفراد بقطاع الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFlvZjRkc1hZaDRqVC02Q3daXzhxTXZuMzBmRXlKMEFERDhHVnVqSVNKV2VkMVJXeTRnMjNhY1pmMGJndGVmcms1Y0QtaHpsOW41SlJTSk02Q1V3a0RTdERILUZ1QlFnTHZRMFVaOVdYRXFBVkxFMnBGSzM1aWx3Rnd4VW51X1ZYVlY1WU9IeUd3MXNYRUNYSA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "تطبيقات الذكاء الاصطناعي تدخل الفصول الدراسية",
-   "summary": "يشهد الفصل الدراسي الجديد توجهاً متزايداً لاستخدام تقنيات الذكاء الاصطناعي في العملية التعليمية، حيث توظفها المدارس لتحسين التدريس والتعلم الفردي للطلاب.",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX29HSEx2N1htblFaZ2hUcXc2NFQ5ajNKeTVhbGFCVnV6bS1YOTVlRk5fb0N3SWIyVDJid2hlTVJMeDByOHBxTkdjM2RhMnN5bFRNSG42Q1JWVU83M1FraFg1WkVBekdta3FoaW9aU3NqS3pmYzluREt3bVIxclY4T9IBhgFBVV95cUxOaDBuaEZ4eHhkanRhT1BRQktraFdxd2E2dG9TQ3F2NGZnTEVyWjh3UHlTcXFSS2lzWUJSanYxRzBMUm9zeW1FQjNqYjB1U29qZktDcVdhRjZhUkotNlplaG04ZmVTUFdZZjMzRVpXdjB4cVpPbkIxZzRjSTY3NUxlZjdqWTlWZw?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-14"
