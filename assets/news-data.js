@@ -1,7 +1,79 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-15T09:15:11.180766+00:00",
+ "updated": "2026-08-15T15:09:25.477735+00:00",
  "items": [
+  {
+   "title": "نموذج ذكاء اصطناعي جديد من Zhipu",
+   "summary": "أداة ذكاء اصطناعي جديدة تحمل اسم GLM-5.3، وهي نموذج لغوي متقدم يقدم قدرات معالجة نصية وحوارية محسّنة.",
+   "url": "https://www.producthunt.com/products/z-ai",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "منصة قياس أداء نماذج الذكاء الاصطناعي",
+   "summary": "أداة جديدة ظهرت باسم Inferock Bench، مخصصة لقياس وتقييم أداء نماذج الذكاء الاصطناعي والمقارنة بينها عبر معايير موحدة.",
+   "url": "https://www.producthunt.com/products/inferock-bench",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "الذكاء الاصطناعي: بين الضجيج والمخاطر والمقاومة",
+   "summary": "تحليل نقدي للدور المتزايد للذكاء الاصطناعي، يتناول التوقعات المبالغ فيها والمخاطر الحقيقية والحركات المعارضة له في المجتمع.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkZIQ254YnF1VlJBMm9iOE1zZWREVGVacjRXZFNfZFZ2bmlJeHBoTFdoRWc2R09Ba19qWHAxZmlMNG9qWnQ3S2ZfUWk4dFFqTUlDMnU2OThkU2x2TW8yaThpTmJIWndNVGlRbzJGWVBLSk5TSVN5dFlBQVVmbVNVdGNhNjBNcnZmUnNJdkc2WE9nRGhCTndBV1VQRnF4bEtsVE41TEVjQXg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "حوار مع كلود: استكشاف قدرات الذكاء الاصطناعي",
+   "summary": "مقالة رأي تستعرض حوارًا مع نموذج الذكاء الاصطناعي كلود، وتناقش إمكانياته وخصائصه في فهم واستجابة الأسئلة المختلفة والتفاعل مع المستخدمين.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR083SGRhTVlzOXhkZDNzai1JZzN4b0c5anFDZmRWVDhnUW10bWl1U2Mzd1FrREhBRjFVNlZXTndqcWQxYU9xRjk1ejRUSHBFRmVJUWQzVkV4M29jczctbWhROEotLTg4NDBVempyTFJPQUJRYm5WaHRvS2tRWm9xa2I5RFBVVTItbTlOeGtVeHU1ZFpuLTVpY204RE9ZMHBIMFJIaER3SlQ3dDZIM01IODVfTzZHdDFsSk5JREIxWEU?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "الذكاء الاصطناعي في التنبؤ بالمضاعفات الصحية من خلال فحص الشبكية",
+   "summary": "دراسة تستكشف استخدام الذكاء الاصطناعي لتحليل الفحوصات الشبكية والتنبؤ بالمضاعفات الصحية العامة، ما يمثل توجهًا جديدًا في الطب الدقيق وتشخيص الأمراض المنتظمة.",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOclFjd0Z2MEM1YjJyekRVaFdMczEwTlhWazJsRHZQVnB4cEFfdXBwWF8yVjA4bzVqQXE5dGdHbGRFVDh1Ml9Vclh0VnhTa3ppU1p6eU5KMkd2QmxSOXJjZE5OYmJRZnhnakw2X1gzRFVnbVY1LXp3QjduZ19KQjg3NlZ5OGZKNWZSSWVVWXM5VV8xVkZ1WDBfbUtfblhnaUdGckxya1Z6Sm9nNGFsREtDckR1UFVTVzUzX2VaZUliampHc0NGYWViM1NFU1NuZGc0TzV6Vk9faTRFWHA2RVdJQ3lfSjBsM1JZTk12Uk8yMA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "سبع ميزات جديدة في هاتف بكسل 11",
+   "summary": "إعلان عن سبع تحديثات وميزات جديدة في هاتف بكسل 11 من جوجل، تتضمن تحسينات تكنولوجية وإمكانيات متقدمة.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "مكبر صوت ذكي من أوبن أيه آي بتصميم حلقي مبتكر",
+   "summary": "تقارير تشير إلى أن شركة أوبن أيه آي تعكف على تطوير مكبر صوت ذكي يعتمد على الذكاء الاصطناعي بتصميم حلقي فريد، ضمن محفظة منتجاتها المتنامية.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JVDRxQk9ZdGgzNWhMYzFDY1FWMWtqekVCUVBobzBGcmlNNVdWVTJrelJwamhMdE1IMDU5SG41dktadFFJZTdrRWVrdDl4VTd1c19ESzV0NzFuMldpMmVOcFFBcmdzQ19vWWtXOXRXQTRfcUdWRFJEOVl6b0syZw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "عائدات أنثروبيك تتجاوز 11.5 مليار دولار في الربع الثاني",
+   "summary": "حققت شركة أنثروبيك نموًا ملحوظًا في إيراداتها لتتجاوز 11.5 مليار دولار في الربع الثاني، مما يعكس الطلب المتزايد على خدمات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGFTR2NEWkd0UXZ2Y3pITjZ4MXRQZEREU3A0LU9GXy1aY0Z1bzNUY083NE4xN21wc2V3czEtWC1idGliQzZxM2h4WTRuSzRSVGFUN2tMS2VFN0k2QTlHSEhaWHd3ekpSSS16YTVSdTFwMUtkX1lZYVZGdjA1NEx2aFdQUVJnSXZWRE11RGxJSGpsWG9qZWxYY2s4bGNFSWfSAaQBQVVfeXFMTXllMzRNcmVRZTZib3pmRjVWZHg0ZEoxSkx0VTM2dnR1dWFOOGlxQWZqRVh1dXB5b1BuUjVaaUlCRURqclhkbDZpd3l1V3VnR3RSazBJYUdSYW5zaS1LbnpGNllGakRId1FFYkRWNlZfeGNYUkxUbTl3bzN0eDdZUWdqSVA2eDh4RVQ0NHhmcTlfemp4Tzc2blFNWVNsa2lGSDBJSnU?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "تقارير حصرية: تقييم طرح أنثروبك للاكتتاب يتوقف على توقعات إيرادات ضخمة بحلول 2028",
+   "summary": "وفقاً لمصادر مطلعة، تتوقع شركة أنثروبك المتخصصة في الذكاء الاصطناعي تحقيق إيرادات تتراوح بين 190 و200 مليار دولار بحلول عام 2028، وهو الرقم الذي يشكل أساساً لتقييم قيمتها في حال طرحها للاكتتاب العام. يعكس هذا التوقع الطموح الكبير الذي تضعه الشركة لمسار نموها القادم في قطاع تكنولوجيا الذكاء الاصطناعي المتنامي بسرعة.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-15"
+  },
   {
    "title": "أداة مساعدة للمبيعات بالذكاء الاصطناعي",
    "summary": "أداة جديدة ظهرت باسم SalesCloser.ai تهدف إلى تحسين عملية إتمام الصفقات البيعية باستخدام تقنيات الذكاء الاصطناعي. تساعد المنصة فريق المبيعات على تتبع العملاء المحتملين وتحسين فرص إغلاق الصفقات بشكل أفضل.",
@@ -35,30 +107,6 @@ window.NEWS_DATA = {
    "date": "2026-08-15"
   },
   {
-   "title": "سبع ميزات جديدة في هاتف بكسل 11",
-   "summary": "تعرض جوجل مجموعة من الإضافات والتحسينات في إصدارها الجديد من هاتف بكسل 11. تشمل هذه التحديثات تطورات تقنية وتحسينات في الأداء والميزات المختلفة.",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "السماعة الذكية من أوبن إيه آي ستتخذ شكل حلقة دائرية",
-   "summary": "وفقاً لتقارير إعلامية، تعمل أوبن إيه آي على جهاز سماعة ذكية يتميز بتصميم فريد على شكل حلقة أو دائرة. يأتي هذا المنتج ضمن جهود الشركة لتوسيع نطاق منتجاتها الذكية المدمجة بالذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JVDRxQk9ZdGgzNWhMYzFDY1FWMWtqekVCUVBobzBGcmlNNVdWVTJrelJwamhMdE1IMDU5SG41dktadFFJZTdrRWVrdDl4VTd1c19ESzV0NzFuMldpMmVOcFFBcmdzQ19vWWtXOXRXQTRfcUdWRFJEOVl6b0syZw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "تقييم أنثروبيك في الاكتتاب العام يرتبط بتنبؤ إيرادات ضخم",
-   "summary": "تشير تقارير حصرية إلى أن قيمة شركة أنثروبيك المتوقعة عند طرحها للاكتتاب العام ترتكز على توقعات إيرادات تتراوح بين 190 و200 مليار دولار بحلول عام 2028. يعكس هذا التقدير التوقعات العالية لنمو الشركة في سوق الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-15"
-  },
-  {
    "title": "جامعات كاليفورنيا تطلق برنامج مرشد ذكاء اصطناعي للموظفين وسط تخوّفات أمنية",
    "summary": "أطلقت جامعات كاليفورنيا برنامجاً لتدريب موظفيها على استخدام أدوات الذكاء الاصطناعي، لكن المبادرة تثير قلقاً حول حماية البيانات والخصوصية. يسعى البرنامج لتعزيز الثقافة التقنية في الجامعات مع الالتزام بمعايير أمان البيانات.",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdTl1ZlN2dWE2VDgzM2lGOVZWWWlzYmw5UWp4cmlzNkhjcXBLaVNxdWJ6VXJ0T3dtZkJNOWZKQ2RlWUJmTk1keGNyZmY3dzAzT1hfcnFCY0Npanhfb0xFajFCeFN5TUJ6MEtUTG1JLXpkR0lLSXk3SDhPTUx0WDhzUFI1Y0lpaDVNaVZIUUxtX3Z4NDhzRmY5NUhzelRiNGFScTdybjNsN0NrUQ?oc=5",
@@ -67,67 +115,19 @@ window.NEWS_DATA = {
    "date": "2026-08-15"
   },
   {
-   "title": "غوغل تتيح للمستخدمين إزالة العلامة المرئية من الصور المولّدة بالذكاء الاصطناعي",
-   "summary": "قررت غوغل السماح بحذف العلامة المائية الظاهرة على الصور التي تنتجها أدواتها بالذكاء الاصطناعي، مع الحفاظ على علامات غير مرئية تساعد في التعرف على الملفات المولّدة آلياً.",
+   "title": "غوغل تسمح بإزالة العلامة المرئية من الملفات المُولّدة بالذكاء الاصطناعي",
+   "summary": "قررت غوغل إتاحة خيار إزالة العلامة المائية الظاهرة من الصور والملفات التي ينتجها نموذجها للذكاء الاصطناعي، لكن الشركة ستحتفظ بعلامات غير مرئية لتتبع ملفاتها وتحديد مصدرها. يعكس هذا التوازن بين شفافية المستخدم ورغبة الشركة في الحفاظ على وسيلة تتبع تقنية.",
    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-14"
   },
   {
-   "title": "هل يعتقد مارك زوكربيرغ فعلاً بأن الذكاء الاصطناعي \"للجميع\"؟",
-   "summary": "أطلقت ميتا نموذج ذكاء اصطناعي مفتوح الأوزان يمكن لأي شخص تحميله وتشغيله محلياً، بينما تحتفظ بنماذج أقوى خلف خوادمها الخاصة، وأصدر زوكربيرغ رسالة يؤكد فيها أن الذكاء الاصطناعي يجب أن يكون متاحاً للجميع.",
+   "title": "هل فعلاً يؤمن مارك زوكربيرج بأن الذكاء الاصطناعي يجب أن يكون للجميع؟",
+   "summary": "أطلقت ميتا نموذج ذكاء اصطناعي مفتوح الأوزان باسم جليمر يمكن تحميله وتشغيله على أجهزة المستخدمين الشخصية، بالمقابل تحتفظ بنموذجها الأقوى موز سبارك خلف واجهات برمجية محدودة. يعكس هذا القرار توجهاً من الشركة نحو إتاحة تكنولوجيا الذكاء الاصطناعي بشكل أوسع، لكنه يثير تساؤلات حول صدقية الالتزام الكامل بهذا المبدأ.",
    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "شركة ناشئة فرنسية تسعى لاستخراج قدرات أعلى من معالجات الرسوميات",
-   "summary": "تطعن شركة Kog في الاعتقاد الشائع بأن معالجات الرسوميات غير مناسبة لتطبيقات الوكلاء الذكية، معتقدة أنه يمكن الاستفادة منها بشكل أفضل لهذه الأغراض.",
-   "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "عمالقة التكنولوجيا قد يندمون على الاعتماد على الغاز الطبيعي لتشغيل مراكز البيانات",
-   "summary": "توقعات تشير إلى احتمال تضاعف أسعار الغاز الطبيعي ثلاث مرات في أجزاء من الولايات المتحدة، مما قد يفرض فواتير ضخمة على شركات التكنولوجيا الكبرى التي تعتمد عليه لتشغيل مراكز بيانات الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "ميتا تطلق نموذج ذكاء اصطناعي مفتوح الوزن",
-   "summary": "أطلقت ميتا نموذج ذكاء اصطناعي جديد باسم جليمر يمكن لأي شخص تحميله وتشغيله على أجهزته الخاصة، في خطوة نحو ديمقراطية تكنولوجيا الذكاء الاصطناعي، بموازاة نموذج أقوى يبقى محصوراً خلف تطبيقات الشركة.",
-   "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "إنستجرام تتبنى تصميماً جديداً للشعار",
-   "summary": "غيرت إنستجرام شعارها هذا الأسبوع بعد سنوات من الاعتماد على التصميم السابق، حيث يختلف الشعار الجديد بشكل ملحوظ عن النسخة القديمة وأثار تغييره استفسارات حول دوافع الشركة وراء هذا التعديل.",
-   "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "غوغل تسمح بإزالة علامات الذكاء الاصطناعي المرئية",
-   "summary": "أتاحت غوغل للمستخدمين إمكانية إلغاء علامات الذكاء الاصطناعي المرئية من الصور والفيديوهات والموسيقى المُنشأة بأدواتها، عبر خيار جديد في جيميني وأداة الفيديو فلو، مما يمنح المستخدمين مرونة أكبر في التحكم بهوية محتواهم.",
-   "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "أبل تطور نموذج ذكاء اصطناعي للسوق الصينية بالتعاون مع علي بابا",
-   "summary": "طورت أبل نموذج لغة كبير مخصص للسوق الصينية بالشراكة مع شركة علي بابا الصينية، في خطوة نادرة للتعاون العابر للحدود وسط التوترات المتزايدة بين بكين وواشنطن. يعكس هذا التعاون محاولة أبل التكيف مع المتطلبات المحلية للسوق الصينية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-08-14"
   }
  ]
