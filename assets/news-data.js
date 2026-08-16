@@ -1,29 +1,69 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-15T21:10:47.562941+00:00",
+ "updated": "2026-08-16T03:38:08.733456+00:00",
  "items": [
   {
-   "title": "أنثروبيك تكشف تفاصيل آلية العلامات المائية الجديدة في كلود",
-   "summary": "كشفت شركة أنثروبيك عن آليات عمل نظام العلامات المائية الذي ستضيفه لنموذج كلود، وتوضيح كيفية مقاومته للتعديل والحذف، مع شرح تأثيره على معالجة الأكواد البرمجية وكيفية التحقق من صحة المحتوى.",
+   "title": "جوجل تطلق نموذج GLM-5.3 المحدّث",
+   "summary": "أطلقت جوجل إصدارة محسّنة من نموذج GLM، تحمل تحديثات في القدرات اللغوية والمعالجة. يعكس التطوير استمرار جهود الشركة في تطوير نماذج ذكاء اصطناعي أكثر فعالية.",
+   "url": "https://www.producthunt.com/products/z-ai",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-16"
+  },
+  {
+   "title": "سبع ميزات جديدة في هاتف بيكسل 11 من جوجل",
+   "summary": "أعلنت جوجل عن سبع تحديثات رئيسية في سلسلة هواتف بيكسل 11، تشمل تحسينات في الكاميرا والمعالج والمميزات المدمجة. تركز التحديثات على تحسين تجربة المستخدم والقدرات الذكية.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-16"
+  },
+  {
+   "title": "امرأة تتهم والدها بتحويل صورة طفولتها إلى محتوى صريح عبر تقنية ذكاء اصطناعي",
+   "summary": "أفادت امرأة باستخدام والدها أداة ذكاء اصطناعي لتعديل صورة من طفولتها وتحويلها إلى محتوى جنسي غير قانوني. تسلّط القضية الضوء على المخاطر المتزايدة لإساءة استخدام تقنيات الذكاء الاصطناعي في الاعتداء على الأطفال والاستغلال الجنسي.",
+   "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "أنثروبيك تكشف تفاصيل آلية عمل العلامات المائية في نموذج كلود الجديد",
+   "summary": "شرحت شركة أنثروبيك كيفية عمل نظام العلامات المائية الذي ستطبقه على مخرجات نموذج كلود، وتناولت أسئلة حول مدى إمكانية إخفاء هذه العلامات أو تعديلها. يهدف النظام إلى تحديد المحتوى المُنتج من الذكاء الاصطناعي وتمييزه عن النصوص البشرية.",
    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-15"
   },
   {
-   "title": "سبيس إكس تكمل استحواذها الرسمي على منصة كرسر للبرمجة",
-   "summary": "أعلنت سبيس إكس إتمام صفقة استحواذها على منصة كرسر المتخصصة في تطوير أدوات البرمجة بمساعدة الذكاء الاصطناعي، لتصبح المنصة جزءاً رسمياً من شركة إيلون ماسك.",
+   "title": "سبيس إكس تُنهي رسمياً استحواذها على شركة كرسر للبرمجة",
+   "summary": "أكملت شركة سبيس إكس عملية استحواذها على منصة كرسر المتخصصة في أدوات البرمجة القائمة على الذكاء الاصطناعي. يأتي الاستحواذ كجزء من جهود الشركة لتعزيز قدراتها التقنية وتطوير حلول برمجية متقدمة.",
    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-15"
   },
   {
-   "title": "تطبيق تفاعلي يسخر من ردود الذكاء الاصطناعي النمطية",
-   "summary": "أداة تدعو المستخدمين للعب دور الذكاء الاصطناعي بجانب شخص حقيقي، حيث يدخل أحد الطرفين طلباً والآخر يجيب عليه، مما يخلق مقارنة طريفة بين ردود البشر والآلات على الأسئلة ذاتها.",
+   "title": "منصة تفاعلية تتيح محاكاة الدردشة الآلية بطريقة فكاهية",
+   "summary": "أداة جديدة ظهرت باسم «Your AI Slop Bores Me» تتيح للمستخدمين محاكاة تفاعل بين إنسان وذكاء اصطناعي بطريقة ساخرة. تقوم على فكرة بسيطة: يدخل أحد الطرفين طلباً والآخر يرد عليه، مما يخلق تجربة فكاهية تسخر من أسلوب الذكاء الاصطناعي في الرد.",
    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "الذكاء الاصطناعي يعيد تشكيل معايير القبول الجامعي",
+   "summary": "تُستخدم تقنيات الذكاء الاصطناعي بشكل متزايد في عمليات الالتحاق بالجامعات، ما يؤثر على معايير التقييم والقبول التقليدية. يثير هذا التحول نقاشات حول آثاره على الإنصاف والشفافية في القرارات الأكاديمية.",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0lsWC1FWElRRDF2dERDM0ZndWVGSl9IV0tHV3lwdUtpMzFOMmJDYzg0aEVOZTVJRjZNbmNvY002SDNNbzNvXzBGRlJ3cXdjY0hhX216clY4NXPSAWBBVV95cUxNT3lENjRFU29HN2JrdWxRUVVTQVdmTXNLMjloSlNYV1lCQVY3NUoxX0s4c2tSNFRPeEgwclZPMGduM0NiZXM4S29ucW51U00tQkFBM2FoSFB6V1JiSFNGSFg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "إيرادات شركة Anthropic تتجاوز 11.5 مليار دولار في الربع الثاني",
+   "summary": "شهدت شركة Anthropic المتخصصة في الذكاء الاصطناعي نموّاً ملحوظاً في إيراداتها خلال الربع الثاني من العام. يعكس هذا النمو الطلب المتزايد على خدمات وتطبيقات الذكاء الاصطناعي في السوق.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGFTR2NEWkd0UXZ2Y3pITjZ4MXRQZEREU3A0LU9GXy1aY0Z1bzNUY083NE4xN21wc2V3czEtWC1idGliQzZxM2h4WTRuSzRSVGFUN2tMS2VFN0k2QTlHSEhaWHd3ekpSSS16YTVSdTFwMUtkX1lZYVZGdjA1NEx2aFdQUVJnSXZWRE11RGxJSGpsWG9qZWxYY2s4bGNFSWfSAaQBQVVfeXFMTXllMzRNcmVRZTZib3pmRjVWZHg0ZEoxSkx0VTM2dnR1dWFOOGlxQWZqRVh1dXB5b1BuUjVaaUlCRURqclhkbDZpd3l1V3VnR3RSazBJYUdSYW5zaS1LbnpGNllGakRId1FFYkRWNlZfeGNYUkxUbTl3bzN0eDdZUWdqSVA2eDh4RVQ0NHhmcTlfemp4Tzc2blFNWVNsa2lGSDBJSnU?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-08-15"
   },
   {
@@ -32,30 +72,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR083SGRhTVlzOXhkZDNzai1JZzN4b0c5anFDZmRWVDhnUW10bWl1U2Mzd1FrREhBRjFVNlZXTndqcWQxYU9xRjk1ejRUSHBFRmVJUWQzVkV4M29jczctbWhROEotLTg4NDBVempyTFJPQUJRYm5WaHRvS2tRWm9xa2I5RFBVVTItbTlOeGtVeHU1ZFpuLTVpY204RE9ZMHBIMFJIaER3SlQ3dDZIM01IODVfTzZHdDFsSk5JREIxWEU?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "إيرادات أنثروبيك تتجاوز 11.5 مليار دولار في الربع الثاني",
-   "summary": "حققت شركة أنثروبيك نمواً كبيراً في إيراداتها وفقاً لتقارير، مما يعكس الطلب المتزايد على خدمات الذكاء الاصطناعي وحلولها التجارية.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGFTR2NEWkd0UXZ2Y3pITjZ4MXRQZEREU3A0LU9GXy1aY0Z1bzNUY083NE4xN21wc2V3czEtWC1idGliQzZxM2h4WTRuSzRSVGFUN2tMS2VFN0k2QTlHSEhaWHd3ekpSSS16YTVSdTFwMUtkX1lZYVZGdjA1NEx2aFdQUVJnSXZWRE11RGxJSGpsWG9qZWxYY2s4bGNFSWfSAaQBQVVfeXFMTXllMzRNcmVRZTZib3pmRjVWZHg0ZEoxSkx0VTM2dnR1dWFOOGlxQWZqRVh1dXB5b1BuUjVaaUlCRURqclhkbDZpd3l1V3VnR3RSazBJYUdSYW5zaS1LbnpGNllGakRId1FFYkRWNlZfeGNYUkxUbTl3bzN0eDdZUWdqSVA2eDh4RVQ0NHhmcTlfemp4Tzc2blFNWVNsa2lGSDBJSnU?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "سبع ميزات جديدة في هواتف بيكسل 11",
-   "summary": "أطلقت جوجل مجموعة من التحديثات والميزات الجديدة في سلسلة هواتفها الذكية بيكسل 11، بما يشمل تحسينات في الكاميرا والأداء والتكامل مع خدماتها.",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "نموذج ذكاء اصطناعي جديد من Zhipu",
-   "summary": "أداة ذكاء اصطناعي جديدة تحمل اسم GLM-5.3، وهي نموذج لغوي متقدم يقدم قدرات معالجة نصية وحوارية محسّنة.",
-   "url": "https://www.producthunt.com/products/z-ai",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
    "date": "2026-08-15"
   },
   {
@@ -112,22 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPck1tT0lDLVFQeXRHQjJScU8wN2xHNWl6SEFiQk8tcU9JMTZ1dHhObUxHbWRHLUs5YmZUM1hXaVJIaVF3cEdVTW1ENUJEVjExdWRvVWZFcmJud1ZQRkxqWl9LQWpSdVhFS0ZpdzV2WFFBT2VvZkQ1aDZXNWh1bnoxdlRGc2g4MGVodGtXSUJNNmlORGoxV1Bnblk1UjhxcXEzbWVBV0ZMOXJmbFBXeWxBOVMtWU4wSjY5cXpoUjBEcXByaU51eGlZWTNmeUhoTnJHQ2ZxZQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "استوديو إنتاج يرى في التكيف مع الذكاء الاصطناعي مفتاحاً لإنقاذ الصناعة",
-   "summary": "يؤكد الاستوديو أن قبول تقنيات الذكاء الاصطناعي والتعامل معها بشكل استراتيجي أصبح ضرورياً لإعادة توازن صناعة الإنتاج والإعلام. يعكس هذا الاتجاه رغبة القطاع في البحث عن حلول تدمج الابتكار التكنولوجي مع استمرارية العمل.",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDZna2t6YndreFNoZFl5eUdYdjhQekFld2EtWmljN3hhU2NwVkxac0lHVkxLaF9BYjhWZzgwdTY1Sk9oQU9IU3hzcjZYcFNjV25OdXNGc282Ui1Ea3ZSSTJRTzhpTHRaZWx1SUVCdGYzUlJhTjEwVGJPM0VGY3A3RkFQNG5aRmpQeEhJcWpLa3BOT2hLc0RRR3VYV1QyV1NMQW5nbTVIb2l0bG5URFHSAbYBQVVfeXFMTjY5YU1xakV1Y2JIODFOT1g3a2lXT09ZSUlVV2xuQnJqY2Izdm1xRGZsYnQ0VVdKMkVlZEtMdENiVUF3TWNOWmhISkNFQkt5MnFYcDNoQzRNX1RaWFF3SUI3X3JrZFdidkZUc0tWYVN6V0tiajZVSm4wSzlfUzhKRDFZYXRlSjRfMzVVZDBSNk1mN0xCLTNockc5VFh5b3Z1dTJVc1RqSmRpQjBGb0dYN2lrZ1ZzRHc?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "أنثروبيك تحذر من تصاعد مخاطر الذكاء الاصطناعي وتؤجل إطلاق نسخة أقوى",
-   "summary": "أعلنت شركة أنثروبيك عن مخاوفها من التطورات السلبية المرتبطة بأنظمة الذكاء الاصطناعي، وقررت عدم إطلاق نسخة محسّنة أقوى في الوقت الراهن. يعكس هذا القرار اهتماماً متزايداً بمسائل الأمان والمسؤولية قبل المضي قدماً في التطوير.",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-08-15"
   }
  ]
