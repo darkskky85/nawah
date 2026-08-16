@@ -1,7 +1,63 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-16T03:38:08.733456+00:00",
+ "updated": "2026-08-16T09:15:52.466160+00:00",
  "items": [
+  {
+   "title": "إصدار مجتمعي من حارنس راوتر",
+   "summary": "أداة جديدة ظهرت باسم HarnessRouter Community Edition، وهي منصة موجهة لتوجيه وإدارة تدفقات العمل في بيئات الذكاء الاصطناعي. تستهدف الأداة المطورين والمؤسسات الراغبة في الاستفادة من نسخة مفتوحة الوصول لتحسين كفاءة العمليات.",
+   "url": "https://www.producthunt.com/products/epsilla",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-16"
+  },
+  {
+   "title": "أداة تحليل وتحسين التكاليف بالذكاء الاصطناعي",
+   "summary": "أداة جديدة ظهرت باسم CostLogic، وهي منصة متخصصة في تتبع وتحليل نفقات عمليات الذكاء الاصطناعي والبنية التحتية المرتبطة بها. تساعد المؤسسات على فهم توزيع التكاليف واتخاذ قرارات استثمارية أفضل.",
+   "url": "https://www.producthunt.com/products/costlogic",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-16"
+  },
+  {
+   "title": "منصة لقياس أداء نماذج الاستدلال",
+   "summary": "أداة جديدة ظهرت باسم Inferock Bench، وهي منصة موجهة لتقييم وقياس أداء نماذج الاستدلال في الذكاء الاصطناعي. توفر الأداة معايير موحدة لمقارنة فعالية النماذج المختلفة في بيئات متنوعة.",
+   "url": "https://www.producthunt.com/products/inferock-bench",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-16"
+  },
+  {
+   "title": "مقارنة: أمازون أم مايكروسوفت في استثمارات الذكاء الاصطناعي",
+   "summary": "تحليل مقارن بين عملاقي الحوسبة السحابية أمازون ومايكروسوفت من حيث جودة خياراتهما الاستثمارية في مجال الذكاء الاصطناعي وإمكانياتهما التكنولوجية. يساعد المستثمرين على فهم المزايا والتحديات لكل منصة في السباق التكنولوجي.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1FCYXIybzhHOWVXcW1saE1EZjJyOUpjeU9McDY4NmhjSXF0SnZZM0FoMlZSeWd2b3p3SHpfNWRXVjFzeVUxaVUySUJwYVlKWU4yV2locHJpRkV4MF9aSlRlbmZlVWNuWnQwSUNsUFgycWRqWEtnbzVTbllpVWQ2S29kb1VqYmx0NjVMbmdDVFJ5UHZJbmRpMQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-16"
+  },
+  {
+   "title": "الفجوة في التحقق من أدوات الذكاء الاصطناعي الطبية",
+   "summary": "أدوات دعم القرار المعتمدة على الذكاء الاصطناعي في المجال الطبي تتطور أسرع من الأدلة العلمية التي تدعم فعاليتها وسلامتها، مما يخلق فجوة بين الاستخدام السريري والتحقق الكافي من صحة هذه الأدوات.",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOejdGUTNvTXRCZkw4NmZ1Z0hBM05XOWF0OVRzWHEwUFJ6b1NPMWNLV2xpY3RiLTBWcXJVMWE3ajhPOXRUdWc4LVhLd0t3QUhEd0xtU1lSN1RDQ2ZZTE01VTlnc1lyUGFJUjNFNmdoMVl3cUdwU3RvdHFjcjV6T0lWWTl1S2NtU2k0UDN5UlYxZVk0dFo5Z3g5cU1iei1LV2VFZjNtMWdVRklhbF85TVA0N2JKNmJjUFpRN19lXzdhLUxiMzB6bS1VeWd2ZVhFYkJ3Z3Vj?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-16"
+  },
+  {
+   "title": "مسؤولية القطاع الطبي عن أخطاء الذكاء الاصطناعي",
+   "summary": "مع تزايد اعتماد المنظومة الطبية على تطبيقات الذكاء الاصطناعي، تبقى مسألة المسؤولية القانونية والمالية عن الأخطاء التي قد تحدثها هذه الأنظمة غير محسومة، مما يثير تساؤلات حول حماية المرضى.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0xMWmlqbWdFaHFaT0ZfQVdzcG1WWk0wNEdBVU1oYjRiRTRMcTFoVnR3TklIVlBEUnhhaF96alUzQVBKck9rdW8tazlaVW5ablJHaUJzZnJQN3ZQVG4waV8wb0habExFYUNDc2NVMjlkcTBKTHJjS0N4T1RreVpDT1dvTUpQZEJhbWZzTnJwZG12R2cyR3pfbQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-16"
+  },
+  {
+   "title": "سبعة ميزات جديدة في هواتف بيكسل الحادية عشرة",
+   "summary": "أعلنت غوغل عن تحديثات عديدة في سلسلة هواتفها الذكية الجديدة، والتي تشمل تحسينات متعلقة بالكاميرا والأداء والميزات المدمجة.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-16"
+  },
   {
    "title": "جوجل تطلق نموذج GLM-5.3 المحدّث",
    "summary": "أطلقت جوجل إصدارة محسّنة من نموذج GLM، تحمل تحديثات في القدرات اللغوية والمعالجة. يعكس التطوير استمرار جهود الشركة في تطوير نماذج ذكاء اصطناعي أكثر فعالية.",
@@ -11,43 +67,43 @@ window.NEWS_DATA = {
    "date": "2026-08-16"
   },
   {
-   "title": "سبع ميزات جديدة في هاتف بيكسل 11 من جوجل",
-   "summary": "أعلنت جوجل عن سبع تحديثات رئيسية في سلسلة هواتف بيكسل 11، تشمل تحسينات في الكاميرا والمعالج والمميزات المدمجة. تركز التحديثات على تحسين تجربة المستخدم والقدرات الذكية.",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-16"
-  },
-  {
-   "title": "امرأة تتهم والدها بتحويل صورة طفولتها إلى محتوى صريح عبر تقنية ذكاء اصطناعي",
-   "summary": "أفادت امرأة باستخدام والدها أداة ذكاء اصطناعي لتعديل صورة من طفولتها وتحويلها إلى محتوى جنسي غير قانوني. تسلّط القضية الضوء على المخاطر المتزايدة لإساءة استخدام تقنيات الذكاء الاصطناعي في الاعتداء على الأطفال والاستغلال الجنسي.",
+   "title": "إساءة استخدام نموذج Grok لتعديل صور الأطفال",
+   "summary": "امرأة تقدمت بشكوى ضد استخدام نموذج الذكاء الاصطناعي Grok من قبل والدها لتحويل صور من طفولتها إلى محتوى صريح، مما يسلط الضوء على مخاطر إساءة استخدام هذه التقنيات في الأنشطة غير القانونية.",
    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-15"
   },
   {
-   "title": "أنثروبيك تكشف تفاصيل آلية عمل العلامات المائية في نموذج كلود الجديد",
-   "summary": "شرحت شركة أنثروبيك كيفية عمل نظام العلامات المائية الذي ستطبقه على مخرجات نموذج كلود، وتناولت أسئلة حول مدى إمكانية إخفاء هذه العلامات أو تعديلها. يهدف النظام إلى تحديد المحتوى المُنتج من الذكاء الاصطناعي وتمييزه عن النصوص البشرية.",
+   "title": "تفاصيل آلية العلامات المائية في نماذج Claude",
+   "summary": "كشفت Anthropic عن كيفية عمل نظام العلامات المائية الذي ستضيفه إلى نماذجها اللغوية، مع شرح تأثيره على إمكانية التحرير والتطبيقات البرمجية.",
    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-15"
   },
   {
-   "title": "سبيس إكس تُنهي رسمياً استحواذها على شركة كرسر للبرمجة",
-   "summary": "أكملت شركة سبيس إكس عملية استحواذها على منصة كرسر المتخصصة في أدوات البرمجة القائمة على الذكاء الاصطناعي. يأتي الاستحواذ كجزء من جهود الشركة لتعزيز قدراتها التقنية وتطوير حلول برمجية متقدمة.",
+   "title": "SpaceX تنهي استحواذها على منصة Cursor للبرمجة",
+   "summary": "أكملت شركة SpaceX الاستحواذ الرسمي على منصة Cursor المتخصصة في أدوات الذكاء الاصطناعي لتطوير البرمجيات، مما يضيفها إلى محفظة الشركة التقنية.",
    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-15"
   },
   {
-   "title": "منصة تفاعلية تتيح محاكاة الدردشة الآلية بطريقة فكاهية",
-   "summary": "أداة جديدة ظهرت باسم «Your AI Slop Bores Me» تتيح للمستخدمين محاكاة تفاعل بين إنسان وذكاء اصطناعي بطريقة ساخرة. تقوم على فكرة بسيطة: يدخل أحد الطرفين طلباً والآخر يرد عليه، مما يخلق تجربة فكاهية تسخر من أسلوب الذكاء الاصطناعي في الرد.",
+   "title": "اختبر مهاراتك بمحاكاة دور برنامج ذكاء اصطناعي",
+   "summary": "منصة تفاعلية تتيح للمستخدمين محاكاة أدوار المحادثة مع برامج الذكاء الاصطناعي من خلال لعبة بسيطة، حيث يقدم أحدهما طلباً والآخر يحاول الإجابة، مما يوفر تجربة فكاهية لفهم آلية عمل هذه البرامج.",
    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-08-15"
+  },
+  {
+   "title": "إيرادات شركة أنثروبك تقفز إلى ملايير دولارات في الربع الثاني",
+   "summary": "حققت شركة أنثروبك المتخصصة في الذكاء الاصطناعي إيرادات بلغت أكثر من 11.5 مليار دولار خلال الربع الثاني من العام، مما يعكس نمواً ملحوظاً في أعمالها وقيمتها السوقية.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGFTR2NEWkd0UXZ2Y3pITjZ4MXRQZEREU3A0LU9GXy1aY0Z1bzNUY083NE4xN21wc2V3czEtWC1idGliQzZxM2h4WTRuSzRSVGFUN2tMS2VFN0k2QTlHSEhaWHd3ekpSSS16YTVSdTFwMUtkX1lZYVZGdjA1NEx2aFdQUVJnSXZWRE11RGxJSGpsWG9qZWxYY2s4bGNFSWfSAaQBQVVfeXFMTXllMzRNcmVRZTZib3pmRjVWZHg0ZEoxSkx0VTM2dnR1dWFOOGlxQWZqRVh1dXB5b1BuUjVaaUlCRURqclhkbDZpd3l1V3VnR3RSazBJYUdSYW5zaS1LbnpGNllGakRId1FFYkRWNlZfeGNYUkxUbTl3bzN0eDdZUWdqSVA2eDh4RVQ0NHhmcTlfemp4Tzc2blFNWVNsa2lGSDBJSnU?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-08-15"
   },
   {
@@ -59,14 +115,6 @@ window.NEWS_DATA = {
    "date": "2026-08-15"
   },
   {
-   "title": "إيرادات شركة Anthropic تتجاوز 11.5 مليار دولار في الربع الثاني",
-   "summary": "شهدت شركة Anthropic المتخصصة في الذكاء الاصطناعي نموّاً ملحوظاً في إيراداتها خلال الربع الثاني من العام. يعكس هذا النمو الطلب المتزايد على خدمات وتطبيقات الذكاء الاصطناعي في السوق.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGFTR2NEWkd0UXZ2Y3pITjZ4MXRQZEREU3A0LU9GXy1aY0Z1bzNUY083NE4xN21wc2V3czEtWC1idGliQzZxM2h4WTRuSzRSVGFUN2tMS2VFN0k2QTlHSEhaWHd3ekpSSS16YTVSdTFwMUtkX1lZYVZGdjA1NEx2aFdQUVJnSXZWRE11RGxJSGpsWG9qZWxYY2s4bGNFSWfSAaQBQVVfeXFMTXllMzRNcmVRZTZib3pmRjVWZHg0ZEoxSkx0VTM2dnR1dWFOOGlxQWZqRVh1dXB5b1BuUjVaaUlCRURqclhkbDZpd3l1V3VnR3RSazBJYUdSYW5zaS1LbnpGNllGakRId1FFYkRWNlZfeGNYUkxUbTl3bzN0eDdZUWdqSVA2eDh4RVQ0NHhmcTlfemp4Tzc2blFNWVNsa2lGSDBJSnU?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-15"
-  },
-  {
    "title": "حوار مع كلود: رؤية في الذكاء الاصطناعي",
    "summary": "مقالة رأي تستعرض حواراً مع نموذج الذكاء الاصطناعي كلود، تناقش إمكانياته وتطبيقاته العملية في السياق المعاصر.",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR083SGRhTVlzOXhkZDNzai1JZzN4b0c5anFDZmRWVDhnUW10bWl1U2Mzd1FrREhBRjFVNlZXTndqcWQxYU9xRjk1ejRUSHBFRmVJUWQzVkV4M29jczctbWhROEotLTg4NDBVempyTFJPQUJRYm5WaHRvS2tRWm9xa2I5RFBVVTItbTlOeGtVeHU1ZFpuLTVpY204RE9ZMHBIMFJIaER3SlQ3dDZIM01IODVfTzZHdDFsSk5JREIxWEU?oc=5",
@@ -75,57 +123,9 @@ window.NEWS_DATA = {
    "date": "2026-08-15"
   },
   {
-   "title": "منصة قياس أداء نماذج الذكاء الاصطناعي",
-   "summary": "أداة جديدة ظهرت باسم Inferock Bench، مخصصة لقياس وتقييم أداء نماذج الذكاء الاصطناعي والمقارنة بينها عبر معايير موحدة.",
-   "url": "https://www.producthunt.com/products/inferock-bench",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-15"
-  },
-  {
    "title": "الذكاء الاصطناعي: بين الضجيج والمخاطر والمقاومة",
    "summary": "تحليل نقدي للدور المتزايد للذكاء الاصطناعي، يتناول التوقعات المبالغ فيها والمخاطر الحقيقية والحركات المعارضة له في المجتمع.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkZIQ254YnF1VlJBMm9iOE1zZWREVGVacjRXZFNfZFZ2bmlJeHBoTFdoRWc2R09Ba19qWHAxZmlMNG9qWnQ3S2ZfUWk4dFFqTUlDMnU2OThkU2x2TW8yaThpTmJIWndNVGlRbzJGWVBLSk5TSVN5dFlBQVVmbVNVdGNhNjBNcnZmUnNJdkc2WE9nRGhCTndBV1VQRnF4bEtsVE41TEVjQXg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "الذكاء الاصطناعي في التنبؤ بالمضاعفات الصحية من خلال فحص الشبكية",
-   "summary": "دراسة تستكشف استخدام الذكاء الاصطناعي لتحليل الفحوصات الشبكية والتنبؤ بالمضاعفات الصحية العامة، ما يمثل توجهًا جديدًا في الطب الدقيق وتشخيص الأمراض المنتظمة.",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOclFjd0Z2MEM1YjJyekRVaFdMczEwTlhWazJsRHZQVnB4cEFfdXBwWF8yVjA4bzVqQXE5dGdHbGRFVDh1Ml9Vclh0VnhTa3ppU1p6eU5KMkd2QmxSOXJjZE5OYmJRZnhnakw2X1gzRFVnbVY1LXp3QjduZ19KQjg3NlZ5OGZKNWZSSWVVWXM5VV8xVkZ1WDBfbUtfblhnaUdGckxya1Z6Sm9nNGFsREtDckR1UFVTVzUzX2VaZUliampHc0NGYWViM1NFU1NuZGc0TzV6Vk9faTRFWHA2RVdJQ3lfSjBsM1JZTk12Uk8yMA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "مكبر صوت ذكي من أوبن أيه آي بتصميم حلقي مبتكر",
-   "summary": "تقارير تشير إلى أن شركة أوبن أيه آي تعكف على تطوير مكبر صوت ذكي يعتمد على الذكاء الاصطناعي بتصميم حلقي فريد، ضمن محفظة منتجاتها المتنامية.",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JVDRxQk9ZdGgzNWhMYzFDY1FWMWtqekVCUVBobzBGcmlNNVdWVTJrelJwamhMdE1IMDU5SG41dktadFFJZTdrRWVrdDl4VTd1c19ESzV0NzFuMldpMmVOcFFBcmdzQ19vWWtXOXRXQTRfcUdWRFJEOVl6b0syZw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "تقارير حصرية: تقييم طرح أنثروبك للاكتتاب يتوقف على توقعات إيرادات ضخمة بحلول 2028",
-   "summary": "وفقاً لمصادر مطلعة، تتوقع شركة أنثروبك المتخصصة في الذكاء الاصطناعي تحقيق إيرادات تتراوح بين 190 و200 مليار دولار بحلول عام 2028، وهو الرقم الذي يشكل أساساً لتقييم قيمتها في حال طرحها للاكتتاب العام. يعكس هذا التوقع الطموح الكبير الذي تضعه الشركة لمسار نموها القادم في قطاع تكنولوجيا الذكاء الاصطناعي المتنامي بسرعة.",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "أداة مساعدة للمبيعات بالذكاء الاصطناعي",
-   "summary": "أداة جديدة ظهرت باسم SalesCloser.ai تهدف إلى تحسين عملية إتمام الصفقات البيعية باستخدام تقنيات الذكاء الاصطناعي. تساعد المنصة فريق المبيعات على تتبع العملاء المحتملين وتحسين فرص إغلاق الصفقات بشكل أفضل.",
-   "url": "https://www.producthunt.com/products/salescloser-ai",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-15"
-  },
-  {
-   "title": "كيف يستخدم المحتالون الذكاء الاصطناعي لاستهدافك",
-   "summary": "يوضح التقرير الأساليب التي يعتمد عليها المحتالون في استغلال تقنيات الذكاء الاصطناعي لتنفيذ عمليات احتيال موجهة ضد الأفراد. يسلط الضوء على أهمية الوعي بهذه التهديدات الناشئة والحاجة لتطوير آليات حماية أقوى.",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPck1tT0lDLVFQeXRHQjJScU8wN2xHNWl6SEFiQk8tcU9JMTZ1dHhObUxHbWRHLUs5YmZUM1hXaVJIaVF3cEdVTW1ENUJEVjExdWRvVWZFcmJud1ZQRkxqWl9LQWpSdVhFS0ZpdzV2WFFBT2VvZkQ1aDZXNWh1bnoxdlRGc2g4MGVodGtXSUJNNmlORGoxV1Bnblk1UjhxcXEzbWVBV0ZMOXJmbFBXeWxBOVMtWU4wSjY5cXpoUjBEcXByaU51eGlZWTNmeUhoTnJHQ2ZxZQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-15"
