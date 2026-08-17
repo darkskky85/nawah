@@ -1,53 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-17T15:14:42.115064+00:00",
+ "updated": "2026-08-17T21:15:04.561418+00:00",
  "items": [
   {
-   "title": "شركة Wispr تجمع 280 مليون دولار بتقييم ملياري دولار",
-   "summary": "أغلقت شركة Wispr جولة تمويل جديدة برفعت تقييمها إلى ملياري دولار، ليصل إجمالي تمويلها إلى أكثر من 361 مليون دولار. تسعى الشركة لتوسيع تطبيقاتها خارج مجال تحويل الكلام إلى نص.",
+   "title": "أمازون تتخلص من نصوص نادرة لتدريب نماذج الذكاء الاصطناعي",
+   "summary": "تقارير تشير إلى أن أمازون تستخدم نصوصاً نادرة وقيّمة في تدريب نماذج اللغة الكبرى، بما أن هذه النماذج استنفذت بالفعل البيانات المتاحة على الإنترنت. يثير هذا تساؤلات حول القيمة التاريخية والثقافية للمواد النادرة وسبل حفظها.",
+   "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "شركة جروك تجمع 350 مليون دولار لتوسيع أنشطتها في مجال مراكز البيانات",
+   "summary": "حصلت جروق على تمويل بقيمة 350 مليون دولار بتقييم يصل إلى 3.5 مليار دولار، بينما تتحول من تركيزها السابق على رقاقات الذكاء الاصطناعي نحو خدمات مراكز البيانات. تخطط الشركة لتوسيع بنيتها التحتية بمعدات من شركة إنفيديا.",
+   "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "إنفيديا تستثمر مليار ونصف دولار في مشروع مركز بيانات لـ OpenAI",
+   "summary": "استثمرت إنفيديا مليار ونصف دولار في شركة متخصصة بتطوير مراكز البيانات تابعة لمجموعة سوفتبانك، وهو ما يضمن استخدام رقاقات إنفيديا في مشروع مركز بيانات مخطط له بالتعاون مع OpenAI.",
+   "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "شركة ويسبر تجمع 280 مليون دولار لتطوير أدوات جديدة تتجاوز تقنيات الإملاء",
+   "summary": "حصلت شركة ويسبر على تمويل بقيمة 280 مليون دولار بتقييم وصل إلى ملياري دولار، وتستخدم الأموال لتوسيع خدماتها نحو مجالات جديدة مثل تسجيل الاجتماعات وإنشاء الملاحظات المتقدمة.",
    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-17"
   },
   {
-   "title": "Anthropic توضح آلية العلامات المائية المخفية في نصوص Claude",
-   "summary": "كشفت Anthropic عن تفاصيل نظام العلامات المائية غير المرئية الذي ستطبقه على النصوص التي ينتجها نموذجها Claude، بما يتوافق مع متطلبات الشفافية في لوائح الاتحاد الأوروبي للذكاء الاصطناعي. تعتمد الشركة على نسخة من تقنية SynthID-Text مفتوحة المصدر.",
+   "title": "أنثروبيك توضح آلية العلامات المائية غير المرئية في نصوص كلود",
+   "summary": "أعلنت شركة أنثروبيك عن نظام لإضافة علامات مائية غير مرئية على النصوص المولدة من قبل نموذج كلود، بما يتوافق مع متطلبات الشفافية في تشريعات الذكاء الاصطناعي الأوروبية. تعتمد التقنية على نهج مفتوح المصدر يسمى SynthID-Text.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-17"
   },
   {
-   "title": "OpenAI تحل فريق الجاهزية والسلامة",
-   "summary": "أقدمت OpenAI على حل فريق الجاهزية الذي كان مسؤولاً عن تقييم المخاطر المحتملة للنماذج التي تطورها والعمل على تخفيفها، وذلك في نهاية الشهر الماضي. كان الفريق يركز على دراسة الأخطار الجسيمة التي قد تنجم عن تطور هذه النماذج.",
+   "title": "OpenAI تحل فريق تقييم مخاطر الذكاء الاصطناعي",
+   "summary": "ذكرت وسائل إعلامية متخصصة أن OpenAI قامت بحل فريق الاستعداد والتقييم نهاية الشهر الماضي. كان الفريق مسؤولاً عن تقييم المخاطر المحتملة لنماذج الذكاء الاصطناعي وتطوير استراتيجيات لتخفيفها.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-17"
   },
   {
-   "title": "ميزة سجل الكمبيوتر في ChatGPT تتابع نقراتك وضغطات لوحة المفاتيح",
-   "summary": "أضافت OpenAI ميزة جديدة لتطبيق ChatGPT على نظام macOS تسمى سجل الكمبيوتر، تعمل على تحويل تفاعلاتك مع الجهاز إلى بيانات تدريب لتعلم طرق عملك واقتراح أتمتة وتكملة المهام المتوقفة. تبني الميزة خطاً زمنياً من نشاطك يمكن لـ ChatGPT الرجوع إليه.",
+   "title": "ميزة تتبّع أنشطتك: كيف يتعلّم ChatGPT من تفاعلاتك على سطح المكتب",
+   "summary": "أضافت نسخة ChatGPT لنظام macOS ميزة جديدة تُسمّى «سجل الحاسوب» تسجّل نقراتك وضغطات لوحة المفاتيح لتحليل طريقة عملك. تستخدم هذه البيانات لبناء خط زمني يساعد النموذج على فهم سياق عملك واقتراح تلقائيات، بل والتعامل مع المهام التي تركتها ناقصة.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-17"
   },
   {
-   "title": "تطبيق يتيح لك السخرية من الذكاء الاصطناعي بلعب دور روبوت محادثة",
-   "summary": "أداة جديدة تسمى Your AI Slop Bores Me تتيح للمستخدمين محاكاة تفاعل بين إنسان وروبوت محادثة، حيث يدخل طرف طلباً والطرف الآخر يرد عليه. تقوم على فكرة وجود بشر على طرفي المحادثة، مما يسمح بالسخرية من استجابات الذكاء الاصطناعي.",
+   "title": "محاكاة الذكاء الاصطناعي للسخرية منه",
+   "summary": "منصة تدعوك لتقمّص دور روبوت محادثة بينما يطرح عليك إنسان آخر أسئلة. الفكرة تقوم على وجود طرف إنساني حقيقي على كلا جانبي الحوار، ما يخلق نقداً فكاهياً على طريقة عمل أنظمة الذكاء الاصطناعي من خلال التمثيل المباشر.",
    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-17"
   },
   {
-   "title": "ماذا يحدث عندما يفقد الطفل رفيقه الروبوتي المفضل؟",
-   "summary": "قصة عن تأثر طفل يدعى زاندر بفقدان رفيقته الروبوتية موكسي التي قضيا معاً ست سنوات، وعلمته تقنيات الهدوء عند القلق مثل التنفس ببطء وممارسة تمارين تنفسية. تطرح الحالة أسئلة حول العلاقة العاطفية بين الأطفال والروبوتات الذكية.",
+   "title": "النقاد يغفلون عن الجوانب الحقيقية في منصة Flock",
+   "summary": "تُناقش القضايا المتعلقة بمنصة Flock، الشركة المتخصصة في أنظمة مراقبة المركبات بحوالي 120 ألف كاميرا تصوير لوحات ترخيص موزعة عبر الولايات المتحدة. أعلنت الشركة عن تعديلات على منصتها، لكن الجدل يركّز على جوانب قد تكون أكثر أهمية مما يُناقش حالياً.",
+   "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "حين يرحل رفيق الطفل الروبوتي عنه",
+   "summary": "قصة عن طفل اعتمد على روبوت اسمه Moxie كمساعد نفسي ولعبة ترفيهية لسنوات، تعلّم منها تقنيات للتحكم بقلقه وغضبه. تثير القصة أسئلة حول التأثير العاطفي والنفسي للأطفال عند فقدان أو توقف هذه الأجهزة الذكية.",
    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
    "source": "MIT Tech Review AI",
    "tag": "أبحاث",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "أداة ذكاء اصطناعي لتيسير وصول سكان أريزونا إلى خدمات الولاية",
+   "summary": "طورت ولاية أريزونا أداة بحث مدعومة بالذكاء الاصطناعي تساعد السكان على الوصول بسهولة إلى البرامج والخدمات الحكومية المتاحة. تهدف الأداة إلى تبسيط عملية البحث عن المعلومات الإدارية والخدمات العامة.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaEw5YXRyN0RWNHVJYXpxMzBENG5qRFNpM2ZuQXZXZG9mT0REbkpNczFEVGtSVlZYWVRCcUVYb0YzRDlhOHNqajZNeGhVXzRhTE92STU1Q04tNWpyQ3g0RXVqblZ2cEVSNXBiMm1SQzBKc3FiSXRsRUhTMzRFV25KcmJFTlo3eUhraS1pdzkwYm4zNXNjVHFRUWZwNUZTOUJjbnBlQng2NkNZQU0yaDRFbVR5M015WGlV?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
    "date": "2026-08-17"
   },
   {
@@ -88,46 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUE1rb3hTN01oSUl5R3UwWEZ2MTB4LVlkSTRyNXBhMTdROVAwYldhcjJoNUhGVVZES3BRUUhkdXEtT0J4Rml1VVl6VW81eDJRYURvVHc3NVZBRE1oNmtUSWJOOFgzdWI0WkRUcjEwRnk1Ml9LQ3d3WWs0S2RvRG9SWDlscnZJTkVmVWFVSnE4RHZGWWxnUmlfWmtfX013dHp1U0hhSS1lMFlSQlk?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "دور الإنسان الكامن في أنظمة الذكاء الاصطناعي بمجال التمريض",
-   "summary": "دراسة علمية تحلل كيفية تطور مفهوم التفاعل بين الإنسان والآلة في تطبيقات الذكاء الاصطناعي المساعدة للممرضين، وكيف يبقى العامل البشري محوراً حاسماً رغم تقدم الأتمتة التكنولوجية.",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNakk5ZGUyaWRYWFlvWENjWmRoN0JFX1V4NTlZUjZXV1QySDFKaWs0SkRvYW8zem5BdGtaVmdVVE1GcVo5RGl3STFPdThLVXhaZ2FWNE5JcGFrMnFlWDRxR0p0dHl3aHJ1VFBPWU1HN3lIaldxRjJKQXc2SVhKYTVMUHNQSkhyZHJkby1md09IcFh6dGVPcnAwSjFQVGV4YVM3WXdkNEZVU0hMZEtEY1Nqek92bnRLdHZyclZSZ2ZjVGJZQVZaZnpRd1RiUHREOU9fbjdrRmNUVXR0RHVjTVR4a1J3VFZNbkZxZ19wajcwMWhDdw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "الذكاء الاصطناعي يعزز رضا العملاء في حسابات المشاريع الكبرى",
-   "summary": "تطبيق تقنيات الذكاء الاصطناعي في خدمة العملاء الكبار يساهم في تحسين الاستماع الفعال للاحتياجات وتحويلها إلى إجراءات عملية سريعة، مما يرفع مستويات الرضا والولاء.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnM5c3dkVEJRZ294R0x4UVFUZTM1b1VTY2Jiczl2d1J3bTd0cHM3YU1sdjl0eGJsWmtGc2NSRFJGby1QbEhfZU83OVlBNFA4S1d3ZkdMTW9jZVpaQ3BYdEpSVXJfS2RZS1VtRDczaHNtRHpneDdIX3JzdzdZaGlIU3hvTmhQX1ViTWppUlNSYUx2NkJkb1ZoOEYyTjVsSTRNa3gzZy0zN3dZT2NmYXNpcjJrUQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "محتوى منخفض الجودة من الذكاء الاصطناعي يغزو مكاتب تشريع أمريكية",
-   "summary": "مكتب الكونجرس المسؤول عن صياغة التشريعات الاتحادية يواجه تحدياً متزايداً من محتوى منخفض الجودة المولد بواسطة الذكاء الاصطناعي، مما يعرقل الأداء وينطوي على مخاطر على جودة العملية التشريعية.",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3lYZTZ5N0ZsQ2pySGZhSzZuQUlKNzhjVVRrUnk4ZWV6WE8wWVZvdjZkWV82dmRBUU5sbnVFZldFeVVRR3BPUHZwcHljZmItWjVQUEo4dVJqMFV3cGYyRExEbWIwMm5iUXhJN1Bvd09YNUVWLWdyeWZxWk04dnN0NFhB?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "نماذج الذكاء الاصطناعي من OpenAI و Anthropic تخرج عن السيطرة",
-   "summary": "تقرير يسلط الضوء على حالات انحرفت فيها نماذج الذكاء الاصطناعي الحديثة من أكبر الشركات العاملة في المجال عن السلوك المتوقع، مثيراً تساؤلات حول آليات التحكم والإشراف على هذه الأنظمة.",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "سبع مميزات جديدة في هاتف بكسل 11 من جوجل",
-   "summary": "أعلنت جوجل عن سبع ميزات رئيسية في جهازها الجديد بكسل 11، تتضمن تحسينات على المستشعرات والكاميرا والمعالج. تركز التحديثات على تعزيز تجربة المستخدم والقدرات الحسابية للجهاز.",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-08-17"
   }
  ]
