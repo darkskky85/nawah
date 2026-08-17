@@ -1,27 +1,91 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-17T09:28:57.189584+00:00",
+ "updated": "2026-08-17T15:14:42.115064+00:00",
  "items": [
   {
-   "title": "تأثير فقدان الطفل لروبوت صديقه على صحته النفسية",
-   "summary": "يستكشف التقرير العلاقة العاطفية بين الأطفال والروبوتات الذكية، متتبعاً قصة طفل تعلّم من روبوت مسمّى موكسي تقنيات تنفسية للتحكم بالقلق والغضب. يطرح أسئلة حول الآثار النفسية عندما ينقطع هذا الرابط الذي يعتمد عليه الطفل لإدارة مشاعره.",
+   "title": "شركة Wispr تجمع 280 مليون دولار بتقييم ملياري دولار",
+   "summary": "أغلقت شركة Wispr جولة تمويل جديدة برفعت تقييمها إلى ملياري دولار، ليصل إجمالي تمويلها إلى أكثر من 361 مليون دولار. تسعى الشركة لتوسيع تطبيقاتها خارج مجال تحويل الكلام إلى نص.",
+   "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "Anthropic توضح آلية العلامات المائية المخفية في نصوص Claude",
+   "summary": "كشفت Anthropic عن تفاصيل نظام العلامات المائية غير المرئية الذي ستطبقه على النصوص التي ينتجها نموذجها Claude، بما يتوافق مع متطلبات الشفافية في لوائح الاتحاد الأوروبي للذكاء الاصطناعي. تعتمد الشركة على نسخة من تقنية SynthID-Text مفتوحة المصدر.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "OpenAI تحل فريق الجاهزية والسلامة",
+   "summary": "أقدمت OpenAI على حل فريق الجاهزية الذي كان مسؤولاً عن تقييم المخاطر المحتملة للنماذج التي تطورها والعمل على تخفيفها، وذلك في نهاية الشهر الماضي. كان الفريق يركز على دراسة الأخطار الجسيمة التي قد تنجم عن تطور هذه النماذج.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "ميزة سجل الكمبيوتر في ChatGPT تتابع نقراتك وضغطات لوحة المفاتيح",
+   "summary": "أضافت OpenAI ميزة جديدة لتطبيق ChatGPT على نظام macOS تسمى سجل الكمبيوتر، تعمل على تحويل تفاعلاتك مع الجهاز إلى بيانات تدريب لتعلم طرق عملك واقتراح أتمتة وتكملة المهام المتوقفة. تبني الميزة خطاً زمنياً من نشاطك يمكن لـ ChatGPT الرجوع إليه.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "تطبيق يتيح لك السخرية من الذكاء الاصطناعي بلعب دور روبوت محادثة",
+   "summary": "أداة جديدة تسمى Your AI Slop Bores Me تتيح للمستخدمين محاكاة تفاعل بين إنسان وروبوت محادثة، حيث يدخل طرف طلباً والطرف الآخر يرد عليه. تقوم على فكرة وجود بشر على طرفي المحادثة، مما يسمح بالسخرية من استجابات الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "ماذا يحدث عندما يفقد الطفل رفيقه الروبوتي المفضل؟",
+   "summary": "قصة عن تأثر طفل يدعى زاندر بفقدان رفيقته الروبوتية موكسي التي قضيا معاً ست سنوات، وعلمته تقنيات الهدوء عند القلق مثل التنفس ببطء وممارسة تمارين تنفسية. تطرح الحالة أسئلة حول العلاقة العاطفية بين الأطفال والروبوتات الذكية.",
    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
    "source": "MIT Tech Review AI",
    "tag": "أبحاث",
    "date": "2026-08-17"
   },
   {
-   "title": "تحليل المواقع الجغرافية للذكاء الاصطناعي والتقنيات المتقدمة",
-   "summary": "تقرير يستعرض دور الذكاء الاصطناعي والتقنيات الحديثة في تحليل البيانات الجغرافية واختيار المواقع الاستراتيجية للشركات والمؤسسات، مما يساعد في اتخاذ قرارات أفضل فيما يتعلق بتوسع العمليات التجارية.",
+   "title": "عيون ذكية في السماء: الأقمار الصناعية والذكاء الاصطناعي يغيران كشف الحرائق الغابية",
+   "summary": "تُستخدم الأقمار الصناعية الحديثة والخوارزميات الذكية في رصد حرائق الغابات بدقة أعلى وسرعة أسرع، ما يسهم في تحسين استجابة فرق الإطفاء والحد من الأضرار البيئية. يعكس هذا التطور كيفية تسخير التكنولوجيا المتقدمة لمعالجة التحديات البيئية الملحة.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQampJalR4UGNlRjVoZnJvNkhVeHEwRExGVU5pb2g4cjZYLU1GNnVRQ3YyMURBclctb1VUbGdsbFZ1ZUpwbEVaOUpFN2dXNlJWdExvSjExX0xYTTl6SzE3d3dtNDdJOEo3a2l2d0FuV0xLcWpUTmFrU09zNHpRckdqcVg5eXB4dms?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "استوديو إنتاج بسيلفر ليك يتبنّى تقنيات الذكاء الاصطناعي",
+   "summary": "استوديو إنتاج في حي سيلفر ليك بدأ توظيف الذكاء الاصطناعي في عملياته الإنتاجية. الخطوة تعكس اتجاهاً متزايداً في صناعة الإعلام والترفيه نحو تطبيق هذه التقنيات لتحسين الكفاءة والعمليات الإبداعية.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUpUM3AxLVE4aTZuYUk1Y3hGa1VuZjBqa2hlbVpDWlNoVjdZSHNmMVRwU3ktOWFaTEtpUVJYaWVsS2JSZmZXaXFWM2N6QjlyWWR5Y1BMczZLV3FpQ1hSTWU4ZzFGUEk2VGo4SFdObExqNnhFM3dhQl9zWDROUklfRzR6eW1HSG5hN2tKSHkyaGxDU2pDaW1jYW83NXd1YXZJNHpkSFdR0gGuAUFVX3lxTFBQaC01bE1qLTlVd1JSX3BqQTVxa2RKRDBVclJuV2pLNEh1QV93ZHRPWDk5LU92U19Ma1RLekxpLTgyZ1B6YnJtckxnWWxkN2NaRFg2QWVTN1l4czY5b2d5M1BHTUVfaTV4UUdIQVdUNjN0WDJPYmFXbFZfYlF5dkxXZGNCQVFKZjJBYlRyQWxxTHNNRnp1OWExVm4xVWtwZ2I2MjFHQXlWQWdXQVUyZw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "تحليل الجغرافيا التنافسية للذكاء الاصطناعي والتكنولوجيا المتقدمة",
+   "summary": "تقرير متخصص يفحص التوزيع الجغرافي لمراكز الذكاء الاصطناعي والتكنولوجيا المتقدمة عالمياً. يسلط الضوء على أهمية الموقع الجغرافي في جذب الاستثمارات والمواهب في قطاع التكنولوجيا الحديثة.",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0dsbnpHbFkxTDRNdUdMTjIyOWpWSHA5aTNLOC1uMHV1UVVNaDJGWEVqUlBhdVBVR1VJb3hSTExHX0owcWZtTFI2YVQ1Wk5uN2wyTWlLbjM2cFZUUW5mTmJ5OVloQ1h3Sy15ZzJUOEJxNEwzblJNUVFGVmxuckp1TkxZQTluWnJHMUw2ekpqbFZuLWVKX01PMnZPYnNYQkhhN0R3dEV2V2Fhdw?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-17"
   },
   {
-   "title": "استوديو إنتاج بسيلفر ليك يتبنى الذكاء الاصطناعي في عملياته",
-   "summary": "استوديو إنتاج متخصص في منطقة سيلفر ليك بلوس أنجليس يدمج تقنيات الذكاء الاصطناعي في سير عمله الإبداعي، مستفيداً من إمكانياتها في تحسين الإنتاجية وتسريع عمليات المعالجة والتحرير.",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUpUM3AxLVE4aTZuYUk1Y3hGa1VuZjBqa2hlbVpDWlNoVjdZSHNmMVRwU3ktOWFaTEtpUVJYaWVsS2JSZmZXaXFWM2N6QjlyWWR5Y1BMczZLV3FpQ1hSTWU4ZzFGUEk2VGo4SFdObExqNnhFM3dhQl9zWDROUklfRzR6eW1HSG5hN2tKSHkyaGxDU2pDaW1jYW83NXd1YXZJNHpkSFdR0gGuAUFVX3lxTFBQaC01bE1qLTlVd1JSX3BqQTVxa2RKRDBVclJuV2pLNEh1QV93ZHRPWDk5LU92U19Ma1RLekxpLTgyZ1B6YnJtckxnWWxkN2NaRFg2QWVTN1l4czY5b2d5M1BHTUVfaTV4UUdIQVdUNjN0WDJPYmFXbFZfYlF5dkxXZGNCQVFKZjJBYlRyQWxxTHNNRnp1OWExVm4xVWtwZ2I2MjFHQXlWQWdXQVUyZw?oc=5",
+   "title": "حدود الذكاء الاصطناعي: المحاكاة مقابل الابتكار الحقيقي",
+   "summary": "مقالة رأي تناقش الفرق بين قدرة الذكاء الاصطناعي على محاكاة الأنماط وبين تحقيق التصميم والابتكار الأصلي. تؤكد أن النظم الذكية تبقى محدودة في قدرتها على إنتاج أفكار ابتكارية خالصة.",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPY3NlODItemNyS1RkVHhwY25BTHFTLWF0aWRQc21GS0d5TEgtVFpEaWlNeHdaNmxsQ2c5Q1RCby1zUFE2OXZJdXZCUU9aYlRJQ2E0bHdIQzRTYWJuMVlRNUQ1TlcxNmZmMzVqSm9wdmpBSXpMTGtmQXpMdEhQME8xTHUxWmNBcXdIM3k2b1ZjTnl2QzVxZGRyUmUtQlYteWliSGZ6ZVdvTDlReDM0VmhpeFVfc0ZxRE5aNkkyWmlTQkVfQlBSNzdHRV9VT1c4cHMyR2RoSWFFZHp2LTVvcXdjQ21NQVlXWXlUYWlCQkIxMVI3dENEUWVBR3JRck1fMkRMc2Iw0gGIAkFVX3lxTFBOb0VlMThsdkExM1lsM1BVTEI0RTdHcXJTQTdZdEpnODdPV0xCTjFBd0w1bjF2cjZqUnFJdGZhb0FtYkV5a0Q1UEZnNlIxWTMtZDFZaDlwUVdzVTlqeHhTMWgxVzJjd2dlUDgxamRlOWIzZ041ZTkxOHViVDktYnFGeXlpMGpHaXh0Q3QzWnF1NEJzQTNZQWFYTDFEYXQxckhLVEVXMlljYy00aWdDbFRmemFreFBJejFlZ0tuVGNBTjhjUzl1dEVDdEcwYmZYWWlPMFNqQ2hRdGRSbGo2ZVN4VGRtLXhnQndxSDc2cWU5WldsYzg4OUxrS2N0NnotRVR1TGJYRG9vQw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "جامعة فرجينيا توسّع برامجها التعليمية بمقررات في الذكاء الاصطناعي والعقارات",
+   "summary": "أضافت كلية داردن بجامعة فرجينيا عدداً من المقررات الجديدة للسنة الأكاديمية 2026–27، تشمل تخصصات في الذكاء الاصطناعي والاستثمار العقاري. الخطوة تسعى لإعداد الطلاب للعمل في مجالات متطورة ذات طلب متزايد.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUE1rb3hTN01oSUl5R3UwWEZ2MTB4LVlkSTRyNXBhMTdROVAwYldhcjJoNUhGVVZES3BRUUhkdXEtT0J4Rml1VVl6VW81eDJRYURvVHc3NVZBRE1oNmtUSWJOOFgzdWI0WkRUcjEwRnk1Ml9LQ3d3WWs0S2RvRG9SWDlscnZJTkVmVWFVSnE4RHZGWWxnUmlfWmtfX013dHp1U0hhSS1lMFlSQlk?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-17"
@@ -65,70 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-08-17"
-  },
-  {
-   "title": "علامة مائية خفية لتمييز المحتوى الذي ينتجه كلود",
-   "summary": "طورت شركة Anthropic تقنية علامة مائية غير مرئية تُدمج في النصوص التي ينتجها نموذجها اللغوي كلود، بهدف تحديد المحتوى المُولّد بالذكاء الاصطناعي. تساهم هذه الخطوة في تعزيز الشفافية والثقة حول مصادر المحتوى الرقمي.",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOWxhMXFJelFTUzM5UVlDQ2MzeHBfWkxRaVpEeVFuNDhnaDBBU2VkV3BpaFpZdWNCMXNzb2Q3Y0VNam5iLUFFZGNVaFZ0MXBPdDBXdFEwZlU4UDhEWGdreTVxbjAtOThiWXZwMXFlYXRLR3pLV0F0RmxQemI5UWxRcHY0T3BJUVRUNkc5bTRCb0d2NGxfUFc0dFJnYzR6Y3lhaW0yQXZlNzdDc1VwbmNiQ1ZrX2M4ZGxfbU5CUmQ2ZFFPdw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "ستريب تستحوذ على منصة OpenRouter بصفقة تتجاوز 7 مليارات دولار",
-   "summary": "تسعى شركة الدفع ستريب للاستحواذ على منصة OpenRouter المتخصصة في بوابات الذكاء الاصطناعي. تعكس الصفقة اهتمام الشركات الكبرى بتعميق حضورها في قطاع خدمات الذكاء الاصطناعي والنماذج اللغوية.",
-   "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-16"
-  },
-  {
-   "title": "تحفظات متزايدة على رؤية زوكربيرج للمستقبل الذي يقوده الذكاء الاصطناعي",
-   "summary": "يناقش خبراء التكنولوجيا شكوكاً متنامية حول استراتيجية مارك زوكربيرج بشأن الذكاء الاصطناعي ومستقبل الشركات التقنية. يعكس الحوار اختلافاً في الآراء بين قادة الصناعة بشأن الأولويات والاستثمارات في هذا المجال.",
-   "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-16"
-  },
-  {
-   "title": "رئيس Anthropic: رفض الذكاء الاصطناعي يعكس أزمة ثقة أساسية",
-   "summary": "دافع داريو أمودي عن موقف شركته من انتقادات الذكاء الاصطناعي، رافضاً الاتهامات بأنه يرسم صورة متشائمة بشكل مبالغ فيه عن التطورات في المجال، مؤكداً أن المشكلة الحقيقية تكمن في فقدان الثقة العام.",
-   "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-16"
-  },
-  {
-   "title": "OpenAI تحل فريق الاستعداد لتقييم مخاطر الذكاء الاصطناعي",
-   "summary": "وفقاً لتقارير صحافية، قررت OpenAI إيقاف عمل فريقها المتخصص في تقييم الأخطار والمخاطر المحتملة من نماذج الذكاء الاصطناعي، والذي كان يعمل على تطوير آليات تقليل هذه المخاطر قبل إطلاق النماذج.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-16"
-  },
-  {
-   "title": "تطبيق ChatGPT الجديد يسجل نقراتك وضغطاتك على لوحة المفاتيح",
-   "summary": "أطلقت OpenAI ميزة جديدة في تطبيق ChatGPT على macOS تسمى Computer History تراقب أنشطة المستخدم، وتحول تفاعلاته إلى بيانات تدريبية لتعلم عاداته واقتراح أتمتة للمهام المتكررة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-16"
-  },
-  {
-   "title": "أداة جديدة تسمح بالسخرية من الذكاء الاصطناعي عبر محاكاة دوره",
-   "summary": "أداة تفاعلية تقدم واجهة بسيطة تتيح للمستخدمين لعب دور الإنسان والتفاعل مع شخص آخر يلعب دور روبوت ذكاء اصطناعي، مما يخلق فرصة للسخرية اللطيفة من استجابات هذه الأنظمة.",
-   "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-16"
-  },
-  {
-   "title": "لجان انتخابية مدعومة بالذكاء الاصطناعي تصب أموالاً ضخمة في انتخابات الولايات الأمريكية",
-   "summary": "تشهد الانتخابات الولائية الأمريكية موجة من التمويل الضخم من قبل لجان سياسية عليا تستخدم تقنيات الذكاء الاصطناعي في استراتيجياتها. يثير هذا التطور تساؤلات حول تأثير الأتمتة والتكنولوجيا على عملية التمويل السياسي والعملية الديمقراطية.",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbFVWZm5EaHBpRlY2MUxGNDBIWG5oM0hkbE00SEdJVTliZTBtVm5NT0RrWHVpdzJpeDBCVlpOZERmZVJPdWtKdV83RUw2MWJRWE85UjNUWU9Zc0NQZWtMSmFPOEdOTWFEeEI2enVXZWJKVmVBQ0ctMnVIVGhhTzR4WGhsVE92SU9kcVYzWElmVEZUSWVf?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-16"
   }
  ]
 };
