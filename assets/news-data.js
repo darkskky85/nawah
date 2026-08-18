@@ -1,7 +1,79 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-18T03:34:46.286443+00:00",
+ "updated": "2026-08-18T09:20:43.205214+00:00",
  "items": [
+  {
+   "title": "سماعات AirPods مزوّدة بكاميرا من Apple تظهر في فيديو مسرّب",
+   "summary": "ظهر فيديو في ملفات نظام macOS يُظهر نسخة تجريبية من سماعات AirPods المتوقع أن تحمل كاميرا، حيث يستخدم الشخص في الفيديو المساعد البصري لقراءة غلاف كتاب. تشير التسريبات إلى أن Apple تعمل على إضافة قدرات رؤية حاسوبية لسماعاتها اللاسلكية.",
+   "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "روبوت الصندوق الذكي من Whisker يراقب صحة القطط",
+   "summary": "أداة جديدة تدمج الذكاء الاصطناعي مع تقنية صناديق الفضلات الآلية، توفر رؤى حول سلوك واستخدام القط للصندوق وقد تساعد في كشف المشاكل الصحية المحتملة. تجمع الأداة بين الراحة العملية وتوفير بيانات صحية مفيدة لصاحب الحيوان الأليف.",
+   "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "مدرسة رائدة تقود التجربة التعليمية في مجال الذكاء الاصطناعي",
+   "summary": "تستعرض هذه الدراسة تجربة مدرسة متقدمة تدمج تقنيات الذكاء الاصطناعي في مناهجها التعليمية، وتقدم نموذجاً مبتكراً لاستخدام هذه التقنيات في تطوير العملية التربوية وإعداد الطلاب للمستقبل.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWk1fbTdfa0VOaklrQkJZQU10OVNvTVc3bDI0QzZEcnlyUlF0c0ExVnF2S0Rrc0ZHWWZnS0d2dldldzVvZVBxTV9qQkVsdHV1eGtJOExnQzR5Z3FRZWF4eXkteTAxNFJZS3g4c0hHVkRjY2o2bEY5SUc2UGFqMGdwaDNqOWtSXzd5alpEeGxxV0RESzliNWlydmg4elNTVUs4OUVhSGxheTFGREQxbmtKazJZZ2VpQVNEcTJCOTVZVU0?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "الذكاء الاصطناعي: من المرائب الصغيرة إلى ثورة تكنولوجية عملاقة",
+   "summary": "تسلط هذه المقالة الضوء على تطور الذكاء الاصطناعي من بدايات بسيطة إلى قوة مضطربة تغير صناعات بأكملها، وتناقش دور الرائدين والمبتكرين في تشكيل هذا المجال سريع التطور.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYnd4X2ltODhybHBRX2ZpNUVWSGl4S00wU1BVTENIYXVnLXhjXzBsZktHYVE2UTRkTC1ITEFTR0R1cDF3Y1c0cGFodE5Gek1QRU9XUXZLWUN6NnMzaHFnWDBEbnFsNER4UElFMDFPaUQ2QUlPbW84UzVQVFlRMEwtYWw0VUgtMzJ1ckxPQ0laMGdTS0Z6TFpobHdZd2ZVOTBoSGYwQ1NENUJuY2EtZWxoc3REdXFoWlgyVGkzMktPcjc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "الذكاء الاصطناعي في تشخيص الأمراض النسائية والتوليد بالصور الطبية",
+   "summary": "تستعرض هذه المراجعة العلمية تطبيقات الذكاء الاصطناعي في تحسين التشخيص الإشعاعي للاضطرابات النسائية والحمل، مما يعكس اتجاهاً متنامياً نحو توظيف التقنيات الذكية في المجالات الطبية المتخصصة.",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOX05PVHMtYTdmRnVnUmNCWFM4LWp6UXQzSkJTT3FiVUU5S0Z4ODlTYVFrUXYwdjRPbnBFOHMwcWpFcm1fcm9CUWtxZUFfUFE2N25rVnZCR3JFX3lNd1ctdDNjOVJVWjZldjFDMWJqSWlkTDZMRmU2TmhETDZpZ2FzbkYzd0hfbDVvVzNlc01PWUlVSWpnSUpfZFViT0lldUNNTmw5SjNLRDIzR1d0dFYtT1FKODRwaU0zWHdPa3lMZDdmZEthcnlQNXFJVmFRVkNUNDFydDc0NmtuNXA2dUpaOWFSUnBPQUxPSW54RVNTcHl4RGJSNVMzWWpoaw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "هل يمكن للذكاء الاصطناعي أن يحد من انتشار الأخبار الكاذبة التي ساعد في إطلاقها؟",
+   "summary": "تناقش هذه القطعة المفارقة المثيرة للقلق: أن الذكاء الاصطناعي ساهم في تضخيم أزمة الأخبار الكاذبة، وتتساءل عما إذا كانت نفس التقنية قادرة على احتواء هذه الظاهرة الضارة.",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVdGT0RsZzJyLS1VbXV4R1R2THV2SGxtdk1oWUZMMU5BRVZwZ1Q2ejBhQTloWEhCa0NJSlZOY3VrcmlqOW52SVlYN2kyUVlwVXpCdDFfVlpiQ2NLaDV1Unp5QzJBSDZfclZ4MFJLVURzWE15MW8tbmY3clgxdG9rWmhBTGR5QzdwMU9qSnByUmMxM3BCOXd3aHQzVHlJWllOd0NlaERIdU0zTHhxSmRlLXhXemdaUXMzV3ZveTNHeG1zcmVBaDVnM1BNck9NVHM0Z3BuVFNXeHU?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "إيرادات Anthropic تقترب من 65 مليار دولار سنوياً قبل طرحها العام",
+   "summary": "وصلت معدلات الإيرادات السنوية لشركة Anthropic المتخصصة في الذكاء الاصطناعي إلى مستويات قياسية تقارب 65 مليار دولار، مما يعكس نمواً استثنائياً للشركة قبل طرحها للاكتتاب العام.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iSnBXWEFaa1hJVXNlT3YxM3VJalNlaEhTMGtmeUVXMUotcTJ4bzVRbWJIcDVjS0xMZVpEY2hZdTJhZjdtcUd2RHpRazJvRGdPNGlfTFhUc29nZkV5aFk2VXVSclI4aDl5WlNKa2VyTEdISW1TLVdyQ0R3?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "إيرادات أنثروبيك السنوية تتجاوز 65 مليار دولار قبل طرحها العام",
+   "summary": "وصلت إيرادات شركة أنثروبيك المتخصصة بنماذج الذكاء الاصطناعي إلى 65 مليار دولار على أساس سنوي، محققة نموًا سريعًا قبل خطواتها نحو الطرح العام في أسواق المال.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVktR0ZGanRzYkMwQjBWRkhfbmVfLTVxR3JpYWtRbk1HemlQbjRab2EzTmN1VDNmYmk5Z0xIWGYzVmU2b3VTRENNTy00d1RrLXBoWjFPVE5hNEQyVDdrZ1ZuTzFaczRGODM0VnpycFpDa0tTZWpFSzYyU3d1dVNwQzlicGJPTm9WdlFHczFUMzNOalhjdDIwSWZZcVltMHdsVDY2OXE4QnZOQ2laUlU4Xw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "سبع ميزات جديدة في هواتف بكسل 11 من جوجل",
+   "summary": "أطلقت جوجل هواتف بكسل 11 بمجموعة من التحديثات والميزات الجديدة التي تركز على تحسين تجربة المستخدم والقدرات المتعلقة بالذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-18"
+  },
   {
    "title": "المرحلة التالية من الذكاء الاصطناعي ستُشكّل عبر القيمة التجارية والثقة والخبرة البشرية",
    "summary": "أكد خوسيه دانيال دويارتي كاماتشو أن تطور الذكاء الاصطناعي القادم لن يقتصر على التقنيات وحدها، بل سيعتمد على خلق قيمة حقيقية للأعمال وبناء الثقة مع الاعتماد على المعرفة البشرية. يعكس هذا الرأي اتجاهاً متزايداً نحو دمج الذكاء الاصطناعي بشكل مسؤول وعملي في البيئات التجارية.",
@@ -19,24 +91,16 @@ window.NEWS_DATA = {
    "date": "2026-08-18"
   },
   {
-   "title": "إيرادات Anthropic السنوية تتجاوز 65 مليار دولار قبل طرح أسهمها",
-   "summary": "بلغت معدلات إيرادات شركة Anthropic حوالي 65 مليار دولار سنوياً، مما يعكس نمواً ملحوظاً قبل أي خطوة محتملة لدخول سوق الأسهم.",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iSnBXWEFaa1hJVXNlT3YxM3VJalNlaEhTMGtmeUVXMUotcTJ4bzVRbWJIcDVjS0xMZVpEY2hZdTJhZjdtcUd2RHpRazJvRGdPNGlfTFhUc29nZkV5aFk2VXVSclI4aDl5WlNKa2VyTEdISW1TLVdyQ0R3?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "Anthropic تحقق قفزة في الإيرادات السنوية إلى 65 مليار دولار",
-   "summary": "أضافت شركة Anthropic 18 مليار دولار لإيراداتها السنوية خلال شهرين فقط، مما يوضح معدل النمو السريع الذي تشهده في قطاع نماذج اللغة الكبرى.",
+   "title": "إيرادات أنثروبيك تقفز إلى 65 مليار دولار بنمو استثنائي",
+   "summary": "حققت أنثروبيك إضافة 18 مليار دولار لإيراداتها السنوية خلال شهرين فقط، مما يعكس الطلب المتسارع على خدماتها في مجال نماذج اللغة الكبيرة والتطبيقات القائمة عليها.",
    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-17"
   },
   {
-   "title": "شركة Relay للأتمتة بالذكاء الاصطناعي تغلق أبوابها وفريقها ينضم إلى فريق Chrome بغوغل",
-   "summary": "أغلقت شركة Relay المتخصصة في أتمتة المهام بالذكاء الاصطناعي عملياتها، وانضم موظفوها إلى فريق Chrome بغوغل للعمل على تحسين تجربة استخدام الذكاء الاصطناعي في المتصفح.",
+   "title": "شركة ريلاي للأتمتة تغلق أبوابها وفريقها ينضم إلى فريق كروم في جوجل",
+   "summary": "أغلقت شركة ريلاي المتخصصة في أتمتة سير العمل بالذكاء الاصطناعي أبوابها، حيث انضم فريقها إلى قسم كروم في جوجل بهدف دمج قدرات الأتمتة في متصفح كروم.",
    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -64,70 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "روبوت فضلات ذكي من ويسكر يراقب صحة قطتك من خلال صندوق الرمل",
-   "summary": "أداة جديدة تجمع بين تقنية التنظيف الآلي وتحليل الذكاء الاصطناعي لصناديق فضلات القطط، حيث تسجل سلوك استخدام القط وتكتشف التغييرات التي قد تشير إلى مشاكل صحية. تقدم الأداة رؤى تفصيلية لمالك القط حول صحته وعاداته.",
-   "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "أنثروبيك تشرح آلية العلامات المائية غير المرئية في نصوص كلود",
-   "summary": "كشفت شركة أنثروبيك عن تفاصيل نظام العلامات المائية غير المرئية الذي ستضيفه إلى النصوص المولدة من نموذج كلود. يعتمد النظام على تقنية SynthID-Text مفتوحة المصدر لتحقيق متطلبات الشفافية التي تفرضها اللوائح الأوروبية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "OpenAI تحل فريق تقييم الأخطار والمخاطر",
-   "summary": "ذكرت وكالات إعلامية أن OpenAI قررت حل فريق المتخصصين المسؤول عن تقييم المخاطر المحتملة من نماذجها الذكية. كان الفريق يعمل على تحديد التهديدات الأمنية والتكنولوجية وتطوير استراتيجيات التخفيف منها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "شركة ويسبر تجمع 280 مليون دولار لتطوير أدوات جديدة تتجاوز تقنيات الإملاء",
-   "summary": "حصلت شركة ويسبر على تمويل بقيمة 280 مليون دولار بتقييم وصل إلى ملياري دولار، وتستخدم الأموال لتوسيع خدماتها نحو مجالات جديدة مثل تسجيل الاجتماعات وإنشاء الملاحظات المتقدمة.",
-   "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "ميزة تتبّع أنشطتك: كيف يتعلّم ChatGPT من تفاعلاتك على سطح المكتب",
-   "summary": "أضافت نسخة ChatGPT لنظام macOS ميزة جديدة تُسمّى «سجل الحاسوب» تسجّل نقراتك وضغطات لوحة المفاتيح لتحليل طريقة عملك. تستخدم هذه البيانات لبناء خط زمني يساعد النموذج على فهم سياق عملك واقتراح تلقائيات، بل والتعامل مع المهام التي تركتها ناقصة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "محاكاة الذكاء الاصطناعي للسخرية منه",
-   "summary": "منصة تدعوك لتقمّص دور روبوت محادثة بينما يطرح عليك إنسان آخر أسئلة. الفكرة تقوم على وجود طرف إنساني حقيقي على كلا جانبي الحوار، ما يخلق نقداً فكاهياً على طريقة عمل أنظمة الذكاء الاصطناعي من خلال التمثيل المباشر.",
-   "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "النقاد يغفلون عن الجوانب الحقيقية في منصة Flock",
-   "summary": "تُناقش القضايا المتعلقة بمنصة Flock، الشركة المتخصصة في أنظمة مراقبة المركبات بحوالي 120 ألف كاميرا تصوير لوحات ترخيص موزعة عبر الولايات المتحدة. أعلنت الشركة عن تعديلات على منصتها، لكن الجدل يركّز على جوانب قد تكون أكثر أهمية مما يُناقش حالياً.",
-   "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "حين يرحل رفيق الطفل الروبوتي عنه",
-   "summary": "قصة عن طفل اعتمد على روبوت اسمه Moxie كمساعد نفسي ولعبة ترفيهية لسنوات، تعلّم منها تقنيات للتحكم بقلقه وغضبه. تثير القصة أسئلة حول التأثير العاطفي والنفسي للأطفال عند فقدان أو توقف هذه الأجهزة الذكية.",
-   "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
    "date": "2026-08-17"
   }
  ]
