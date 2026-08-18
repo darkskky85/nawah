@@ -1,13 +1,85 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-18T09:20:43.205214+00:00",
+ "updated": "2026-08-18T15:19:47.495637+00:00",
  "items": [
   {
-   "title": "سماعات AirPods مزوّدة بكاميرا من Apple تظهر في فيديو مسرّب",
-   "summary": "ظهر فيديو في ملفات نظام macOS يُظهر نسخة تجريبية من سماعات AirPods المتوقع أن تحمل كاميرا، حيث يستخدم الشخص في الفيديو المساعد البصري لقراءة غلاف كتاب. تشير التسريبات إلى أن Apple تعمل على إضافة قدرات رؤية حاسوبية لسماعاتها اللاسلكية.",
+   "title": "منصة Warp تطلق نظاماً جديداً لتسريع بناء تطبيقات الذكاء الاصطناعي",
+   "summary": "أعلنت منصة Warp عن نظام بنية تحتية جديد يُسمى Warp Factories يهدف إلى تبسيط عملية بناء مصانع برمجيات الذكاء الاصطناعي. النظام مصمم ليكون جاهزاً للاستخدام الفوري دون الحاجة إلى تكوينات معقدة.",
+   "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "OpenAI تطلق نسخة آمنة من ChatGPT موجهة للمراهقين",
+   "summary": "أطلقت OpenAI نسخة خاصة من ChatGPT للمراهقين تتضمن حماية محسنة وأدوات رقابة أبوية وموارد تعليمية. الهدف هو حماية هذه الفئة العمرية من المحتوى الضار ومنع استخدام الذكاء الاصطناعي في الغش الأكاديمي.",
+   "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "محرك البحث Perplexity يحقق نمواً في قاعدة مستخدميه بالهند",
+   "summary": "شهدت Perplexity زيادة في عدد المستخدمين والإيرادات في سوق الهند بعد انتهاء عرض الخدمة المجانية المقدم بالتعاون مع شركة Airtel. النمو استمر رغم انخفاض عمليات التحميل الجديدة للتطبيق.",
+   "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "فايرفوكس يضيف قدرات ذكاء اصطناعي متقدمة لمتصفحه",
+   "summary": "أطلق متصفح فايرفوكس تحديثات لميزة Smart Window التي تسمح لنماذج الذكاء الاصطناعي بالوصول إلى معلومات ويب حالية وعرض روابط مصادر الإجابات. الميزة تتضمن أيضاً اقتراحاً تلقائياً لتنظيم الألسنة وعرض معاينات مرئية للصفحات المزارة سابقاً.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "OpenAI تطلق وضعاً خاصاً في ChatGPT موجهاً للمراهقين",
+   "summary": "أطلقت OpenAI نمطاً مخصصاً في ChatGPT للمراهقين يجمع الحماية الحالية مع ميزات أمان جديدة. يأتي الإطلاق وسط اهتمام متزايد بتأثير أدوات الذكاء الاصطناعي على المستخدمين الأصغر سناً.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "تسريب فيديو يكشف عن أيربودز Apple مزودة بكاميرا",
+   "summary": "ظهر فيديو في ملفات macOS يكشف عن نسخة تجريبية من أيربودز Apple بكاميرا مدمجة، مما يشير إلى اعتماد ميزة التعرف البصري والمعالجة الذكية للصور مباشرة من السماعات.",
    "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "غموض حول الاستخدام الفعلي لتطبيقات الذكاء الاصطناعي",
+   "summary": "يشير باحثون إلى أن شركات مثل OpenAI وAnthropic تنشر بيانات انتقائية عن استخدام منتجاتها، دون مصادر مستقلة تتحقق من صحة هذه الإحصائيات، مما يخلق فجوة في الفهم الحقيقي لتبني المستخدمين لهذه الأدوات.",
+   "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "تحسن الذكاء الاصطناعي الذاتي قد يستغرق وقتاً أطول من المتوقع",
+   "summary": "بحسب الباحثين، قد تكون التنبؤات بتطور سريع للذكاء الاصطناعي من خلال التحسن الذاتي متفائلة جداً، حيث تواجه هذه العملية تحديات تقنية وعملية أكثر من المتصور، رغم قدرة نماذج اللغة الحالية على كتابة الأكواد وتحسين الخوارزميات.",
+   "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "إيليفن لابز تدمج خدمة الصوت ضمن بروتوكول كلود",
+   "summary": "أضافت منصة إيليفن لابز للتحويل النصي إلى صوت إمكانية التكامل مع بروتوكول كلود (MCP)، مما يسمح بربط تطبيقات الذكاء الاصطناعي بخدماتها الصوتية بشكل مباشر. يعزز هذا التطور من إمكانيات النماذج اللغوية في إنتاج محتوى صوتي متقدم.",
+   "url": "https://www.producthunt.com/products/elevenlabs-mcp-2",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "الصناعة النووية تعتمد أداة ذكاء اصطناعي جديدة برعاية إنفيديا",
+   "summary": "طورت الصناعة النووية أداة ذكاء اصطناعي جديدة بدعم من شركة إنفيديا المتخصصة في معالجات الحوسبة. تعكس هذه الخطوة اهتمام القطاع النووي بتوظيف تقنيات الذكاء الاصطناعي لتحسين عملياته.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11eUtrODVNaDNWT1BUMkRPaGlIR2FQbW0xQWRueHhyRmpwRHp2RlZoRzEyUGFVbUZrZUFBcEIzMjhBLW9nSFBYSEpfSGxQLWJYTk5qVUFkcnF6QmhUX3p4cVBzemNpZHJ0XzBWZl9HdElRQQ?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
    "date": "2026-08-18"
   },
   {
@@ -57,78 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-08-18"
-  },
-  {
-   "title": "إيرادات أنثروبيك السنوية تتجاوز 65 مليار دولار قبل طرحها العام",
-   "summary": "وصلت إيرادات شركة أنثروبيك المتخصصة بنماذج الذكاء الاصطناعي إلى 65 مليار دولار على أساس سنوي، محققة نموًا سريعًا قبل خطواتها نحو الطرح العام في أسواق المال.",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVktR0ZGanRzYkMwQjBWRkhfbmVfLTVxR3JpYWtRbk1HemlQbjRab2EzTmN1VDNmYmk5Z0xIWGYzVmU2b3VTRENNTy00d1RrLXBoWjFPVE5hNEQyVDdrZ1ZuTzFaczRGODM0VnpycFpDa0tTZWpFSzYyU3d1dVNwQzlicGJPTm9WdlFHczFUMzNOalhjdDIwSWZZcVltMHdsVDY2OXE4QnZOQ2laUlU4Xw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "سبع ميزات جديدة في هواتف بكسل 11 من جوجل",
-   "summary": "أطلقت جوجل هواتف بكسل 11 بمجموعة من التحديثات والميزات الجديدة التي تركز على تحسين تجربة المستخدم والقدرات المتعلقة بالذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "المرحلة التالية من الذكاء الاصطناعي ستُشكّل عبر القيمة التجارية والثقة والخبرة البشرية",
-   "summary": "أكد خوسيه دانيال دويارتي كاماتشو أن تطور الذكاء الاصطناعي القادم لن يقتصر على التقنيات وحدها، بل سيعتمد على خلق قيمة حقيقية للأعمال وبناء الثقة مع الاعتماد على المعرفة البشرية. يعكس هذا الرأي اتجاهاً متزايداً نحو دمج الذكاء الاصطناعي بشكل مسؤول وعملي في البيئات التجارية.",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZbFU2VW1wN1UyQVY3TUZzSjdIRGFraWtPUkFGQTZoRWpFcGlDdldWUTg4ZTBkQ2ZiNjZoSGFwNHVkQUNLT0F4VFJHaEFQTWxoRHd1RlNyWmlSSG1lbVlUeEhpSkFhOUoyOVk4MXdKOA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "قادة الشركات يسلّطون الضوء على مشكلة موثوقية الذكاء الاصطناعي",
-   "summary": "يركز مديرو الشركات على قضايا الموثوقية والدقة في أنظمة الذكاء الاصطناعي، حيث تزداد الحاجة لضمان نتائج موثوقة وآمنة قبل التوسع في التطبيقات الحرجة.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1pha0JtUmtTTmpIV3ZYSEJPWHFmLWVvSzJiMHJaRnZ6TTRRUTdqcEFoQ1hxdTBqSC1la1J3M3k0Wlk5NzF2d3E0blZ5M2gyeGQtaHAyV3R5dnpvM1ZJWmg2VVRlcjZGMXl5dTE0bHc1TTMwS3pkZHpBU3FCRnpSTHR3SVc?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "إيرادات أنثروبيك تقفز إلى 65 مليار دولار بنمو استثنائي",
-   "summary": "حققت أنثروبيك إضافة 18 مليار دولار لإيراداتها السنوية خلال شهرين فقط، مما يعكس الطلب المتسارع على خدماتها في مجال نماذج اللغة الكبيرة والتطبيقات القائمة عليها.",
-   "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "شركة ريلاي للأتمتة تغلق أبوابها وفريقها ينضم إلى فريق كروم في جوجل",
-   "summary": "أغلقت شركة ريلاي المتخصصة في أتمتة سير العمل بالذكاء الاصطناعي أبوابها، حيث انضم فريقها إلى قسم كروم في جوجل بهدف دمج قدرات الأتمتة في متصفح كروم.",
-   "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "أمازون تتخلى عن نصوص نادرة لتدريب نماذج الذكاء الاصطناعي",
-   "summary": "تلجأ أمازون إلى شراء والاستفادة من الكتب النادرة والقيّمة لتدريب نماذج اللغة الكبرى، نظراً لأن هذه الكتب توفر محتوى لم تتعرض عليه هذه النماذج من قبل، على عكس محتوى الإنترنت المتاح.",
-   "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "Groq تجمع 350 مليون دولار لتحويل نشاطها من رقاقات الذكاء الاصطناعي إلى نموذج سحابي جديد",
-   "summary": "جمعت شركة Groq السابقة في تصنيع رقاقات الذكاء الاصطناعي 350 مليون دولار بتقييم 3.5 مليار دولار، لدعم تحولها نحو نموذج سحابي جديد وتوسيع مراكز البيانات الخاصة بها.",
-   "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "إنفيديا تستثمر مليار ونصف دولار في شركة مراكز البيانات التابعة لسوفتبانك",
-   "summary": "أعلنت إنفيديا عن استثمار بقيمة 1.5 مليار دولار في شركة متخصصة بتطوير مراكز البيانات تابعة لسوفتبانك. هذه الخطوة تضمن استخدام معالجات إنفيديا في مشاريع مراكز البيانات المخطط لها مع OpenAI.",
-   "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-17"
   }
  ]
 };
