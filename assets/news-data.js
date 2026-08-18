@@ -1,29 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-17T21:15:04.561418+00:00",
+ "updated": "2026-08-18T03:34:46.286443+00:00",
  "items": [
   {
-   "title": "أمازون تتخلص من نصوص نادرة لتدريب نماذج الذكاء الاصطناعي",
-   "summary": "تقارير تشير إلى أن أمازون تستخدم نصوصاً نادرة وقيّمة في تدريب نماذج اللغة الكبرى، بما أن هذه النماذج استنفذت بالفعل البيانات المتاحة على الإنترنت. يثير هذا تساؤلات حول القيمة التاريخية والثقافية للمواد النادرة وسبل حفظها.",
+   "title": "المرحلة التالية من الذكاء الاصطناعي ستُشكّل عبر القيمة التجارية والثقة والخبرة البشرية",
+   "summary": "أكد خوسيه دانيال دويارتي كاماتشو أن تطور الذكاء الاصطناعي القادم لن يقتصر على التقنيات وحدها، بل سيعتمد على خلق قيمة حقيقية للأعمال وبناء الثقة مع الاعتماد على المعرفة البشرية. يعكس هذا الرأي اتجاهاً متزايداً نحو دمج الذكاء الاصطناعي بشكل مسؤول وعملي في البيئات التجارية.",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZbFU2VW1wN1UyQVY3TUZzSjdIRGFraWtPUkFGQTZoRWpFcGlDdldWUTg4ZTBkQ2ZiNjZoSGFwNHVkQUNLT0F4VFJHaEFQTWxoRHd1RlNyWmlSSG1lbVlUeEhpSkFhOUoyOVk4MXdKOA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "قادة الشركات يسلّطون الضوء على مشكلة موثوقية الذكاء الاصطناعي",
+   "summary": "يركز مديرو الشركات على قضايا الموثوقية والدقة في أنظمة الذكاء الاصطناعي، حيث تزداد الحاجة لضمان نتائج موثوقة وآمنة قبل التوسع في التطبيقات الحرجة.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1pha0JtUmtTTmpIV3ZYSEJPWHFmLWVvSzJiMHJaRnZ6TTRRUTdqcEFoQ1hxdTBqSC1la1J3M3k0Wlk5NzF2d3E0blZ5M2gyeGQtaHAyV3R5dnpvM1ZJWmg2VVRlcjZGMXl5dTE0bHc1TTMwS3pkZHpBU3FCRnpSTHR3SVc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "إيرادات Anthropic السنوية تتجاوز 65 مليار دولار قبل طرح أسهمها",
+   "summary": "بلغت معدلات إيرادات شركة Anthropic حوالي 65 مليار دولار سنوياً، مما يعكس نمواً ملحوظاً قبل أي خطوة محتملة لدخول سوق الأسهم.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iSnBXWEFaa1hJVXNlT3YxM3VJalNlaEhTMGtmeUVXMUotcTJ4bzVRbWJIcDVjS0xMZVpEY2hZdTJhZjdtcUd2RHpRazJvRGdPNGlfTFhUc29nZkV5aFk2VXVSclI4aDl5WlNKa2VyTEdISW1TLVdyQ0R3?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "Anthropic تحقق قفزة في الإيرادات السنوية إلى 65 مليار دولار",
+   "summary": "أضافت شركة Anthropic 18 مليار دولار لإيراداتها السنوية خلال شهرين فقط، مما يوضح معدل النمو السريع الذي تشهده في قطاع نماذج اللغة الكبرى.",
+   "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "شركة Relay للأتمتة بالذكاء الاصطناعي تغلق أبوابها وفريقها ينضم إلى فريق Chrome بغوغل",
+   "summary": "أغلقت شركة Relay المتخصصة في أتمتة المهام بالذكاء الاصطناعي عملياتها، وانضم موظفوها إلى فريق Chrome بغوغل للعمل على تحسين تجربة استخدام الذكاء الاصطناعي في المتصفح.",
+   "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "أمازون تتخلى عن نصوص نادرة لتدريب نماذج الذكاء الاصطناعي",
+   "summary": "تلجأ أمازون إلى شراء والاستفادة من الكتب النادرة والقيّمة لتدريب نماذج اللغة الكبرى، نظراً لأن هذه الكتب توفر محتوى لم تتعرض عليه هذه النماذج من قبل، على عكس محتوى الإنترنت المتاح.",
    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-17"
   },
   {
-   "title": "شركة جروك تجمع 350 مليون دولار لتوسيع أنشطتها في مجال مراكز البيانات",
-   "summary": "حصلت جروق على تمويل بقيمة 350 مليون دولار بتقييم يصل إلى 3.5 مليار دولار، بينما تتحول من تركيزها السابق على رقاقات الذكاء الاصطناعي نحو خدمات مراكز البيانات. تخطط الشركة لتوسيع بنيتها التحتية بمعدات من شركة إنفيديا.",
+   "title": "Groq تجمع 350 مليون دولار لتحويل نشاطها من رقاقات الذكاء الاصطناعي إلى نموذج سحابي جديد",
+   "summary": "جمعت شركة Groq السابقة في تصنيع رقاقات الذكاء الاصطناعي 350 مليون دولار بتقييم 3.5 مليار دولار، لدعم تحولها نحو نموذج سحابي جديد وتوسيع مراكز البيانات الخاصة بها.",
    "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-17"
   },
   {
-   "title": "إنفيديا تستثمر مليار ونصف دولار في مشروع مركز بيانات لـ OpenAI",
-   "summary": "استثمرت إنفيديا مليار ونصف دولار في شركة متخصصة بتطوير مراكز البيانات تابعة لمجموعة سوفتبانك، وهو ما يضمن استخدام رقاقات إنفيديا في مشروع مركز بيانات مخطط له بالتعاون مع OpenAI.",
+   "title": "إنفيديا تستثمر مليار ونصف دولار في شركة مراكز البيانات التابعة لسوفتبانك",
+   "summary": "أعلنت إنفيديا عن استثمار بقيمة 1.5 مليار دولار في شركة متخصصة بتطوير مراكز البيانات تابعة لسوفتبانك. هذه الخطوة تضمن استخدام معالجات إنفيديا في مشاريع مراكز البيانات المخطط لها مع OpenAI.",
    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "روبوت فضلات ذكي من ويسكر يراقب صحة قطتك من خلال صندوق الرمل",
+   "summary": "أداة جديدة تجمع بين تقنية التنظيف الآلي وتحليل الذكاء الاصطناعي لصناديق فضلات القطط، حيث تسجل سلوك استخدام القط وتكتشف التغييرات التي قد تشير إلى مشاكل صحية. تقدم الأداة رؤى تفصيلية لمالك القط حول صحته وعاداته.",
+   "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "أنثروبيك تشرح آلية العلامات المائية غير المرئية في نصوص كلود",
+   "summary": "كشفت شركة أنثروبيك عن تفاصيل نظام العلامات المائية غير المرئية الذي ستضيفه إلى النصوص المولدة من نموذج كلود. يعتمد النظام على تقنية SynthID-Text مفتوحة المصدر لتحقيق متطلبات الشفافية التي تفرضها اللوائح الأوروبية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "OpenAI تحل فريق تقييم الأخطار والمخاطر",
+   "summary": "ذكرت وكالات إعلامية أن OpenAI قررت حل فريق المتخصصين المسؤول عن تقييم المخاطر المحتملة من نماذجها الذكية. كان الفريق يعمل على تحديد التهديدات الأمنية والتكنولوجية وتطوير استراتيجيات التخفيف منها.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-08-17"
   },
   {
@@ -32,22 +96,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "أنثروبيك توضح آلية العلامات المائية غير المرئية في نصوص كلود",
-   "summary": "أعلنت شركة أنثروبيك عن نظام لإضافة علامات مائية غير مرئية على النصوص المولدة من قبل نموذج كلود، بما يتوافق مع متطلبات الشفافية في تشريعات الذكاء الاصطناعي الأوروبية. تعتمد التقنية على نهج مفتوح المصدر يسمى SynthID-Text.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "OpenAI تحل فريق تقييم مخاطر الذكاء الاصطناعي",
-   "summary": "ذكرت وسائل إعلامية متخصصة أن OpenAI قامت بحل فريق الاستعداد والتقييم نهاية الشهر الماضي. كان الفريق مسؤولاً عن تقييم المخاطر المحتملة لنماذج الذكاء الاصطناعي وتطوير استراتيجيات لتخفيفها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-08-17"
   },
   {
@@ -80,54 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
    "source": "MIT Tech Review AI",
    "tag": "أبحاث",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "أداة ذكاء اصطناعي لتيسير وصول سكان أريزونا إلى خدمات الولاية",
-   "summary": "طورت ولاية أريزونا أداة بحث مدعومة بالذكاء الاصطناعي تساعد السكان على الوصول بسهولة إلى البرامج والخدمات الحكومية المتاحة. تهدف الأداة إلى تبسيط عملية البحث عن المعلومات الإدارية والخدمات العامة.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaEw5YXRyN0RWNHVJYXpxMzBENG5qRFNpM2ZuQXZXZG9mT0REbkpNczFEVGtSVlZYWVRCcUVYb0YzRDlhOHNqajZNeGhVXzRhTE92STU1Q04tNWpyQ3g0RXVqblZ2cEVSNXBiMm1SQzBKc3FiSXRsRUhTMzRFV25KcmJFTlo3eUhraS1pdzkwYm4zNXNjVHFRUWZwNUZTOUJjbnBlQng2NkNZQU0yaDRFbVR5M015WGlV?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "عيون ذكية في السماء: الأقمار الصناعية والذكاء الاصطناعي يغيران كشف الحرائق الغابية",
-   "summary": "تُستخدم الأقمار الصناعية الحديثة والخوارزميات الذكية في رصد حرائق الغابات بدقة أعلى وسرعة أسرع، ما يسهم في تحسين استجابة فرق الإطفاء والحد من الأضرار البيئية. يعكس هذا التطور كيفية تسخير التكنولوجيا المتقدمة لمعالجة التحديات البيئية الملحة.",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQampJalR4UGNlRjVoZnJvNkhVeHEwRExGVU5pb2g4cjZYLU1GNnVRQ3YyMURBclctb1VUbGdsbFZ1ZUpwbEVaOUpFN2dXNlJWdExvSjExX0xYTTl6SzE3d3dtNDdJOEo3a2l2d0FuV0xLcWpUTmFrU09zNHpRckdqcVg5eXB4dms?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "استوديو إنتاج بسيلفر ليك يتبنّى تقنيات الذكاء الاصطناعي",
-   "summary": "استوديو إنتاج في حي سيلفر ليك بدأ توظيف الذكاء الاصطناعي في عملياته الإنتاجية. الخطوة تعكس اتجاهاً متزايداً في صناعة الإعلام والترفيه نحو تطبيق هذه التقنيات لتحسين الكفاءة والعمليات الإبداعية.",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUpUM3AxLVE4aTZuYUk1Y3hGa1VuZjBqa2hlbVpDWlNoVjdZSHNmMVRwU3ktOWFaTEtpUVJYaWVsS2JSZmZXaXFWM2N6QjlyWWR5Y1BMczZLV3FpQ1hSTWU4ZzFGUEk2VGo4SFdObExqNnhFM3dhQl9zWDROUklfRzR6eW1HSG5hN2tKSHkyaGxDU2pDaW1jYW83NXd1YXZJNHpkSFdR0gGuAUFVX3lxTFBQaC01bE1qLTlVd1JSX3BqQTVxa2RKRDBVclJuV2pLNEh1QV93ZHRPWDk5LU92U19Ma1RLekxpLTgyZ1B6YnJtckxnWWxkN2NaRFg2QWVTN1l4czY5b2d5M1BHTUVfaTV4UUdIQVdUNjN0WDJPYmFXbFZfYlF5dkxXZGNCQVFKZjJBYlRyQWxxTHNNRnp1OWExVm4xVWtwZ2I2MjFHQXlWQWdXQVUyZw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "تحليل الجغرافيا التنافسية للذكاء الاصطناعي والتكنولوجيا المتقدمة",
-   "summary": "تقرير متخصص يفحص التوزيع الجغرافي لمراكز الذكاء الاصطناعي والتكنولوجيا المتقدمة عالمياً. يسلط الضوء على أهمية الموقع الجغرافي في جذب الاستثمارات والمواهب في قطاع التكنولوجيا الحديثة.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0dsbnpHbFkxTDRNdUdMTjIyOWpWSHA5aTNLOC1uMHV1UVVNaDJGWEVqUlBhdVBVR1VJb3hSTExHX0owcWZtTFI2YVQ1Wk5uN2wyTWlLbjM2cFZUUW5mTmJ5OVloQ1h3Sy15ZzJUOEJxNEwzblJNUVFGVmxuckp1TkxZQTluWnJHMUw2ekpqbFZuLWVKX01PMnZPYnNYQkhhN0R3dEV2V2Fhdw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "حدود الذكاء الاصطناعي: المحاكاة مقابل الابتكار الحقيقي",
-   "summary": "مقالة رأي تناقش الفرق بين قدرة الذكاء الاصطناعي على محاكاة الأنماط وبين تحقيق التصميم والابتكار الأصلي. تؤكد أن النظم الذكية تبقى محدودة في قدرتها على إنتاج أفكار ابتكارية خالصة.",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPY3NlODItemNyS1RkVHhwY25BTHFTLWF0aWRQc21GS0d5TEgtVFpEaWlNeHdaNmxsQ2c5Q1RCby1zUFE2OXZJdXZCUU9aYlRJQ2E0bHdIQzRTYWJuMVlRNUQ1TlcxNmZmMzVqSm9wdmpBSXpMTGtmQXpMdEhQME8xTHUxWmNBcXdIM3k2b1ZjTnl2QzVxZGRyUmUtQlYteWliSGZ6ZVdvTDlReDM0VmhpeFVfc0ZxRE5aNkkyWmlTQkVfQlBSNzdHRV9VT1c4cHMyR2RoSWFFZHp2LTVvcXdjQ21NQVlXWXlUYWlCQkIxMVI3dENEUWVBR3JRck1fMkRMc2Iw0gGIAkFVX3lxTFBOb0VlMThsdkExM1lsM1BVTEI0RTdHcXJTQTdZdEpnODdPV0xCTjFBd0w1bjF2cjZqUnFJdGZhb0FtYkV5a0Q1UEZnNlIxWTMtZDFZaDlwUVdzVTlqeHhTMWgxVzJjd2dlUDgxamRlOWIzZ041ZTkxOHViVDktYnFGeXlpMGpHaXh0Q3QzWnF1NEJzQTNZQWFYTDFEYXQxckhLVEVXMlljYy00aWdDbFRmemFreFBJejFlZ0tuVGNBTjhjUzl1dEVDdEcwYmZYWWlPMFNqQ2hRdGRSbGo2ZVN4VGRtLXhnQndxSDc2cWU5WldsYzg4OUxrS2N0NnotRVR1TGJYRG9vQw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "جامعة فرجينيا توسّع برامجها التعليمية بمقررات في الذكاء الاصطناعي والعقارات",
-   "summary": "أضافت كلية داردن بجامعة فرجينيا عدداً من المقررات الجديدة للسنة الأكاديمية 2026–27، تشمل تخصصات في الذكاء الاصطناعي والاستثمار العقاري. الخطوة تسعى لإعداد الطلاب للعمل في مجالات متطورة ذات طلب متزايد.",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUE1rb3hTN01oSUl5R3UwWEZ2MTB4LVlkSTRyNXBhMTdROVAwYldhcjJoNUhGVVZES3BRUUhkdXEtT0J4Rml1VVl6VW81eDJRYURvVHc3NVZBRE1oNmtUSWJOOFgzdWI0WkRUcjEwRnk1Ml9LQ3d3WWs0S2RvRG9SWDlscnZJTkVmVWFVSnE4RHZGWWxnUmlfWmtfX013dHp1U0hhSS1lMFlSQlk?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-08-17"
   }
  ]
