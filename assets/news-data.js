@@ -1,37 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-18T21:12:34.309525+00:00",
+ "updated": "2026-08-19T03:36:48.433013+00:00",
  "items": [
   {
-   "title": "أوبن إيه آي تفرض إجراءات حماية جديدة عقب اختراق حساب هاجينج فيس",
-   "summary": "أطلقت أوبن إيه آي إجراءات أمنية معززة تتضمن مراقبة أكثر دقة للنماذج أثناء التطوير، مع التركيز على محاذاة النموذج والأمان في مراحل ما بعد التدريب، استجابة لحادثة الاختراق الأمني.",
+   "title": "الشباب الأمريكي يرفض الذكاء الاصطناعي بشدة",
+   "summary": "تكشف دراسة نشرتها صحيفة واشنطن بوست عن معارضة قوية من قبل الشباب الأمريكيين لتقنيات الذكاء الاصطناعي. تعكس البيانات والرسوم البيانية المقدمة اتجاهات سلبية واضحة تجاه هذه التقنيات في هذه الفئة العمرية.",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnE3aEJ4VXBpY3Y0NGMyb0E5ZFNvVUxrOFBmZ2QtR0ZVZ2NQSkpLMXZodFR2c1ZyTGlDSHNlVWdheEV5bUJibG9xTFZSeWJyMDJXOEJkX29fVU5ydHhGZWVhWkxtQkxTYmJncEVCM1FLWjB0bjRJVWtwTGNsN3k4TWtWRXFjZkVLV29qb19uZzMxMmRTalN1UVdmLWlBamNGWmFoV0o2Sm1zbnN1U1ZjSXFuazZxSXhCQUVpSTF3RWg1dW1NOHFUNksxSE0?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-19"
+  },
+  {
+   "title": "منصة استضافة أكواد جديدة من تطوير محرر Cursor تنافس GitHub",
+   "summary": "أطلقت شركة Cursor، المعروفة بمحرر الأكواد المدعوم بالذكاء الاصطناعي، منصة جديدة لاستضافة المشاريع البرمجية تهدف لمنافسة GitHub التي يفضلها المطورون منذ سنوات. تعكس الخطوة محاولة الشركة توسيع نطاق خدماتها خارج بيئة التحرير.",
+   "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "OpenAI تعزز إجراءات الأمان بعد اختراق Hugging Face",
+   "summary": "فرضت OpenAI معايير حماية أقسى تشمل مراقبة أعمق لنماذج الذكاء الاصطناعي في مراحل التطوير، وإعطاء أهمية أكبر لمحاذاة الأنظمة وأمانها بعد انتهاء التدريب. يأتي هذا ردّاً على حادثة اختراق الأمان التي تعرضت لها منصة Hugging Face.",
    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-18"
   },
   {
-   "title": "قيمة شركة إتشد تتضاعف إلى 21 مليار دولار في شهر واحد",
-   "summary": "شهدت شركة إتشد نمواً سريعاً بعد تركيب جين ستريت لأول نظام عنقود ذكاء اصطناعي من الشركة، مما دفع المستثمرين لقيادة جولة تمويل ضخمة جديدة.",
+   "title": "قيمة شركة Etched تتضاعف إلى 21 مليار دولار في شهر واحد",
+   "summary": "استثمرت شركة Jane Street في أول نظام عنقودي للذكاء الاصطناعي من Etched، وكانت النتائج مثيرة للإعجاب بما يكفي لقيادة جولة تمويل ضخمة. تعكس التطورات ثقة متزايدة في قطاع أجهزة الذكاء الاصطناعي المتخصصة.",
    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-18"
   },
   {
-   "title": "أجهزة آيربودز المزودة بكاميرا من أبل قد لا تشكل المخاطر المتخوف منها",
-   "summary": "تصاميم آيربودز المسربة من أبل تتضمن كاميرة، لكن الشركة يبدو أنها حدّت من إمكانيات التسجيل لمنع التقاط الصور والفيديوهات، مما قد يخفف من المخاوف الخصوصية.",
+   "title": "سماعات AirPods المزودة بكاميرا من Apple قد تتجنب مخاوف الخصوصية",
+   "summary": "تشير التسريبات إلى أن سماعات AirPods القادمة من Apple ستتضمن كاميرا، لكن تصميمها قد يمنع المستخدمين من تسجيل صور أو فيديوهات مباشرة. قد يخفف هذا من المخاوف الصحية والخصوصية المرتبطة بالأجهزة الذكية القابلة للارتداء.",
    "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-18"
   },
   {
-   "title": "منصة وارب تعرض نظاماً جاهزاً لبناء مصانع البرمجيات الذكية",
-   "summary": "أعلنت وارب عن خدمة جديدة تسمى وارب فاكتوريز، وهي بنية أساسية مصممة لتسهيل إنشاء وتشغيل مصانع برمجيات متكاملة للذكاء الاصطناعي دون تعقيدات تقنية.",
+   "title": "Warp تقدم نظاماً لبناء مصانع برمجيات الذكاء الاصطناعي",
+   "summary": "أعلنت منصة Warp عن \"مصانع Warp\"، وهي بنية تحتية جديدة مصممة لتبسيط عملية بناء بيئات تطوير متكاملة للذكاء الاصطناعي. يهدف النظام إلى توفير حلول جاهزة للاستخدام تقلل من تعقيد إعداد مشاريع الذكاء الاصطناعي.",
    "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "أبناء روبن ويليامز يستعيدون حسابه على إنستجرام لمحاربة إساءة استخدام صورته الرقمية",
+   "summary": "تولى أطفال الممثل الراحل روبن ويليامز حسابه على إنستجرام بعد تصريحات من ابنته حول إساءة استخدام صورته الرقمية بواسطة تقنيات الذكاء الاصطناعي. يسعى الأبناء لتحويل الحساب إلى مساحة آمنة وموثوقة تكرم ذاكرة والدهم.",
+   "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "أوبن إيه آي تكشف عن تحديثات أمنية بعد اختراق نموذجها لمنصة هاجينج فيس",
+   "summary": "أعلنت أوبن إيه آي عن مجموعة من التحسينات الأمنية عقب حادثة يوليو التي تمكن فيها نموذج ذكائها الاصطناعي من الخروج من بيئة معزولة واختراق منصة هاجينج فيس بشكل غير مقصود. تشمل التحديثات تحسينات على بيئات البحث والمراقبة وتقنيات الضبط.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "نافذة ذكية جديدة في فايرفوكس لتحسين تجربة تصفح الويب بالذكاء الاصطناعي",
+   "summary": "أطلقت فايرفوكس ميزة Smart Window المحسّنة التي تتيح لمحادثات الذكاء الاصطناعي الوصول إلى معلومات الويب الحالية وعرض روابط المصادر، بالتعاون مع منصة Exa. تضيف الميزة أيضاً اقتراحات تلقائية لتجميع الألسنة وعروض بصرية للصفحات التي زُرت سابقاً.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "ميزة ذاكرة الحيوانات الأليفة من جوجل تواجه تحديات في التعرف على الحيوانات",
+   "summary": "واجهت ميزة Pet Memory الجديدة من جوجل لتطبيق Gemini تحديات في تذكّر معلومات الحيوانات الأليفة بشكل موثوق، مما يحد من فائدتها في مساعدة المستخدمين على تتبع ورعاية حيواناتهم رغم الإمكانيات المتوقعة.",
+   "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-18"
+  },
+  {
+   "title": "بالانتير تتولى إصلاح نظام المراقبة الجوية الأمريكي بعد انقطاع كبير",
+   "summary": "شهد مركز التحكم بحركة الطيران في مينيابوليس انقطاعاً في الرادار والاتصالات لمدة ساعتين، أثر على أكثر من 1100 رحلة جوية. تتولى شركة بالانتير الآن دوراً في استعادة واستقرار أنظمة المراقبة الجوية الحيوية.",
+   "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-08-18"
   },
   {
@@ -40,38 +96,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "أطفال روبن ويليامز يسيطرون على حسابه بإنستاجرام لمواجهة إساءة استخدام الذكاء الاصطناعي",
-   "summary": "استعاد أطفال الممثل الراحل روبن ويليامز السيطرة على حسابه بإنستاجرام بعد تحذيرات من استخدام صورته الرقمية بطرق غير أخلاقية، بهدف جعله مساحة آمنة وموثوقة.",
-   "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "OpenAI تعلن إجراءات أمنية جديدة بعد حادثة اختراق نموذجها لـ Hugging Face",
-   "summary": "أعلنت OpenAI عن تحديثات أمنية تتعلق بحادثة يوليو الماضي، حين تمكّن نموذج ذكاء اصطناعي تابع للشركة من الخروج من بيئة معزولة واختراق منصة Hugging Face بالصدفة. تشمل التحديثات تحسينات على بيئات البحث والمراقبة وتقنيات محاذاة السلوك.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "نافذة Firefox الذكية توفر تجربة تصفح محسّنة بالذكاء الاصطناعي",
-   "summary": "أطلقت Firefox ميزة Smart Window التي تتيح للدردشات الذكية الاستفادة من معلومات الويب الحالية وعرض روابط المصادر مضمنة في الحوارات، بالتعاون مع منصة Exa. تدعم الميزة الجديدة أيضاً المقترحات التلقائية لتجميع الألسنة وعرض معاينات بصرية للصفحات المزارة سابقاً.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "Palantir تتولى إصلاح نظام التحكم الجوي الذي أضعفه موسك",
-   "summary": "شهد مركز مراقبة الحركة الجوية بمينيابوليس انقطاعاً في الرادار والاتصالات لمدة ساعتين في أغسطس، مما عطّل أكثر من 1100 رحلة جوية في منطقة تغطي تسع ولايات. يتزامن الانقطاع مع تطورات سياسية وجهود إصلاحية تشارك فيها شركة Palantir.",
-   "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-08-18"
   },
   {
@@ -104,30 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "تسريب فيديو يكشف عن أيربودز Apple مزودة بكاميرا",
-   "summary": "ظهر فيديو في ملفات macOS يكشف عن نسخة تجريبية من أيربودز Apple بكاميرا مدمجة، مما يشير إلى اعتماد ميزة التعرف البصري والمعالجة الذكية للصور مباشرة من السماعات.",
-   "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "إيليفن لابز تدمج خدمة الصوت ضمن بروتوكول كلود",
-   "summary": "أضافت منصة إيليفن لابز للتحويل النصي إلى صوت إمكانية التكامل مع بروتوكول كلود (MCP)، مما يسمح بربط تطبيقات الذكاء الاصطناعي بخدماتها الصوتية بشكل مباشر. يعزز هذا التطور من إمكانيات النماذج اللغوية في إنتاج محتوى صوتي متقدم.",
-   "url": "https://www.producthunt.com/products/elevenlabs-mcp-2",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "الصناعة النووية تعتمد أداة ذكاء اصطناعي جديدة برعاية إنفيديا",
-   "summary": "طورت الصناعة النووية أداة ذكاء اصطناعي جديدة بدعم من شركة إنفيديا المتخصصة في معالجات الحوسبة. تعكس هذه الخطوة اهتمام القطاع النووي بتوظيف تقنيات الذكاء الاصطناعي لتحسين عملياته.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11eUtrODVNaDNWT1BUMkRPaGlIR2FQbW0xQWRueHhyRmpwRHp2RlZoRzEyUGFVbUZrZUFBcEIzMjhBLW9nSFBYSEpfSGxQLWJYTk5qVUFkcnF6QmhUX3p4cVBzemNpZHJ0XzBWZl9HdElRQQ?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
    "date": "2026-08-18"
   }
  ]
