@@ -1,21 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-19T21:15:05.430398+00:00",
+ "updated": "2026-08-20T03:36:48.176240+00:00",
  "items": [
   {
-   "title": "الذكاء الاصطناعي لم ينجح في كسب ثقة المستهلكين رغم انتشاره",
-   "summary": "مع تزايد حضور تقنيات الذكاء الاصطناعي في حياتنا اليومية، يبدي المستهلكون حذراً متزايداً من هذه التكنولوجيا. تكتشف شركات التقنية الكبرى أن الانتشار الواسع للتكنولوجيا لا يعني بالضرورة قبولاً عاماً لها.",
+   "title": "الشركة الناشئة الإسرائيلية Dondy تُستحوذ عليها شركة بريطانية",
+   "summary": "استحوذت شركة Circeus البريطانية على شركة Dondy الإسرائيلية المتخصصة في حلول الذكاء الاصطناعي، في صفقة تعكس الاهتمام المتزايد بتكنولوجيا الذكاء الاصطناعي على المستوى العالمي.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmEwNHBwcW03ZUVRRHZfUHVCTlRMLUpud0JtdzBwdVBBR2xKYmN4WGMzdXhpRFdIT3BaYUFfS1p1b2VuS2ZDSXNkV1JSWC1LUVo4Y1pDcTdxWDF1djlBLVlQWi1rOExiclYwZXNqMXZJdWVjdG53TVRNWG9Ea1pGa0VkQ213UQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "سبع ميزات جديدة في هاتف بيكسل 11 من جوجل",
+   "summary": "أطلقت جوجل سبع تحديثات رئيسية في هاتفها الجديد بيكسل 11، تركز على تحسينات في الأداء والكاميرا والذكاء الاصطناعي المدمج في النظام.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "الحقيقة وراء استحواذ Stripe على OpenRouter لا تتعلق بـ'التفرد'",
+   "summary": "استحوذت شركة المدفوعات Stripe على منصة OpenRouter التي توجه الطلبات بين نماذج ذكاء اصطناعي مختلفة. بينما تبرر الشركة الصفقة بمخاوف مستقبلية، فإن الدافع الحقيقي يتمحور حول احتياجات عملية وقوية في السوق الحالية.",
+   "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-19"
+  },
+  {
+   "title": "OpenAI تعزز حماية بيانات العملاء لمنافسة Anthropic",
+   "summary": "دخلت OpenAI و Anthropic في تنافس مباشر حول توفير أفضل حماية للبيانات الخاصة بعملاء المؤسسات، مما يعكس أهمية الخصوصية في سباق الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-19"
+  },
+  {
+   "title": "الرئيس التنفيذي لـ Cognition ينفي محاولة SpaceX استحواذ الشركة",
+   "summary": "نفى قيادي في شركة البرمجيات بالذكاء الاصطناعي Cognition تقارير عن محادثات استحواذ مع SpaceX، في وقت تسعى الشركة الفضائية لبناء قدرات في مجال الذكاء الاصطناعي بعد استحواذها على Cursor.",
+   "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-19"
+  },
+  {
+   "title": "الذكاء الاصطناعي لم يفز بثقة المستهلكين كما كان متوقعاً",
+   "summary": "مع انتشار تطبيقات الذكاء الاصطناعي، يظهر تحفظ متزايد من جانب المستهلكين تجاه التكنولوجيا، ما يشير إلى أن الاعتماد الواسع لا يضمن القبول والثقة الشعبية.",
    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-19"
   },
   {
-   "title": "جوجل تضيف أدوات ذكية للدراسة والتعلم إلى محركها و Gemini",
-   "summary": "أطلقت جوجل ميزات دراسية جديدة في محرك البحث و مساعدها الذكي Gemini بهدف جذب الطلاب والباحثين. تأتي هذه الخطوة ضمن منافسة جوجل المستمرة مع شركات مثل OpenAI على تصدر سوق مساعدات الذكاء الاصطناعي التعليمية.",
+   "title": "جوجل تزود محرك البحث و Gemini بأدوات ذكاء اصطناعي للدراسة",
+   "summary": "أضافت جوجل ميزات جديدة قائمة على الذكاء الاصطناعي في محرك بحثها و مساعدها Gemini موجهة للطلاب، في محاولة لجعله الخيار الأول في العملية التعليمية وسط منافسة شديدة من OpenAI وشركات أخرى.",
    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-08-19"
+  },
+  {
+   "title": "جوجل تطلق منصة متخصصة للطلاب ضمن جيميني",
+   "summary": "أضافت جوجل قسماً جديداً مخصصاً للطلاب في تطبيق جيميني يجمع أدوات الدراسة في مكان واحد. يتيح المنصة حفظ الأبحاث في دفاتر ملاحظات رقمية وإنشاء بطاقات تعليمية وحل اختبارات تدريبية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-19"
+  },
+  {
+   "title": "أوبن إيه آي تخفف وتيرة تطويرها الذكائي",
+   "summary": "أعلنت أوبن إيه آي عن إبطاء وتيرة بعض مشاريع تطوير الذكاء الاصطناعي لديها لتشديد معايير الأمان والحماية. يأتي القرار وسط ضغوط تنافسية ومحادثات حول طرح عام للشركة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-19"
+  },
+  {
+   "title": "ميتا تطلق تطبيق ذكاء اصطناعي لأجهزة ماك",
+   "summary": "أعلنت ميتا عن تطبيق جديد لأجهزة ماك يجمع بين محادثة الذكاء الاصطناعي وقدرات مشاركة الشاشة. يمكن المساعد الذكي من تقديم اقتراحات والإجابة على أسئلة بناءً على محتوى الشاشة المرئي.",
+   "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-19"
+  },
+  {
+   "title": "إستراتيجية إنفيديا المالية الجديدة والتمويل الضخم للحوسبة",
+   "summary": "تعاونت إنفيديا مع كبرى شركات التمويل والاستثمار بما فيها بلاكروك وغولدمان ساكس على برنامج تمويلي بقيمة 500 مليار دولار. يعكس التطور اعتبار قدرات الحوسبة والذكاء الاصطناعي فئة أصول مالية متميزة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-08-19"
   },
   {
@@ -43,38 +115,6 @@ window.NEWS_DATA = {
    "date": "2026-08-19"
   },
   {
-   "title": "جوجل تطلق منصة متخصصة للطلاب داخل تطبيق Gemini",
-   "summary": "تدشن جوجل مركزاً مخصصاً للطلاب ضمن مساعدها الذكي Gemini يوفر أدوات مدمجة للبحث والدراسة. يتضمن المركز ميزات لحفظ البحوث وإنشاء بطاقات تعليمية وحل اختبارات تدريبية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "أوبن إيه آي تخفف وتيرة التطوير",
-   "summary": "أعلنت أوبن إيه آي عن تبطيء مقصود لوتيرة بعض مشاريع تطوير الذكاء الاصطناعي من أجل تعزيز الأمان والضمانات الأخلاقية. تأتي هذه الخطوة وسط ضغوط تنافسية من شركات مثل أنثروبيك وتطبيقات ذكاء اصطناعي مفتوحة المصدر.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "متا تطلق تطبيق ذكاء اصطناعي متخصص لأجهزة ماك",
-   "summary": "أطلقت متا تطبيقاً جديداً لنظام ماك يربط مساعدها الذكي بشاشة جهازك، مما يتيح له تقديم اقتراحات والإجابة عن أسئلة ومساعدتك في إنشاء محتوى بناءً على ما تراه أمامك. يدعم التطبيق أيضاً الإملاء الصوتي بلغات متعددة.",
-   "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "إستراتيجية إنفيديا المالية الجديدة",
-   "summary": "تعمل إنفيديا مع عمالقة الاستثمار مثل أبولو وبلاك روك وبلاك ستون وجيه بي مورغان على بناء صندوق ضخم بقيمة 500 مليار دولار. يعكس هذا النموذج الجديد تحول قوة الحوسبة من تكنولوجيا عابرة إلى فئة استثمارية مميزة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-19"
-  },
-  {
    "title": "فينتشر بيت تعين محلل رأس جديد متخصصاً في ذكاء الشركات",
    "summary": "انضم روب سترتشاي، الذي عمل سابقاً في مركز بحثي متخصص، إلى منصة فينتشر بيت كمحللها الرئيسي الأول. يمثل الاستعيان جزءاً من استراتيجية أوسع لتعميق التحليل والمتخصصة في مجال ذكاء الاصطناعي للمؤسسات.",
    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
@@ -88,46 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.producthunt.com/products/anycreature",
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "شركة Epic تطور أداة ذكاء اصطناعي موجهة للعيادات الخارجية",
-   "summary": "أعلنت شركة Epic عن تطوير أداة ذكاء اصطناعي جديدة مخصصة لتحسين خدمات العيادات الخارجية والمراجعات الطبية. تهدف الأداة إلى تعزيز كفاءة العمليات في القطاع الصحي.",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdnNqOTJrQUZ2OXdSUXdheFpPZHlRMGtCVXRMUGpuWEdCQ05OREZOSEgwUV90NDZ0cDBtaENxX3ZCVXdrdFo4Y0dURXNPTTdkR2VlMTRualJMYmQ1dXBNVWUzdkJFeUl3Q3A0MF9HdzdNZlFid2IzUC1aQmJ3U1hvRUJvRUxTZkpaQmxESWJveVowRzBtNFE?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "أمازون تجعل مساعدها الذكي Alexa+ مجاني على أجهزة Fire TV بلا اشتراط Prime",
-   "summary": "أطلقت أمازون خاصية تحديث تلقائي لمساعدها الذكي Alexa+ على جميع أجهزة Fire TV المتوافقة في الولايات المتحدة، ويشمل المستخدمين سواء كانوا مشتركين في Prime أم لا، مما يوسّع إتاحة هذه التقنية إلى نطاق أوسع من المستخدمين.",
-   "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "Calendly تدخل سوق مساعدات تدوين ملاحظات الاجتماعات برنامج جديد",
-   "summary": "أعلنت منصة Calendly عن إطلاق مساعد جديد للاجتماعات يحمل اسم Callie، يُضيف خاصية تسجيل وتنظيم ملاحظات الاجتماعات إلى خدماتها المتخصصة في جدولة الاجتماعات والتنسيق بين المشاركين.",
-   "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "شركة ناشئة تؤكد أن البيانات هي مفتاح تطبيق الذكاء الاصطناعي في مجال الأورام",
-   "summary": "رغم أن الذكاء الاصطناعي لم يقترب بعد من تحقيق أحلام علاج السرطان، إلا أن شركة ناشئة تركّز على أهمية البيانات الدقيقة والشاملة كأساس ضروري لتطوير حلول ذكاء اصطناعي فعّالة في هذا المجال الطبي الحساس.",
-   "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "شركة Relativity Networks تجمع 22 مليون دولار لنقل ألياف بصرية أسرع إلى مراكز البيانات",
-   "summary": "حصلت Relativity Networks على تمويل بـ 22 مليون دولار لتطوير تقنية الألياف البصرية ذات القلب المجوّف، وهي تكنولوجيا نادرة الاستخدام تسمح بنقل البيانات بسرعة أعلى بـ 30 في المائة مقارنة بالألياف البصرية التقليدية.",
-   "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-08-19"
   }
  ]
