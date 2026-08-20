@@ -1,7 +1,103 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-20T15:22:49.168020+00:00",
+ "updated": "2026-08-20T21:17:13.202377+00:00",
  "items": [
+  {
+   "title": "هل يمكن تبريد مراكز البيانات باستخدام البول البشري؟",
+   "summary": "طرح لاعب كرة أمريكية فكرة في السياق الفكاهي حول استخدام البول بدلاً من المياه العذبة لتبريد مراكز البيانات، وهي فكرة تستحق الدراسة من منظور تقني واستدامة الموارد المائية.",
+   "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "جوجل توفر للناشرين أداة جديدة للحد من خسائر الزيارات بسبب محركات البحث بالذكاء الاصطناعي",
+   "summary": "أطلقت جوجل زر جديد يسمح للقراء بتعيين ناشر معين كمصدر مفضل عبر خدماتها المختلفة، مما قد يساعد الناشرين على استقطاب المزيد من الزيارات وسط تحول محركات البحث الذكية نحو الإجابات المباشرة.",
+   "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "تنازل شركتان عن دعاويهما القضائية وسط نزاع تجاري",
+   "summary": "أسقطت شركتا Runlayer و Rippling الدعاوى القضائية بينهما دون تسوية مالية، لكن Rippling تابعت بإطلاق منتج منافس، مما يعكس توتراً استمر في السوق.",
+   "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "أداة جديدة باسم Linkdaze لإدارة الجدول الزمني الذكي للأسرة",
+   "summary": "أداة تقدم تقويماً رقمياً ذكياً مخصصاً لتنظيم شؤون الأسرة اليومية، وتضم أدوات مساعدة مثل مخطط الوجبات الذكي المدعوم بالذكاء الاصطناعي، وتتاح معظم خصائصها بدون اشتراك مدفوع.",
+   "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "Grok تواجه مشكلة في إرسال ردود غير منطقية للمستخدمين",
+   "summary": "أبلغ مستخدمو نسخة Grok Lite عن تلقيهم إجابات غير صحيحة منذ بداية الأسبوع، مما يعكس مشاكل فنية في الخدمة.",
+   "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "Greg Brockman يتولى قيادة OpenAI في مرحلة حاسمة",
+   "summary": "تشهد OpenAI فترة تحويلية بعد سنة اضطرابات قضائية وأمنية، بما فيها نزاع مع مؤسسها السابق وقضايا تتعلق بالملكية الفكرية، فيما تستعد الشركة للدخول إلى البورصة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "الذكاء الاصطناعي يثير أزمة في مجال الرياضيات",
+   "summary": "يناقش التقرير تأثير نماذج الذكاء الاصطناعي على مجال الرياضيات والقلق الذي ينتاب علماء الرياضيات البارزين حيال ذلك. نشرت شركة OpenAI مؤخراً حلولاً لمسائل رياضية معروفة لم تُحل منذ عقود، ما يثير نقاشات حول دور الذكاء الاصطناعي في هذا التخصص.",
+   "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "Slack تدمج قنوات متعاونة للبرمجة مع وكلاء الذكاء الاصطناعي",
+   "summary": "أطلقت منصة Slack قنوات متخصصة تتيح للفرق البرمجة بالتعاون مع وكلاء ذكاء اصطناعي دون الحاجة للتنقل بين أدوات متعددة. تتضمن الخدمة الجديدة قنوات مخصصة للمشاريع وتبويبات للمستخدمين وأدوات لمقارنة التغييرات البرمجية.",
+   "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "النقاش حول وعي الذكاء الاصطناعي يحرف الانتباه عن الحقائق",
+   "summary": "يشير التقرير إلى أن الخطاب الحالي حول وعي الذكاء الاصطناعي والعوامل المستقلة المفترضة يبالغ في القدرات الفعلية لهذه الأنظمة. يدفع قادة تقنيون بارزون نحو تنظيم يقوم على تصورات مبالغ فيها عن \"ذكاء خارق\" لا يعكس الواقع الحالي.",
+   "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "استخدام نماذج السوق لتحسين تدفقات الإيرادات",
+   "summary": "يستعرض الموضوع كيفية استخدام نماذج السوق والذكاء الاصطناعي في قطاعات مثل الطيران لتحسين استراتيجيات التسعير والإيرادات. من خلال تحليل مئات المتغيرات مثل الطلب والموسمية والاتصالات المختلفة، يمكن تحسين قرارات الأسعار وزيادة الربحية.",
+   "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "Glasp لمتصفح فايرفوكس",
+   "summary": "أداة جديدة ظهرت باسم Glasp لمتصفح فايرفوكس، وهي تختص بحفظ واستخلاص المحتوى من صفحات الويب بطريقة منظمة. تتيح للمستخدمين تمييز الأجزاء المهمة والاحتفاظ بها لاستخدام لاحق في البحث والتعلم.",
+   "url": "https://www.producthunt.com/products/glasp-for-firefox",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "جامعة ويسكونسن تركز على الذكاء الاصطناعي في خطابها للخريجين",
+   "summary": "أعادت جامعة ويسكونسن-ماديسون التأكيد على أهمية الذكاء الاصطناعي في مخاطبتها لخريجيها، معترفة بدور التقنية في تشكيل المستقبل. يعكس هذا التركيز اهتمام المؤسسات الأكاديمية بإعداد الطلاب لسوق عمل متسارع التغير.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHBjd1lpdWExV01jVG1pNzRrVDZqbEpULVNBQ2pMTV9neEU2MjlfQmtsbjhfNWdITXcta05zOUdJb1hudjNkNFRpUm5IdXRxZ1hKbThCRUVaVXhYMkY5TFhCVVNCVmxOdDZ6TF9xQzJ5R0Q3Smg1Rmt1ZElmX1dleG9jNExFbFphWFkzamtnUVVfb2JQWkNMMmlVTExxYTJFaDZjNGlKWHNGTVhXRmpR?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-20"
+  },
   {
    "title": "تطبيق جديد من Meta يتيح التحكم بالبرامج عبر الأوامر الصوتية",
    "summary": "أطلقت Meta تطبيقاً لأجهزة ماك يستخدم نموذج Muse Spark لتحويل الأوامر الصوتية إلى تعليمات قابلة للتنفيذ داخل التطبيقات المختلفة، مما يوفر طريقة جديدة للتفاعل مع البرامج دون الحاجة للكتابة.",
@@ -19,14 +115,6 @@ window.NEWS_DATA = {
    "date": "2026-08-20"
   },
   {
-   "title": "الاستفادة من نماذج السوق في اكتشاف مصادر دخل إضافية",
-   "summary": "تستعرض الحالة كيف يمكن لشركات مثل الخطوط الجوية استخدام نماذج رياضية متقدمة لتحليل مئات المتغيرات وتحسين تسعير الرحلات وفقاً للطلب والفصول والعوامل الأخرى، مما يفتح آفاقاً جديدة لتحقيق عوائد إضافية.",
-   "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-08-20"
-  },
-  {
    "title": "منصة زوهو كليك تطلق نسختها 7.0 بميزات تعاونية محدثة",
    "summary": "أداة جديدة ظهرت باسم Zoho Cliq 7.0، منصة تواصل وتعاون للفرق تركز على تبسيط التواصل الداخلي وتنظيم سير العمل. توفر الأداة ميزات للرسائل الفورية والتكامل مع تطبيقات الإنتاجية المختلفة.",
    "url": "https://www.producthunt.com/products/zoho",
@@ -41,94 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-20"
-  },
-  {
-   "title": "الأكواد البرمجية في عصر الذكاء الاصطناعي: من الدوام إلى الاستهلاك",
-   "summary": "تحليل متعمق حول تأثير الذكاء الاصطناعي على طرق كتابة وصيانة الأكواد البرمجية، حيث يصبح جزء من الكود قصير الأجل وقابلاً للاستبدال السريع. يناقش التحول في ممارسات الهندسة البرمجية نتيجة تطور أدوات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PSEEyS2llYkliblFGeTZpTDEyVHExVW8wS1ZqYUl0UW5HcFRhNDlWTk1fQWxidjM4V0hNeWJkSHBVVUh0WjQ0OTg1TVZQdlpYN1NGYmR4VHlLUWhSWi1KRUZMY25CekM3RUhuczVGMFQxd2M?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-20"
-  },
-  {
-   "title": "وزارة الطاقة الأمريكية تختار مبادرة ذكاء اصطناعي لتحسين أداء معجلات الجزيئات",
-   "summary": "اختارت وزارة الطاقة الأمريكية مشروعاً بقيادة مختبر فيرميلاب يستخدم الذكاء الاصطناعي لتحسين كفاءة معجلات الجزيئات. المبادرة تهدف إلى تطبيق تقنيات التعلم الآلي في البحث العلمي المتقدم.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01lYlN1eE5xTl81dnNRdmU4dmFoRHpuNGwtNkVodWxfelRHR1Vhb0Q5U01FVDRhZWdfbjFRU1lGMFc3TjZMYmpNb09hSUlQeS1kS29RVG81WXhvcE1RcVZxQXBsSjBNV1JaV0tPU2E3U2JkSUd0QzFHZ05GUWs2U0I5Rnl3S1lHamZ0YnZSS1pQaTVzeHlzMXVfeEFPYzlwd0FuWkNTY3NpZzJyWW9oVGk5VQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-20"
-  },
-  {
-   "title": "تحليل بيانات الأقمار الصناعية ينمو بفضل تكاملات الذكاء الاصطناعي",
-   "summary": "يشهد قطاع تحليل بيانات الأقمار الصناعية نموّاً سنوياً يتسارع من خلال دمج تقنيات الذكاء الاصطناعي في معالجة وفهم البيانات الجغرافية والمراقبة. هذا التطور يفتح آفاقاً جديدة في التطبيقات الزراعية والبيئية والحضرية.",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYXVVZk93YjNlYXFjSkJ3a2lJMlIxd2VJNXpVTDZKRW4tM0dxbzdYQ1RBVDhkUGNwdW5lcTNBWmR1RVlLVDBJSHFobUxNWFZfTjdlTlYzc0FlVERORmN2TTRIY3RLM3F1X3FBcFZkUC1WR1duX3luQUZVRUxWZEo5dkx6VGhnQU9IS3FDSHFsMHlxcFota1ZEUEpwWWVVTndyX3plNlJib0dKUTZfanFHQWMtLVl3VTFvaS1zOFN4a1VSWVFRei1wVWNNUzhaQQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-20"
-  },
-  {
-   "title": "تسع تجاوزات أخلاقية في استخدام الذكاء الاصطناعي من قبل المحامين",
-   "summary": "يسلط التقرير الضوء على الممارسات غير الأخلاقية التي قد يلجأ إليها المحامون عند استخدام أدوات الذكاء الاصطناعي في عملهم. تشمل هذه التجاوزات مخاطر تتعلق بالسرية المهنية والدقة القانونية والمسؤولية الأخلاقية أمام المحاكم والعملاء.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNmtTanJROWEyX2JQTVVFc3JkNFdHNmpUamxqTDFkNmZxSnZheUIzRndEMHp3WkthSTNyWmp6OUlWUWVEV3ZQOUwzM09jYTgtZkpwRmRJMDFkblFTTXZ6dnBHRnFraGVzYmtJSjlZbFdXazNOUnVOT014TVRrRFlkWjh0aTVzR2h4d1d0blFpSnhKQ3hmOURYTTRLYXNTd3paMFdiUGs3Z2tVdjN3TU9wSzJpRUF6RUlvM3dRUks0NzZTUTlEWGc?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-20"
-  },
-  {
-   "title": "سبع ميزات جديدة في هواتف بيكسل 11 من جوجل",
-   "summary": "كشفت جوجل عن مجموعة من التحديثات والميزات الجديدة في سلسلة هواتفها بيكسل 11، وتركز على تحسينات الكاميرا والذكاء الاصطناعي والأداء العام للأجهزة.",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-20"
-  },
-  {
-   "title": "شركة أنثروبيك تستحوذ على استشارية لتعزيز نشاطها التجاري",
-   "summary": "قررت أنثروبيك الاستثمار في المزيد من الخدمات الاستشارية لتوسيع عملياتها في قطاع الذكاء الاصطناعي الموجه للمؤسسات، بما يعكس سعيها لتقديم حلول شاملة للعملاء.",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMWtOUFRTLWtoemREQ09uOVpoQUJPQ2lyUjU2SVpEMEFNNXNoaGs4UWZfeGFING1pcG41VFlEUEx6NWxCNU5pTnFYd0RkNlhYWGJpdUp4d1dxNV9abWZBb3JtZkFwNVhuSE94Z2l3T1hzcFM4YjNGWXpmRHBWLXJQRVV1Y0VRMnlRRHdGV0lDRW1Ndzg?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-20"
-  },
-  {
-   "title": "أداة Aloud لتحويل النصوص إلى كلام",
-   "summary": "أداة جديدة ظهرت باسم Aloud لتحويل النصوص والمستندات إلى محتوى صوتي، مما يوفر للمستخدمين خياراً بديلاً للقراءة والاستهلاك السمعي للمعلومات.",
-   "url": "https://www.producthunt.com/products/aloud-4",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-20"
-  },
-  {
-   "title": "المدن تعتمد الذكاء الاصطناعي لتسريع إصدار تراخيص البناء",
-   "summary": "بدأت عدد من المدن الأمريكية توظيف تقنيات الذكاء الاصطناعي لتسريع عمليات الموافقة على طلبات البناء والإسكان، بهدف تقليل الوقت والبيروقراطية وتيسير توفير المزيد من الوحدات السكنية.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFQtb1g1aDhsNlpvY1FacWRhM0pEZmtaQWVQVGc5OHByV2F6VUw3bWRJSlJXZXo5QlQ4dnlIQmZrcUluV3Q2RG9UMGZhVWI4SXVUQ2o4TGNIUXNpQ3pZUGFqSktIZ0hTVDcxb3gtdWFWaWJpUFFxanhSaUlhVjFvS21RUUY1UQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-20"
-  },
-  {
-   "title": "الشركة الناشئة الإسرائيلية Dondy تُستحوذ عليها شركة بريطانية",
-   "summary": "استحوذت شركة Circeus البريطانية على شركة Dondy الإسرائيلية المتخصصة في حلول الذكاء الاصطناعي، في صفقة تعكس الاهتمام المتزايد بتكنولوجيا الذكاء الاصطناعي على المستوى العالمي.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmEwNHBwcW03ZUVRRHZfUHVCTlRMLUpud0JtdzBwdVBBR2xKYmN4WGMzdXhpRFdIT3BaYUFfS1p1b2VuS2ZDSXNkV1JSWC1LUVo4Y1pDcTdxWDF1djlBLVlQWi1rOExiclYwZXNqMXZJdWVjdG53TVRNWG9Ea1pGa0VkQ213UQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-20"
-  },
-  {
-   "title": "استحواذ سترايب على أوبن روتر: الدافع الحقيقي وراء الصفقة",
-   "summary": "استحوذت شركة سترايب للدفع على منصة أوبن روتر التي توجه الاستعلامات بين نماذج الذكاء الاصطناعي المختلفة. بينما تشير الشائعات إلى أسباب متعلقة بـ«التفرد»، فإن الدافع الحقيقي يرتبط بتعزيز خدماتها في مجال الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "أوبن إيه آي تدخل منافسة مع أنثروبيك حول حماية بيانات العملاء",
-   "summary": "تتسابق شركتا أوبن إيه آي وأنثروبيك للاستحواذ على ثقة العملاء من المؤسسات الكبرى بتقديم ضمانات أقوى لحماية بيانات أعمالهم. يعكس هذا التنافس الضغط المتزايد على مزودي خدمات الذكاء الاصطناعي لتقديم معايير أمان عالية كشرط أساسي للتعاون التجاري.",
-   "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-19"
   }
  ]
 };
