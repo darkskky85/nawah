@@ -1,29 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-21T15:22:20.877223+00:00",
+ "updated": "2026-08-21T21:13:01.795145+00:00",
  "items": [
   {
-   "title": "ستاركلاود تجمع 250 مليون دولار لمراكز بيانات مدارية وسط تراجع خيارات الإطلاق",
-   "summary": "جمعت شركة ستاركلاود تمويلاً كبيراً لبناء مراكز بيانات في المدار الفضائي، في وقت تواجه فيه الصناعة تحديات في الوصول إلى خيارات إطلاق موثوقة. يعكس هذا التطور المنافسة المتزايدة على تأمين موارد الفضاء للبنية التحتية التكنولوجية.",
+   "title": "إنفيديا تثبت أن البرمجة والضبط هما الأساس وليس قوة النموذج",
+   "summary": "أظهرت أبحاث إنفيديا أن وكلاء الذكاء الاصطناعي يمكنها أن تؤدي مهامها بكفاءة وثبات من خلال الضبط الدقيق والبرمجة الجيدة، حتى لو لم يكن النموذج الأساسي متفوقاً بطبيعته في تلك المهام.",
+   "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "ستاركلاود تجمع 250 مليون دولار لمراكز بيانات فضائية",
+   "summary": "بينما تتناقص خيارات الإطلاق للفضاء، تسعى شركة ستاركلاود لتأمين موارد كبيرة لبناء بنية تحتية لمراكز بيانات في المدار، في سياق منافسة متزايدة على الوصول والاستقرار في الفضاء.",
    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-21"
   },
   {
-   "title": "شركة مايكرو1 للبيانات تصل إلى معدل إيراد سنوي بـ 500 مليون دولار مع ازدهار سوق تدريب الذكاء الاصطناعي",
-   "summary": "حققت شركة مايكرو1 نمواً سريعاً بفضل الطلب المتصاعد على بيانات التدريب المتخصصة للنماذج الذكية. ينعكس هذا النمو الملحوظ حالة السوق الراهنة حيث تتنافس الشركات على توفير بيانات عالية الجودة لتطوير تطبيقات الذكاء الاصطناعي.",
+   "title": "وزارة العدل الأمريكية تحقق مع أندريسن هوروويتز بشأن تضارب المصالح",
+   "summary": "تحقق وزارة العدل في ترتيبات تضارب محتملة داخل صندوق رأس المال الاستثماري الكبير، حيث يجلس شركاء من الصندوق على مجالس إدارة شركات متنافسة، مما يثير أسئلة حول الشفافية والممارسات الأخلاقية في صناعة رأس المال المخاطر.",
+   "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "شركة Micro1 للبيانات تحقق معدل نمو سنوي ضخم وسط الطلب على بيانات التدريب",
+   "summary": "وصلت الشركة الناشئة إلى معدل إيرادات سنوي يبلغ 500 مليون دولار، مدفوعة بالطلب المتزايد على بيانات تدريب الذكاء الاصطناعي، الذي يعكس المنافسة الشرسة في هذا القطاع سريع النمو.",
    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-21"
   },
   {
-   "title": "منشئو محتوى يوتيوب بارزون يواجهون انتقادات لقبول تمويل من شركات ذكاء اصطناعي",
-   "summary": "تعرض عدد من صناع المحتوى البارزين لانتقادات بعد عرضهم لأدوات ذكاء اصطناعي متخصصة في محتواهم، مما أثار نقاشات حول الشفافية في العلاقات التمويلية والتأثير. يشير هذا إلى تنامي التوتر بين قطاع الإنتاج الإبداعي والشركات التكنولوجية الناشئة.",
+   "title": "منشئو محتوى يوتيوب بارزون يواجهون انتقادات لقبولهم تمويل من شركات ذكاء اصطناعي",
+   "summary": "انتقد متابعو عدد من منشئي المحتوى البارزين في المجال السينمائي قيامهم بترويج منصات ذكاء اصطناعي مقابل تمويل مالي، مما أثار نقاشاً حول النزاهة والإفصاح في التعاونات بين المنشئين والشركات التقنية.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "دعوة خبراء لوحدة الذكاء الاصطناعي بأكاديمية الموظفين الحكوميين بكاليفورنيا",
+   "summary": "أطلقت مجلس كاليفورنيا للعلوم والتكنولوجيا دعوة لاستقطاب خبراء متخصصين للمساهمة في تطوير وحدة تعليمية حول الذكاء الاصطناعي ضمن برنامج أكاديمية الموظفين الحكوميين المعني بالتقنيات الناشئة.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanJUMkQ3YzBjTlRSbEd0YWlvdndpbmhReklpUFlUTjZIX2xUMUNDYVJOMFJNNENaalAzcFhwZXNUdUlfYVpsNlZfU3pjdzR3UXZzNkxVcFhoREl1LThuWWt4UXhlQU40Z1Q0amxGcWlQUnR3eVJDcWt2eDItVmJBLUp3TXA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "الذكاء الاصطناعي قد يزيد من معدلات التضخم وفقاً لمسؤول البنك المركزي السويسري",
+   "summary": "حذر مسؤول بالبنك الوطني السويسري من احتمالية أن يسهم الذكاء الاصطناعي في ارتفاع معدلات التضخم، مما يستدعي مراقبة تأثيره على الاستقرار الاقتصادي والأسعار في السوق العالمية.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORHhab1FFWUNhRUV3RjlpVk9LRTVHaXZRQml6eFF1SzJ1VHNzNGtTSXUzVXQwOXJ6WVRWZmNsUHhLa2U2V2FXc0R1U1JhNGJPSlhkbXJ1aGRmOUdRckZGUTlZTnA1c0d4b29JcW1ManJSdU9ZVlhBeUZaTlk5NVRKLUFrQ2h1bXVtQks2Tm5hbzN1WWhCYmNZTmVwR1Y0ZDZKS0p1TF82VHZ4T2V0LXc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "مقارنة استثمارية بين CoreWeave و Nebius Group في مجال الحوسبة السحابية للذكاء الاصطناعي",
+   "summary": "تحليل مقارن بين شركتي CoreWeave و Nebius Group المتخصصتين في البنية التحتية السحابية للذكاء الاصطناعي، يتناول آفاق النمو والقيمة الاستثمارية لكل منهما في سوق متنام.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUJtZi1SY2treTlDTGVvVW1JaWxVMmRONUh5ak9kLVJSend0MVlNT1gwM19tcUZVMUpEUW56ZEZDaktmLU9BUUNIZmxpZ2tXeWxTSXA3Vk5BOXRpMnEzX3BEMERqTExMTU43ZW83bGNGMTZRRWJBUDl0czFsdmthdzFrNHhhSi0wczNPZ3NGVjFnRlZwSUl6eA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "تحسين تشخيص أنظمة الاتصالات على الطائرات بالذكاء الاصطناعي الذكي عبر AWS",
+   "summary": "استخدام تقنيات الذكاء الاصطناعي الذكي على منصة أمازون ويب سرفيسز لتسريع وتحسين عملية تشخيص الأعطال في أنظمة الاتصالات والترفيه على متن الطائرات، مما يعزز كفاءة الصيانة.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnBZdHlsSTFKYXVaOHFKYklVYU9ZS193YjBJS1MzZ0VVX0Z0NXdVczZ0WDhzMlpDRFFiQkplQmh2MXdWd3k5em9xdkM5aVZ6U3kxTTRaRVJnZ1lZcGVhY2pRY2J5a08xYUZYZGhnZm0xdUNrZWxqcE5QS2JyU1pLbWU0SUpCQWFaUVNycG5jdUg0X2QyaFUtTGl6RllFeEozeUFjRmpRLVlrdWtw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "إطار تعاون إقليمي في الذكاء الاصطناعي بين دول أمريكا اللاتينية والكاريبي",
+   "summary": "دراسة تقدم خريطة طريق لتعزيز التعاون الإقليمي في مجال الذكاء الاصطناعي بين دول أمريكا اللاتينية ومنطقة الكاريبي، بهدف بناء آليات تنسيق دولية فعالة.",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN3pseXlKRnlEQkNYUERET0lwQzZ4R1k0cHNLN2Y0RDczTUZHV0NsdURoZnY0MndQaDJyVW5jRTlHYl9ZZnRjY0I1NURIMmlGOTRPU0ZXN3NNc3VFZ3V1bmRXQl96WnI3UzBCaVhQazZhM0RmNzRGS0JNWVNKVTVTVHpBMlcyai01N0I3OGFkWDNUcFBDOXVJa3hpcnZyc2Z1N3RWdjlIYzd1bVNlazVSaUNkTU5DUWJMU3NSQndDdG1hc1Q5ZElwSXhSbEYyd0tUaVhkc1JVMDNad3A1NE5oT1EtY1l3R3FpRFE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "إضافة علامات مائية إلى نماذج كلود: الآثار على الأعمال التجارية",
+   "summary": "أضافت شركة Anthropic تقنية العلامات المائية إلى نموذج كلود للذكاء الاصطناعي، مما يؤثر على استخدام المحتوى الناتج عن النموذج وتطبيقاته في السياق التجاري.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2doWjhud1BqOVlXOFp3ZVRqTTM2dW1yZ1VvU2pNeDNrLXlCOU9PM1gxR1lzVlZwS1B2aXJKNmkyUnhhbkd6Y0Z6aUY1aVZ1cDdnSlNkWkF3bFF0aVRYRzNhcy1mZm1CT1pWeTBKSHY1ZWZxcjZOX01Nem0zY29RT3l4b3hZUHZiUEk3bHlYRzJBR0YzcmFtOERuTVRLU0RaY2I1bXBaRkFXcjlhOHNnMGpZaw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-08-21"
   },
   {
@@ -38,14 +102,6 @@ window.NEWS_DATA = {
    "title": "دور الذكاء الاصطناعي في علاج أورام الجهاز البولي التناسلي",
    "summary": "دراسة استكشافية حول تطبيقات الذكاء الاصطناعي في مجال طب الأورام البولية والتناسلية. تناقش الخبرة الكيفية التي قد يسهم بها الذكاء الاصطناعي في تحسين التشخيص والعلاج والتنبؤ بنتائج المرضى في هذا التخصص الطبي.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWk50aDBEeWh6YVNlTUZRSGdMTDJKUGdTeDBtWExDRGJ1M00ySDVGdGctNHFZM08wQVJYSy1mUzQ4Snl6MVVSQ3M3UVlFQ2RhVktjWHhUeDJ4NU1Gb0pHRnlfZGh6VEVaTmpqTFRNZWU0TVE5NGZLTTdjaTA0X2ZGVWpaOUFhVkZPenJhNW5LSkE1UDVoWTdSUzZ0a19SWVNpOVJrdjI1TGY?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "خطة إقليمية للتعاون الدولي في الذكاء الاصطناعي بأميركا اللاتينية والبحر الكاريبي",
-   "summary": "توثيق شامل يقدم رؤية استراتيجية للتعاون الإقليمي حول قضايا الذكاء الاصطناعي بين دول أميركا اللاتينية والمنطقة الكاريبية. يتناول الإطار القانوني والسياساتي المقترح لتنسيق الجهود وبناء القدرات المشتركة في هذا المجال.",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN3pseXlKRnlEQkNYUERET0lwQzZ4R1k0cHNLN2Y0RDczTUZHV0NsdURoZnY0MndQaDJyVW5jRTlHYl9ZZnRjY0I1NURIMmlGOTRPU0ZXN3NNc3VFZ3V1bmRXQl96WnI3UzBCaVhQazZhM0RmNzRGS0JNWVNKVTVTVHpBMlcyai01N0I3OGFkWDNUcFBDOXVJa3hpcnZyc2Z1N3RWdjlIYzd1bVNlazVSaUNkTU5DUWJMU3NSQndDdG1hc1Q5ZElwSXhSbEYyd0tUaVhkc1JVMDNad3A1NE5oT1EtY1l3R3FpRFE?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-21"
@@ -73,62 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-21"
-  },
-  {
-   "title": "OpenAI تتفوق على Anthropic في إنفاق الشركات على خدمات الذكاء الاصطناعي",
-   "summary": "تشير بيانات من منصة Ramp إلى أن OpenAI تحظى بحصة أكبر من الإنفاق التجاري على الذكاء الاصطناعي مقارنة بمنافستها Anthropic. يعكس هذا الاتجاه الفارق المتنامي بين الشركتين في احتلال سوق تطبيقات الذكاء الاصطناعي للمؤسسات.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHOGpydW1ucnlRWXNXLS1pWHFWTFNxLVo4R0thM1MzQjRPeXNEb3VqWm1FRjctVFV3Ujk4VWlqdlpJNWt5bTFyRTBvU2pJa0JIN1ZFbWJNWnlmdGk0YXc4cEN4ank3SUVhVHUzWkNDalVvVmo0amFTdA?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "مايلز برونديج: الضوابط الضرورية لتطوير آمن للذكاء الاصطناعي",
-   "summary": "يناقش مايلز برونديج، الذي عمل سابقاً في OpenAI، الحاجة الملحة لفرض ضوابط وإجراءات حماية صارمة في مجال تطوير الذكاء الاصطناعي. يركز على أهمية وضع معايير أخلاقية وتنظيمية قبل توسع أكثر لهذه التقنيات.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1FuS0ZpTFcxZnl2MGU3SF9XcEhhOGd6M3FnLVg3emZ3VFhjeTgwVXdyMjZlRkNDbkpuU1lDRkpjVG5tVjkxczdtbVhOeUR2S3NjVDQ4RmF6RjM2TWpKR3FsVmlBaXROX0RmeDZCNnI0OE9QN2pLRDdsRkNOQ3E0aWVEcFM?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "متخصص في الاستثمار: الطلب العالمي على خدمات الذكاء الاصطناعي غير مسبوق",
-   "summary": "يؤكد محلل من Wellington على أن الطلب التجاري على حلول الذكاء الاصطناعي من OpenAI و Anthropic يشهد نمواً غير مسبوق. تعكس الإيرادات المتزايدة لكلا الشركتين الاهتمام الواسع من المؤسسات بدمج هذه التقنيات في عملياتها.",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYVN0Z3ZuTE84V29mMzVSZnBTYTNBT0hTQkpoNjBWVlBYNVhWTWpUOWh2bFZOcEFraXhJdWZ5WVNOdVBjRDRUd0lsY1A1MlNsNFB3MlFMNThQSzYzRXpBYmVWY2RkUnVBVC03OHN2SFQtZmVkay12TTZORXZwc3ZzVmd5RzNOZEFRb19vQmV1T0c3SndVTTBfbkVHR1NoNERYQ3pFbTUzM25jT1BUYWpDVWxWSDB2NnVMcGJFbWxRc2UtcmhFN1RVbDdqNElSa210RXc?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "آخر الأخبار والإصدارات في تسويق الذكاء الاصطناعي",
-   "summary": "تغطية شاملة لأحدث التطورات والمنتجات الجديدة في مجال تطبيقات الذكاء الاصطناعي على أدوات التسويق الرقمي، مع تسليط الضوء على الحلول المبتكرة التي تغير آليات العمل في هذا القطاع.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "تنظيم الذكاء الاصطناعي في منطقة آسيا والمحيط الهادئ",
-   "summary": "حلقة من سلسلة برنامجية تركز على السياسات التنظيمية للذكاء الاصطناعي في دول منطقة آسيا والمحيط الهادئ، واستعراض الأطر القانونية المختلفة التي تتبناها الدول الآسيوية.",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTUxZN3VUeDB2bE9jMWJBcUFKT3RqVkdRZnRsQ0d2RExTd29hRFlpTnV6Ni1BWGNucXFxSVdnc2o2Y2VJVG1fSUg2dHhnX3BXa3B2eVB3SXVYeWJVcTVoeUR1OVphbzdBNXhmTjZQdklEX0RWYnUzRUtsRU1xQ1QzUUdUTkZYX1RVNndZZ3M1YUk1c25VMVZKa21BWHRFNXpVYWw2eUk4cFFCeGowSGNDUXc5bGZaeDcwOUR6WU5kVTU?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "أوبن إيه آي تضيق الفارق مع أنثروبك لديها صفقة المستخدمين التجاريين",
-   "summary": "بيانات حديثة تشير إلى تنافسية قوية بين شركات الذكاء الاصطناعي الكبرى على جذب المؤسسات والشركات، مع ملاحظة أن عدم الاستقرار في تبني هذه التقنيات قد يؤثر على توقعات النمو طويل الأمد.",
-   "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-20"
-  },
-  {
-   "title": "تشات جي بي تي يكتب رسائلك النصية الآن عبر تطبيق آبل للرسائل",
-   "summary": "دمج جديد يتيح لمستخدمي آيفون الاستفادة من قدرات تشات جي بي تي في كتابة الرسائل النصية تلقائياً، مما يوفر وقتاً ويسهل التواصل دون الحاجة للكتابة اليدوية.",
-   "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-20"
   }
  ]
 };
