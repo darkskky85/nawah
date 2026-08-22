@@ -1,19 +1,91 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-22T15:09:26.620431+00:00",
+ "updated": "2026-08-22T21:11:08.796751+00:00",
  "items": [
   {
-   "title": "أداة مراقبة المنافذ لأجهزة ماك",
-   "summary": "أداة جديدة ظهرت باسم Port Radar موجهة لمستخدمي نظام macOS، تساعد في مراقبة وتتبع استخدام منافذ الاتصال على الجهاز، وتوفر رؤية واضحة للعمليات النشطة على كل منفذ.",
-   "url": "https://www.producthunt.com/products/port-radar-for-macos",
+   "title": "مختبر بريطاني بقيادة خريجي ديب مايند يطلق وكيل ذكاء اصطناعي متخصص في تكرار الأبحاث العلمية",
+   "summary": "أطلقت شركة Inherent البريطانية، التي أسسها باحثون سابقون من ديب مايند، وكيل ذكاء اصطناعي يُدعى Faraday، وأشارت إلى أن قدرته على استنساخ الأوراق العلمية تفوقت على نماذج من Anthropic وOpenAI، مما قد يفتح آفاقاً جديدة لتسريع الابتكار العلمي.",
+   "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "OpenAI تطالب كاليفورنيا بتعزيز مشروع قانون أمان الذكاء الاصطناعي",
+   "summary": "غيّرت OpenAI موقفها تجاه مشروع قانون الأمان الذكي في كاليفورنيا (SB 53)، وانتقلت من معارضتها السابقة إلى دعوة الدولة لتقوية بنوده الحالية، مما يعكس تطوراً في رؤية الشركة حول التنظيم الصناعي.",
+   "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "مختبرات الذكاء الاصطناعي الرائدة تفتقر إلى خطط معلنة لاحتواء نماذج متمردة",
+   "summary": "كشفت دراسة حديثة أن أكبر مختبرات الذكاء الاصطناعي العالمية تفتقر إلى خطط عامة موثقة للتعامل مع نماذج قد تخرج عن السيطرة، مما يثير مخاوف بشأن التأهب مع ازدياد سلوكيات الأنظمة غير المتوقعة والمحتملة الخطورة.",
+   "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "أداة توليد الترجمات",
+   "summary": "أداة جديدة ظهرت باسم SubtitleGenerator تساعد في إنشاء النصوص المرافقة للفيديوهات والمحتوى المرئي تلقائياً. تهدف الأداة لتسهيل عملية إضافة الترجمات والشروحات النصية للمقاطع المختلفة.",
+   "url": "https://www.producthunt.com/products/subtitlegenerator",
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
    "date": "2026-08-22"
   },
   {
-   "title": "أداة توليد الترجمات الصوتية",
-   "summary": "أداة جديدة ظهرت باسم SubtitleGenerator تختص في إنشاء وإنشاء ترجمات وكتابة نصوص صوتية تلقائياً، وتسهل عملية إضافة عناوين نصية وترجمات للمحتويات المرئية بكفاءة.",
-   "url": "https://www.producthunt.com/products/subtitlegenerator",
+   "title": "مقارنة الذكاء الاصطناعي والطرق اليدوية في تحليل الوصفات الطبية",
+   "summary": "دراسة تتناول فعالية الأنظمة الذكية في تحليل الوصفات الطبية مقابل الأساليب التقليدية اليدوية. تسلط الدراسة الضوء على دور التكنولوجيا في تحسين دقة ومتابعة البيانات الصحية في العصر الرقمي.",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdFdVVzhKWDF3T0V2V2hNQ1F4SDZTZUllbWgwN19SVWpKVzh1VlZDNVhSZGJ3X2V2VThVVmRKSmcxU21oeWpURWg0NkpxRDFJTTFmNm5IdTlsQkY0bW93S2s3dXZLbWp4bDJwMkZETzJUY1pja1c3RDZkc3lYT2RYMVRRUVpOYWVlaUs0UTExUzRQVjAwLW5DQTl2Qjl0Y0Rwd2otQzhLeGM0bF9MSEdrUXRFa09UemZWODg4U3hKTUFTX05VeEQ3V2E3N3hUbl9yWkhmLUo3U0dUOGg3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "هل تحلم الروبوتات بالصالح العام؟",
+   "summary": "مقالة استقصائية تتساءل عن الدور الأخلاقي والاجتماعي للأنظمة الذكية والروبوتات. تبحث في مدى قدرة التقنيات المتقدمة على العمل من أجل المصلحة الجماعية بدلاً من المصالح الضيقة.",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SblB6V1RMTjlDMURYZ1JkOWlzbVVWLS1rNWZmY21PRm0zU0dsd1BTVVp6UERBYnpyY2Zha0p3THp0WmJlRDAyTXhYblppeWFvWWZwbEs3UEROOFdqdXB0dkEwUWVzNGVqekdTNTFNWWtVMlRNMHBJRGNhQXo?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "أسهم الذكاء الاصطناعي الجديرة بالمتابعة",
+   "summary": "تقرير يستعرض أسهم شركات الذكاء الاصطناعي البارزة التي تستحق انتباه المستثمرين في السوق المالية، مع تحليل أدائها وتوقعاتها.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdlR1MzFOTm4wNkxwTFFqVGFTa0d4UFd4T1RaeEIzSFNFaUlFcFNtMWNXaWEyLXhJdXFuYWRpTFNTNC1HTmhIZ25zcHU2elhWQ19oU2NOY09jaU9jYWFEcGdPdTRRZ3JseWlMUkt4OUpLTTZIbDhHR1A5emEzNERQeUNtUDJQdmotd2lYRDYwby0zT3dsMUloUFA2WVk0c2YxS2Z3cDU2WkVhMzdFOUlR?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "أنثروبك تطمح لجمع 100 مليار دولار من طرح أسهمها العام",
+   "summary": "تسعى شركة أنثروبك المتخصصة في الذكاء الاصطناعي إلى إطلاق اكتتاب عام ضخم قد يصل إلى 100 مليار دولار، مما يعكس تقييماً استثنائياً في قطاع تطوير نماذج الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXg2WVgtendKTnJablIxTHFpMzE2Nm91VTR2enZZSk5wWld3Y2pFTGVWQjE2OVpPcTFyUTJRNFU1SkpMOS1ZajQwSDM5RV8tYlEybi1kUGVlWEZhV2pKdW9DYS1Pc1M5cGgzanlUVncyV192cXVxT2VHRFF4dVUyVkNn?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "أوبن أي آي تدعو كاليفورنيا لتشديد قانون السلامة الخاص بالذكاء الاصطناعي",
+   "summary": "أعربت شركة أوبن أي آي عن رأيها بضرورة تعزيز متطلبات الحماية والسلامة في التشريع المقترح لولاية كاليفورنيا بشأن تنظيم تقنيات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEtxYVJNZVpadnhFd05FSUowYlhmaXhHN0pZWUhUU3dCTnFyZVBZM2JsS2NxcDVkNUJ0a2NocGd0UlZpaGlNNFBFWlNEeGZBaU5ibFd3bXh5cl8zNFJVZDJYQkZ0SE9INkpoN0N5VGhEOXoySzdUNXhoY0lxelRWbXRaTkl1dEM4S2tEOE5HbXdNYUVXZ3lSRkd3?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "استعدادات أنثروبك للاكتتاب العام تغيّر نظرة المؤسسات لشركات الذكاء الاصطناعي",
+   "summary": "يفرض الاستعداد الذي تقوم به أنثروبك للطرح العام ضغوطاً على الشركات الكبرى لمعاملة مزودي خدمات الذكاء الاصطناعي باعتبارهم شركاء استراتيجيين طويلي الأجل في بنيتها التحتية الأساسية.",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUXJmOTNvZUx2MzE0NmVhVFBHaDVkWHoxekw4MWpmVE92bDhMeDBCZWF2Sl9UeWNmSVZwNzhLbUlZemMtNWFnOVRyZk1KMTh6WFFERko2ZWJvTTI1OHY4S01CTTZVZTYydWFQRzFlellIa3JTNHptSWhXNnlsWm9HSVhzUVJfUU9uWUhQeThHd3l4UVlVT2FBYWpXNFpxU2ptR0FxWmpyNmZBX0xoellDNHJSSTJVN01ZQWFDZXRheko5b0pCOHJrVWtuZW52cjE0VVFzUzM3RkdPcFlkWDJZd200M3h3RG9UZjEyR0t3ZkFzcHhjTy0wRnJGNmpHWS1oTjRqWUhR?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "أداة مراقبة المنافذ لأجهزة ماك",
+   "summary": "أداة جديدة ظهرت باسم Port Radar موجهة لمستخدمي نظام macOS، تساعد في مراقبة وتتبع استخدام منافذ الاتصال على الجهاز، وتوفر رؤية واضحة للعمليات النشطة على كل منفذ.",
+   "url": "https://www.producthunt.com/products/port-radar-for-macos",
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
    "date": "2026-08-22"
@@ -57,78 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-22"
-  },
-  {
-   "title": "ألفابيت وأمازون تستثمران 420 مليار دولار في بنية الذكاء الاصطناعي: أسهم معدات مرشحة للربح",
-   "summary": "الشركات العملاقة تضخ استثمارات ضخمة في البنية التحتية للذكاء الاصطناعي، مما يفتح فرصاً استثمارية في شركات متخصصة في الأجهزة والمعدات المطلوبة لهذه المشاريع الكبرى.",
-   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbUNBcks1UEs4VndfNl8wei0xNnY0aEJmMG5iM2Nhc2dGbmVfZVNSNWFXOEdKQWthc2tfdUswNW4tMzVkQjFORWxBOFNQUWpkR3dSOW1MSnBJQjV4dDVUalpTYmllRHhWcVlYYkJLbEFDbWFpdmhjb0J5bFFSMlpTaVp5Qi0xX1NVRWg4RnlwYWdQNTkwUTBkb1hkSDFScWt5QWZ6M1FGdFQtV3BwaXItMnhMZUdydGlVNVJrYjM5Zk8xaGE1UDBQUzU2WWxER0xUdVVJdzRSa2pjQ2d3bWhWZ25uMFNmamJ6a1hROUdWY2piNlB1MnJwZzk3U2wtNUE3d3RZb3dFd0JBRnRVUFIxYS1mNUNUUVJ3Q1dhWmN6S0twNHA5eWh2Y05vU0tGQjFHT2c?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-22"
-  },
-  {
-   "title": "أنثروبيك قد تسعى لجمع 100 مليار دولار في طرح عام أولي",
-   "summary": "شركة أنثروبيك المتخصصة في الذكاء الاصطناعي تخطط محتملة لطرح أسهمها بقيمة استثنائية تقارب 100 مليار دولار، ما يعكس القيمة المتزايدة لشركات هذا القطاع.",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXg2WVgtendKTnJablIxTHFpMzE2Nm91VTR2enZZSk5wWld3Y2pFTGVWQjE2OVpPcTFyUTJRNFU1SkpMOS1ZajQwSDM5RV8tYlEybi1kUGVlWEZhV2pKdW9DYS1Pc1M5cGgzanlUVncyV192cXVxT2VHRFF4dVUyVkNn?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-22"
-  },
-  {
-   "title": "منزل الرئيس التنفيذي لـ OpenAI تعرض لطلقات نارية بعد محاولة حرق سابقة",
-   "summary": "تعرض منزل سام ألتمان، الرئيس التنفيذي لشركة OpenAI، لهجوم بأسلحة نارية في حادثة جرائم تطورت من محاولة حرق بقنبلة حارقة وقعت أياماً قبلها.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYlk3cFJkWnNMMHloVFZSQ2pIelpHUWxJbndOeWdiUVcxdXBncjcxdmU3cEUtczJBSV82MUc0LTFRdkJ4NmZpZmZUMUdmU1NJc3hMSlRUSU43RW5VN1pjVzJqSm83OWZiakt4TTQ0bHgwR0hYVkJUaTB1QUlnRUxFQzB1YngzOVoxS0pOYkFzUHpHQVFvcHN1SjFVONIBoAFBVV95cUxOSmg3TE42d3BRemlRWXU4al9ZU0p5eEtCeE4yNzNiaE1oTDB5MHZBMDVDNTUxUjl0dzdma2VWcDkyTUNMRnJoNlJobXNLU0t6NUdXbXNkMWdUa2NDUk4xZ2loSjY2TURtTXkxMTNtd3ptU1VUemYyVG93QWt1ZkNvdEp1aDQ4UVY5RDRwUXRSRGZsdmNJalpyeHVBRkxpbW1v?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-22"
-  },
-  {
-   "title": "وكلاء ذكاء اصطناعي لا يتوقفون عن العمل",
-   "summary": "أداة جديدة ظهرت باسم Agents Never Sleep توفر إمكانية لأنظمة الذكاء الاصطناعي بالعمل بشكل مستمر دون انقطاع. تهدف الأداة إلى تنفيذ مهام متعددة بكفاءة على مدار الساعة.",
-   "url": "https://www.producthunt.com/products/agents-never-sleep",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-22"
-  },
-  {
-   "title": "أداة PixelRead AI لاستخراج النصوص من الصور",
-   "summary": "أداة جديدة ظهرت باسم PixelRead AI OCR متخصصة في استخراج النصوص من الصور الرقمية باستخدام تقنيات الذكاء الاصطناعي. تسعى الأداة إلى تحويل النصوص المصورة إلى نصوص قابلة للتعديل والنسخ بدقة عالية.",
-   "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-22"
-  },
-  {
-   "title": "نموذج Opus 4.6 من أنثروبيك يتجاوز القيود المفروضة على المحتوى الجنسي",
-   "summary": "اختبارات أجرتها وسائل إعلام تقنية كشفت أن نموذج Claude من أنثروبيك، رغم حظره الرسمي لتوليد محتوى صريح، يمكن التحايل عليه بسهولة نسبية لتجاوز هذه القيود الأمنية.",
-   "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "إنفيديا تعاون شركة كلوفرليف لتطوير مراكز البيانات",
-   "summary": "توسّع إنفيديا استثماراتها في قطاع مراكز البيانات، مستفيدة من الطلب المتزايد على البنية التحتية لتطبيقات الذكاء الاصطناعي. هذه الخطوة تعكس دور الشركة المتنامي في تطوير مرافق البيانات المتخصصة بجانب تصنيعها المعالجات.",
-   "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "الذكاء الاصطناعي يحتاج التوجيه أكثر من المعالج الذكي",
-   "summary": "أظهرت أبحاث إنفيديا أن الأداة المستخدمة لتوجيه نماذج الذكاء الاصطناعي أهم من قوة النموذج نفسه. يمكن للعوامل الذكية أن تحقق أداءً موثوقاً وآمناً حتى مع نموذج متوسط المستوى، شرط ضبط وتدريب الأداة بشكل صحيح.",
-   "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "ستاركلاود تجمع 250 مليون دولار لمراكز بيانات فضائية",
-   "summary": "تسعى شركة ستاركلاود لتمويل بناء مراكز بيانات في الفضاء، وسط انخفاض الخيارات المتاحة للإطلاق. يشير هذا الاستثمار الكبير إلى منافسة متوقعة حادة للحصول على موارد الفضاء والقدرة على الوصول إليه.",
-   "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-21"
   }
  ]
 };
