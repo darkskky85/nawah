@@ -1,7 +1,47 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-22T03:33:04.055615+00:00",
+ "updated": "2026-08-22T09:16:23.171151+00:00",
  "items": [
+  {
+   "title": "وكلاء ذكاء اصطناعي لا يتوقفون عن العمل",
+   "summary": "أداة جديدة ظهرت باسم Agents Never Sleep توفر إمكانية لأنظمة الذكاء الاصطناعي بالعمل بشكل مستمر دون انقطاع. تهدف الأداة إلى تنفيذ مهام متعددة بكفاءة على مدار الساعة.",
+   "url": "https://www.producthunt.com/products/agents-never-sleep",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "أداة مراقبة المنافذ لأجهزة ماك",
+   "summary": "أداة جديدة ظهرت باسم Port Radar for macOS تساعد على تتبع واكتشاف نشاط المنافذ الشبكية على أجهزة macOS. توفر واجهة لمراقبة الاتصالات الواردة والصادرة على النظام.",
+   "url": "https://www.producthunt.com/products/port-radar-for-macos",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "تطبيق Pocket من ميتا",
+   "summary": "منصة جديدة من ميتا تركز على حفظ ومشاركة المحتوى الرقمي المفضل للمستخدمين. تجمع الأداة بين خدمات الحفظ والتنظيم والاستكشاف في بيئة موحدة.",
+   "url": "https://www.producthunt.com/products/pocket-by-meta",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "أداة توليد الترجمات",
+   "summary": "أداة جديدة ظهرت باسم SubtitleGenerator تقوم بإنشاء نصوص ترجمية للفيديوهات بشكل آلي. تستخدم تقنيات معالجة اللغة الطبيعية لتحويل المحتوى الصوتي إلى ترجمات نصية.",
+   "url": "https://www.producthunt.com/products/subtitlegenerator",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-22"
+  },
+  {
+   "title": "Anthropic تسعى لجمع 100 مليار دولار في طرح علني",
+   "summary": "تخطط شركة Anthropic المتخصصة في الذكاء الاصطناعي للقيام بطرح أسهمها العام برغبة جمع 100 مليار دولار. يعكس هذا الخطوة الثقة الكبيرة في قطاع الذكاء الاصطناعي وجاذبيته للمستثمرين.",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXg2WVgtendKTnJablIxTHFpMzE2Nm91VTR2enZZSk5wWld3Y2pFTGVWQjE2OVpPcTFyUTJRNFU1SkpMOS1ZajQwSDM5RV8tYlEybi1kUGVlWEZhV2pKdW9DYS1Pc1M5cGgzanlUVncyV192cXVxT2VHRFF4dVUyVkNn?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-22"
+  },
   {
    "title": "أداة PixelRead AI لاستخراج النصوص من الصور",
    "summary": "أداة جديدة ظهرت باسم PixelRead AI OCR متخصصة في استخراج النصوص من الصور الرقمية باستخدام تقنيات الذكاء الاصطناعي. تسعى الأداة إلى تحويل النصوص المصورة إلى نصوص قابلة للتعديل والنسخ بدقة عالية.",
@@ -11,121 +51,81 @@ window.NEWS_DATA = {
    "date": "2026-08-22"
   },
   {
-   "title": "أنثروبيك قد تسعى لجمع مئة مليار دولار في اكتتاب عام تاريخي",
-   "summary": "بحسب تقرير من نيويورك تايمز، قد تستهدف شركة أنثروبيك جمع مئة مليار دولار عند طرح أسهمها في اكتتاب عام، ما يعكس ثقة المستثمرين في قطاع الذكاء الاصطناعي والقيمة المتصاعدة لشركات متخصصة فيه.",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXg2WVgtendKTnJablIxTHFpMzE2Nm91VTR2enZZSk5wWld3Y2pFTGVWQjE2OVpPcTFyUTJRNFU1SkpMOS1ZajQwSDM5RV8tYlEybi1kUGVlWEZhV2pKdW9DYS1Pc1M5cGgzanlUVncyV192cXVxT2VHRFF4dVUyVkNn?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-22"
-  },
-  {
-   "title": "اختبارات تكشف ثغرات في قيود كلود ضد المحتوى الصريح",
-   "summary": "رغم سياسة Anthropic بمنع نماذج كلود من إنتاج محتوى جنسي صريح، أظهرت اختبارات أن تجاوز هذه القيود لا يتطلب جهداً كبيراً. يشير الاكتشاف إلى وجود ثغرات أمنية في آليات الحماية المطبقة على النموذج.",
+   "title": "اختبارات تكشف ثغرات في قيود كلود 4.6 على المحتوى الصريح",
+   "summary": "رغم سياسة أنثروبيك في منع نماذج كلود من إنتاج محتوى جنسي صريح، أظهرت اختبارات أجرتها تك كرانش أن تجاوز هذه القيود لا يتطلب جهداً كبيراً. يثير هذا تساؤلات حول فعالية آليات الحماية المطبقة على النموذج.",
    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-21"
   },
   {
-   "title": "إنفيديا تستثمر في تطوير مراكز البيانات مع شركة كلوفرليف",
-   "summary": "تواصل إنفيديا استثماراتها الضخمة في قطاع مراكز البيانات، مستفيدة من الطلب المتزايد على البنى التحتية المتخصصة بتطبيقات الذكاء الاصطناعي. الشراكة تعكس توجه الشركة نحو توسيع أنشطتها خارج تصنيع المعالجات.",
+   "title": "إنفيديا تتعاون مع شركة متخصصة في تطوير مراكز بيانات",
+   "summary": "استثمرت إنفيديا في شراكة جديدة مع كلوفرليف لتطوير بنية تحتية لمراكز البيانات. يأتي هذا ضمن استراتيجية الشركة المستمرة للاستثمار في قطاع مراكز البيانات الذي يعود بعوائد مالية كبيرة لها.",
    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-21"
   },
   {
-   "title": "أبحاث إنفيديا تؤكد أهمية هندسة الوكلاء على جودة النموذج",
-   "summary": "أظهرت دراسات من إنفيديا أن أداء الوكلاء الذكيين يعتمد بشكل أساسي على جودة البنية التحتية والتنسيق، بغض النظر عن كفاءة النموذج الأساسي. الاكتشاف يقترح أن تحسين آليات التحكم والتوجيه قد يكون أكثر فعالية من تطوير نماذج أفضل.",
+   "title": "البحث من إنفيديا يؤكد: التحكم الدقيق أهم من قوة النموذج الأساسي",
+   "summary": "أظهرت أبحاث إنفيديا أن وكلاء الذكاء الاصطناعي يمكنها تحقيق أداء قوية والعمل بكفاءة من خلال الضبط الدقيق، حتى لو لم يكن النموذج الأساسي متفوقاً في المهمة المطلوبة. يشير هذا إلى أن طريقة تدريب وتوجيه النموذج قد تكون أكثر أهمية من قدراته الخام.",
    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-21"
   },
   {
-   "title": "شركة ستاركلاود تجمع 250 مليون دولار لمراكز بيانات في المدار",
-   "summary": "تسعى ستاركلاود لبناء بنية تحتية لمعالجة البيانات في المدار الفضائي، وسط تضاؤل خيارات الإطلاق المتاحة. تعكس الخطوة توجهاً نحو استكشاف حلول بديلة لتوسيع القدرات الحوسوبية على المستوى العالمي.",
+   "title": "ستاركلاود تجمع 250 مليون دولار لمراكز بيانات مداري وسط نقص خيارات الإطلاق",
+   "summary": "جمعت شركة ستاركلاود تمويلاً بقيمة 250 مليون دولار لتطوير مراكز بيانات في الفضاء المداري. يعكس التمويل الكبير تنامي الطلب على البنية التحتية الفضائية وتزايد المنافسة على الوصول إلى الموارد الفضائية.",
    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-21"
   },
   {
-   "title": "وزارة العدل الأمريكية تحقق مع صندوق a16z بشأن تضارب المصالح",
-   "summary": "تشمل التحقيقات الفيدرالية ترتيبات مجلس إدارة في Andreessen Horowitz، حيث يجلس شركاؤها في مجالس شركات متنافسة. يثير الموضوع مسائل حول الحوكمة والشفافية في صناعة رأس المال الاستثماري الموجه بالتكنولوجيا.",
+   "title": "وزارة العدل الأميركية تحقق مع أندريسن هورويتز حول تضارب مصالح",
+   "summary": "تحقق وزارة العدل في ترتيبات حوكمية تشمل شركاء بأندريسن هورويتز يجلسون في مجالس شركات متنافسة. يثير التحقيق الذي امتد لما يقرب من سنة أسئلة حول معايير الشفافية والمساءلة في استثمارات رأس المال الجريء.",
    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-21"
   },
   {
-   "title": "مليون مستخدم يستخدمون زر كشف المحتوى المولد آلياً على لينكدإن",
-   "summary": "أطلقت منصة لينكدإن أداة تسمح للمستخدمين بالإبلاغ عن المحتوى المولد بالذكاء الاصطناعي، وحققت استجابة واسعة مع أكثر من مليون نقرة منذ إطلاقها. يعكس الاستقبال الإيجابي القلق المتزايد من انتشار المحتوى الاصطناعي منخفض الجودة على منصات التواصل.",
+   "title": "مليون مستخدم استخدموا زر لينكدإن للإبلاغ عن محتوى الذكاء الاصطناعي المنخفض الجودة",
+   "summary": "أطلقت منصة لينكدإن زراً يتيح للمستخدمين الإبلاغ عن محتوى منخفض الجودة المولد بالذكاء الاصطناعي، وقالت الشركة إن أكثر من مليون شخص استخدموا الزر منذ إطلاقه. يعكس هذا الاستجابة الواسعة رغبة المستخدمين في تحسين جودة المحتوى على المنصة.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-21"
   },
   {
-   "title": "منتجات ذكاء اصطناعي تثير جدلاً بين صناع المحتوى على يوتيوب",
-   "summary": "واجه عدد من صناع محتوى الأفلام البارزين انتقادات بعد ترويجهم لمنصة ذكاء اصطناعي متخصصة. الجدل يدور حول قبول المحتوى الإبداعي للتمويل من شركات متخصصة في تطبيقات الذكاء الاصطناعي.",
+   "title": "منتجات ذكاء اصطناعي تثير جدلاً بين صانعي محتوى يوتيوب الكبار",
+   "summary": "عدد من منتجي المحتوى المشهورين في مجال صناعة الأفلام، بينهم ماتي هاابويا وسام كولدر، نشروا مقاطع فيديو توضيحية لمنصة الذكاء الاصطناعي هيجزفيلد وإمكانياتها الجديدة. لاقت هذه الفيديوهات انتقادات من المتابعين بسبب قبول المبدعين لتمويل من شركات متخصصة في الذكاء الاصطناعي.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-21"
   },
   {
-   "title": "مليارديراً أمريكياً يستثمر في شركة ذكاء اصطناعي رغم ديونها الثقيلة",
-   "summary": "قام رجل الأعمال الثري بزيادة استثماراته في شركة متخصصة بتطبيقات الذكاء الاصطناعي خلال الربع الثاني، بالتزامن مع زيادة حصته في منافس لها. يعكس هذا التحرك ثقة المستثمرين الكبار في قطاع الذكاء الاصطناعي رغم التحديات المالية.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVBSdzlYRm02R001NkZfTWJ0bU9NY0k4LWhRUG04TE13Tmp5bkdXVkIyV0JzeTVBVHZDWjNPMTd2NjBwNVRiaVVmVGwyTFpETU1PWi1wWjlJT3hJZmVMN1JEck56dUtJYnMtTXN0aXg2MXNJTHhGYlo4Z3Z1NWRwQkViSkoyR1V1MUhETFBBOEVuUGR1bVNXeg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "استدعاء خبراء للمشاركة في برنامج كاليفورنيا حول الذكاء الاصطناعي",
-   "summary": "تبحث مجلس العلوم والتكنولوجيا في كاليفورنيا عن خبراء متخصصين للمساهمة في وحدة تدريبية موجهة لموظفي الولاية حول تقنيات الذكاء الاصطناعي الناشئة.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanJUMkQ3YzBjTlRSbEd0YWlvdndpbmhReklpUFlUTjZIX2xUMUNDYVJOMFJNNENaalAzcFhwZXNUdUlfYVpsNlZfU3pjdzR3UXZzNkxVcFhoREl1LThuWWt4UXhlQU40Z1Q0amxGcWlQUnR3eVJDcWt2eDItVmJBLUp3TXA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "منصة أمازون الجديدة لتسريع مشاريع معالجة البيانات",
-   "summary": "أطلقت أمازون ويب سيرفيسز منصة متخصصة تستخدم تقنيات الذكاء الاصطناعي لتقليل الوقت اللازم لإنجاز مشاريع هندسة البيانات من أسابيع إلى ساعات.",
+   "title": "منصة أمازون الجديدة لأتمتة عمليات معالجة البيانات",
+   "summary": "أطلقت أمازون ويب سرفيسز منصة جديدة تسمى منصة العمليات الموكّلة للبيانات، وهي مخصصة لتسريع مهام هندسة البيانات وتقليل الوقت المطلوب للمشاريع من أسابيع إلى ساعات من خلال الأتمتة القائمة على الذكاء الاصطناعي.",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWJqZXlucTU1SDhfRzBZdm81THZlMDNJaEo2R3VTbGRCeDhTUFJ6YWlhdUhiVGVuRC1QUV9KbmlyWGVSR0JPeWo5Q1pialFmcTVCQlVKQVhFUEFJeE4yT0VqSXJGckYzcUxicWFxdWVJQWNkN1pDN0FMMTdXM0lBNFhmRmVMNnlMaE9RZXp5NER5dVpNa3Fkbk13dWhPVlZOMjYwX0lmYTc0ZE1fQUw2UllB?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-21"
   },
   {
-   "title": "شركة Micro1 للبيانات تحقق معدل نمو سنوي ضخم وسط الطلب على بيانات التدريب",
-   "summary": "وصلت الشركة الناشئة إلى معدل إيرادات سنوي يبلغ 500 مليون دولار، مدفوعة بالطلب المتزايد على بيانات تدريب الذكاء الاصطناعي، الذي يعكس المنافسة الشرسة في هذا القطاع سريع النمو.",
-   "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "الذكاء الاصطناعي قد يزيد من معدلات التضخم وفقاً لمسؤول البنك المركزي السويسري",
-   "summary": "حذر مسؤول بالبنك الوطني السويسري من احتمالية أن يسهم الذكاء الاصطناعي في ارتفاع معدلات التضخم، مما يستدعي مراقبة تأثيره على الاستقرار الاقتصادي والأسعار في السوق العالمية.",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORHhab1FFWUNhRUV3RjlpVk9LRTVHaXZRQml6eFF1SzJ1VHNzNGtTSXUzVXQwOXJ6WVRWZmNsUHhLa2U2V2FXc0R1U1JhNGJPSlhkbXJ1aGRmOUdRckZGUTlZTnA1c0d4b29JcW1ManJSdU9ZVlhBeUZaTlk5NVRKLUFrQ2h1bXVtQks2Tm5hbzN1WWhCYmNZTmVwR1Y0ZDZKS0p1TF82VHZ4T2V0LXc?oc=5",
+   "title": "مقارنة استثمارية بين شركتي الحوسبة السحابية للذكاء الاصطناعي",
+   "summary": "تحليل مقارن بين شركتي كورويف ونيبيوس جروب في سوق الحوسبة السحابية المتخصصة بتطبيقات الذكاء الاصطناعي، يركز على فرص النمو والعائد المتوقع لكل منهما من منظور الاستثمار في الأسهم.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk5KM3VkQ2tDNjBDQnFFdmp6N3dGWjRoZFBkZzRidVFLRTJzSG0yOFlsRWY2aXdzdmRsblFFZkVpWWJkVW5zRHZBVVJjdVZObmNuTmdvcHhTNnlteVZ4cGxaVGRnWnpabnloSUJUbnJNdENKelpmMm5QX3VJT3Rua1UzZ016eU50WlhIQkx4R012OEdpaUdQSnR1ZmVSMTVvWHg0?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-21"
   },
   {
-   "title": "مقارنة استثمارية بين CoreWeave و Nebius Group في مجال الحوسبة السحابية للذكاء الاصطناعي",
-   "summary": "تحليل مقارن بين شركتي CoreWeave و Nebius Group المتخصصتين في البنية التحتية السحابية للذكاء الاصطناعي، يتناول آفاق النمو والقيمة الاستثمارية لكل منهما في سوق متنام.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUJtZi1SY2treTlDTGVvVW1JaWxVMmRONUh5ak9kLVJSend0MVlNT1gwM19tcUZVMUpEUW56ZEZDaktmLU9BUUNIZmxpZ2tXeWxTSXA3Vk5BOXRpMnEzX3BEMERqTExMTU43ZW83bGNGMTZRRWJBUDl0czFsdmthdzFrNHhhSi0wczNPZ3NGVjFnRlZwSUl6eA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-21"
-  },
-  {
-   "title": "تحسين تشخيص أنظمة الاتصالات على الطائرات بالذكاء الاصطناعي الذكي عبر AWS",
-   "summary": "استخدام تقنيات الذكاء الاصطناعي الذكي على منصة أمازون ويب سرفيسز لتسريع وتحسين عملية تشخيص الأعطال في أنظمة الاتصالات والترفيه على متن الطائرات، مما يعزز كفاءة الصيانة.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnBZdHlsSTFKYXVaOHFKYklVYU9ZS193YjBJS1MzZ0VVX0Z0NXdVczZ0WDhzMlpDRFFiQkplQmh2MXdWd3k5em9xdkM5aVZ6U3kxTTRaRVJnZ1lZcGVhY2pRY2J5a08xYUZYZGhnZm0xdUNrZWxqcE5QS2JyU1pLbWU0SUpCQWFaUVNycG5jdUg0X2QyaFUtTGl6RllFeEozeUFjRmpRLVlrdWtw?oc=5",
+   "title": "دعوة خبراء للمشاركة في برنامج تدريبي حول الذكاء الاصطناعي في كاليفورنيا",
+   "summary": "مجلس كاليفورنيا العلمي والتكنولوجي يدعو متخصصين وخبراء للمساهمة في تطوير وحدة تعليمية عن الذكاء الاصطناعي ضمن برنامج أكاديمية الموظفين الحكوميين المتخصص في التقنيات الناشئة.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanJUMkQ3YzBjTlRSbEd0YWlvdndpbmhReklpUFlUTjZIX2xUMUNDYVJOMFJNNENaalAzcFhwZXNUdUlfYVpsNlZfU3pjdzR3UXZzNkxVcFhoREl1LThuWWt4UXhlQU40Z1Q0amxGcWlQUnR3eVJDcWt2eDItVmJBLUp3TXA?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-21"
