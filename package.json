@@ -1,0 +1,17 @@
+{
+  "name": "nawah-labs",
+  "private": true,
+  "type": "module",
+  "engines": {"node": ">=20"},
+  "scripts": {
+    "build:content": "node scripts/build_content_index.mjs",
+    "curate:sources": "node scripts/curate_sources.mjs",
+    "render:social": "node scripts/render_social_covers.mjs",
+    "build:topics": "node scripts/build_topic_pages.mjs",
+    "build:tool-logos": "node scripts/add_tool_logos.mjs",
+    "modernize": "node scripts/modernize_site.mjs",
+    "check": "node scripts/check_site.mjs",
+    "build": "node scripts/build_topic_pages.mjs && node scripts/modernize_site.mjs && node scripts/curate_sources.mjs && node scripts/sync_reading_times.mjs && node scripts/build_content_index.mjs && node scripts/check_site.mjs"
+  },
+  "dependencies": {"@vercel/blob": "^2.6.0"}
+}

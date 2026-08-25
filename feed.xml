@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>نَوَاة | مدونة الذكاء الاصطناعي بالعربية</title>
+    <link>https://nawahlabs.com/</link>
+    <description>مقالات عربية معمّقة في الذكاء الاصطناعي والتعلم الآلي وأدوات وتطبيقات عملية.</description>
+    <language>ar</language>
+    <lastBuildDate>Tue, 16 Jun 2026 18:25:46 +0000</lastBuildDate>
+    <atom:link href="https://nawahlabs.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>التعلم الآلي: كيف تتعلّم الآلات من البيانات؟ دليل شامل</title>
+      <link>https://nawahlabs.com/articles/a1.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/a1.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي أنواع التعلم الآلي الثلاثة، دورة حياة المشروع، ومثال كشف الاحتيال البنكي.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>الشبكات العصبية العميقة: من الخلية العصبية إلى المحوّلات</title>
+      <link>https://nawahlabs.com/articles/a2.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/a2.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي رحلة الشبكات العصبية من البيرسبترون إلى Transformers بلغة مبسطة.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>الذكاء الاصطناعي في القطاعات: الصحة والتمويل والتجارة والتعليم</title>
+      <link>https://nawahlabs.com/articles/a3.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/a3.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي جولة تطبيقية في أربعة قطاعات مع دراسات حالة واتجاهات المستقبل.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>دليل ChatGPT الشامل للمبتدئين: من أول محادثة إلى الاستخدام الاحترافي</title>
+      <link>https://nawahlabs.com/articles/p1.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p1.html</guid>
+      <category>ChatGPT</category>
+      <description>ChatGPT كل ما تحتاجه لتبدأ مع ChatGPT بالطريقة الصحيحة: الإعداد، الفرق بين الخطط، وأهم الاستخدامات العملية.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>هندسة الموجهات (Prompt Engineering): كيف تكتب أوامر تضاعف جودة النتائج</title>
+      <link>https://nawahlabs.com/articles/p2.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p2.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي سبع تقنيات عملية لصياغة موجهات احترافية تحصل بها على نتائج أدق من أي نموذج ذكاء اصطناعي.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>دليل Claude العملي: المزايا وحالات الاستخدام التي يتفوق فيها</title>
+      <link>https://nawahlabs.com/articles/p3.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p3.html</guid>
+      <category>Claude</category>
+      <description>Claude تعرف على مساعد Anthropic الذكي: نقاط قوته في المستندات الطويلة والكتابة والبرمجة، وكيف تستفيد منه.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini من جوجل: دليل عملي للاستفادة من نموذج متعدد الوسائط</title>
+      <link>https://nawahlabs.com/articles/p4.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p4.html</guid>
+      <category>Gemini</category>
+      <description>Gemini كيف تستفيد من تكامل Gemini مع بحث جوجل وGmail وDocs، وأبرز حالات استخدامه متعددة الوسائط.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>أفضل 10 أدوات ذكاء اصطناعي لصناعة المحتوى العربي في 2026</title>
+      <link>https://nawahlabs.com/articles/p5.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p5.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي قائمة مختبرة بالأدوات الأجدى لكتّاب المحتوى وصنّاعه بالعربية: الكتابة، الصور، الصوت، والفيديو.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>الربح من الذكاء الاصطناعي: 7 طرق واقعية بعيداً عن الوعود الزائفة</title>
+      <link>https://nawahlabs.com/articles/p6.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p6.html</guid>
+      <category>الربح من الذكاء الاصطناعي</category>
+      <description>الربح من الذكاء الاصطناعي مسارات دخل حقيقية يمكن البدء بها اليوم: من الخدمات المصغرة إلى المنتجات الرقمية، مع متطلبات كل مسار.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>كيف تبني متجر منتجات رقمية بالذكاء الاصطناعي خطوة بخطوة</title>
+      <link>https://nawahlabs.com/articles/p7.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p7.html</guid>
+      <category>الربح من الذكاء الاصطناعي</category>
+      <description>الربح من الذكاء الاصطناعي من اختيار الفكرة إلى أول عملية بيع: خارطة عملية لبناء دخل من المنتجات الرقمية بمساعدة الذكاء الاصطناعي.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>خارطة طريق تعلم الذكاء الاصطناعي 2026: من الصفر إلى أول وظيفة</title>
+      <link>https://nawahlabs.com/articles/p8.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p8.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي مسار تعلم واضح من 4 مراحل مع مدد زمنية واقعية ومصادر مقترحة لدخول مجال الذكاء الاصطناعي.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>أتمتة عملك بالذكاء الاصطناعي: دليلك إلى n8n وZapier وMake</title>
+      <link>https://nawahlabs.com/articles/p9.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p9.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي كيف تبني مسارات عمل تلقائية تربط أدواتك بالنماذج الذكية وتوفر ساعات أسبوعياً، مع 3 أمثلة جاهزة.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT أم Claude أم Gemini؟ مقارنة عملية تحسم اختيارك</title>
+      <link>https://nawahlabs.com/articles/p10.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p10.html</guid>
+      <category>ChatGPT</category>
+      <description>ChatGPT مقارنة ميدانية بين المساعدات الثلاثة الكبرى على مهام حقيقية: الكتابة، البرمجة، التحليل، والعربية.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>كيف تبني مشروعاً يحقق دخلاً شهرياً باستخدام الذكاء الاصطناعي دون خبرة برمجية؟</title>
+      <link>https://nawahlabs.com/articles/p11.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p11.html</guid>
+      <category>الربح من الذكاء الاصطناعي</category>
+      <description>الربح من الذكاء الاصطناعي إطار عملي من 5 خطوات لبناء مشروع ذكاء اصطناعي مربح بمهاراتك الحالية فقط، بلا سطر برمجة واحد.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>أفضل 25 أداة ذكاء اصطناعي ستوفر عليك مئات الساعات في 2026</title>
+      <link>https://nawahlabs.com/articles/p12.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p12.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي القائمة الشاملة المصنّفة: مساعدات، كتابة، صور، فيديو، صوت، برمجة، أتمتة، وإنتاجية، مع تحديد متى تحتاج كلاً منها.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT أم Claude أم Gemini؟ مقارنة شاملة بالأرقام والتجارب الحقيقية</title>
+      <link>https://nawahlabs.com/articles/p13.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p13.html</guid>
+      <category>ChatGPT</category>
+      <description>ChatGPT مقارنة منهجية على 6 محاور: الأسعار، نوافذ السياق، الكتابة العربية، البرمجة، الوسائط، والخصوصية، بنتائج اختباراتنا.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>كيف يستخدم المحتالون الذكاء الاصطناعي؟ وكيف تحمي نفسك وعائلتك؟</title>
+      <link>https://nawahlabs.com/articles/p14.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p14.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي دليل توعوي: أشهر 5 أساليب احتيال مدعومة بالذكاء الاصطناعي، وعلامات كشفها، وقواعد الحماية العملية.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 وظائف ستتغير جذرياً أو تختفي خلال السنوات القادمة بسبب الذكاء الاصطناعي</title>
+      <link>https://nawahlabs.com/articles/p15.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p15.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي قراءة هادئة بعيداً عن التهويل: أي الوظائف في دائرة الخطر فعلاً، وأيها يتحول، وكيف تحصّن مسارك المهني.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>من الصفر إلى الاحتراف: خارطة طريق تعلم الذكاء الاصطناعي في 90 يوماً</title>
+      <link>https://nawahlabs.com/articles/p16.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p16.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي خطة مكثفة يوماً بيوم لمن يستطيع التفرغ الجاد: 3 مراحل، 6 مشاريع، ونتيجة ملموسة في نهاية كل أسبوعين.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>الوكلاء الأذكياء (AI Agents): التقنية التي ستغير الإنترنت بالكامل</title>
+      <link>https://nawahlabs.com/articles/p17.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p17.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي ما الفرق بين روبوت المحادثة والوكيل الذكي؟ وكيف ستعيد الوكلاء تشكيل العمل والتسوق والبرمجة؟ شرح شامل.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>هل يمكن للذكاء الاصطناعي أن يبني شركة كاملة بدون موظفين؟</title>
+      <link>https://nawahlabs.com/articles/p18.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p18.html</guid>
+      <category>الربح من الذكاء الاصطناعي</category>
+      <description>الربح من الذكاء الاصطناعي تشريح واقعي لحلم «شركة الشخص الواحد»: ما الذي تنجزه الأتمتة فعلاً، وما الذي يبقى بشرياً بالضرورة؟</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>أقوى مشاريع الذكاء الاصطناعي التي يمكنك إطلاقها بأقل من 500 ريال</title>
+      <link>https://nawahlabs.com/articles/p19.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p19.html</guid>
+      <category>الربح من الذكاء الاصطناعي</category>
+      <description>الربح من الذكاء الاصطناعي 6 مشاريع مجرّبة بميزانية تأسيس لا تتجاوز 500 ريال: التكلفة التفصيلية، وخطة أول شهر، ومتى تتوقع أول دخل.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>كيف تربح من الذكاء الاصطناعي في السعودية والخليج عام 2026؟</title>
+      <link>https://nawahlabs.com/articles/p20.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p20.html</guid>
+      <category>الربح من الذكاء الاصطناعي</category>
+      <description>الربح من الذكاء الاصطناعي خريطة الفرص الخليجية: لماذا المنطقة من أفضل أسواق العالم لهذا التخصص، وأين الطلب الفعلي، وكيف تدخل منه؟</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>دليل Claude الشامل: المساعد الأقوى في الكتابة والمستندات الطويلة</title>
+      <link>https://nawahlabs.com/articles/p21.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p21.html</guid>
+      <category>Claude</category>
+      <description>Claude كل ما تحتاجه لإتقان Claude: المشاريع، التطبيقات المصغّرة، تحليل المستندات الضخمة، ومتى يتفوق على غيره.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>المشاريع والتعليمات المخصّصة في Claude: كيف تبني مساعداً يفهم عملك</title>
+      <link>https://nawahlabs.com/articles/p22.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p22.html</guid>
+      <category>Claude</category>
+      <description>Claude دليل عملي لإعداد مشاريع Claude وكتابة تعليمات مخصّصة تجعل المخرجات متّسقة ودقيقة دون إعادة شرح في كل مرة.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>دليل Gemini الكامل: قوة جوجل في مساعد ذكي متعدّد الوسائط</title>
+      <link>https://nawahlabs.com/articles/p23.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p23.html</guid>
+      <category>Gemini</category>
+      <description>Gemini كيف تستفيد من Gemini داخل منظومة جوجل، وقدراته في الصور والفيديو والمعلومات الحديثة، ومتى يكون خيارك الأول.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini في العمل: 12 استخداماً عملياً يوفّر ساعاتك الأسبوعية</title>
+      <link>https://nawahlabs.com/articles/p24.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p24.html</guid>
+      <category>Gemini</category>
+      <description>Gemini استخدامات ملموسة لـGemini في البريد والمستندات والجداول والاجتماعات، مع موجهات جاهزة لكل حالة.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPTs المخصّصة: كيف تبني مساعدك الخاص في ChatGPT دون برمجة</title>
+      <link>https://nawahlabs.com/articles/p25.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p25.html</guid>
+      <category>ChatGPT</category>
+      <description>ChatGPT دليل خطوة بخطوة لبناء مساعد GPT مخصّص لمهامك المتكررة، وتزويده بمعرفتك الخاصة، ومشاركته مع فريقك.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>تحليل البيانات في ChatGPT: حوّل ملفاتك إلى رؤى دون كتابة كود</title>
+      <link>https://nawahlabs.com/articles/p26.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p26.html</guid>
+      <category>ChatGPT</category>
+      <description>ChatGPT كيف تستخدم ChatGPT لتحليل ملفات Excel وCSV: التنظيف، الرسوم البيانية، اكتشاف الأنماط، والتقارير الجاهزة.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>أدوات الأتمتة بالذكاء الاصطناعي: دليل n8n وZapier وMake للمبتدئين</title>
+      <link>https://nawahlabs.com/articles/p27.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p27.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي كيف تربط أدواتك وتؤتمت مهامك المتكررة دون برمجة، مع مقارنة بين أشهر ثلاث منصات وأمثلة مسارات جاهزة.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>أدوات الصوت والفيديو بالذكاء الاصطناعي: من النص إلى محتوى احترافي</title>
+      <link>https://nawahlabs.com/articles/p28.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p28.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي جولة في أقوى أدوات توليد الصوت والفيديو: التعليق الصوتي، المقدّم الافتراضي، المونتاج التلقائي، والدبلجة.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>كيف تبدأ وكالة محتوى بالذكاء الاصطناعي: من أول عميل إلى دخل ثابت</title>
+      <link>https://nawahlabs.com/articles/p29.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p29.html</guid>
+      <category>الربح من الذكاء الاصطناعي</category>
+      <description>الربح من الذكاء الاصطناعي خطة عملية لبناء وكالة محتوى صغيرة مدعومة بالذكاء الاصطناعي: الخدمات، التسعير، إيجاد العملاء، والتوسّع.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>بناء منتج SaaS صغير بالذكاء الاصطناعي: دليل المؤسس المنفرد</title>
+      <link>https://nawahlabs.com/articles/p30.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p30.html</guid>
+      <category>الربح من الذكاء الاصطناعي</category>
+      <description>الربح من الذكاء الاصطناعي كيف تطلق منتج برمجياً صغيراً يحل مشكلة محددة بمساعدة الذكاء الاصطناعي، من الفكرة إلى أول عميل دافع.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>أخلاقيات الذكاء الاصطناعي: دليل عملي للاستخدام المسؤول</title>
+      <link>https://nawahlabs.com/articles/p31.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p31.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي المبادئ الأساسية للاستخدام الأخلاقي للذكاء الاصطناعي: الخصوصية، الانحياز، الشفافية، وحقوق المحتوى.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>مصطلحات الذكاء الاصطناعي التي يجب أن تعرفها: دليل المبتدئ المبسّط</title>
+      <link>https://nawahlabs.com/articles/p32.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p32.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي شرح مبسّط لأهم 15 مصطلحاً في الذكاء الاصطناعي تقابلها يومياً، بلغة واضحة وأمثلة من الحياة.</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>التسويق بالمحتوى بالذكاء الاصطناعي: استراتيجية كاملة من الفكرة إلى النشر</title>
+      <link>https://nawahlabs.com/articles/p33.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p33.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي كيف توظّف الذكاء الاصطناعي في كل مرحلة من التسويق بالمحتوى: توليد الأفكار، الكتابة، تحسين السيو، والجدولة دون أن تفقد صوتك الأصيل SEO محتوى تسويق</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>الذكاء الاصطناعي للطلاب: كيف تتعلّم أذكى لا أصعب دون أن تغش</title>
+      <link>https://nawahlabs.com/articles/p34.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p34.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي دليل عملي للطلاب لتوظيف الذكاء الاصطناعي في الفهم والمذاكرة والبحث الأكاديمي بطريقة أخلاقية طالب جامعة دراسة مذاكرة</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>بناء علامتك الشخصية بالذكاء الاصطناعي: من مجهول إلى مرجع في مجالك</title>
+      <link>https://nawahlabs.com/articles/p35.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p35.html</guid>
+      <category>الربح من الذكاء الاصطناعي</category>
+      <description>الربح من الذكاء الاصطناعي استراتيجية عملية لبناء حضور مهني مؤثر عبر الذكاء الاصطناعي علامة شخصية براند حضور لينكدإن محتوى</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>خصوصيتك في عصر الذكاء الاصطناعي: ما الذي تشاركه دون أن تدري؟</title>
+      <link>https://nawahlabs.com/articles/p36.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p36.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي دليل عملي لحماية بياناتك الشخصية والمهنية عند استخدام أدوات الذكاء الاصطناعي خصوصية أمان بيانات حماية</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>الذكاء الاصطناعي المحلي: شغّل النماذج على جهازك بخصوصية كاملة ومجاناً</title>
+      <link>https://nawahlabs.com/articles/p37.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p37.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي دليل المبتدئ لتشغيل نماذج الذكاء الاصطناعي مفتوحة المصدر على جهازك الشخصي local LLM نماذج محلية مفتوح المصدر خصوصية</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>الكتابة الإبداعية بالذكاء الاصطناعي: شريك لخيالك لا بديل عنه</title>
+      <link>https://nawahlabs.com/articles/p38.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p38.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي كيف يصبح الذكاء الاصطناعي شريكاً في رحلتك الإبداعية: توليد الأفكار، تطوير الشخصيات، وصقل أسلوبك دون أن يسرق صوتك. كتابة إبداعية رواية قصة سيناريو محتوى أدب خيال</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>تحرير الفيديو بالذكاء الاصطناعي: من ساعات مونتاج إلى دقائق</title>
+      <link>https://nawahlabs.com/articles/p39.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p39.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي دليل عملي لتوظيف الذكاء الاصطناعي في صناعة وتحرير الفيديو: المونتاج التلقائي، الترجمة، والمقاطع القصيرة. فيديو مونتاج تحرير ريلز شورتس يوتيوب تيك توك محتوى مرئي</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>الذكاء الاصطناعي في المبيعات والتفاوض: مساعدك لإغلاق صفقات أكثر</title>
+      <link>https://nawahlabs.com/articles/p40.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p40.html</guid>
+      <category>الربح من الذكاء الاصطناعي</category>
+      <description>الربح من الذكاء الاصطناعي كيف توظّف الذكاء الاصطناعي لتحسين مهارات البيع والتفاوض: تحضير العروض، التعامل مع الاعتراضات، وصياغة الرسائل المقنعة. مبيعات بيع تفاوض صفقات عملاء تسويق إقناع عروض</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAG وقواعد المعرفة: كيف تجعل الذكاء الاصطناعي يجيب من بياناتك أنت</title>
+      <link>https://nawahlabs.com/articles/p41.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p41.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي شرح مبسّط لتقنية RAG التي تتيح للذكاء الاصطناعي الإجابة من مستنداتك الخاصة بدقة، وكيف توظّفها في عملك. RAG قواعد معرفة استرجاع مستندات بيانات هلوسة دقة embeddings</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>إدارة وسائل التواصل بالذكاء الاصطناعي: حضور قوي بنصف الجهد</title>
+      <link>https://nawahlabs.com/articles/p42.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p42.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي دليل عملي لإدارة حساباتك على وسائل التواصل بكفاءة عبر الذكاء الاصطناعي: تخطيط المحتوى، الجدولة، والتحليل. سوشال ميديا وسائل تواصل انستغرام تويتر لينكدإن جدولة محتوى نشر</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 أدوات ذكاء اصطناعي مجانية تماماً تغنيك عن اشتراكات بمئات الريالات</title>
+      <link>https://nawahlabs.com/articles/p43.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p43.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي اكتشف أفضل أدوات الذكاء الاصطناعي المجانية التي تنافس البرامج المدفوعة، ووفّر مئات الريالات شهرياً. أدوات مجانية free مجاني توفير اشتراكات بدائل</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 وظائف سيغيّرها الذكاء الاصطناعي جذرياً قبل 2030 (وكيف تحمي مستقبلك)</title>
+      <link>https://nawahlabs.com/articles/p44.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p44.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي تعرّف على الوظائف الأكثر تأثراً بالذكاء الاصطناعي وكيف تحوّل التهديد إلى فرصة وتؤمّن مستقبلك المهني. وظائف مستقبل العمل مهارات بطالة أتمتة تهديد فرص</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>الدخل السلبي بالذكاء الاصطناعي: كيف يبني الناس مصادر دخل تعمل وهم نائمون؟</title>
+      <link>https://nawahlabs.com/articles/p45.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p45.html</guid>
+      <category>الربح من الذكاء الاصطناعي</category>
+      <description>الربح من الذكاء الاصطناعي الحقيقة الكاملة عن بناء دخل سلبي باستخدام الذكاء الاصطناعي: الطرق الواقعية والجهد المطلوب فعلاً. دخل سلبي ربح passive income أرباح مال دخل إضافي</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 أشياء خطيرة يجب ألا تخبر بها ChatGPT وأدوات الذكاء الاصطناعي أبداً</title>
+      <link>https://nawahlabs.com/articles/p46.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p46.html</guid>
+      <category>تعلم الذكاء الاصطناعي</category>
+      <description>تعلم الذكاء الاصطناعي معلومات حساسة كثيرون يشاركونها مع أدوات الذكاء الاصطناعي دون وعي بالمخاطر. تعرّف على ما يجب أن يبقى سرّاً. خصوصية أمان ChatGPT بيانات حساسة حماية مخاطر تسريب</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>الذكاء الاصطناعي في 2026: أهم التغييرات التي يجب أن تعرفها لتبقى في المقدمة</title>
+      <link>https://nawahlabs.com/articles/p47.html</link>
+      <guid isPermaLink="true">https://nawahlabs.com/articles/p47.html</guid>
+      <category>أدوات الذكاء الاصطناعي</category>
+      <description>أدوات الذكاء الاصطناعي نظرة شاملة على أبرز تطورات الذكاء الاصطناعي في 2026 وتأثيرها على عملك وحياتك وكيف تستفيد قبل فوات الأوان. 2026 تطورات مستقبل وكلاء agents نماذج جديد تحديثات</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:46 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
