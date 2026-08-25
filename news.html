@@ -7,7 +7,7 @@
 <meta name="description" content="أحدث أخبار الذكاء الاصطناعي بالعربية، مُلخّصة بصياغة أصلية ومحدّثة تلقائياً، مع روابط للمصادر.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://nawahlabs.com/news.html">
-<meta name="theme-color" content="#221E66">
+<meta name="theme-color" content="#2A201B">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="ar_SA">
 <meta property="og:title" content="أخبار الذكاء الاصطناعي | نَوَاة">
@@ -15,64 +15,61 @@
 <meta property="og:url" content="https://nawahlabs.com/news.html">
 <meta property="og:site_name" content="نَوَاة">
 <meta name="twitter:card" content="summary_large_image">
+<meta property="og:image" content="https://nawahlabs.com/assets/og-nawah.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:image" content="https://nawahlabs.com/assets/og-nawah.png">
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="assets/icon-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<!-- Google Analytics 4 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q1W4YR0JKX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-Q1W4YR0JKX');
-</script>
-<!-- Google AdSense -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9743937026294029" crossorigin="anonymous"></script>
-<link href="https://fonts.googleapis.com/css2?family=Changa:wght@400;600;700;800&family=IBM+Plex+Sans+Arabic:wght@300;400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Alexandria:wght@400;500;600;700;800&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <link rel="alternate" type="application/rss+xml" title="نَوَاة RSS" href="/feed.xml">
-<link rel="stylesheet" href="assets/style.css?v=24">
+<link rel="stylesheet" href="assets/style.css?v=44">
 <style>
 .news-hero{text-align:center;padding:10px 0 6px}
-.news-hero .live-dot{display:inline-flex;align-items:center;gap:7px;background:var(--teal-soft,#E8F4F4);color:var(--teal,#0E8F8F);font-size:.8rem;font-weight:700;padding:5px 14px;border-radius:50px;margin-bottom:14px}
-.news-hero .live-dot::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--teal,#0E8F8F);animation:pulse 1.8s infinite}
+.news-hero .live-dot{display:inline-flex;align-items:center;gap:7px;background:var(--teal-soft,#E8F4F4);color:var(--teal,#B8573D);font-size:.8rem;font-weight:700;padding:5px 14px;border-radius:50px;margin-bottom:14px}
+.news-hero .live-dot::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--teal,#B8573D);animation:pulse 1.8s infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
 .news-updated{font-size:.85rem;color:var(--muted,#5A6072);margin-top:6px}
 .news-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:20px;margin:28px 0}
 .news-card{position:relative;background:var(--card,#fff);border:1px solid var(--line,#E5E1D8);border-radius:18px;padding:0;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 1px 3px rgba(26,31,46,.04);transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease}
-.news-card::before{content:"";display:block;height:4px;background:linear-gradient(90deg,var(--teal,#0E8F8F),var(--primary,#34308F))}
+.news-card::before{content:"";display:block;height:4px;background:linear-gradient(90deg,var(--teal,#B8573D),var(--primary,#5B2D26))}
 .news-card:hover{transform:translateY(-4px);box-shadow:0 14px 34px rgba(26,31,46,.12);border-color:transparent}
 .news-card .nc-body{padding:22px 24px;display:flex;flex-direction:column;flex:1}
 .news-card .nc-src{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:14px}
-.news-card .nc-tag{font-size:.72rem;font-weight:700;color:var(--teal,#0E8F8F);background:var(--teal-soft,#E8F4F4);border-radius:50px;padding:4px 13px}
+.news-card .nc-tag{font-size:.72rem;font-weight:700;color:var(--teal,#B8573D);background:var(--teal-soft,#E8F4F4);border-radius:50px;padding:4px 13px}
 .news-card .nc-date{font-size:.74rem;color:var(--muted,#5A6072)}
-.news-card h3{font-family:'Changa',sans-serif;font-size:1.18rem;font-weight:700;color:var(--primary-deep,#221E66);line-height:1.55;margin-bottom:11px}
+.news-card h3{font-family:'Changa',sans-serif;font-size:1.18rem;font-weight:700;color:var(--primary-deep,#251C18);line-height:1.55;margin-bottom:11px}
 .news-card p{font-size:.92rem;color:var(--ink,#1A1F2E);line-height:1.85;flex:1;margin-bottom:18px}
 .news-card .nc-foot{display:flex;align-items:center;justify-content:space-between;gap:8px;border-top:1px solid var(--line,#E5E1D8);padding-top:14px}
 .news-card .nc-origin{font-size:.76rem;color:var(--muted,#5A6072);font-weight:500}
-.news-card .nc-link{font-size:.82rem;font-weight:700;color:var(--teal,#0E8F8F);text-decoration:none;transition:gap .15s}
+.news-card .nc-link{font-size:.82rem;font-weight:700;color:var(--teal,#B8573D);text-decoration:none;transition:gap .15s}
 .news-card .nc-link:hover{text-decoration:underline}
 .news-empty{text-align:center;padding:60px 20px;color:var(--muted,#5A6072)}
 .news-empty .big{font-size:2.6rem;opacity:.4;margin-bottom:12px}
-.news-note{background:var(--teal-soft,#E8F4F4);border:1px solid var(--teal,#0E8F8F);border-radius:12px;padding:13px 18px;font-size:.84rem;color:var(--ink,#1A1F2E);margin-bottom:8px}
+.news-note{background:var(--teal-soft,#E8F4F4);border:1px solid var(--teal,#B8573D);border-radius:12px;padding:13px 18px;font-size:.84rem;color:var(--ink,#1A1F2E);margin-bottom:8px}
 .news-filters{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin:18px 0}
 .nf-chip{background:var(--card,#fff);border:1.5px solid var(--line,#E5E1D8);border-radius:50px;padding:7px 18px;font-family:inherit;font-size:.86rem;color:var(--muted,#5A6072);cursor:pointer;transition:.15s}
-.nf-chip:hover{border-color:var(--teal,#0E8F8F);color:var(--teal,#0E8F8F)}
-.nf-chip.on{background:var(--primary-deep,#221E66);color:#fff;border-color:var(--primary-deep,#221E66)}
+.nf-chip:hover{border-color:var(--teal,#B8573D);color:var(--teal,#B8573D)}
+.nf-chip.on{background:var(--primary-deep,#251C18);color:#fff;border-color:var(--primary-deep,#251C18)}
 </style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "CollectionPage", "name": "أخبار الذكاء الاصطناعي", "description": "أحدث ما يجري في عالم الذكاء الاصطناعي، مُلخّصاً بالعربية بصياغة أصلية من فريق نَوَاة، مع رابط كل خبر لمصدره.", "url": "https://nawahlabs.com/news.html", "inLanguage": "ar", "isPartOf": {"@type": "WebSite", "name": "نَوَاة", "url": "https://nawahlabs.com/"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "الرئيسية", "item": "https://nawahlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "الأخبار", "item": "https://nawahlabs.com/news.html"}]}</script>
 </head>
 <body>
+<a class="skip-link" href="#main-content">تجاوز إلى المحتوى</a>
 <header>
   <div class="container nav">
     <a class="logo" href="index.html" aria-label="نَوَاة - الصفحة الرئيسية">
-      <svg width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true"><circle cx="17" cy="17" r="6" fill="#0E8F8F"/><circle cx="17" cy="17" r="13" stroke="#221E66" stroke-width="2" stroke-dasharray="4 5"/><circle cx="29" cy="11" r="3" fill="#D98E2B"/></svg>
+      <svg width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true"><circle cx="17" cy="17" r="6" fill="#B8573D"/><circle cx="17" cy="17" r="13" stroke="#251C18" stroke-width="2" stroke-dasharray="4 5"/><circle cx="29" cy="11" r="3" fill="#7A8061"/></svg>
       نَوَاة
     </a>
     <nav class="nav-links" id="navLinks" aria-label="التنقل الرئيسي">
       <a href="archive.html" class="navlink">المقالات</a>
       <a href="news.html" class="navlink">الأخبار</a>
-      <a href="index.html#store" class="navlink">المتجر</a>
+      <a href="store.html" class="navlink nav-store-link">المتجر</a>
       <a href="tools.html" class="navlink">الأدوات</a>
       <a href="generators.html" class="navlink">المولّدات</a>
       <a href="ats-checker.html" class="navlink">فاحص السيرة</a>
@@ -88,10 +85,10 @@
   </div>
 </header>
 
-<main class="container" style="padding-top:30px">
+<main id="main-content" class="container" style="padding-top:30px">
   <div class="news-hero">
     <span class="live-dot">يُحدّث تلقائياً</span>
-    <h1 style="font-family:'Changa';color:var(--primary-deep,#221E66);font-size:2rem">أخبار الذكاء الاصطناعي</h1>
+    <h1 style="font-family:'Changa';color:var(--primary-deep,#251C18);font-size:2rem">أخبار الذكاء الاصطناعي</h1>
     <p style="color:var(--muted,#5A6072);max-width:600px;margin:10px auto 0">أحدث ما يجري في عالم الذكاء الاصطناعي، مُلخّصاً بالعربية بصياغة أصلية من فريق نَوَاة، مع رابط كل خبر لمصدره.</p>
     <p class="news-updated" id="newsUpdated"></p>
   </div>
@@ -126,14 +123,15 @@
       </div>
       <div>
         <h4>المتجر</h4>
-        <a href="index.html#store">جميع المنتجات</a>
-        <a href="index.html#store">الكتب الإلكترونية</a>
-        <a href="index.html#store">الأدوات والقوالب</a>
+        <a href="store.html">جميع المنتجات</a>
+        <a href="store.html">الكتب الإلكترونية</a>
+        <a href="store.html">الأدوات والقوالب</a>
       </div>
       <div>
         <h4>الموقع</h4>
         <a href="archive.html">أرشيف المقالات</a>
         <a href="about.html">من نحن</a>
+        <a href="editorial.html">منهجية التحرير</a>
         <a href="contact.html">تواصل معنا</a>
         <a href="index.html#marketing">النشرة البريدية</a>
       </div>
@@ -145,10 +143,11 @@
   </div>
 </footer>
 
-<script src="assets/data.js?v=27"></script>
-<script src="assets/main.js?v=24" defer></script>
+<script src="assets/data.js?v=44"></script>
+<script src="assets/consent.js?v=44" defer></script>
+<script src="assets/main.js?v=44" defer></script>
 <!-- بيانات الأخبار: يولّدها سكربت الأتمتة تلقائياً -->
-<script src="assets/news-data.js?v=1" onerror="window.NEWS_DATA=window.NEWS_DATA||{updated:'',items:[]}"></script>
+<script src="assets/news-data.js?v=44" onerror="window.NEWS_DATA=window.NEWS_DATA||{updated:'',items:[]}"></script>
 <script>
 (function(){
   const data = window.NEWS_DATA || {updated:"", items:[]};

@@ -1,22 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="تعلم الذكاء الاصطناعي">
-  <defs>
-    <linearGradient id="g95217" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#34308F"/>
-      <stop offset="1" stop-color="#221E66"/>
-    </linearGradient>
-    <radialGradient id="g95217r" cx="0.75" cy="0.25" r="0.9">
-      <stop offset="0" stop-color="#7B6FE0" stop-opacity="0.35"/>
-      <stop offset="0.6" stop-color="#7B6FE0" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="630" fill="url(#g95217)"/>
-  <rect width="1200" height="630" fill="url(#g95217r)"/>
-  <line x1="769" y1="333" x2="516" y2="255" stroke="#7B6FE0" stroke-width="1.2" opacity="0.11"/><line x1="769" y1="333" x2="882" y2="63" stroke="#7B6FE0" stroke-width="1.2" opacity="0.09"/><line x1="769" y1="333" x2="602" y2="293" stroke="#7B6FE0" stroke-width="1.2" opacity="0.18"/><line x1="769" y1="333" x2="946" y2="463" stroke="#7B6FE0" stroke-width="1.2" opacity="0.15"/><line x1="769" y1="333" x2="648" y2="366" stroke="#7B6FE0" stroke-width="1.2" opacity="0.22"/><line x1="769" y1="333" x2="711" y2="447" stroke="#7B6FE0" stroke-width="1.2" opacity="0.22"/><line x1="769" y1="333" x2="955" y2="251" stroke="#7B6FE0" stroke-width="1.2" opacity="0.16"/><line x1="516" y1="255" x2="298" y2="136" stroke="#7B6FE0" stroke-width="1.2" opacity="0.12"/><line x1="516" y1="255" x2="602" y2="293" stroke="#7B6FE0" stroke-width="1.2" opacity="0.25"/><line x1="516" y1="255" x2="648" y2="366" stroke="#7B6FE0" stroke-width="1.2" opacity="0.18"/><line x1="516" y1="255" x2="711" y2="447" stroke="#7B6FE0" stroke-width="1.2" opacity="0.1"/><line x1="516" y1="255" x2="297" y2="220" stroke="#7B6FE0" stroke-width="1.2" opacity="0.14"/><line x1="298" y1="136" x2="297" y2="220" stroke="#7B6FE0" stroke-width="1.2" opacity="0.25"/><line x1="882" y1="63" x2="955" y2="251" stroke="#7B6FE0" stroke-width="1.2" opacity="0.16"/><line x1="602" y1="293" x2="648" y2="366" stroke="#7B6FE0" stroke-width="1.2" opacity="0.25"/><line x1="602" y1="293" x2="711" y2="447" stroke="#7B6FE0" stroke-width="1.2" opacity="0.17"/><line x1="602" y1="293" x2="297" y2="220" stroke="#7B6FE0" stroke-width="1.2" opacity="0.07"/><line x1="230" y1="510" x2="297" y2="220" stroke="#7B6FE0" stroke-width="1.2" opacity="0.08"/><line x1="946" y1="463" x2="648" y2="366" stroke="#7B6FE0" stroke-width="1.2" opacity="0.07"/><line x1="946" y1="463" x2="711" y2="447" stroke="#7B6FE0" stroke-width="1.2" opacity="0.13"/><line x1="946" y1="463" x2="955" y2="251" stroke="#7B6FE0" stroke-width="1.2" opacity="0.15"/><line x1="648" y1="366" x2="711" y2="447" stroke="#7B6FE0" stroke-width="1.2" opacity="0.24"/><line x1="648" y1="366" x2="955" y2="251" stroke="#7B6FE0" stroke-width="1.2" opacity="0.06"/><line x1="711" y1="447" x2="955" y2="251" stroke="#7B6FE0" stroke-width="1.2" opacity="0.07"/><circle cx="769" cy="333" r="3" fill="#7B6FE0" opacity="0.55"/><circle cx="516" cy="255" r="3" fill="#7B6FE0" opacity="0.55"/><circle cx="298" cy="136" r="3" fill="#7B6FE0" opacity="0.55"/><circle cx="882" cy="63" r="4" fill="#7B6FE0" opacity="0.55"/><circle cx="602" cy="293" r="2.5" fill="#7B6FE0" opacity="0.55"/><circle cx="230" cy="510" r="3" fill="#7B6FE0" opacity="0.55"/><circle cx="946" cy="463" r="4" fill="#7B6FE0" opacity="0.55"/><circle cx="648" cy="366" r="2.5" fill="#7B6FE0" opacity="0.55"/><circle cx="711" cy="447" r="3" fill="#7B6FE0" opacity="0.55"/><circle cx="297" cy="220" r="4" fill="#7B6FE0" opacity="0.55"/><circle cx="955" cy="251" r="2.5" fill="#7B6FE0" opacity="0.55"/>
-  <circle cx="1070" cy="120" r="54" fill="#FBFAF6" opacity="0.12"/>
-  <text x="1070" y="120" font-size="52" text-anchor="middle" dominant-baseline="central">🎓</text>
-  <g font-family="'Changa','Segoe UI',sans-serif" fill="#FBFAF6">
-    <rect x="64" y="480" width="14" height="86" rx="4" fill="#7B6FE0"/>
-    <text x="92" y="520" font-size="30" font-weight="700" opacity="0.92">تعلم الذكاء الاصطناعي</text>
-    <text x="92" y="564" font-size="22" opacity="0.6">nawahlabs.com · نَوَاة</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title desc">
+  <title id="title">التعلم الآلي: كيف تتعلّم الآلات من البيانات؟ دليل شامل</title><desc id="desc">غلاف تحريري من نَوَاة ضمن قسم تعلم الذكاء الاصطناعي</desc>
+  <rect width="1200" height="630" fill="#E8DDC8"/>
+  <rect width="390" height="630" fill="#B8573D"/>
+  <rect x="390" width="9" height="630" fill="#9B4A35"/>
+  <path d="M428 82H1120M428 542H1120" stroke="#9B4A35" stroke-width="1" opacity=".42"/>
+  <path d="M1120 82v38M428 504v38" stroke="#9B4A35" stroke-width="3"/>
+  <g transform="translate(9 7)" fill="none" stroke="#9B4A35" stroke-width="4" opacity=".78"><circle cx="182" cy="300" r="112"/><circle cx="182" cy="300" r="76"/><path d="M70 300h224M182 188v224"/><circle cx="182" cy="300" r="13" fill="#9B4A35"/></g>
+  <text x="58" y="70" fill="#9B4A35" font-family="Alexandria,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="3">NAWAH / A1</text>
+  <text x="58" y="550" fill="#9B4A35" font-family="Alexandria,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="2">LEARN</text>
+  <text x="58" y="584" fill="#9B4A35" opacity=".78" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="22" font-weight="700">المعرفة</text>
+  <text x="335" y="505" text-anchor="end" fill="#9B4A35" opacity=".2" font-family="Alexandria,Arial,sans-serif" font-size="158" font-weight="800">A1</text>
+  <text x="1100" y="124" text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#9B4A35" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="25" font-weight="700">تعلم الذكاء الاصطناعي</text>
+  <text text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#251C18" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="57" font-weight="800"><tspan x="1100" y="199">التعلم الآلي: كيف تتعلّم</tspan><tspan x="1100" y="270">الآلات من البيانات؟ دليل</tspan><tspan x="1100" y="341">شامل</tspan></text>
+  <text x="1100" y="580" text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#6F665F" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="22" font-weight="600">٢٠ دقيقة قراءة معمّقة</text>
+  <text x="428" y="580" fill="#6F665F" font-family="Alexandria,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">NAWAHLABS.COM</text>
+  <circle cx="406" cy="82" r="6" fill="#9B4A35"/><circle cx="406" cy="542" r="6" fill="#9B4A35"/>
 </svg>

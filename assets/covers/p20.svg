@@ -1,22 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="الربح من الذكاء الاصطناعي">
-  <defs>
-    <linearGradient id="g13543" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0E8F8F"/>
-      <stop offset="1" stop-color="#221E66"/>
-    </linearGradient>
-    <radialGradient id="g13543r" cx="0.75" cy="0.25" r="0.9">
-      <stop offset="0" stop-color="#D98E2B" stop-opacity="0.35"/>
-      <stop offset="0.6" stop-color="#D98E2B" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="630" fill="url(#g13543)"/>
-  <rect width="1200" height="630" fill="url(#g13543r)"/>
-  <line x1="854" y1="540" x2="836" y2="357" stroke="#D98E2B" stroke-width="1.2" opacity="0.17"/><line x1="854" y1="540" x2="979" y2="444" stroke="#D98E2B" stroke-width="1.2" opacity="0.19"/><line x1="854" y1="540" x2="753" y2="343" stroke="#D98E2B" stroke-width="1.2" opacity="0.14"/><line x1="1058" y1="208" x2="1128" y2="111" stroke="#D98E2B" stroke-width="1.2" opacity="0.23"/><line x1="1058" y1="208" x2="836" y2="357" stroke="#D98E2B" stroke-width="1.2" opacity="0.11"/><line x1="1058" y1="208" x2="979" y2="444" stroke="#D98E2B" stroke-width="1.2" opacity="0.12"/><line x1="1058" y1="208" x2="753" y2="343" stroke="#D98E2B" stroke-width="1.2" opacity="0.06"/><line x1="303" y1="541" x2="192" y2="339" stroke="#D98E2B" stroke-width="1.2" opacity="0.14"/><line x1="303" y1="541" x2="232" y2="538" stroke="#D98E2B" stroke-width="1.2" opacity="0.26"/><line x1="438" y1="171" x2="192" y2="339" stroke="#D98E2B" stroke-width="1.2" opacity="0.08"/><line x1="438" y1="171" x2="529" y2="240" stroke="#D98E2B" stroke-width="1.2" opacity="0.23"/><line x1="192" y1="339" x2="232" y2="538" stroke="#D98E2B" stroke-width="1.2" opacity="0.16"/><line x1="836" y1="357" x2="529" y2="240" stroke="#D98E2B" stroke-width="1.2" opacity="0.06"/><line x1="836" y1="357" x2="979" y2="444" stroke="#D98E2B" stroke-width="1.2" opacity="0.19"/><line x1="836" y1="357" x2="753" y2="343" stroke="#D98E2B" stroke-width="1.2" opacity="0.25"/><line x1="529" y1="240" x2="753" y2="343" stroke="#D98E2B" stroke-width="1.2" opacity="0.12"/><line x1="979" y1="444" x2="753" y2="343" stroke="#D98E2B" stroke-width="1.2" opacity="0.12"/><circle cx="854" cy="540" r="4" fill="#D98E2B" opacity="0.55"/><circle cx="1058" cy="208" r="3" fill="#D98E2B" opacity="0.55"/><circle cx="303" cy="541" r="3" fill="#D98E2B" opacity="0.55"/><circle cx="438" cy="171" r="3" fill="#D98E2B" opacity="0.55"/><circle cx="1128" cy="111" r="4" fill="#D98E2B" opacity="0.55"/><circle cx="192" cy="339" r="2.5" fill="#D98E2B" opacity="0.55"/><circle cx="232" cy="538" r="4" fill="#D98E2B" opacity="0.55"/><circle cx="836" cy="357" r="2.5" fill="#D98E2B" opacity="0.55"/><circle cx="529" cy="240" r="3" fill="#D98E2B" opacity="0.55"/><circle cx="979" cy="444" r="4" fill="#D98E2B" opacity="0.55"/><circle cx="753" cy="343" r="3" fill="#D98E2B" opacity="0.55"/>
-  <circle cx="1070" cy="120" r="54" fill="#FBFAF6" opacity="0.12"/>
-  <text x="1070" y="120" font-size="52" text-anchor="middle" dominant-baseline="central">📈</text>
-  <g font-family="'Changa','Segoe UI',sans-serif" fill="#FBFAF6">
-    <rect x="64" y="480" width="14" height="86" rx="4" fill="#D98E2B"/>
-    <text x="92" y="520" font-size="30" font-weight="700" opacity="0.92">الربح من الذكاء الاصطناعي</text>
-    <text x="92" y="564" font-size="22" opacity="0.6">nawahlabs.com · نَوَاة</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title desc">
+  <title id="title">كيف تربح من الذكاء الاصطناعي في السعودية والخليج عام 2026؟</title><desc id="desc">غلاف تحريري من نَوَاة ضمن قسم الربح من الذكاء الاصطناعي</desc>
+  <rect width="1200" height="630" fill="#5B2D26"/>
+  <rect width="390" height="630" fill="#C8B28C"/>
+  <rect x="390" width="9" height="630" fill="#D3A36B"/>
+  <path d="M428 82H1120M428 542H1120" stroke="#D3A36B" stroke-width="1" opacity=".42"/>
+  <path d="M1120 82v38M428 504v38" stroke="#D3A36B" stroke-width="3"/>
+  <g transform="translate(18 21)"><path d="M68 405h70v-82h70v-76h70v-70" fill="none" stroke="#D3A36B" stroke-width="4" opacity=".78"/><circle cx="103" cy="405" r="9" fill="#D3A36B"/><circle cx="173" cy="323" r="9" fill="#D3A36B"/><circle cx="243" cy="247" r="9" fill="#D3A36B"/><path d="M278 177l-20 10m20-10l-4 22" fill="none" stroke="#D3A36B" stroke-width="4" opacity=".78"/></g>
+  <text x="58" y="70" fill="#D3A36B" font-family="Alexandria,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="3">NAWAH / 20</text>
+  <text x="58" y="550" fill="#D3A36B" font-family="Alexandria,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="2">BUILD</text>
+  <text x="58" y="584" fill="#D3A36B" opacity=".78" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="22" font-weight="700">الاقتصاد</text>
+  <text x="335" y="505" text-anchor="end" fill="#D3A36B" opacity=".2" font-family="Alexandria,Arial,sans-serif" font-size="158" font-weight="800">20</text>
+  <text x="1100" y="124" text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#D3A36B" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="25" font-weight="700">الربح من الذكاء الاصطناعي</text>
+  <text text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#FCF8EF" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="57" font-weight="800"><tspan x="1100" y="199">كيف تربح من الذكاء</tspan><tspan x="1100" y="270">الاصطناعي في السعودية</tspan><tspan x="1100" y="341">والخليج عام 2026؟</tspan></text>
+  <text x="1100" y="580" text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#E4D5C8" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="22" font-weight="600">١٨ دقيقة قراءة معمّقة</text>
+  <text x="428" y="580" fill="#E4D5C8" font-family="Alexandria,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">NAWAHLABS.COM</text>
+  <circle cx="406" cy="82" r="6" fill="#D3A36B"/><circle cx="406" cy="542" r="6" fill="#D3A36B"/>
 </svg>

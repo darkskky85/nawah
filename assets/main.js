@@ -15,12 +15,73 @@ function showToast(msg){
 }
 window.showToast = showToast;
 
+/* قياس سلوك مفيد من دون كسر التجربة عند رفض القياس */
+function trackEvent(name, params={}){
+  try{
+    if(typeof window.gtag === 'function') window.gtag('event', name, params);
+  }catch(e){}
+}
+window.nawahTrack = trackEvent;
+
+/* بطاقة ملف المحرر: ميل ورقي هادئ يتبع المؤشر من دون إزعاج الجوال */
+(function(){
+  const stage=document.querySelector('.home-cover-stage');
+  const cover=stage?.querySelector('.home-cover-story');
+  if(!stage||!cover||matchMedia('(prefers-reduced-motion: reduce)').matches||matchMedia('(pointer: coarse)').matches) return;
+  let frame=0;
+  const reset=()=>{
+    cover.style.setProperty('--cover-rx','0deg');
+    cover.style.setProperty('--cover-ry','0deg');
+    cover.style.setProperty('--mark-x','0px');
+    cover.style.setProperty('--mark-y','0px');
+    cover.style.setProperty('--copy-x','0px');
+    cover.style.setProperty('--copy-y','0px');
+  };
+  stage.addEventListener('pointermove',event=>{
+    const rect=stage.getBoundingClientRect();
+    const x=(event.clientX-rect.left)/rect.width-.5;
+    const y=(event.clientY-rect.top)/rect.height-.5;
+    cancelAnimationFrame(frame);
+    frame=requestAnimationFrame(()=>{
+      cover.style.setProperty('--cover-rx',`${(-y*4).toFixed(2)}deg`);
+      cover.style.setProperty('--cover-ry',`${(x*5).toFixed(2)}deg`);
+      cover.style.setProperty('--mark-x',`${(-x*14).toFixed(1)}px`);
+      cover.style.setProperty('--mark-y',`${(-y*11).toFixed(1)}px`);
+      cover.style.setProperty('--copy-x',`${(x*4).toFixed(1)}px`);
+      cover.style.setProperty('--copy-y',`${(y*3).toFixed(1)}px`);
+    });
+  },{passive:true});
+  stage.addEventListener('pointerleave',reset,{passive:true});
+  cover.addEventListener('blur',reset);
+})();
+
+function escapeHtml(value=''){
+  return String(value).replace(/[&<>"']/g, ch=>({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'
+  })[ch]);
+}
+
+function normalizeArabic(value=''){
+  return String(value)
+    .toLowerCase()
+    .normalize('NFKD')
+    .replace(/[\u064B-\u065F\u0670\u0640]/g,'')
+    .replace(/[إأآٱ]/g,'ا')
+    .replace(/ؤ/g,'و')
+    .replace(/ئ/g,'ي')
+    .replace(/ى/g,'ي')
+    .replace(/ة/g,'ه')
+    .replace(/[^\p{L}\p{N}\s]/gu,' ')
+    .replace(/\s+/g,' ')
+    .trim();
+}
+
 /* الوضع الليلي */
 (function(){
   const saved = store.get('theme');
   if(saved === 'dark'){ document.documentElement.setAttribute('data-theme','dark'); }
   const btn = $('#themeBtn'); if(!btn) return;
-  const sync = ()=> btn.textContent = document.documentElement.getAttribute('data-theme')==='dark' ? '☀️' : '🌙';
+  const sync = ()=> btn.textContent = document.documentElement.getAttribute('data-theme')==='dark' ? '☀' : '☾';
   sync();
   btn.addEventListener('click', ()=>{
     const dark = document.documentElement.getAttribute('data-theme')==='dark';
@@ -43,32 +104,92 @@ window.showToast = showToast;
   }, {passive:true});
 })();
 
-/* البحث الفوري */
+/* بحث عربي متسامح مع الهمزات والتشكيل والأخطاء الجزئية */
 (function(){
   const inp = $('#siteSearch'), box = $('#searchResults');
-  if(!inp || !box || typeof SEARCH_INDEX === 'undefined') return;
-  inp.addEventListener('input', ()=>{
-    const q = inp.value.trim();
-    if(q.length < 2){ box.classList.remove('open'); return; }
-    const hits = SEARCH_INDEX.filter(i => i.k.includes(q)).slice(0,8);
-    box.innerHTML = hits.length
-      ? hits.map(h=>`<a href="${R}${h.u}"><span class="sr-type">${h.type} · ${h.sub}</span><br>${h.t}</a>`).join('')
-      : `<div class="sr-empty">لا توجد نتائج مطابقة لـ«${q.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}»</div>`;
+  if(!inp || !box) return;
+  let items = typeof SEARCH_INDEX === 'undefined' ? [] : SEARCH_INDEX.map(i=>({...i}));
+  let loaded = false, active = -1, reportTimer;
+
+  async function loadFullIndex(){
+    if(loaded) return;
+    loaded = true;
+    try{
+      const res = await fetch(`${R}assets/article-index.json?v=44`, {cache:'force-cache'});
+      if(!res.ok) return;
+      const data = await res.json();
+      const byUrl = new Map(items.map(i=>[i.u,i]));
+      (data.articles||[]).forEach(i=>byUrl.set(i.u, {...byUrl.get(i.u), ...i}));
+      items = [...byUrl.values()];
+    }catch(e){}
+  }
+
+  function scoreItem(item, raw){
+    const q = normalizeArabic(raw);
+    const tokens = q.split(' ').filter(Boolean);
+    const title = normalizeArabic(item.t||'');
+    const sub = normalizeArabic(item.sub||'');
+    const text = normalizeArabic(`${item.k||''} ${item.d||''} ${item.h||''}`);
+    let score = 0;
+    if(title===q) score += 120;
+    if(title.startsWith(q)) score += 70;
+    if(title.includes(q)) score += 48;
+    if(sub.includes(q)) score += 24;
+    if(text.includes(q)) score += 18;
+    for(const token of tokens){
+      if(title.includes(token)) score += 14;
+      else if(text.includes(token)) score += 5;
+      else return 0;
+    }
+    return score;
+  }
+
+  function setActive(next){
+    const links = [...box.querySelectorAll('[role="option"]')];
+    if(!links.length){ active=-1; inp.removeAttribute('aria-activedescendant'); return; }
+    active = (next + links.length) % links.length;
+    links.forEach((a,i)=>a.classList.toggle('is-active', i===active));
+    inp.setAttribute('aria-activedescendant', links[active].id);
+  }
+
+  function render(){
+    const raw = inp.value.trim();
+    if(raw.length < 2){ box.classList.remove('open'); box.innerHTML=''; return; }
+    const hits = items.map(item=>({item,score:scoreItem(item,raw)}))
+      .filter(x=>x.score>0).sort((a,b)=>b.score-a.score).slice(0,10).map(x=>x.item);
+    active = -1;
+    box.innerHTML = hits.length ? hits.map((h,i)=>
+      `<a id="search-option-${i}" role="option" href="${R}${escapeHtml(h.u)}"><span class="sr-type">${escapeHtml(h.type||'مقال')} · ${escapeHtml(h.sub||'نَوَاة')}</span><strong>${escapeHtml(h.t)}</strong>${h.d?`<small>${escapeHtml(h.d)}</small>`:''}</a>`
+    ).join('') : `<div class="sr-empty">لم نجد نتيجة لـ«${escapeHtml(raw)}». جرّب كلمة أقصر مثل «سيرة» أو «Claude».</div>`;
     box.classList.add('open');
+    clearTimeout(reportTimer);
+    reportTimer=setTimeout(()=>trackEvent(hits.length?'search':'search_no_results',{search_term:raw,results:hits.length}),650);
+  }
+
+  inp.setAttribute('aria-autocomplete','list');
+  inp.setAttribute('aria-controls','searchResults');
+  inp.addEventListener('focus', ()=>loadFullIndex().then(()=>{ if(inp.value.trim().length>1) render(); }));
+  inp.addEventListener('input', render);
+  inp.addEventListener('keydown', e=>{
+    if(!box.classList.contains('open')) return;
+    if(e.key==='ArrowDown'){ e.preventDefault(); setActive(active+1); }
+    if(e.key==='ArrowUp'){ e.preventDefault(); setActive(active-1); }
+    if(e.key==='Enter' && active>=0){ e.preventDefault(); box.querySelectorAll('[role="option"]')[active].click(); }
+    if(e.key==='Escape'){ box.classList.remove('open'); inp.removeAttribute('aria-activedescendant'); }
   });
   document.addEventListener('click', e=>{ if(!e.target.closest('.search-box')) box.classList.remove('open'); });
 })();
 
 /* السلة */
 let cart = store.get('cart') || [];
-let discount = store.get('discount') || 0;
-function saveCart(){ store.set('cart', cart); store.set('discount', discount); }
+function saveCart(){ store.set('cart', cart); }
 function addToCart(id){
   const p = PRODUCTS.find(x=>x.id===id); if(!p) return;
   if(!cart.find(x=>x.id===id)){ cart.push({id:p.id, name:p.name, icon:p.icon, price:p.price}); saveCart(); renderCart(); }
+  trackEvent('add_to_cart',{currency:'SAR',value:p.price,items:[{item_id:String(p.id),item_name:p.name,price:p.price}]});
   showToast(`✅ أُضيف «${p.name}» إلى السلة`);
 }
-function removeFromCart(id){ cart = cart.filter(x=>x.id!==id); saveCart(); renderCart(); }
+function removeFromCart(id){ cart = cart.filter(x=>x.id!==id); saveCart(); renderCart(); trackEvent('remove_from_cart',{item_id:String(id)}); }
 window.addToCart = addToCart; window.removeFromCart = removeFromCart;
 function renderCart(){
   const count = $('#cartCount'); if(count) count.textContent = cart.length;
@@ -76,31 +197,32 @@ function renderCart(){
   if(!box) return;
   if(!cart.length){ box.innerHTML = '<p class="empty-cart">سلتك فارغة بعد.<br>تصفّح المتجر واختر ما يناسب رحلتك 🛍️</p>'; foot.style.display='none'; return; }
   box.innerHTML = cart.map(p=>`<div class="cart-item"><span>${p.icon} ${p.name}</span><span style="display:flex;gap:10px;align-items:center"><strong>${p.price.toLocaleString('ar-SA')} ر.س</strong><button onclick="removeFromCart(${p.id})" aria-label="إزالة من السلة">🗑</button></span></div>`).join('');
-  const sum = cart.reduce((s,p)=>s+p.price,0), total = Math.round(sum*(1-discount));
-  $('#cartTotal').innerHTML = discount ? `<s style="color:var(--muted);font-size:.85rem">${sum.toLocaleString('ar-SA')}</s> ${total.toLocaleString('ar-SA')} ر.س` : `${sum.toLocaleString('ar-SA')} ر.س`;
+  const sum = cart.reduce((s,p)=>s+p.price,0);
+  $('#cartTotal').textContent = `${sum.toLocaleString('ar-SA')} ر.س`;
   foot.style.display = 'block';
 }
 (function(){
   const d = $('#cartDrawer'); if(!d) return;
-  $('#cartBtn').addEventListener('click', ()=> d.classList.add('open'));
-  $('#cartClose').addEventListener('click', ()=> d.classList.remove('open'));
-  d.addEventListener('click', e=>{ if(e.target.id==='cartDrawer') d.classList.remove('open'); });
-  $('#couponBtn').addEventListener('click', ()=>{
-    const v = $('#couponInput').value.trim().toUpperCase();
-    if(v==='NAWAH20'){ discount=.2; saveCart(); renderCart(); showToast('🎉 تم تطبيق خصم 20%'); }
-    else showToast('الكود غير صحيح. جرّب NAWAH20');
+  const openBtn=$('#cartBtn'), closeBtn=$('#cartClose'), panel=d.querySelector('.drawer-panel');
+  let lastFocus=null;
+  function openDrawer(){ lastFocus=document.activeElement; d.classList.add('open'); d.setAttribute('aria-hidden','false'); document.body.classList.add('drawer-lock'); setTimeout(()=>closeBtn&&closeBtn.focus(),0); }
+  function closeDrawer(){ d.classList.remove('open'); d.setAttribute('aria-hidden','true'); document.body.classList.remove('drawer-lock'); if(lastFocus&&lastFocus.focus) lastFocus.focus(); }
+  if(openBtn) openBtn.addEventListener('click', openDrawer);
+  if(closeBtn) closeBtn.addEventListener('click', closeDrawer);
+  d.addEventListener('click', e=>{ if(e.target.id==='cartDrawer') closeDrawer(); });
+  d.addEventListener('keydown', e=>{
+    if(e.key==='Escape'){ closeDrawer(); return; }
+    if(e.key!=='Tab' || !panel) return;
+    const focusable=[...panel.querySelectorAll('button,a[href],input:not([disabled])')].filter(x=>x.offsetParent!==null);
+    if(!focusable.length) return;
+    const first=focusable[0], last=focusable[focusable.length-1];
+    if(e.shiftKey&&document.activeElement===first){ e.preventDefault(); last.focus(); }
+    else if(!e.shiftKey&&document.activeElement===last){ e.preventDefault(); first.focus(); }
   });
   $('#checkoutBtn').addEventListener('click', ()=>{
-    const P = (typeof PAYMENTS!=='undefined') ? PAYMENTS : {};
-    const links = cart.map(it=>P[it.id]).filter(Boolean);
-    if(cart.length===1 && links.length===1){ window.open(links[0],'_blank'); return; }
-    if(links.length===cart.length && links.length>0){
-      d.classList.remove('open');
-      showToast('🔗 سيُفتح الدفع لكل منتج في تبويب');
-      links.forEach((l,i)=>setTimeout(()=>window.open(l,'_blank'), i*400));
-      return;
-    }
-    showToast('🔒 لتفعيل الشراء: أضف روابط الدفع من لوحة التحكم (تبويب روابط الدفع).');
+    if(!cart.length) return;
+    trackEvent('begin_checkout',{currency:'SAR',value:cart.reduce((s,p)=>s+p.price,0),items:cart.map(p=>({item_id:String(p.id),item_name:p.name,price:p.price}))});
+    location.href=R+'checkout.html';
   });
   renderCart();
 })();
@@ -129,18 +251,45 @@ function renderCart(){
     </div>`).join('');
 })();
 
-/* فلترة الأرشيف (+ دعم ?cat=) */
+/* اكتشاف الأرشيف: موضوع + بحث عربي + مدة قراءة */
 (function(){
   const grid = $('#archiveGrid'); if(!grid) return;
   const cards = [...grid.querySelectorAll('.post-card')];
   const chips = [...document.querySelectorAll('#archiveCats .cat-chip')];
-  function apply(cat){
-    chips.forEach(b=>b.classList.toggle('on', b.dataset.cat===cat));
-    cards.forEach(c=>c.style.display = (cat==='الكل'||c.dataset.cat===cat) ? '' : 'none');
+  const cats=$('#archiveCats');
+  const controls=document.createElement('div'); controls.className='archive-discovery';
+  controls.innerHTML='<label><span>ابحث داخل الخمسين مقالاً</span><input type="search" id="archiveQuery" placeholder="مثال: سيرة، أتمتة، Claude" autocomplete="off"></label><label><span>مدة القراءة</span><select id="archiveDuration"><option value="all">كل المدد</option><option value="quick">حتى 16 دقيقة</option><option value="deep">17 دقيقة فأكثر</option></select></label><label><span>ترتيب النتائج</span><select id="archiveSort"><option value="editorial">ترتيب المحرر</option><option value="shortest">الأقصر أولاً</option><option value="deepest">الأعمق أولاً</option><option value="title">حسب العنوان</option></select></label><p id="archiveCount" aria-live="polite"></p>';
+  cats?.insertAdjacentElement('beforebegin',controls);
+  const query=controls.querySelector('#archiveQuery'), duration=controls.querySelector('#archiveDuration'), sort=controls.querySelector('#archiveSort'), count=controls.querySelector('#archiveCount');
+  const arabicDigits='٠١٢٣٤٥٦٧٨٩';
+  const minuteOf=card=>{const raw=card.querySelector('.card-meta span')?.textContent||'';const n=raw.match(/[٠-٩0-9]+/)?.[0]||'0';return Number([...n].map(ch=>arabicDigits.includes(ch)?arabicDigits.indexOf(ch):ch).join(''));};
+  const collator=new Intl.Collator('ar',{sensitivity:'base'});
+  cards.forEach((card,index)=>card.dataset.archiveOrder=String(index));
+  const state={cat:'الكل',q:'',duration:'all',sort:'editorial'};
+  function apply(){
+    const ordered=[...cards].sort((a,b)=>{
+      if(state.sort==='shortest') return minuteOf(a)-minuteOf(b);
+      if(state.sort==='deepest') return minuteOf(b)-minuteOf(a);
+      if(state.sort==='title') return collator.compare(a.querySelector('h3')?.textContent||'',b.querySelector('h3')?.textContent||'');
+      return Number(a.dataset.archiveOrder)-Number(b.dataset.archiveOrder);
+    });
+    ordered.forEach(card=>grid.appendChild(card));
+    chips.forEach(b=>b.classList.toggle('on', b.dataset.cat===state.cat));
+    let shown=0;
+    cards.forEach(c=>{
+      const minutes=minuteOf(c), copy=normalizeArabic(c.textContent);
+      const visible=(state.cat==='الكل'||c.dataset.cat===state.cat)&&(!state.q||copy.includes(normalizeArabic(state.q)))&&(state.duration==='all'||(state.duration==='quick'?minutes<=16:minutes>=17));
+      c.style.display=visible?'':'none'; if(visible) shown++;
+    });
+    count.textContent=`${shown.toLocaleString('ar-SA')} نتيجة من ${cards.length.toLocaleString('ar-SA')}`;
   }
-  chips.forEach(b=>b.addEventListener('click', ()=>apply(b.dataset.cat)));
-  const q = new URLSearchParams(location.search).get('cat');
-  if(q && chips.some(b=>b.dataset.cat===q)) apply(q);
+  chips.forEach(b=>b.addEventListener('click', ()=>{state.cat=b.dataset.cat;apply();trackEvent('archive_filter',{category:state.cat});}));
+  query.addEventListener('input',()=>{state.q=query.value.trim();apply();});
+  duration.addEventListener('change',()=>{state.duration=duration.value;apply();trackEvent('archive_filter',{duration:state.duration});});
+  sort.addEventListener('change',()=>{state.sort=sort.value;apply();trackEvent('archive_sort',{sort:state.sort});});
+  const cat = new URLSearchParams(location.search).get('cat');
+  if(cat && chips.some(b=>b.dataset.cat===cat)) state.cat=cat;
+  apply();
 })();
 
 /* فلترة الأدوات */
@@ -157,14 +306,42 @@ function renderCart(){
 /* الشراء المباشر عبر رابط الدفع */
 window.buyNow = function(id){
   const link = (typeof PAYMENTS!=='undefined') && PAYMENTS[id];
-  if(link){ window.open(link, '_blank'); return; }
+  const p = typeof PRODUCTS!=='undefined' && PRODUCTS.find(x=>x.id===id);
+  if(link){ trackEvent('begin_checkout',{currency:'SAR',value:p?.price||0,items:p?[{item_id:String(id),item_name:p.name,price:p.price}]:[]}); window.open(link, '_blank','noopener'); return; }
   addToCart(id);
-  const d = document.getElementById('cartDrawer'); if(d) d.classList.add('open');
+  document.getElementById('cartBtn')?.click();
 };
 
-/* النماذج */
-window.subscribe = function(e){ e.preventDefault(); e.target.reset(); showToast('🎉 تم الاشتراك! كتاب «خارطة الطريق» في طريقه إلى بريدك.'); };
-window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showToast('📨 استلمنا رسالتك وسنرد خلال 48 ساعة.'); };
+/* نماذج حقيقية: لا تظهر رسالة نجاح إلا بعد قبول الخادم */
+async function submitSiteForm(form, endpoint, successMessage, eventName){
+  const button=form.querySelector('[type="submit"]');
+  let status=form.querySelector('[data-form-status]');
+  if(!status){ status=document.createElement('p'); status.className='form-status'; status.dataset.formStatus=''; status.setAttribute('role','status'); status.setAttribute('aria-live','polite'); form.appendChild(status); }
+  const original=button?.textContent;
+  if(button){ button.disabled=true; button.textContent='جارٍ الإرسال…'; }
+  status.className='form-status is-loading'; status.textContent='جارٍ الإرسال…';
+  const payload=Object.fromEntries(new FormData(form).entries());
+  payload.source=location.pathname;
+  try{
+    const res=await fetch(`${R}api/${endpoint}`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});
+    let data={}; try{ data=await res.json(); }catch(e){}
+    if(!res.ok) throw new Error(data.message||'تعذّر الإرسال الآن. جرّب مرة أخرى أو تواصل معنا بالبريد.');
+    form.reset(); status.className='form-status is-success'; status.textContent=successMessage;
+    showToast(successMessage); trackEvent(eventName,{source:location.pathname});
+  }catch(err){
+    status.className='form-status is-error'; status.textContent=err.message||'تعذّر الإرسال الآن.';
+    trackEvent(`${eventName}_error`,{source:location.pathname});
+  }finally{
+    if(button){ button.disabled=false; button.textContent=original; }
+  }
+}
+window.subscribe = function(e){ e.preventDefault(); submitSiteForm(e.currentTarget,'subscribe','تم الاشتراك. راجع بريدك لتأكيد العنوان.','sign_up'); return false; };
+window.contactSubmit = function(e){ e.preventDefault(); submitSiteForm(e.currentTarget,'contact','وصلت رسالتك إلى فريق نَوَاة، وسنرد خلال 48 ساعة عمل.','generate_lead'); return false; };
+(function(){
+  const field=document.querySelector('.contact-form [name="subject"]');
+  const subject=new URLSearchParams(location.search).get('subject');
+  if(field&&subject){ field.value=subject.slice(0,160); field.focus(); }
+})();
 
 /* اختبار "ما مسارك؟" */
 (function(){
@@ -820,6 +997,117 @@ window.contactSubmit = function(e){ e.preventDefault(); e.target.reset(); showTo
 
 })();
 
+/* تجربة المقال: ملخص سريع، شفافية تحريرية، وحفظ للعودة لاحقاً */
+(function(){
+  const page=document.querySelector('.article-page'), body=document.querySelector('.article-body');
+  if(!page||!body) return;
+  const title=document.querySelector('.ah-title')?.textContent.trim()||document.title;
+  const excerpt=document.querySelector('.ah-excerpt')?.textContent.trim()||'';
+  const modified=document.querySelector('.ah-meta time')?.getAttribute('datetime')||'';
+  const path=location.pathname.split('/').pop();
+  const distinctions={
+    'p10.html':['اختبار مهام لا جدول مواصفات','هذا الدليل يحسم الاختيار عبر مهام عربية عملية. للمواصفات والخطط والأسعار راجع المقارنة المرجعية.','p13.html','المقارنة المرجعية بالأرقام'],
+    'p13.html':['مرجع المواصفات والخطط','هذه الصفحة تتابع الأسعار والحدود والمواصفات. للاختبار العملي بحسب المهمة راجع الدليل الميداني.','p10.html','الاختبار العملي بحسب المهمة'],
+    'p9.html':['وصفات أتمتة للعمل اليومي','يركز هذا الدليل على مسارات جاهزة وتوفير الوقت. لاختيار المنصة من الصفر راجع دليل المبتدئ.','p27.html','اختيار منصة الأتمتة للمبتدئ'],
+    'p27.html':['اختيار المنصة للمبتدئ','يركز هذا الدليل على الفرق بين n8n وZapier وMake. للوصفات الجاهزة راجع دليل أتمتة العمل.','p9.html','وصفات أتمتة جاهزة'],
+    'p15.html':['قراءة سوق العمل','يركز هذا التحليل على طبيعة الوظائف التي تتغير ولماذا. لخطة حماية مهنية عملية راجع الدليل التطبيقي.','p44.html','خطة حماية مستقبلك المهني'],
+    'p44.html':['خطة حماية مهنية','يركز هذا الدليل على المهارات والخطوات حتى 2030. لفهم تحولات سوق العمل راجع التحليل الأوسع.','p15.html','تحليل الوظائف المتغيرة'],
+    'p8.html':['مسار إلى أول وظيفة','خارطة مرنة من الأساسيات إلى ملف الأعمال والتوظيف. إذا أردت برنامجاً مكثفاً ومؤقتاً استخدم خطة 90 يوماً.','p16.html','برنامج 90 يوماً'],
+    'p16.html':['برنامج مكثف لمدة 90 يوماً','خطة أسبوعية لمن يستطيع الالتزام الجاد. للمسار المرن حتى أول وظيفة راجع الخارطة الكاملة.','p8.html','الخارطة المرنة لأول وظيفة'],
+    'p3.html':['متى تختار Claude؟','يركز هذا الدليل على حالات التفوق والقرار العملي. للشرح الشامل للميزات والمشاريع راجع المرجع الكامل.','p21.html','مرجع Claude الكامل'],
+    'p21.html':['مرجع Claude الكامل','يغطي المشاريع والمستندات وسير العمل بتفصيل. لقرار الاختيار السريع راجع الدليل العملي.','p3.html','متى تختار Claude؟']
+  };
+
+  const trust=document.createElement('aside');
+  trust.className='article-trust';
+  trust.setAttribute('aria-label','معلومات التحرير');
+  trust.innerHTML=`<div><span class="trust-mark" aria-hidden="true">ن</span><p><strong>محتوى تحريري من نَوَاة</strong><small>${modified?`آخر مراجعة: <time datetime="${escapeHtml(modified)}">${escapeHtml(modified)}</time> · `:''}<a href="${R}editorial.html">منهجية التحرير والتصحيح</a></small></p></div><a class="trust-report" href="${R}contact.html?subject=${encodeURIComponent('تصحيح معلومة: '+title)}">أبلغ عن معلومة قديمة</a>`;
+  body.insertBefore(trust,body.firstChild);
+
+  const headings=[...body.querySelectorAll(':scope > h2')].filter(h=>!['field-guide','deep-dive'].includes(h.id)).slice(0,4);
+  if(excerpt&&headings.length){
+    const quick=document.createElement('section');
+    quick.className='article-quick';
+    quick.innerHTML=`<span>ابدأ من هنا / دقيقة واحدة</span><h2>الخلاصة قبل التفاصيل</h2><p>${escapeHtml(excerpt)}</p><ul>${headings.map(h=>`<li><a href="#${escapeHtml(h.id)}">${escapeHtml(h.textContent)}</a></li>`).join('')}</ul>`;
+    const anchor=body.querySelector('.toc')||trust;
+    anchor.insertAdjacentElement('afterend',quick);
+  }
+
+  if(distinctions[path]){
+    const [label,copy,other,linkLabel]=distinctions[path];
+    const note=document.createElement('aside'); note.className='article-distinction';
+    note.innerHTML=`<span>زاوية هذا الدليل</span><h2>${escapeHtml(label)}</h2><p>${escapeHtml(copy)}</p><a href="${R}articles/${escapeHtml(other)}">${escapeHtml(linkLabel)} ←</a>`;
+    (body.querySelector('.article-quick')||trust).insertAdjacentElement('afterend',note);
+  }
+
+  const tools=document.createElement('div'); tools.className='article-reader-tools';
+  const saved=store.get('savedArticles')||[]; const isSaved=saved.some(x=>x.u===location.pathname);
+  tools.innerHTML=`<button type="button" data-save aria-pressed="${isSaved}">${isSaved?'محفوظ للعودة':'احفظ للعودة لاحقاً'}</button><a href="${R}saved.html">المقالات المحفوظة</a><button type="button" data-print>نسخة للطباعة</button>`;
+  (body.querySelector('.share-bar')||trust).insertAdjacentElement('afterend',tools);
+  tools.querySelector('[data-save]').addEventListener('click',e=>{
+    let list=store.get('savedArticles')||[]; const exists=list.some(x=>x.u===location.pathname);
+    list=exists?list.filter(x=>x.u!==location.pathname):[{u:location.pathname,t:title,savedAt:new Date().toISOString()},...list].slice(0,30);
+    store.set('savedArticles',list); e.currentTarget.setAttribute('aria-pressed',String(!exists)); e.currentTarget.textContent=exists?'احفظ للعودة لاحقاً':'محفوظ للعودة';
+    showToast(exists?'أُزيل المقال من المحفوظات':'حفظنا المقال على هذا الجهاز'); trackEvent(exists?'unsave_article':'save_article',{article_title:title});
+  });
+  tools.querySelector('[data-print]').addEventListener('click',()=>{ trackEvent('print_article',{article_title:title}); window.print(); });
+
+  const deep=document.querySelector('.nfg-deep-dive');
+  if(deep){
+    deep.classList.add('is-collapsed');
+    const toggle=document.createElement('button'); toggle.type='button'; toggle.className='deep-toggle'; toggle.setAttribute('aria-expanded','false');
+    toggle.innerHTML='<span>القسم المتقدم</span><strong>افتح التحليل الموسّع وخطة التطبيق</strong><small>للقراءة المتعمقة — يمكنك فتحه عند الحاجة</small>';
+    deep.insertAdjacentElement('beforebegin',toggle);
+    toggle.addEventListener('click',()=>{
+      const expanded=toggle.getAttribute('aria-expanded')==='true';
+      toggle.setAttribute('aria-expanded',String(!expanded)); deep.classList.toggle('is-collapsed',expanded);
+      toggle.querySelector('strong').textContent=expanded?'افتح التحليل الموسّع وخطة التطبيق':'أغلق القسم المتقدم';
+      trackEvent(expanded?'collapse_deep_dive':'expand_deep_dive',{article_title:title});
+    });
+    document.querySelectorAll('a[href="#deep-dive"]').forEach(link=>link.addEventListener('click',e=>{
+      if(!deep.classList.contains('is-collapsed')) return;
+      e.preventDefault(); toggle.click(); requestAnimationFrame(()=>deep.scrollIntoView({behavior:'smooth',block:'start'}));
+    }));
+  }
+
+  const milestones=new Set();
+  window.addEventListener('scroll',()=>{
+    const max=document.documentElement.scrollHeight-innerHeight; if(max<=0) return;
+    const percent=Math.round(scrollY/max*100);
+    [25,50,75,90].forEach(mark=>{ if(percent>=mark&&!milestones.has(mark)){ milestones.add(mark); trackEvent('article_scroll',{article_title:title,percent_scrolled:mark}); } });
+  },{passive:true});
+  body.addEventListener('click',e=>{
+    const a=e.target.closest('a'); if(!a) return;
+    if(a.closest('.toc')) trackEvent('toc_click',{article_title:title,section:a.textContent.trim()});
+    if(a.closest('.nfg-sources')) trackEvent('source_click',{article_title:title,url:a.href});
+    if(a.closest('.share-bar')) trackEvent('share',{article_title:title,method:a.textContent.trim()});
+  });
+})();
+
+/* مكتبة المقالات المحفوظة على هذا الجهاز */
+(function(){
+  const list=$('#savedList'); if(!list) return;
+  const items=store.get('savedArticles')||[];
+  if(!items.length){ list.innerHTML='<div class="saved-empty"><span>لا توجد محفوظات بعد</span><h2>احفظ ما تريد الرجوع إليه</h2><p>ستجد زر الحفظ أعلى كل مقال. تبقى القائمة على هذا الجهاز ولا تُرسل إلى أي خادم.</p><a class="btn btn-primary" href="archive.html">تصفح المقالات</a></div>'; return; }
+  list.innerHTML=items.map((item,i)=>`<article class="saved-item"><span>${String(i+1).padStart(2,'0')}</span><a href="${escapeHtml(item.u)}"><small>مقال محفوظ</small><h2>${escapeHtml(item.t)}</h2></a><button type="button" data-remove="${i}" aria-label="إزالة ${escapeHtml(item.t)}">إزالة</button></article>`).join('');
+  list.addEventListener('click',e=>{ const b=e.target.closest('[data-remove]'); if(!b)return; const next=(store.get('savedArticles')||[]).filter((_,i)=>i!==+b.dataset.remove); store.set('savedArticles',next); location.reload(); });
+})();
+
+/* صفحة دفع وسيطة صريحة تمنع فتح تبويبات متعددة آلياً */
+(function(){
+  const box=$('#checkoutItems'); if(!box || typeof PRODUCTS==='undefined') return;
+  const total=$('#checkoutTotal'), empty=$('#checkoutEmpty'), note=$('#checkoutMultiNote');
+  const chosen=(store.get('cart')||[]).map(c=>PRODUCTS.find(p=>p.id===c.id)).filter(Boolean);
+  if(!chosen.length){ box.hidden=true; if(empty) empty.hidden=false; return; }
+  if(note) note.hidden=chosen.length<2;
+  box.innerHTML=chosen.map((p,i)=>{
+    const href=typeof PAYMENTS!=='undefined'&&PAYMENTS[p.id];
+    return `<article class="checkout-item"><span class="checkout-step">${String(i+1).padStart(2,'0')}</span><div><small>${escapeHtml(p.type)}</small><h2>${escapeHtml(p.name)}</h2><p>${escapeHtml(p.desc)}</p></div><div class="checkout-price"><strong>${p.price.toLocaleString('ar-SA')} ر.س</strong>${href?`<a href="${escapeHtml(href)}" target="_blank" rel="noopener" data-pay="${p.id}">الانتقال للدفع الآمن</a>`:'<span>رابط الدفع غير متاح</span>'}</div></article>`;
+  }).join('');
+  if(total) total.textContent=chosen.reduce((s,p)=>s+p.price,0).toLocaleString('ar-SA')+' ر.س';
+  box.addEventListener('click',e=>{ const a=e.target.closest('[data-pay]'); if(!a)return; const p=chosen.find(x=>x.id===+a.dataset.pay); trackEvent('select_payment',{currency:'SAR',value:p?.price||0,item_id:a.dataset.pay}); });
+})();
+
 /* تسجيل عامل الخدمة (PWA) */
 if('serviceWorker' in navigator && location.protocol === 'https:'){
   navigator.serviceWorker.register(R + 'sw.js').catch(()=>{});
@@ -840,4 +1128,53 @@ if('serviceWorker' in navigator && location.protocol === 'https:'){
       t.setAttribute('aria-expanded','false');
     });
   });
+})();
+
+/* ===== تحسينات تجربة القراءة والتنقل — إصدار نَوَاة التحريري ===== */
+(function(){
+  const nav = document.getElementById('navLinks');
+  const toggle = document.getElementById('navToggle');
+  if(nav){
+    const path = location.pathname.replace(/\/$/, '/index.html');
+    nav.querySelectorAll('a').forEach(a=>{
+      const href = (a.getAttribute('href')||'').split('#')[0].split('?')[0];
+      const file = href.split('/').pop();
+      const isArticle = /\/(?:articles|topics)\//.test(path) && /archive\.html$/.test(href);
+      const isCurrent = file && path.endsWith('/'+file);
+      a.classList.toggle('active', Boolean(isArticle || isCurrent));
+    });
+    document.addEventListener('keydown', e=>{
+      if(e.key==='Escape' && nav.classList.contains('open')){
+        nav.classList.remove('open');
+        if(toggle){ toggle.setAttribute('aria-expanded','false'); toggle.focus(); }
+      }
+    });
+  }
+
+  const article = document.querySelector('.article-body');
+  if(!article) return;
+
+  // زمن القراءة يُحسب من النص المنشور فعلياً بعد الإثراء، لا من رقم ثابت قديم.
+  const copy = article.cloneNode(true);
+  copy.querySelectorAll('.share-bar,.toc,.ad-slot,.related,.article-cta,.nfg-sources').forEach(el=>el.remove());
+  const measuredWords = (copy.textContent.match(/[\p{L}\p{N}]+/gu)||[]).length;
+  const words = Number(article.dataset.wordCount) || measuredWords;
+  const minutes = Math.max(10, Math.ceil(words/155));
+  document.querySelectorAll('.ah-meta span').forEach(el=>{
+    if(el.textContent.includes('قراءة')) el.textContent = `⏱ ${minutes.toLocaleString('ar-SA')} دقيقة قراءة معمّقة · ${words.toLocaleString('ar-SA')} كلمة`;
+  });
+
+  // تمييز موضع القارئ داخل جدول المحتويات.
+  const links = [...document.querySelectorAll('.toc a[href^="#"]')];
+  if('IntersectionObserver' in window && links.length){
+    const map = new Map(links.map(a=>[decodeURIComponent(a.hash.slice(1)),a]));
+    const headings = [...article.querySelectorAll('h2[id]')].filter(h=>map.has(h.id));
+    const observer = new IntersectionObserver(entries=>{
+      const current = entries.filter(x=>x.isIntersecting).sort((a,b)=>a.boundingClientRect.top-b.boundingClientRect.top)[0];
+      if(!current) return;
+      links.forEach(a=>a.classList.remove('active'));
+      map.get(current.target.id)?.classList.add('active');
+    },{rootMargin:'-18% 0px -68% 0px',threshold:[0,1]});
+    headings.forEach(h=>observer.observe(h));
+  }
 })();

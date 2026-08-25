@@ -1,12 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="صناعة المحتوى">
-  <defs>
-    <linearGradient id="g48693" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E8F8F"/><stop offset="1" stop-color="#221E66"/></linearGradient>
-    <radialGradient id="g48693r" cx="0.75" cy="0.25" r="0.9"><stop offset="0" stop-color="#34D3C0" stop-opacity="0.35"/><stop offset="0.6" stop-color="#34D3C0" stop-opacity="0"/></radialGradient>
-  </defs>
-  <rect width="1200" height="630" fill="url(#g48693)"/><rect width="1200" height="630" fill="url(#g48693r)"/>
-  <line x1="801" y1="296" x2="148" y2="300" stroke="#34D3C0" stroke-width="1.2" opacity="0.07"/><line x1="207" y1="209" x2="109" y2="234" stroke="#34D3C0" stroke-width="1.2" opacity="0.07"/><line x1="106" y1="479" x2="135" y2="459" stroke="#34D3C0" stroke-width="1.2" opacity="0.07"/><line x1="1036" y1="207" x2="468" y2="210" stroke="#34D3C0" stroke-width="1.2" opacity="0.07"/><line x1="158" y1="175" x2="240" y2="184" stroke="#34D3C0" stroke-width="1.2" opacity="0.07"/><line x1="923" y1="522" x2="177" y2="513" stroke="#34D3C0" stroke-width="1.2" opacity="0.07"/><line x1="931" y1="423" x2="255" y2="427" stroke="#34D3C0" stroke-width="1.2" opacity="0.07"/><line x1="570" y1="347" x2="593" y2="358" stroke="#34D3C0" stroke-width="1.2" opacity="0.07"/><circle cx="837" cy="311" r="6" fill="#34D3C0" opacity="0.1"/><circle cx="600" cy="227" r="4" fill="#34D3C0" opacity="0.1"/><circle cx="425" cy="81" r="3" fill="#34D3C0" opacity="0.1"/><circle cx="170" cy="203" r="3" fill="#34D3C0" opacity="0.1"/><circle cx="1010" cy="362" r="5" fill="#34D3C0" opacity="0.1"/><circle cx="570" cy="86" r="5" fill="#34D3C0" opacity="0.1"/><circle cx="636" cy="556" r="5" fill="#34D3C0" opacity="0.1"/><circle cx="278" cy="309" r="6" fill="#34D3C0" opacity="0.1"/><circle cx="131" cy="140" r="4" fill="#34D3C0" opacity="0.1"/><circle cx="769" cy="83" r="3" fill="#34D3C0" opacity="0.1"/><circle cx="222" cy="200" r="5" fill="#34D3C0" opacity="0.1"/><circle cx="886" cy="551" r="3" fill="#34D3C0" opacity="0.1"/>
-  <text x="600" y="150" text-anchor="middle" fill="#34D3C0" font-size="30" font-weight="600" font-family="'IBM Plex Sans Arabic',sans-serif">صناعة المحتوى</text>
-  <line x1="500" y1="180" x2="700" y2="180" stroke="#34D3C0" stroke-width="2" opacity="0.6"/>
-  <text x="600" y="277" text-anchor="middle" fill="#FFFFFF" font-size="56" font-weight="800" font-family="'Changa',sans-serif">تحرير الفيديو بالذكاء</text><text x="600" y="349" text-anchor="middle" fill="#FFFFFF" font-size="56" font-weight="800" font-family="'Changa',sans-serif">الاصطناعي</text>
-  <text x="600" y="540" text-anchor="middle" fill="#FFFFFF" font-size="28" font-weight="600" font-family="'Changa',sans-serif" opacity="0.85">نَوَاة</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title desc">
+  <title id="title">تحرير الفيديو بالذكاء الاصطناعي: من ساعات مونتاج إلى دقائق</title><desc id="desc">غلاف تحريري من نَوَاة ضمن قسم صناعة المحتوى</desc>
+  <rect width="1200" height="630" fill="#3F493B"/>
+  <rect width="390" height="630" fill="#251C18"/>
+  <rect x="390" width="9" height="630" fill="#D8B889"/>
+  <path d="M428 82H1120M428 542H1120" stroke="#D8B889" stroke-width="1" opacity=".42"/>
+  <path d="M1120 82v38M428 504v38" stroke="#D8B889" stroke-width="3"/>
+  <g transform="translate(0 14)"><rect x="72" y="190" width="78" height="78" fill="none" stroke="#D8B889" stroke-width="4" opacity=".78"/><rect x="166" y="190" width="126" height="78" fill="none" stroke="#D8B889" stroke-width="4" opacity=".78"/><rect x="72" y="284" width="126" height="126" fill="none" stroke="#D8B889" stroke-width="4" opacity=".78"/><rect x="214" y="284" width="78" height="126" fill="none" stroke="#D8B889" stroke-width="4" opacity=".78"/><circle cx="253" cy="229" r="12" fill="#D8B889"/></g>
+  <text x="58" y="70" fill="#D8B889" font-family="Alexandria,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="3">NAWAH / 39</text>
+  <text x="58" y="550" fill="#D8B889" font-family="Alexandria,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="2">TOOLS</text>
+  <text x="58" y="584" fill="#D8B889" opacity=".78" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="22" font-weight="700">الأدوات</text>
+  <text x="335" y="505" text-anchor="end" fill="#D8B889" opacity=".2" font-family="Alexandria,Arial,sans-serif" font-size="158" font-weight="800">39</text>
+  <text x="1100" y="124" text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#D8B889" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="25" font-weight="700">صناعة المحتوى</text>
+  <text text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#FCF8EF" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="57" font-weight="800"><tspan x="1100" y="199">تحرير الفيديو بالذكاء</tspan><tspan x="1100" y="270">الاصطناعي: من ساعات مونتاج</tspan><tspan x="1100" y="341">إلى دقائق</tspan></text>
+  <text x="1100" y="580" text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#CBD0C1" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="22" font-weight="600">١٨ دقيقة قراءة معمّقة</text>
+  <text x="428" y="580" fill="#CBD0C1" font-family="Alexandria,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">NAWAHLABS.COM</text>
+  <circle cx="406" cy="82" r="6" fill="#D8B889"/><circle cx="406" cy="542" r="6" fill="#D8B889"/>
 </svg>

@@ -1,22 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="ChatGPT">
-  <defs>
-    <linearGradient id="g52508" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0E8F8F"/>
-      <stop offset="1" stop-color="#221E66"/>
-    </linearGradient>
-    <radialGradient id="g52508r" cx="0.75" cy="0.25" r="0.9">
-      <stop offset="0" stop-color="#34D3C0" stop-opacity="0.35"/>
-      <stop offset="0.6" stop-color="#34D3C0" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="630" fill="url(#g52508)"/>
-  <rect width="1200" height="630" fill="url(#g52508r)"/>
-  <line x1="818" y1="187" x2="805" y2="93" stroke="#34D3C0" stroke-width="1.2" opacity="0.24"/><line x1="818" y1="187" x2="776" y2="210" stroke="#34D3C0" stroke-width="1.2" opacity="0.28"/><line x1="818" y1="187" x2="655" y2="138" stroke="#34D3C0" stroke-width="1.2" opacity="0.18"/><line x1="818" y1="187" x2="1014" y2="425" stroke="#34D3C0" stroke-width="1.2" opacity="0.08"/><line x1="818" y1="187" x2="1003" y2="452" stroke="#34D3C0" stroke-width="1.2" opacity="0.06"/><line x1="805" y1="93" x2="776" y2="210" stroke="#34D3C0" stroke-width="1.2" opacity="0.22"/><line x1="805" y1="93" x2="655" y2="138" stroke="#34D3C0" stroke-width="1.2" opacity="0.2"/><line x1="307" y1="541" x2="306" y2="308" stroke="#34D3C0" stroke-width="1.2" opacity="0.13"/><line x1="307" y1="541" x2="454" y2="354" stroke="#34D3C0" stroke-width="1.2" opacity="0.13"/><line x1="307" y1="541" x2="448" y2="322" stroke="#34D3C0" stroke-width="1.2" opacity="0.11"/><line x1="776" y1="210" x2="655" y2="138" stroke="#34D3C0" stroke-width="1.2" opacity="0.21"/><line x1="776" y1="210" x2="1014" y2="425" stroke="#34D3C0" stroke-width="1.2" opacity="0.07"/><line x1="776" y1="210" x2="1003" y2="452" stroke="#34D3C0" stroke-width="1.2" opacity="0.06"/><line x1="655" y1="138" x2="454" y2="354" stroke="#34D3C0" stroke-width="1.2" opacity="0.09"/><line x1="655" y1="138" x2="448" y2="322" stroke="#34D3C0" stroke-width="1.2" opacity="0.1"/><line x1="1014" y1="425" x2="1088" y2="483" stroke="#34D3C0" stroke-width="1.2" opacity="0.25"/><line x1="1014" y1="425" x2="1003" y2="452" stroke="#34D3C0" stroke-width="1.2" opacity="0.3"/><line x1="306" y1="308" x2="454" y2="354" stroke="#34D3C0" stroke-width="1.2" opacity="0.2"/><line x1="306" y1="308" x2="448" y2="322" stroke="#34D3C0" stroke-width="1.2" opacity="0.21"/><line x1="454" y1="354" x2="448" y2="322" stroke="#34D3C0" stroke-width="1.2" opacity="0.29"/><line x1="1088" y1="483" x2="1003" y2="452" stroke="#34D3C0" stroke-width="1.2" opacity="0.25"/><circle cx="818" cy="187" r="4" fill="#34D3C0" opacity="0.55"/><circle cx="805" cy="93" r="4" fill="#34D3C0" opacity="0.55"/><circle cx="307" cy="541" r="4" fill="#34D3C0" opacity="0.55"/><circle cx="776" cy="210" r="2.5" fill="#34D3C0" opacity="0.55"/><circle cx="655" cy="138" r="3" fill="#34D3C0" opacity="0.55"/><circle cx="1014" cy="425" r="2.5" fill="#34D3C0" opacity="0.55"/><circle cx="306" cy="308" r="3" fill="#34D3C0" opacity="0.55"/><circle cx="454" cy="354" r="4" fill="#34D3C0" opacity="0.55"/><circle cx="448" cy="322" r="4" fill="#34D3C0" opacity="0.55"/><circle cx="1088" cy="483" r="4" fill="#34D3C0" opacity="0.55"/><circle cx="1003" cy="452" r="3" fill="#34D3C0" opacity="0.55"/>
-  <circle cx="1070" cy="120" r="54" fill="#FBFAF6" opacity="0.12"/>
-  <text x="1070" y="120" font-size="52" text-anchor="middle" dominant-baseline="central">💬</text>
-  <g font-family="'Changa','Segoe UI',sans-serif" fill="#FBFAF6">
-    <rect x="64" y="480" width="14" height="86" rx="4" fill="#34D3C0"/>
-    <text x="92" y="520" font-size="30" font-weight="700" opacity="0.92">ChatGPT</text>
-    <text x="92" y="564" font-size="22" opacity="0.6">nawahlabs.com · نَوَاة</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title desc">
+  <title id="title">دليل ChatGPT الشامل للمبتدئين: من أول محادثة إلى الاستخدام الاحترافي</title><desc id="desc">غلاف تحريري من نَوَاة ضمن قسم ChatGPT</desc>
+  <rect width="1200" height="630" fill="#2A201B"/>
+  <rect width="390" height="630" fill="#B8573D"/>
+  <rect x="390" width="9" height="630" fill="#E5C08E"/>
+  <path d="M428 82H1120M428 542H1120" stroke="#E5C08E" stroke-width="1" opacity=".42"/>
+  <path d="M1120 82v38M428 504v38" stroke="#E5C08E" stroke-width="3"/>
+  <g transform="translate(9 0)" fill="none" stroke="#E5C08E" stroke-width="4" opacity=".78"><path d="M72 206h196v104H148l-43 36 10-36H72z"/><path d="M108 356h184v86H181l-36 29 8-29h-45z"/><circle cx="115" cy="258" r="8" fill="#E5C08E"/><circle cx="150" cy="258" r="8" fill="#E5C08E"/><circle cx="185" cy="258" r="8" fill="#E5C08E"/></g>
+  <text x="58" y="70" fill="#E5C08E" font-family="Alexandria,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="3">NAWAH / 01</text>
+  <text x="58" y="550" fill="#E5C08E" font-family="Alexandria,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="2">CHAT</text>
+  <text x="58" y="584" fill="#E5C08E" opacity=".78" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="22" font-weight="700">ChatGPT</text>
+  <text x="335" y="505" text-anchor="end" fill="#E5C08E" opacity=".2" font-family="Alexandria,Arial,sans-serif" font-size="158" font-weight="800">01</text>
+  <text x="1100" y="124" text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#E5C08E" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="25" font-weight="700">ChatGPT</text>
+  <text text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#FCF8EF" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="57" font-weight="800"><tspan x="1100" y="199">دليل ChatGPT الشامل للمبتدئين:</tspan><tspan x="1100" y="270">من أول محادثة إلى الاستخدام</tspan><tspan x="1100" y="341">الاحترافي</tspan></text>
+  <text x="1100" y="580" text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#D7C9C0" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="22" font-weight="600">٢٠ دقيقة قراءة معمّقة</text>
+  <text x="428" y="580" fill="#D7C9C0" font-family="Alexandria,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">NAWAHLABS.COM</text>
+  <circle cx="406" cy="82" r="6" fill="#E5C08E"/><circle cx="406" cy="542" r="6" fill="#E5C08E"/>
 </svg>

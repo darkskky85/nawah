@@ -1,19 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="ريادة الأعمال">
-  <defs>
-    <linearGradient id="g62023" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#34308F"/>
-      <stop offset="1" stop-color="#221E66"/>
-    </linearGradient>
-    <radialGradient id="g62023r" cx="0.75" cy="0.25" r="0.9">
-      <stop offset="0" stop-color="#7B6FE0" stop-opacity="0.35"/>
-      <stop offset="0.6" stop-color="#7B6FE0" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="630" fill="url(#g62023)"/>
-  <rect width="1200" height="630" fill="url(#g62023r)"/>
-  <line x1="216" y1="432" x2="125" y2="446" stroke="#7B6FE0" stroke-width="1.2" opacity="0.07"/><line x1="304" y1="213" x2="381" y2="211" stroke="#7B6FE0" stroke-width="1.2" opacity="0.07"/><line x1="821" y1="256" x2="824" y2="245" stroke="#7B6FE0" stroke-width="1.2" opacity="0.07"/><line x1="131" y1="65" x2="233" y2="51" stroke="#7B6FE0" stroke-width="1.2" opacity="0.07"/><line x1="435" y1="271" x2="327" y2="256" stroke="#7B6FE0" stroke-width="1.2" opacity="0.07"/><line x1="179" y1="389" x2="239" y2="370" stroke="#7B6FE0" stroke-width="1.2" opacity="0.07"/><line x1="173" y1="377" x2="207" y2="380" stroke="#7B6FE0" stroke-width="1.2" opacity="0.07"/><line x1="730" y1="549" x2="654" y2="567" stroke="#7B6FE0" stroke-width="1.2" opacity="0.07"/><circle cx="372" cy="568" r="4" fill="#7B6FE0" opacity="0.1"/><circle cx="899" cy="148" r="5" fill="#7B6FE0" opacity="0.1"/><circle cx="392" cy="331" r="3" fill="#7B6FE0" opacity="0.1"/><circle cx="706" cy="247" r="3" fill="#7B6FE0" opacity="0.1"/><circle cx="899" cy="137" r="3" fill="#7B6FE0" opacity="0.1"/><circle cx="561" cy="466" r="6" fill="#7B6FE0" opacity="0.1"/><circle cx="340" cy="272" r="3" fill="#7B6FE0" opacity="0.1"/><circle cx="591" cy="506" r="4" fill="#7B6FE0" opacity="0.1"/><circle cx="920" cy="206" r="5" fill="#7B6FE0" opacity="0.1"/><circle cx="480" cy="563" r="4" fill="#7B6FE0" opacity="0.1"/><circle cx="358" cy="501" r="4" fill="#7B6FE0" opacity="0.1"/><circle cx="848" cy="468" r="3" fill="#7B6FE0" opacity="0.1"/>
-  <text x="600" y="150" text-anchor="middle" fill="#7B6FE0" font-size="30" font-weight="600" font-family="'IBM Plex Sans Arabic',sans-serif">ريادة الأعمال</text>
-  <line x1="500" y1="180" x2="700" y2="180" stroke="#7B6FE0" stroke-width="2" opacity="0.6"/>
-  <text x="600" y="315" text-anchor="middle" fill="#FFFFFF" font-size="56" font-weight="800" font-family="'Changa',sans-serif">بناء علامتك الشخصية</text>
-  <text x="600" y="540" text-anchor="middle" fill="#FFFFFF" font-size="28" font-weight="600" font-family="'Changa',sans-serif" opacity="0.85">نَوَاة</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title desc">
+  <title id="title">بناء علامتك الشخصية بالذكاء الاصطناعي: من مجهول إلى مرجع في مجالك</title><desc id="desc">غلاف تحريري من نَوَاة ضمن قسم ريادة الأعمال</desc>
+  <rect width="1200" height="630" fill="#5B2D26"/>
+  <rect width="390" height="630" fill="#C8B28C"/>
+  <rect x="390" width="9" height="630" fill="#D3A36B"/>
+  <path d="M428 82H1120M428 542H1120" stroke="#D3A36B" stroke-width="1" opacity=".42"/>
+  <path d="M1120 82v38M428 504v38" stroke="#D3A36B" stroke-width="3"/>
+  <g transform="translate(18 14)"><path d="M68 405h70v-82h70v-76h70v-70" fill="none" stroke="#D3A36B" stroke-width="4" opacity=".78"/><circle cx="103" cy="405" r="9" fill="#D3A36B"/><circle cx="173" cy="323" r="9" fill="#D3A36B"/><circle cx="243" cy="247" r="9" fill="#D3A36B"/><path d="M278 177l-20 10m20-10l-4 22" fill="none" stroke="#D3A36B" stroke-width="4" opacity=".78"/></g>
+  <text x="58" y="70" fill="#D3A36B" font-family="Alexandria,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="3">NAWAH / 35</text>
+  <text x="58" y="550" fill="#D3A36B" font-family="Alexandria,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="2">BUILD</text>
+  <text x="58" y="584" fill="#D3A36B" opacity=".78" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="22" font-weight="700">الاقتصاد</text>
+  <text x="335" y="505" text-anchor="end" fill="#D3A36B" opacity=".2" font-family="Alexandria,Arial,sans-serif" font-size="158" font-weight="800">35</text>
+  <text x="1100" y="124" text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#D3A36B" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="25" font-weight="700">ريادة الأعمال</text>
+  <text text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#FCF8EF" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="57" font-weight="800"><tspan x="1100" y="199">بناء علامتك الشخصية بالذكاء</tspan><tspan x="1100" y="270">الاصطناعي: من مجهول إلى</tspan><tspan x="1100" y="341">مرجع في مجالك</tspan></text>
+  <text x="1100" y="580" text-anchor="start" direction="rtl" unicode-bidi="embed" fill="#E4D5C8" font-family="Arial,'Noto Naskh Arabic',sans-serif" font-size="22" font-weight="600">١٨ دقيقة قراءة معمّقة</text>
+  <text x="428" y="580" fill="#E4D5C8" font-family="Alexandria,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">NAWAHLABS.COM</text>
+  <circle cx="406" cy="82" r="6" fill="#D3A36B"/><circle cx="406" cy="542" r="6" fill="#D3A36B"/>
 </svg>

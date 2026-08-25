@@ -1,6 +1,6 @@
-/* نَوَاة — عامل الخدمة (PWA) v2 */
-const CACHE='nawah-v2';
-const CORE=['index.html','archive.html','assets/style.css','assets/main.js','assets/data.js','assets/icon-192.png','manifest.json'];
+/* نَوَاة — عامل الخدمة (PWA) v44 */
+const CACHE='nawah-v44';
+const CORE=['index.html','store.html','archive.html','editorial.html','saved.html','topics/chatgpt.html','topics/claude.html','topics/gemini.html','topics/ai-tools.html','topics/ai-business.html','topics/learn-ai.html','assets/style.css?v=44','assets/main.js?v=44','assets/data.js?v=44','assets/consent.js?v=44','assets/article-index.json?v=44','assets/icon-192.png','manifest.json'];
 
 /* مسارات تُجلب من الشبكة دائماً (الأخبار + بياناتها) كي لا تظهر نسخة قديمة */
 const NETWORK_FIRST=['news.html','news-data.js','feed.xml'];
