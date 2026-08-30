@@ -1,45 +1,85 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-30T18:31:08.081370+00:00",
+ "updated": "2026-08-30T23:19:10.311895+00:00",
  "items": [
   {
-   "title": "مسك يراهن على التوربينات الغازية لتسريع الإنتاج رغم مخاوف التلوث",
-   "summary": "أعلن إيلون مسك عن مسبك سري جديد في سبيس إكس لتصنيع شفرات التوربين بسرعة أكبر، مما قد يسرع توفر الطاقة الغازية بـ 18 شهراً. غير أن هذا الخيار يعتمد على وقود أحفوري يواجه اعتراضات قانونية وقلقاً صحياً متزايداً في المناطق التي انتشرت فيها التوربينات المماثلة.",
+   "title": "مسك يسعى لتسريع إنتاج التوربينات الغازية بطرق جديدة لكن بتكاليف بيئية",
+   "summary": "أعلن إيلون مسك عن منشأة تصنيع سرية تابعة لـ SpaceX ستمكنه من صب شفرات التوربينات بنفسه وتسريع توظيف الطاقة الغازية بـ 18 شهراً مقارنة بالمنافسين. لكن هذا الرهان على وقود أحفوري يثير مخاوف صحية وقانونية في المناطق التي نُشرت فيها هذه التوربينات.",
    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-30"
   },
   {
-   "title": "كاتربيلر تطبّق خبرتها في أتمتة التعدين على نشر الذكاء الاصطناعي",
-   "summary": "تستفيد شركة كاتربيلر من عقود من التجربة في تشغيل الآلات المستقلة في مواقع التعدين النائية لتطبيق تلك الدروس على مشاريع نشر الذكاء الاصطناعي. تنقل الشركة بذلك معرفتها بإدارة الأنظمة الآلية المعقدة في بيئات صعبة إلى مجال التطبيقات الذكية الحديثة.",
+   "title": "كاتربيلر تطبق خبرتها في أتمتة التعدين على نشر تطبيقات الذكاء الاصطناعي",
+   "summary": "تستفيد شركة كاتربيلار من عقود من الخبرة في تشغيل الآليات المستقلة في مواقع التعدين النائية، وتوظف هذه المعرفة الآن في مجال نشر حلول الذكاء الاصطناعي على نطاق واسع.",
    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-30"
   },
   {
-   "title": "حاكم تكساس يوقف تمويل كاميرات فلوك الموجهة بالذكاء الاصطناعي",
-   "summary": "جمّد الحاكم جريج أبوت صرف أموال ولاية تكساس على شراء كاميرات المراقبة من فلوك وسط معارضة متنامية لها. الخطوة جاءت قبل نشر تحقيق كشف أن الولاية أنفقت أكثر من 30 مليون دولار على هذه الكاميرات في السابق.",
+   "title": "حاكم تكساس يوقف تمويل كاميرات مراقبة Flock الذكية",
+   "summary": "جمّد الحاكم غريغ أبوت تمويل الولاية لكاميرات المراقبة الذكية من Flock وسط تنامي الانتقادات، وذلك قبل نشر تحقيق كشف أن الولاية أنفقت أكثر من 30 مليون دولار على هذه الأجهزة.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-30"
   },
   {
-   "title": "دعاوى قضائية من شركات الموسيقى العملاقة ضد أنثروبيك",
-   "summary": "رفعت سوني ميوزك بابليشينج وورنر تشابيل دعوى قضائية ضد أنثروبيك في محكمة اتحادية بكاليفورنيا بسبب استخدام عشرات الآلاف من الأعمال الموسيقية المحمية. تطالب الشركتان بتعويضات قد تصل إلى 150 ألف دولار لكل عمل و25 ألف دولار لكل حالة استخدام محددة.",
+   "title": "شركات موسيقية كبرى تقاضي Anthropic على استخدام أعمال محمية بحقوق",
+   "summary": "رفعت Sony Music Publishing و Warner Chappell دعوى قضائية ضد Anthropic في محكمة فيدرالية بكاليفورنيا بسبب استخدام آلاف الأعمال الموسيقية المحمية بحقوق طبع، طالبة بتعويضات تصل إلى 150 ألف دولار لكل عمل.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-08-30"
   },
   {
-   "title": "عصر الذكاء الاصطناعي المضطرب بدأ فعلاً، والقرارات الحالية حاسمة",
-   "summary": "يؤكد بيل غيتس أن مرحلة جديدة من تطور الذكاء الاصطناعي بدأت تحمل تحديات واضطرابات متزايدة. الخيارات التي نتخذها الآن ستحدد مسار هذه التكنولوجيا وتأثيراتها على المجتمع والاقتصاد في المستقبل القريب.",
+   "title": "عصر الذكاء الاصطناعي المضطرب: الخيارات الحالية حاسمة للمستقبل",
+   "summary": "يؤكد بيل جيتس على أن المرحلة الحالية من تطور الذكاء الاصطناعي تتسم بالاضطراب والتحديات الكبيرة، مشدداً على أن القرارات التي تتخذ الآن ستحدد مسار هذه التكنولوجيا وتأثيرها على المجتمع في السنوات القادمة.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "أسوأ أزمات الذكاء الاصطناعي قد تحدث بلا تحذير مسبق",
+   "summary": "يحذر الخبراء من أن الكوارث الناجمة عن الذكاء الاصطناعي قد لا تأتي مع علامات تنبيهية واضحة، مما يجعل الاستعداد والاستباقية أمراً بالغ الأهمية للحد من المخاطر المحتملة على المجتمعات.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjkwNExjOUFoVjVZMEhsbjktYjJ5TEZiYThGT1FuVWFzWFRlS2V2SHNRZF8tcERQVjhZRHVJLXRaZ2NEY3A5TDQtWld0RF9CeTFHaDZYaW9UU0RlNTRYMTFHX3pJMENUcUxlMjU5ZlVKaVN5anh5cm85bnFlMThFaFlITEVrSXViREpGZVNkUGJ5ZTdkNDd3NGp3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "بلوفر تضع سياسات لتنظيم استخدام الموظفين للذكاء الاصطناعي",
+   "summary": "تسعى مدينة بلوفر إلى وضع إطار سياسي يحكم كيفية استخدام الموظفين لأدوات الذكاء الاصطناعي في بيئة العمل، بما يضمن الامتثال والحماية والكفاءة الإدارية.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXR5YTd3UG94bzh3RlRKUlJpa1ZrS0IyeXNGeWwwbHU3eG92V01QTlctREkydUdCTVlQa1ZQZWlidkZWRENZcnJYSDlUeG9rNElSNTRwd0l5VW5wV3AxSGJzU29tZDJDUDdOZTBOTnZTQmZhQVdkM18zdmw1MzdIeXNSM2Nld1BhZUl0aG1CYVRUMVlWYjA2di0xT21leHM?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "سلسلة فعاليات تقنية في خريف 2026 لتعزيز مسارات وظيفية في تكنولوجيا المعلومات والذكاء الاصطناعي والأمن السيبراني",
+   "summary": "تنظم سلسلة فعاليات تقنية خلال خريف 2026 بهدف توسيع الفرص الوظيفية في مجالات تكنولوجيا المعلومات والذكاء الاصطناعي والأمن السيبراني. تعكس هذه المبادرة الطلب المتزايد على المتخصصين في هذه القطاعات الحيوية والنامية.",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWW13N3VDNS0wQ1hNREVkcjUxREtlZ21qNTUyTk83M3U2SkMwa3FVMGNxNUc0VUNKaXdGZTdIQWUxc2d4UjVIdlNLelFnQlAxSDVXb0ZhWm50Snl0UmI5Yk40QXhPS0x1SnZqQlRrMU5paWxCZnBwOV9fMTVtLUlkNXVNd3ltdkFHQUhVYTdlT3JWRE1qNnkzWk1yOWNvczlPdlc1NzBfRkI0cC1udXh1dzdlbnNkSGZPNUxsNDZYNklROUVUZ000ZXEwd0pGQXZ0VTZMTmV2LTdMY2ZKcGpKdmI2cXE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "شركات موسيقى عملاقة تقاضي أنثروبك بتهم انتهاك حقوق النشر",
+   "summary": "رفعت شركتا سوني ميوزك وورنر دعاوى قضائية ضد شركة أنثروبك للذكاء الاصطناعي بسبب استخدام محتوى موسيقي محمي بحقوق نشر دون إذن. يعكس هذا النزاع الخلافات المتصاعدة بين شركات المحتوى وشركات الذكاء الاصطناعي حول استخدام الأعمال المحمية.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWt4UGlUNElBbFZmb29uWkVRbkp1MDBUVFIxaWlkZjJBbE1VNkl5YUxORjdDZWFxa3llSDhDVTc5UUdSaW9SaURCMWVKT0s0eFpaT1hGYldJdVBlV3FiNy1lZm13aTRPTURTZUdNcFNrUWF4bTVZdllHOG5hdU9DN1VlTmdvdUJsUEVKY0kzRmE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "أوبن إيه آي تلغي شراكة مع كرسور بسبب عدم الثقة من إيلون ماسك",
+   "summary": "ألغت أوبن إيه آي اتفاقية شراكة مع منصة كرسور، مستشهدة بمخاوف تتعلق بثقتها بإيلون ماسك. يشير الإجراء إلى استمرار التوترات بين أوبن إيه آي والمليارديير الذي تخلى عن مقعده في مجلس إدارة الشركة سابقاً.",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWQ3VWdNT2RJNHVoVXlmTGZ0cndEMDNKa3hPQ0g5OUpSRXhVYjJzMzN2TU5aZHRwWlFjQU1QS3JtUzZuTEl2b005T1RDMDIzZmpnem82WlE3MVBNMlBJNVNzaTlBMDN3OHhUUGNocHU1VTJaM09oWHktd0U3eXE4ZkN3aXpLUHpHYUg1bzRNMUFBMUVwOUlzejBZT3hpRVYxUXMtNk9ycEhIM1dLeHh4YklBWXNBVHZiLXNwQg?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-08-30"
   },
   {
@@ -67,14 +107,6 @@ window.NEWS_DATA = {
    "date": "2026-08-30"
   },
   {
-   "title": "تحذيرات من أخطار الذكاء الاصطناعي غير المتوقعة",
-   "summary": "نشرت صحيفة الغارديان رسائل تحذيرية بشأن احتمالية حدوث كوارث كبرى متعلقة بتقنيات الذكاء الاصطناعي قد تحدث بشكل مفاجئ دون إنذار مسبق، مما يستدعي مزيداً من الحذر والاستعداد من قبل الجهات المعنية.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjkwNExjOUFoVjVZMEhsbjktYjJ5TEZiYThGT1FuVWFzWFRlS2V2SHNRZF8tcERQVjhZRHVJLXRaZ2NEY3A5TDQtWld0RF9CeTFHaDZYaW9UU0RlNTRYMTFHX3pJMENUcUxlMjU5ZlVKaVN5anh5cm85bnFlMThFaFlITEVrSXViREpGZVNkUGJ5ZTdkNDd3NGp3?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-30"
-  },
-  {
    "title": "أوبن إيه آي تدعو كاليفورنيا لتعزيز قانون السلامة الجديد",
    "summary": "طالبت شركة أوبن إيه آي السلطات في كاليفورنيا بتقوية القانون المتعلق بسلامة الذكاء الاصطناعي الذي تم إقراره حديثاً، معتبرة أن التشريع الحالي يحتاج إلى آليات أكثر صرامة لضمان الالتزام بمعايير الأمان والحماية.",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5",
@@ -97,38 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-08-30"
-  },
-  {
-   "title": "كوهير تطلق أداة Parse 5 لمعالجة المستندات",
-   "summary": "أداة جديدة ظهرت باسم Cohere Parse 5 متخصصة في استخراج البيانات من المستندات المعقدة وتحويلها إلى صيغ منظمة. تهدف الأداة إلى تسهيل عملية قراءة ومعالجة الملفات والصور والجداول بكفاءة أعلى.",
-   "url": "https://www.producthunt.com/products/cohere-2",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-30"
-  },
-  {
-   "title": "محلّل عروض استثمارية من 1752VC",
-   "summary": "أداة جديدة ظهرت باسم 1752vc Pitch Deck Analyzer تساعد رواد الأعمال على تحسين عروضهم الاستثمارية من خلال التحليل والملاحظات. توفر الأداة آليات لتقييم جودة المحتوى والهيكل والوضوح في عروض التمويل.",
-   "url": "https://www.producthunt.com/products/1752vc-pitch-deck-analysis",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-08-30"
-  },
-  {
-   "title": "شركات موسيقية تقاضي أنثروبيك بتهم سرقة حقوق الملكية الفكرية",
-   "summary": "رفعت شركات سوني ميوزك وواحنر دعوى قضائية ضد شركة أنثروبيك، متهمة إياها بحملة منهجية للاستيلاء غير القانوني على محتوى موسيقي محمي بحقوق ملكية فكرية، وتشمل الدعوى اتهامات واسعة بممارسات قرصنة متعمدة.",
-   "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-29"
-  },
-  {
-   "title": "فيجاي باندي: من إدارة 4 مليارات إلى رهانات مركزة في الذكاء الاصطناعي الحيوي",
-   "summary": "يناقش Vijay Pande، الذي ترك قسم التكنولوجيا الحيوية في a16z، رؤيته الجديدة حول تحول علم الأحياء من نموذج الاكتشاف إلى الهندسة التطبيقية. يؤكد على أهمية البيانات المفتوحة المشتركة وكيفية تقليل التكاليف المرتفعة للتجارب السريرية من خلال الابتكار التكنولوجي.",
-   "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-29"
   }
  ]
 };
