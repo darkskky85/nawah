@@ -1,7 +1,95 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-25T03:38:40.104921+00:00",
+ "updated": "2026-08-30T07:00:12.681911+00:00",
  "items": [
+  {
+   "title": "كوهير تطلق أداة Parse 5 لمعالجة المستندات",
+   "summary": "أداة جديدة ظهرت باسم Cohere Parse 5 متخصصة في استخراج البيانات من المستندات المعقدة وتحويلها إلى صيغ منظمة. تهدف الأداة إلى تسهيل عملية قراءة ومعالجة الملفات والصور والجداول بكفاءة أعلى.",
+   "url": "https://www.producthunt.com/products/cohere-2",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "محلّل عروض استثمارية من 1752VC",
+   "summary": "أداة جديدة ظهرت باسم 1752vc Pitch Deck Analyzer تساعد رواد الأعمال على تحسين عروضهم الاستثمارية من خلال التحليل والملاحظات. توفر الأداة آليات لتقييم جودة المحتوى والهيكل والوضوح في عروض التمويل.",
+   "url": "https://www.producthunt.com/products/1752vc-pitch-deck-analysis",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "عصر الذكاء الاصطناعي المضطرب: الخيارات الحالية حاسمة",
+   "summary": "مقالة لبيل جيتس تناقش التطورات السريعة في مجال الذكاء الاصطناعي وتأثيراتها على المجتمع والاقتصاد. تركز على أهمية اتخاذ قرارات سياسية واستراتيجية صائبة في هذه المرحلة الحرجة من تطور التكنولوجيا.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "شركات الموسيقى تقاضي Anthropic بتهمة السرقة الفكرية الواسعة",
+   "summary": "رفعت شركتا سوني ميوزك وورنر دعوى قضائية ضد Anthropic بتهمة انتهاك حقوق الملكية الفكرية على نطاق واسع، مركزة على ممارسات القرصنة غير القانونية المزعومة. تسعى الشركتان للحصول على تعويضات بملايين الدولارات عن آلاف الأعمال المحمية بحقوق التأليف.",
+   "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-29"
+  },
+  {
+   "title": "فيجاي باند يناقش استراتيجيته الاستثمارية الجديدة في الذكاء الاصطناعي والبيولوجيا",
+   "summary": "بعد مغادرته صندوق البيوتكنولوجي الضخم في a16z، أسس باند صندوقاً متخصصاً في الذكاء الاصطناعي يركز على عدد محدود من الاستثمارات السنوية. يرى أن علم الأحياء ينتقل من مجال الاكتشاف إلى الهندسة التطبيقية، مؤكداً على أهمية البيانات المفتوحة والمشتركة.",
+   "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-29"
+  },
+  {
+   "title": "تفوق نفيديا في الذكاء الاصطناعي يتجاوز معالجات الرسوميات",
+   "summary": "تركز جيل جديد من أنظمة مراكز البيانات على تحسين الكفاءة من خلال إدارة ذكية لحركة البيانات بدلاً من الاعتماد حصراً على زيادة قوة المعالجة. يعكس هذا التطور تطوراً استراتيجياً أوسع في صناعة الذكاء الاصطناعي نحو التحسين الشامل للأداء.",
+   "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-29"
+  },
+  {
+   "title": "دعوى قضائية من سوني وورنر تستهدف Anthropic حول استخدام الأعمال المحمية",
+   "summary": "رفعت شركتا الموسيقى العملاقة دعوى في المحكمة الفيدرالية بكاليفورنيا ضد Anthropic تطالب بتعويضات عن عشرات الآلاف من الأعمال المحمية بحقوق الملكية. تطلب الشركتان مبلغاً يصل إلى 150 ألف دولار لكل عمل و25 ألف دولار لكل حالة انتهاك معروّفة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-29"
+  },
+  {
+   "title": "جامعة نورثيسترن تطرح برامج دراسية مدمجة في الذكاء الاصطناعي",
+   "summary": "أطلقت جامعة نورثيسترن تخصصات جديدة تجمع بين الذكاء الاصطناعي والمجالات الأخرى، وأعادت تسمية برامجها الجامعية في علم البيانات. يعكس هذا التطور الاتجاه المتزايد نحو دمج الذكاء الاصطناعي في التعليم الجامعي الشامل.",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQelZTbng3bEIybUFWbFBPS085a19RTzJwaFJnOXNQQkFzQmZ4YUVtV2QtWWFTeDhOSXhDTVBheXNCSHBXRVVQVVhwRzZWek5rdGJFemxfS1BSNVM2Q2EwaEtpaHU1aURVRnVHaUhrcUNvYXBpUUhjYzQyaEhwa1E1NWxVUmI4blVjdFBTdWwyWnZzc1RmQmdkMndaelF2QkZTNWNuaVdSXzRkWGgwa3U5UUJvbXo2OXZNVlBnaFFJVkp4MGpBdDhqRXotbUhtNmJRVWluNzhKZm9qNVlP?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-29"
+  },
+  {
+   "title": "مستثمر أمريكي بارز يحول استثماراته من قطاع الرقائق إلى شركات الذكاء الاصطناعي",
+   "summary": "أعاد المستثمر ستانلي دروكنمیلر توزیع محفظته الاستثماریة بالتخلي عن أسهم شركة برودکوم المتخصصة في الرقائق الإلکترونية والاتجاه نحو الاستثمار في شركات رائدة في مجال الذكاء الاصطناعي، مما یعکس تحولاً في توجهات المستثمرين الکبار نحو قطاع التقنيات الناشئة.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHlnMzVUNjdNYWo2UHgyRmE2U20tRmxZNVZZbEZ5WmxHUUV1eFNQYldYRnFGbzhtRlJaVUtJLVFmQzMzSlJIT05WVUVHNXQ4U2xjVUZxTE9ZeGNUNDNVc1VwMVEwNUhhT0E2OEc2TU1pMXBRNTNSOHJMQ3p6MWpwV3FXR0FjQWpBYmdSVk9kT3BjMjlOVlNnMA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-29"
+  },
+  {
+   "title": "أوبن أي آي تقطع إمدادات نماذجها عن تطبيق كرسور عقب استحواذ إيلون ماسك",
+   "summary": "أعلنت شركة أوبن أي آي عن نيتها إنهاء إمدادات نماذجها اللغوية الموجهة لتطبيق كرسور المتخصص في كتابة الأكواد، وذلك بعد استحواذ إيلون ماسك عبر شركته سبيس إكس على التطبيق، مما يشير إلى تصعيد التوترات بين الشركتين في مجال أدوات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-29"
+  },
+  {
+   "title": "دعاوى قضائية من ناشري الموسيقى ضد أنثروبيك بتهمة الاستخدام غير المرخص للمحتوى",
+   "summary": "رفع عدد من ناشري الموسيقى دعاوى قضائية ضد شركة أنثروبيك المتخصصة في الذكاء الاصطناعي، متهمينها باستخدام أعمال موسيقية مرخصة دون إذن في تدريب نماذجها، مما يثير تساؤلات أوسع حول حقوق الملكية الفكرية وقيود استخدام البيانات في تطوير أنظمة الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWkVsWkZ5bXMySGRnSmIwVWNQR2x6Z3B6ZzF0TVU1WGZtN1R2bVczRkFJOU5HZE93VlJFbmZGU3RVeEdPWC1IalN4bXEzbmhPb3RpTGt2TmE0U0lqcTdrR0QtT1VYY05za0hkRGVrOV9sU3hvU2JOX1JR?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-08-29"
+  },
   {
    "title": "صندوق ذكاء اصطناعي بوول ستريت يواجه تحقيقاً من هيئة الأوراق المالية",
    "summary": "يخضع صندوق استثمار متخصص في الذكاء الاصطناعي لتحقيق فيدرالي بعد تعرضه لأزمة مالية حادة. الصندوق الذي كان يحظى باهتمام واسع في الأوساط المالية أصبح موضوع تحقيق رسمي من هيئة الأوراق المالية الأمريكية.",
@@ -40,94 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "General Intuition تجمع تمويلاً بتقييم 6 مليارات دولار للدخول لقطاع الروبوتات",
-   "summary": "تسعى شركة General Intuition المتخصصة في بناء نماذج أساسية لتدريب وكلاء ذكاء اصطناعي متعددة المهام للحصول على تمويل جديد بتقييم 6 مليارات دولار من مستثمرين بينهم Valor Ventures و Point72 Ventures.",
-   "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "تعزيز الاستخدام الذكي للذكاء الاصطناعي داخل الفصول الدراسية",
-   "summary": "يناقش المقال استراتيجيات فعالة لدمج نماذج اللغة الكبيرة بشكل مفيد في بيئات التعليم، بعدما غيّرت تطبيقات الروبوتات الحوارية مشهد الفصول الدراسية وطرق تعلم الطلاب.",
-   "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "الأطفال يتفوقون على الذكاء الاصطناعي في تعلم اللغات",
-   "summary": "رغم تطور نماذج الذكاء الاصطناعي الحديثة، ظلت القدرة على إتقان اللغة الإنسانية بطلاقة تامة حكراً على الأطفال البشريين لآلاف السنين. يثير هذا تساؤلات علمية حول الفروقات الأساسية بين كيفية تعلم الآلات والبشر للغات والمهارات المعقدة.",
-   "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "طلاب جامعات بولاية ميزوري يواجهون مشاريع تطوير نماذج ذكاء اصطناعي",
-   "summary": "يتوجه طلاب الجامعات في ميزوري إلى العودة للحرم الجامعي ليجدوا أنفسهم أمام متطلبات أكاديمية متزايدة حول تطوير وبناء نماذج الذكاء الاصطناعي، مما يعكس التحول في المناهج الدراسية نحو هذا المجال.",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWgtRmQ4NEdGdVlWWUQ2UkM1WXJ0cEZUOXZOSjJJcFd0YVRnUUxteHYxd3djM1pBNXRXeTB6WExxbXg0dG9YRFZadk13WVR4bHYzbU8xQkZZYjE5aVI2TE9qMFJfR01YWXliMmREdUlWTjY1ZzNLRDhrMVlRVmwxMHctRm5KQXJOdUppTkp2Ui00SW0zU2sxUXJHUUNvNW5hTlgxdlhFUDlSQ1E4TkUxYzFaQ1YxSUVUUUhxSlFWX1VvQdIB1gFBVV95cUxNaldUU0xfdk9tV0l5dzdhZVVtUGVkbGhUVDFwUHJ0cnY4a3NqbjhZZHZveHFhZkFLa0J6RW9zeS1GaElFMDVzazB3VVVUd0xrTkE2eHdPbGZHN2swTlFLc0FhYkN6b2UwamI1bG1aNkRnY0diRHRyellNOE5vcHB3Wll5LWR1U2VLcVRWYi1mZm5NTnRGSGtlMXpkVXdhUnBLNDlxZGdUU1VLUUJES0xLUEwwUF9fdlp2NWVWYl9mTUdoX09NdmI1Tzl5SS00YjFVa1NpWFZB?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "الأسواق الأمريكية تتراجع وسط قلق من تقييمات شركات الذكاء الاصطناعي",
-   "summary": "شهدت الأسواق المالية الأمريكية تذبذباً بفعل مخاوف المستثمرين بشأن التقييمات المرتفعة لشركات الذكاء الاصطناعي وآفاق نموها المستقبلية، مما أثر على أداء المؤشرات الرئيسية.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdvSkZfVUh4VnlWSUs3ZVdnVWVyR1JnT3dDLXRaM1BnWlZzeFFXOWhwek1DRGNYdWpHVVRPbHh6djhsSThXRmVLczAzb3lMaC1EREdHckE5a3l3bGJPRkxBVml1ZzJMSURsSnpLX1d0aDBWNWR5Yl9YZ0RvQXZRV3Bock1hYXFleFlkZnRWTmRxc19yUG9tNjJqYw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "عمال الصين يشعرون بالقلق من الاستبدال بسبب انتشار الذكاء الاصطناعي",
-   "summary": "يواجه العاملون في الصين مخاوف متزايدة بشأن فقدان وظائفهم مع تطبيق تقنيات الذكاء الاصطناعي على نطاق أوسع في القطاعات المختلفة، مما يدفعهم للتكيف مع تأثير هذا التطور على سوق العمل.",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOXljZ2hla3RZTFhvYzdpaXZqVDNZZzdZSUQ1SlJYaFpLc1FjbFJseVZ5MlZrNGNBbHZLYTFNdFlXUkhOY0t2ekxOaG51bm5aV3VQRURjd0ZndGd2aXlFejM4dlBsM0NWR1ZXX2x2TXZsNEZjRjEwampMVHdFcnI2UmRiS2ROM0VPQ2NZbmJKbTdTenNQdDdjQ0R1WndPd1oxMk80TENrNDNMaDJ0YW5Pb0hfeXd2a1piWEJYb0oxZEhsdmlPbWtmTU5ub9IBywFBVV95cUxNOXljZ2hla3RZTFhvYzdpaXZqVDNZZzdZSUQ1SlJYaFpLc1FjbFJseVZ5MlZrNGNBbHZLYTFNdFlXUkhOY0t2ekxOaG51bm5aV3VQRURjd0ZndGd2aXlFejM4dlBsM0NWR1ZXX2x2TXZsNEZjRjEwampMVHdFcnI2UmRiS2ROM0VPQ2NZbmJKbTdTenNQdDdjQ0R1WndPd1oxMk80TENrNDNMaDJ0YW5Pb0hfeXd2a1piWEJYb0oxZEhsdmlPbWtmTU5ubw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "OpenAI تسعى لتعميم وكلاء ذكية على نطاق واسع",
-   "summary": "تركز شركة OpenAI على تطوير وكلاء ذكية متعددة الاستخدامات تتجاوز مجال هندسة البرمجيات وتصل للمستخدمين العاديين. يعكس هذا التوجه محاولة الشركة تحويل تقنيات الذكاء الاصطناعي المتقدمة إلى تطبيقات عملية شاملة.",
-   "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "عروض استحواذ تقييمها 13 مليار دولار لمنصة Hugging Face",
-   "summary": "تلقت منصة Hugging Face المتخصصة في نماذج الذكاء الاصطناعي عروضاً استحواذ بتقييم يصل إلى 13 مليار دولار. غير أن التزام مؤسسيها تجاه المجتمع العلمي يثير تساؤلات حول احتمالية إتمام صفقة البيع فعلياً.",
-   "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "المدارس المحلية تتبنى الذكاء الاصطناعي لتحسين العملية التعليمية",
-   "summary": "بدأت إحدى المناطق التعليمية المحلية بدمج تقنيات الذكاء الاصطناعي في مدارسها بهدف تعزيز التعلم وتحسين الخدمات التعليمية المقدمة للطلاب.",
-   "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNSlJZYWVkaGhyeGRRb3NyTTFyUVVIbDhROVRrNGhvQ1Fldk9yT2dZYUFtSnY3Sllrd2F1T2o1N2xBdC1uS1ZRajRWQ1FnQktlcWdaRFBEaTZ4ZVJwUlZ5cURWQnVrLU9nZFpUcm9wUXVucDV0UTNwQjVBZTdnSnZJSUNORXViamFYdy1LSms5MENndTFlLW51Zm5WNlJlUlI5SlZ5d1R4X2VrTFVRcWdKd3NFanNWdndrbjU5d2REdDIxbFI5TldhbXNCdXBqenZTaXhOenhFaHVOZDIwNG9VTXBhZGR6Q2tRZWk0bHA1UHY5U3hUOXpMN0dfUEJkcHlWRUNtMWxQOUNrU0hmVTM2MFZmeEtmbXlURzc0ckNWRWF5am1TNVZtblpaZkxQNGMxMHczbmloMEFfWXJHZzYyUDFGTGxuZGxFRkVIbk81STNuMGdkZjVFcXlBZXRhekd6Z0lydG1aMFNQeXIydHFMTQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "أمازون تقدم أداة ذكاء اصطناعي لتصحيح ومواءمة بيانات الأنظمة",
-   "summary": "أداة جديدة من خدمات أمازون الويب تستخدم الذكاء الاصطناعي لتصحيح البيانات الوصفية وتوحيدها عبر الأنظمة المختلفة، مما يسهل من إدارة البيانات وتنسيقها.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalh2OVkxSzQwVnIwZjNWM0dxQ2JnV1RKdUVKYS1jSk9pVUw2NHViVXBpNW1WdWpqNzJrdFV1clJmZnB3QVN3RF9QZkxVUzhxc1BqRmdqeUFhdGlxM3NObHhXSEV5WjZmSHp4ZnFTWGpvczhwTzAzY3hTZ1JHeVhoeDR6N3F5MU0zZ3Qtck9NWTc5TXJTSWREMUlmcw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "الطلاب يستخدمون الذكاء الاصطناعي في الفصول الدراسية مع التركيز على الأمان الرقمي",
-   "summary": "تزايد استخدام الطلاب لأدوات الذكاء الاصطناعي في بيئة التعلم الصفية، مع تركيز متزامن على تعليمهم أساليب الأمان الرقمي والاستخدام المسؤول لهذه التقنيات.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1c3Y01xRzNZM2hYVjNKX0o0cHMxRHdzX1c2UUpqRElJa0lDSW4zdkJmLWtnN1N5dFhLSDJhOHlqNmpkdkxOQkluNGJrMEtGS2ZZeDBxa1p6cWNBckZ2aG11bG5EbEFMZV9kOTlOalZRTFZ4cnB0SmRPQW1BZFpOMzQ1cjhONXhrR1ctSDdYNGNiMEZKblNqVnFkM3N4SkJITzNQeXpSWk1CUndrR3hodDNOb2hWZ9IBygFBVV95cUxOc1RVbnJhOXhlNU5wRU5fTG1iYlJ6UHo1Sk93RTdSR3dXSXB5YzJzc0l5RFdYRHVPeGl5bm5wNnNSbGsxZlRvQld5QV85UG1MRTgwMGFkQTNrYnlSZ0NrX0NtWjZwWlIyODlDMDBTSXB0eXg2ZWRzS0FxZWxfVTZKQkN1ZU5kYUZYNTVNVDRqRGJYVXFMbG9xUElHTFpCUXJ1UmZYTHJkeUhDdGdjRzhyaGRMa1hiRm1DV3NVdkVZc3RROWkzSGZDS2Jn?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-08-24"
   }
  ]
