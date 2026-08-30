@@ -1,13 +1,85 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-08-30T09:03:24.756258+00:00",
+ "updated": "2026-08-30T18:31:08.081370+00:00",
  "items": [
   {
-   "title": "عصر الذكاء الاصطناعي المضطرب: الخيارات الحالية حاسمة",
-   "summary": "يؤكد بيل جيتس في تحليله أن العالم يدخل مرحلة فاصلة من تطور الذكاء الاصطناعي، حيث أصبحت القرارات التي تُتّخذ الآن ذات تأثير حاسم على مسار هذه التكنولوجيا ومستقبلها العام.",
+   "title": "مسك يراهن على التوربينات الغازية لتسريع الإنتاج رغم مخاوف التلوث",
+   "summary": "أعلن إيلون مسك عن مسبك سري جديد في سبيس إكس لتصنيع شفرات التوربين بسرعة أكبر، مما قد يسرع توفر الطاقة الغازية بـ 18 شهراً. غير أن هذا الخيار يعتمد على وقود أحفوري يواجه اعتراضات قانونية وقلقاً صحياً متزايداً في المناطق التي انتشرت فيها التوربينات المماثلة.",
+   "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "كاتربيلر تطبّق خبرتها في أتمتة التعدين على نشر الذكاء الاصطناعي",
+   "summary": "تستفيد شركة كاتربيلر من عقود من التجربة في تشغيل الآلات المستقلة في مواقع التعدين النائية لتطبيق تلك الدروس على مشاريع نشر الذكاء الاصطناعي. تنقل الشركة بذلك معرفتها بإدارة الأنظمة الآلية المعقدة في بيئات صعبة إلى مجال التطبيقات الذكية الحديثة.",
+   "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "حاكم تكساس يوقف تمويل كاميرات فلوك الموجهة بالذكاء الاصطناعي",
+   "summary": "جمّد الحاكم جريج أبوت صرف أموال ولاية تكساس على شراء كاميرات المراقبة من فلوك وسط معارضة متنامية لها. الخطوة جاءت قبل نشر تحقيق كشف أن الولاية أنفقت أكثر من 30 مليون دولار على هذه الكاميرات في السابق.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "دعاوى قضائية من شركات الموسيقى العملاقة ضد أنثروبيك",
+   "summary": "رفعت سوني ميوزك بابليشينج وورنر تشابيل دعوى قضائية ضد أنثروبيك في محكمة اتحادية بكاليفورنيا بسبب استخدام عشرات الآلاف من الأعمال الموسيقية المحمية. تطالب الشركتان بتعويضات قد تصل إلى 150 ألف دولار لكل عمل و25 ألف دولار لكل حالة استخدام محددة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "عصر الذكاء الاصطناعي المضطرب بدأ فعلاً، والقرارات الحالية حاسمة",
+   "summary": "يؤكد بيل غيتس أن مرحلة جديدة من تطور الذكاء الاصطناعي بدأت تحمل تحديات واضطرابات متزايدة. الخيارات التي نتخذها الآن ستحدد مسار هذه التكنولوجيا وتأثيراتها على المجتمع والاقتصاد في المستقبل القريب.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "سهمان في مؤشر ستاندرد أند بورز قد يشهدان نموّاً استثنائياً مع تطور الذكاء الاصطناعي",
+   "summary": "توقعات تشير إلى أن النمو الاقتصادي المحتمل من تطبيقات الذكاء الاصطناعي قد يفتح فرصاً استثمارية نادرة في أسهم معينة. محللون يرون في هذه اللحظة فرصة استثنائية للمستثمرين الراغبين في الاستفادة من نمو القطاع.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGxwVU5URlozdlNQWndlc2lzZXFFZFk2dGpQVk5oWTAtbTYybzJ3dEctNnBmVFBKYnBzV01YenJZWWxCdXF6X09MdGlFYlY1eW5OV3FNWWI4TVRKUmtIYkozQkJNSDZEOFJSWGVNaXI2NlBBT2N4b0R0dzBwai1uUmlPYUk4cWd6R0RNQlJOZ0tUWUo1S2JvLXBZMWtlT1JEby1XcU1VWTBMY0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "جوجل تطلق أسبوع الذكاء الاصطناعي لتعريف الشركات المحلية بالتكنولوجيا",
+   "summary": "أطلقت جوجل فعاليات تدريبية في مدينة كيلين توفر للشركات والعاملين فرصة مباشرة للتعرف على تطبيقات الذكاء الاصطناعي. يهدف البرنامج إلى تمكين الأعمال المحلية من فهم واستخدام هذه التقنيات في عملياتها.",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdWlBV3J4aWNfOTZIeXA5Q09Vc002WHhrN25GUm1YSFl4N28wenhNeVp0ZTFQV24xcDdIQ2dWSDRpcThIOVVUOVBfX2RaOUNsVDFQbjd5dXVEdUw3enFJbEdjbEdIaVpkaFY3SlB2ZDVBMDhfbUtMTWJ3ZjI4U1M4NVdJWnhBeWlVbFFoSWc3Q0FETUtlZnV6NFpwbW5xVUV2Q0RfdWwwelRQZm9qOHdRQkwyWHEtbS1IYzRRTUdDZDdsaERPTC1fLVhPUDZSeWRRUHlDRjE3X3hvWE5nMV9nTUEyV1RESnNmeTNLTWk2bUg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "دراسة تحليلية حول تطور تأثير الذكاء الاصطناعي في جراحة تصحيح الفكين",
+   "summary": "أجرت مجلة كوريوس دراسة ببليومترية تتتبع تطور استخدام تقنيات الذكاء الاصطناعي في مجال جراحة تصحيح الفكين والعمليات المرتبطة بها، وتحلل تأثير هذه التقنيات على تطور المجال وعلى نتائج العمليات الجراحية.",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMGppY0V0aXp0MmZNUlY1UVpaVUYxaTF1V0xhV21qem1BX1RES3ZiRHppQjBYNWVOWVBiMG9KTXI0VXNvZWxlSmNpT2lKRThFSVZNd2lhSWI1eHZ4ODRrZUVoVEZtYjBpb3ZwMFAtSlpzV2RKZ2s0dzZXTDZoQVFWeVRDOHY1TmtHWFFTUTNtcldLTDZZRm5BZjZqT0g2LUs0TkZvMVoxYU85ZFVESXlvbEgwNzJVbk9JUmt3Qkp3OEQxOFVaallzbVFYaG1MMEN4YzRXZg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "تحذيرات من أخطار الذكاء الاصطناعي غير المتوقعة",
+   "summary": "نشرت صحيفة الغارديان رسائل تحذيرية بشأن احتمالية حدوث كوارث كبرى متعلقة بتقنيات الذكاء الاصطناعي قد تحدث بشكل مفاجئ دون إنذار مسبق، مما يستدعي مزيداً من الحذر والاستعداد من قبل الجهات المعنية.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjkwNExjOUFoVjVZMEhsbjktYjJ5TEZiYThGT1FuVWFzWFRlS2V2SHNRZF8tcERQVjhZRHVJLXRaZ2NEY3A5TDQtWld0RF9CeTFHaDZYaW9UU0RlNTRYMTFHX3pJMENUcUxlMjU5ZlVKaVN5anh5cm85bnFlMThFaFlITEVrSXViREpGZVNkUGJ5ZTdkNDd3NGp3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-08-30"
+  },
+  {
+   "title": "أوبن إيه آي تدعو كاليفورنيا لتعزيز قانون السلامة الجديد",
+   "summary": "طالبت شركة أوبن إيه آي السلطات في كاليفورنيا بتقوية القانون المتعلق بسلامة الذكاء الاصطناعي الذي تم إقراره حديثاً، معتبرة أن التشريع الحالي يحتاج إلى آليات أكثر صرامة لضمان الالتزام بمعايير الأمان والحماية.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-08-30"
   },
   {
@@ -43,8 +115,8 @@ window.NEWS_DATA = {
    "date": "2026-08-30"
   },
   {
-   "title": "شركتا إنتاج موسيقى تقاضي Anthropic بتهم انتهاك الملكية الفكرية",
-   "summary": "رفعت شركتا Sony Music و Warner Chappell دعوى قضائية ضد Anthropic بزعم استخدام آلاف الأعمال الموسيقية المحمية بحقوق نشر دون ترخيص. تطالب الشركتان بتعويضات تصل إلى 150 ألف دولار لكل عمل، موضحة أن الدعوى توسيع لنزاع متنامٍ حول استخدام البيانات المحمية في تدريب نماذج الذكاء الاصطناعي.",
+   "title": "شركات موسيقية تقاضي أنثروبيك بتهم سرقة حقوق الملكية الفكرية",
+   "summary": "رفعت شركات سوني ميوزك وواحنر دعوى قضائية ضد شركة أنثروبيك، متهمة إياها بحملة منهجية للاستيلاء غير القانوني على محتوى موسيقي محمي بحقوق ملكية فكرية، وتشمل الدعوى اتهامات واسعة بممارسات قرصنة متعمدة.",
    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -57,78 +129,6 @@ window.NEWS_DATA = {
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-08-29"
-  },
-  {
-   "title": "تفوق نفيديا في الذكاء الاصطناعي يتجاوز المعالجات إلى إدارة النظم",
-   "summary": "تركز الأجيال الجديدة من أنظمة مراكز البيانات على تحسين الكفاءة من خلال تحكم ذكي في تدفق البيانات بدلاً من الاعتماد على زيادة قوة المعالجة فقط، مما يعكس تطوراً في استراتيجية نفيديا التنافسية.",
-   "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-29"
-  },
-  {
-   "title": "دعوى قضائية ضد Anthropic بشأن استخدام أعمال موسيقية محمية",
-   "summary": "رفع كل من Sony Music و Warner Chappell دعوى في المحكمة الفيدرالية بكاليفورنيا ضد Anthropic، متهمتين الشركة باستخدام عشرات آلاف الأعمال الموسيقية المحمية بحقوق نشر في تطوير نماذجها. تجسد الدعوى نزاعاً أوسع حول حقوق الملكية الفكرية وتدريب نماذج الذكاء الاصطناعي.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-29"
-  },
-  {
-   "title": "جامعة نورثيسترن تطلق برامج متخصصة في الذكاء الاصطناعي وتعيد تسمية برامج علوم البيانات",
-   "summary": "أطلقت جامعة نورثيسترن تخصصات جديدة تجمع بين الذكاء الاصطناعي والمجالات الأخرى، كما أعادت تسمية برامجها الجامعية في علوم البيانات لتعكس التطورات الحديثة في هذه المجالات التقنية.",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQelZTbng3bEIybUFWbFBPS085a19RTzJwaFJnOXNQQkFzQmZ4YUVtV2QtWWFTeDhOSXhDTVBheXNCSHBXRVVQVVhwRzZWek5rdGJFemxfS1BSNVM2Q2EwaEtpaHU1aURVRnVHaUhrcUNvYXBpUUhjYzQyaEhwa1E1NWxVUmI4blVjdFBTdWwyWnZzc1RmQmdkMndaelF2QkZTNWNuaVdSXzRkWGgwa3U5UUJvbXo2OXZNVlBnaFFJVkp4MGpBdDhqRXotbUhtNmJRVWluNzhKZm9qNVlP?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-29"
-  },
-  {
-   "title": "مستثمر ملياردير يبيع أسهم شركة تقنية ويشتري أسهماً في عمالقة الذكاء الاصطناعي",
-   "summary": "قام المستثمر ستانلي درuckenmiller بتغيير محفظته الاستثمارية من خلال بيع حصة من شركة تقنية كبرى والاستثمار بدلاً منها في شركات متخصصة في تطوير تقنيات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHlnMzVUNjdNYWo2UHgyRmE2U20tRmxZNVZZbEZ5WmxHUUV1eFNQYldYRnFGbzhtRlJaVUtJLVFmQzMzSlJIT05WVUVHNXQ4U2xjVUZxTE9ZeGNUNDNVc1VwMVEwNUhhT0E2OEc2TU1pMXBRNTNSOHJMQ3p6MWpwV3FXR0FjQWpBYmdSVk9kT3BjMjlOVlNnMA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-08-29"
-  },
-  {
-   "title": "دور نشر موسيقية تقاضي شركة Anthropic بتهمة السرقة غير القانونية للمحتوى الموسيقي",
-   "summary": "رفعت عدة دور نشر موسيقية قضية قانونية ضد شركة Anthropic متهمة إياها باستخدام مقاطع موسيقية محمية بحقوق الطبع والنشر دون ترخيص في تطوير نماذج الذكاء الاصطناعي الخاصة بها.",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWkVsWkZ5bXMySGRnSmIwVWNQR2x6Z3B6ZzF0TVU1WGZtN1R2bVczRkFJOU5HZE93VlJFbmZGU3RVeEdPWC1IalN4bXEzbmhPb3RpTGt2TmE0U0lqcTdrR0QtT1VYY05za0hkRGVrOV9sU3hvU2JOX1JR?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-29"
-  },
-  {
-   "title": "OpenAI توقف إتاحة نماذجها لمنصة Cursor بعد استحواذ Elon Musk عليها",
-   "summary": "أعلنت OpenAI عن إنهاء إمكانية وصول منصة تطوير البرمجيات Cursor إلى نماذجها بعد أن تم الاستحواذ عليها من قبل شركات مرتبطة بـ Elon Musk.",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-29"
-  },
-  {
-   "title": "صندوق ذكاء اصطناعي بوول ستريت يواجه تحقيقاً من هيئة الأوراق المالية",
-   "summary": "يخضع صندوق استثمار متخصص في الذكاء الاصطناعي لتحقيق فيدرالي بعد تعرضه لأزمة مالية حادة. الصندوق الذي كان يحظى باهتمام واسع في الأوساط المالية أصبح موضوع تحقيق رسمي من هيئة الأوراق المالية الأمريكية.",
-   "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-25"
-  },
-  {
-   "title": "ولاية ألاباما تفتح تحقيقاً ضد OpenAI عقب خرق منصة Hugging Face",
-   "summary": "بدأت سلطات ولاية ألاباما الأمريكية تحقيقاً رسمياً مع شركة OpenAI بعد تعرض منصة Hugging Face لخرق أمني. يأتي هذا ضمن تصاعد الاهتمام الحكومي بممارسات أمان البيانات لدى شركات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-08-25"
-  },
-  {
-   "title": "ترامب يشتري أسهماً في SpaceX بعد طرحها للاكتتاب العام بأسبوعين",
-   "summary": "قام الرئيس بشراء أسهم SpaceX عندما كانت أسعارها حول 150 دولاراً، إلا أن السهم عاد للانخفاض إلى سعر الطرح الأولي البالغ 135 دولاراً. يعكس هذا تقلبات السوق حول قيمة الشركة الفضائية.",
-   "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-24"
   }
  ]
 };
