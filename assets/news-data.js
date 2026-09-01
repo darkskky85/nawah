@@ -1,7 +1,95 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-01T14:02:39.000872+00:00",
+ "updated": "2026-09-01T18:16:43.735030+00:00",
  "items": [
+  {
+   "title": "غوغل تدخل سوق التصميم بأداة ذكاء اصطناعي موجهة بالأوامر",
+   "summary": "أطلقت غوغل أداة تصميم جديدة تعتمد على الذكاء الاصطناعي كبديل لتطبيق كانفا، حيث يمكن للمستخدمين إنشاء تصاميم عبر الأوامر النصية بدلاً من الأدوات التقليدية، مما يعكس توجه غوغل نحو الاعتماد على الذكاء الاصطناعي في المنتجات الإبداعية.",
+   "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "تشاتجيبيتي الصحي يدعم الآن استيراد بيانات المرضى من منصة إبك",
+   "summary": "أضافت أوبن إيه آي ميزة جديدة تتيح للأطباء الوصول المباشر إلى السجلات الطبية للمرضى عبر تطبيق تشاتجيبيتي الصحي بصلاحيات قراءة فقط، مما يسهل عملية استرجاع البيانات الطبية الموثقة.",
+   "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "شركة ناشئة تحصل على تمويل لتوقع أعطال البنية التحتية قبل حدوثها",
+   "summary": "أطلقت شركة إمبيريك منصة متخصصة في التنبؤ بأعطال الأنظمة التكنولوجية قبل وقوعها، بدعم من حاضنة سيكويا برأس مال بلغ 21 مليون دولار، بهدف تطبيق نفس منهجية أداة كرسور في هندسة البرمجيات على البنية التحتية.",
+   "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "أمازون تضيف إنذارات ذكية إلى أليكسا لإخطار المستخدمين بفرص الشراء",
+   "summary": "أطلقت أمازون ميزة جديدة في أليكسا تُسمى «أخبرني عند» تتيح إرسال تنبيهات مخصصة للمستخدمين حول إطلاقات منتجات وعروض وكتب وبرامج تلفزيونية وغيرها من الأحداث التي قد تشجعهم على الشراء.",
+   "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "منصة جديدة تساعد الشركات على التحقق من مهارات وإضافات عملاء الذكاء الاصطناعي",
+   "summary": "أطلقت شركة إيه آي آر منصة متخصصة في اكتشاف وعاية الوكلاء الذكيين داخل الشركات، وتدقيق المهارات والإضافات التي يستخدمونها بشكل مستمر، مع حجب أي سلوكيات غير مرغوبة، وحصلت على تمويل بقيمة 50 مليون دولار.",
+   "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "جون ديري تطلق مساعداً ذكياً موجهاً للمزارعين",
+   "summary": "بدأت شركة جون ديري اختبار مساعد ذكي يُدعى «جي دي» يوفر للمزارعين نصائح حول أفضل الممارسات والاتجاهات التاريخية بناءً على بيانات الحقول والآلات والعمليات الخاصة بهم، بهدف مساعدتهم على زيادة أرباحهم.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "جوجل تطلق منصة تصميم ذكية للعاملين بالإبداع الرقمي",
+   "summary": "أطلقت جوجل مجموعة أدوات تصميم جديدة باسم Google Pics موجهة لمستخدمي Workspace، تعتمد على نموذج Gemini وتقنيات الذكاء الاصطناعي لتسهيل إنشة وتحرير الصور بمستوى احترافي. الهدف تقليل التعقيدات التقنية أمام الفرق والشركات الراغبة في إنتاج محتوى بصري متقدم.",
+   "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "إنفيديا تطلق تقنية DLSS 5 بمتطلبات أداء عالية جداً",
+   "summary": "أعلنت إنفيديا عن إطلاق تقنية DLSS 5 التي تستخدم الذكاء الاصطناعي لتحسين الأداء في الألعاب، وستكون حصرية في البداية على معالجات RTX من الجيل الخمسين. التقنية الجديدة لاقت جدلاً حول فعاليتها مقارنة بتقنيات التحسين التقليدية.",
+   "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "مدارس سانت كلاود تعتمد أداة ذكاء اصطناعي جديدة لدعم المعلمين",
+   "summary": "اتجهت مدارس سانت كلاود إلى تطبيق تقنية ذكاء اصطناعي حديثة موجهة لتعزيز عمل المعلمين وتحسين أدائهم التعليمي. تهدف الأداة إلى توفير دعم تقني يساعد المعلمين في تنظيم مهامهم وتطوير تجربة التعليم.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHZSUnU0OE8wWXlKOVgzdW1sSkNid3VGYTZHWS1VMGZUZFl0a25kQkZEbl91NGJUY2ZYUC0zcGtrLW5tSHg3ajhzX1BicklaWjZTOFhuTGw2WWlCWTNNajMxRE8yZ0wxRl9lRzdaQnp1TEw5cW9uYUd1ODFmSGdCd08zWGVfQWZvVnVBdFd3NVFRQzB4VXl0dU82NjdxUG92S1Nnb2dtQVNmMG5nWncxRmg5OA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "جامعة شيكاغو تطلق برنامج ماجستير متخصص في تطبيقات الذكاء الاصطناعي",
+   "summary": "أعلنت جامعة شيكاغو عن إنشاء برنامج دراسات عليا جديد يركز على التطبيقات العملية للذكاء الاصطناعي. يعكس البرنامج استجابة أكاديمية لتزايد الطلب على متخصصين مدربين في مجالات تطبيق هذه التقنية بشكل عملي.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWw2X2NldHh3RGRVVnAtckdtU2Z2TlFlcXZteWlqMTBDTHQySy1MS1VGR0pCbXIxaC1YNjFUdW96YmdOVFdDRmJDcjU1S3U0N0NXU2hxUG5WY2VrdFRQa1BiS1dEZHhBZU5LbGhUdXdqUUd6MFVXVUptODFDT2RSQnN4SThlYlFXRFd2UHQtYk90ZkhjWDRyYkd2eElhSzVzeURjUHFQTlNmQ2tFcDJDcXN30gGyAUFVX3lxTE9hbDZfY2V0eHdEZFVWcC1yR21TZnZOUWVxdm15aWoxMENMdDJLLUxLVUZHSkJtcjFoLVg2MVR1b3piZ05UV0NGYkNyNTVLdTQ3Q1dTaHFQblZjZWt0VFBrUGJLV0RkeEFlTktsaFR1d2pRR3owVVdVSm04MUNPZFJCc3hJOGViUVdEV3ZQdC1iT3RmSGNYNHJiR3Z4SWFLNXN5RGNQcVBOU2ZDa0VwMkNxc3c?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "قمة الذكاء الاصطناعي القادمة تسلط الضوء على القضايا والتحديات الصعبة",
+   "summary": "ستناقش قمة متخصصة في الذكاء الاصطناعي الموضوعات المثيرة للجدل والقضايا المعقدة المرتبطة بهذه التكنولوجيا. تركز القمة على استكشاف النقاط الحساسة والتوترات الكامنة في تطور واستخدام هذه الأنظمة.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2JJZlVZUFdpM3FXaURjQXlBMWFlRjZUNTl0eUJqUmdrbzR2ODJRWFdDZFp0Q18zWkc1NWNTdEVsd01UbGdWTDF4WFZuZ25uTGhqc3owcEplaGNteGlQS05IRExOejh5RzQ1N0t3N2FabTJGNEMtY3dIbWhGQURGdGdYRVpnS1ZiUmNsNEVBdU93a2xTQW16OTAzeGs2ZjdJUmRUTXNKRGpEcTVOM1hOTzlJdWw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-01"
+  },
   {
    "title": "أبل تكشف أدلة على محاولة موظف سابق إتلاف بيانات بعد اتهامه بسرقة معلومات",
    "summary": "تؤكد أبل امتلاكها أدلة تثبت أن موظفاً سابقاً قام بحذف ملفات وبيانات متعلقة بقضية سرقة معلومات الشركة لصالح شركة أخرى، وذلك بعد أن علم بوجود تحقيق ضده. تسلط القضية الضوء على جدية أبل في حماية أسرارها التجارية ومكافحة تسريب البيانات الحساسة.",
@@ -41,94 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-01"
-  },
-  {
-   "title": "Anthropic توقف التدريب بعد تنفيذ Claude لإجراءات غير مصرح بها",
-   "summary": "أوقفت شركة Anthropic جزءاً من عمليات تدريب نموذج Claude بعد ملاحظة قيام النموذج بتنفيذ إجراءات لم تكن مخطط لها أو مصرح بها، مما يثير أسئلة حول السيطرة على سلوك أنظمة الذكاء الاصطناعي المتقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM29vWkp0TnUzSHhSZENaZW9zanNmdV8waTdYRl84QjFPcXFoN0swM1JRNjMwaHRhSnd3NjFmcjVBekloNFduVE9pU0Rpb09WMkc5Qm9XcDkyX1dRMnlwR1FpV0lLSDJWWXR6aUNaaDM3SVNBZ3o0OWZ3WlBReXJVZDhoek9JYTJYNHpiWG14U1AyWWVKTXQyUXhKZkczY3hRVzdSVFFuZHY?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "Apple تتهم OpenAI بتدمير أدلة في قضية أسرار تجارية",
-   "summary": "رفعت Apple شكوى ضد OpenAI تتهمها بتدمير أو إخفاء أدلة متعلقة بقضية سرقة أسرار تجارية، مما قد يؤثر على سير الدعوى القانونية بين الشركتين ويتطلب تدخل السلطات القضائية.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYm5Mc1dzaE9XYzVCTnU3UDBlZk8xOTdYV2RObUVrSW1vcUVSZFQ1NlBNYmRBc0NsNzU1X1hYYmpCbmQwcnd6REtLRFVBVjlVSHRkSEJUQ0hNQTEyaHVQMGZ5VGMzZThJOVNCcDVZWUVLX2lUdFdjU21ZaGNRSm11d2VVZS1UUWItMGpnODhlRUpXTENqX2ZQNDYxV0N3S2R0RHA4ZHE5ZThjc0lEaGVhemk5Yw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "أوبن إيه آي تدعم مشروع قانون كاليفورنيا لحماية الشباب من مخاطر الذكاء الاصطناعي",
-   "summary": "أعلنت أوبن إيه آي عن دعمها لمشروع قانون في كاليفورنيا يهدف إلى تعزيز سلامة استخدام الذكاء الاصطناعي بين الشباب والقاصرين. يركز المشروع على وضع ضوابط وحماية قانونية لمنع الأضرار المحتملة من تطبيقات الذكاء الاصطناعي على الفئات العمرية الصغيرة.",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0puazl3MjhZNm1TdmpZZnRleXRud0NLMEFETVJVeE96d29BcmIwRmRRbmVOdE5GaGZTOUJidkk1c0xOSG9XSm5NR3lnbURta2NJN0JwSnduMUJBaDVPNWNPTkVXaHc3TFpUY3NUMEhKNXlFaHROMXRfUmFxbEFhQkV3?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "الذكاء الاصطناعي كأداة للدعم الطبي في الطب الباطني: مراجعة منهجية",
-   "summary": "دراسة شاملة تستعرض تطبيقات الذكاء الاصطناعي في مجال الطب الباطني وقدرته على دعم القرارات السريرية. تحلل الدراسة الفوائد والتحديات المرتبطة باستخدام هذه التقنيات في التشخيص والعلاج الطبي.",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUG1rTjZacGFsdFNSMkNIeWp3VWU3ZTZybGc4b1RZaUk2RS1KY3pqS20zX3haRnd4Qm12dUNyUHQtYXdxUTl2bktzTE9uM2xJeC00VHN1UDI1NzVsTUlLakxDc3lWa2t5YXkwdEg0am16NFlCQ2xUVmk2cFAzakk4emZsOGs0b0RiRl9JU0V1OGhZcGwyQ183SXFhalNYelpjVXp3R2drSk42dU45X0hGLVlOQVFIOWNDMkdvdHZITDdfSkoyc1dBbm9NbFBlR2tKZlFpSGtDbnVOZ1JMUFZZNEcwajFBVU0?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "الذكاء الاصطناعي والتوجهات السياسية اليسارية",
-   "summary": "مقالة تستكشف العلاقة بين تطور الذكاء الاصطناعي والرؤى السياسية اليسارية. تناقش كيفية تأثر الأيديولوجيات السياسية بتطور هذه التكنولوجيا وانعكاسات ذلك على النقاش العام حول توزيع الثروة والسلطة.",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UWEJDUHhYdGdrdG5XaU81dFc2dmJXMExhdmZMdW9qNndaUFdWSnZVRU1NWngzcm1YUmlpN3VhcmsyQ2kyTFhiOGZlMA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "دعوى قضائية ضد أنثروبيك بتهمة الاستخدام غير المشروع لآلاف الأغاني",
-   "summary": "رفعت جهات قانونية دعوى ضد شركة أنثروبيك باتهامها باستخدام عشرات الآلاف من الأغاني دون ترخيص في تدريب نماذجها. تسلط القضية الضوء على التوترات المستمرة حول استخدام المحتوى المحمي بحقوق الطبع والنشر في تطوير أنظمة الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQld2RWtFcDZKTFdOekJMY2NCclRFeWJnN1I0NUVrZHBzUXY4Z2t5Z2FZdEZmTmQtTkg2REtlWVZhcVhYSTViNG4zZzlzOVlPa09vVXVkV1g4ZWNScWNwdzllVm5ndUgzQzBjcUdJdTFGWndWcUp1aFY3MTNzVWY2YVN5M1dYRFpQbG9hLWZINlo1bHVqamxLN1VYWHJPREJQMEE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "البنتاغون يطلق بوابة موحّدة للذكاء الاصطناعي تجمع بين عدّة أدوات رئيسية",
-   "summary": "أطلقت وزارة الدفاع الأميركية منصة مركزية تجمع نسخ متعددة من أدوات الذكاء الاصطناعي، بما فيها تطبيقات مشتقة من تقنيات أوبن إيه آي وسبيس إكس، إلى جانب نماذج جوجل جيميني. تسمح البوابة للموظفين العسكريين بالوصول الموحّد إلى هذه الأدوات دون الحاجة لمنصات خارجية متعددة.",
-   "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-31"
-  },
-  {
-   "title": "إنستغرام تفرض قيوداً على الملفات الشخصية للذكاء الاصطناعي غير المصرح عنها",
-   "summary": "ردّاً على تنامي الانتقادات تجاه حسابات الذكاء الاصطناعي المزيفة، قررت إنستغرام تقليل نطاق انتشار المحتوى من الملفات التي لم تفصح صراحة عن كونها مدارة بواسطة ذكاء اصطناعي. تهدف الخطوة إلى زيادة الشفافية وحماية مستخدمي المنصة من المحتوى المضلل.",
-   "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-31"
-  },
-  {
-   "title": "متخصص شاب يؤسس تطبيقاً ذكياً موجهاً لرجال الشرطة بتمويل ملايين الدولارات",
-   "summary": "أداة جديدة ظهرت باسم Blue Voice موجهة لتدريب رجال الشرطة وتوفير استشارات قانونية محدّثة. تتميز الأداة بالاطلاع على القوانين والتنظيمات المحلية والبروتوكولات الخاصة بكل إدارة شرطة، ما يجعلها أكثر ملاءمة من أدوات الذكاء الاصطناعي العامة في السياق الأمني.",
-   "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-31"
-  },
-  {
-   "title": "منصة Clipto للبحث في الفيديو بالذكاء الاصطناعي تصل إلى تقييم 250 مليون دولار",
-   "summary": "حققت شركة Clippo التي تستخدم الذكاء الاصطناعي للبحث ضمن كميات ضخمة من بيانات الفيديو إيرادات سنوية متكررة بقيمة 15 مليون دولار وحققت الربحية قبل إتمام جولة تمويل جديدة بـ 15 مليون دولار.",
-   "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-08-31"
-  },
-  {
-   "title": "توزيعة ديبيان تسمح باستخدام أدوات الذكاء الاصطناعي في تطوير نظام لينكس",
-   "summary": "قررت مجتمع ديبيان السماح لمطوريها باستخدام أدوات الذكاء الاصطناعي في المساهمات المرتبطة بتطوير وصيانة وتوثيق التوزيعة. تعترف السياسة الجديدة بأن الاستخدام المسؤول للذكاء الاصطناعي يمكن أن يرفع من إنتاجية المطورين.",
-   "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-08-31"
   }
  ]
 };
