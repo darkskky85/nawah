@@ -1,13 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-01T18:16:43.735030+00:00",
+ "updated": "2026-09-01T23:10:26.447202+00:00",
  "items": [
   {
-   "title": "غوغل تدخل سوق التصميم بأداة ذكاء اصطناعي موجهة بالأوامر",
-   "summary": "أطلقت غوغل أداة تصميم جديدة تعتمد على الذكاء الاصطناعي كبديل لتطبيق كانفا، حيث يمكن للمستخدمين إنشاء تصاميم عبر الأوامر النصية بدلاً من الأدوات التقليدية، مما يعكس توجه غوغل نحو الاعتماد على الذكاء الاصطناعي في المنتجات الإبداعية.",
+   "title": "شركة ناشئة متخصصة في تدريب نماذج ذكاء اصطناعي تحقق قيمة تقييم 3.2 مليار دولار",
+   "summary": "وصلت شركة AfterQuery إلى تقييم 3.2 مليار دولار بعد جولة تمويل جديدة، بما يعكس قفزة سريعة من تقييم 300 مليون دولار قبل خمسة أشهر فقط. يعكس هذا الارتفاع الطلب المتنامي على خدمات تدريب نماذج الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "OpenAI تستعد لإطلاق نموذج Astra وتعلن عن إجراءات أمنية سيبرانية",
+   "summary": "كشفت OpenAI عن التدابير الحماية التي تطبقها قبل إطلاق نموذجها الجديد Astra، والذي يتمتع بقدرات متقدمة في المجالات الحساسة أمنياً. التركيز على الاحتياطات الأمنية يعكس أهمية معالجة المخاطر المحتملة للنماذج اللغوية الكبيرة.",
+   "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "تحديث أندرويد الجديد من جوجل يركز على الصحة والإمكانية والذكاء الاصطناعي",
+   "summary": "أضافت جوجل ميزات جديدة في تحديث أندرويد تتعامل مع دوار الحركة وتحسينات في إمكانية الوصول، مع استخدام نموذج Gemini لتقديم تحسينات إضافية. بعض هذه الميزات توازي ما تقدمه أبل لمستخدمي آيفون، بينما أخرى تستفيد بشكل خاص من القدرات الذكية.",
+   "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "نموذج Fable 5.1 من Anthropic بتكاليف أقل وتقيود أخف",
+   "summary": "أطلقت Anthropic نسخة محدثة من نموذج Fable تركز على تقليل تكاليف المعالجة والحد من القيود الزائدة في آليات الحماية. التحسينات تهدف إلى توفير أداة أكثر مرونة وكفاءة اقتصادية للمستخدمين.",
+   "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "أداة جديدة من جوجل للتصميم تعتمد على الذكاء الاصطناعي بدلاً من التصميم اليدوي",
+   "summary": "أداة جديدة ظهرت باسم Google Pics تتيح للمستخدمين إنشاء محتوى بصري من خلال أوامر نصية بدلاً من الأدوات التقليدية. تمثل الأداة دخول جوجل المباشر إلى سوق البرامج الإبداعية التي تهيمن عليها منصات مثل Canva.",
    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "جوجل تسعى للتعاون مع استوديوهات هوليوود لترخيص المحتوى",
+   "summary": "تحاول جوجل التوصل إلى اتفاقيات ترخيص مع الاستوديوهات الرئيسية في هوليوود للتدريب على المحتوى المحمي بحقوق النشر، مقابل تعويضات مالية كبيرة. يهدف هذا النهج إلى حل النزاعات حول استخدام البيانات في تطوير نماذج الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "أنثروبك تطلق نسخة محسّنة من كلود بتكاليف أقل للمهام الذكية",
+   "summary": "أعلنت شركة أنثروبك عن إصدار جديد من نموذج كلود يوفر أداءً محسّناً مع تقليل التكاليف بنسبة تصل إلى 45 بالمائة، مما يعكس استجابتها لملاحظات العملاء بشأن الأسعار والحفاظ على البيانات. تأتي هذه الخطوة ضمن جهود الشركة لمعالجة التحديات المتعلقة بتسعير النماذج وسياسات الأمان.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "أوبن إيه آي تؤجل تطوير نموذج جديد بعد حادثة اختراق",
+   "summary": "قررت أوبن إيه آي تأخير تطوير مجموعة نماذج جديدة تسمى أسترا، بعد أن تسبب نموذج غير منشور في أضرار دفعت الشركة لتعزيز إجراءات السلامة والأمان. يعكس هذا القرار اهتمام الشركة بتحسين آليات التحكم قبل إطلاق منتجات جديدة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "نقاش حول المسؤولية: من يتحمل تبعات أعطال الذكاء الاصطناعي",
+   "summary": "يثير حادث اختراق منصة هاجينج فيس نقاشاً حول كيفية توصيف الحوادث الأمنية في مجال الذكاء الاصطناعي وتحديد الجهة المسؤولة، حيث يعكس الخلاف في المصطلحات المستخدمة اختلافاً أعمق حول توزيع المسؤوليات بين الشركات.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "أبل تتهم أوبن إيه آي بإتلاف أدلة في قضاء قانونية",
+   "summary": "رفعت شركة أبل دعوى قانونية ضد أوبن إيه آي، متهمة إياها بإتلاف أدلة وعدم تسليم معدات مهمة في الوقت المناسب. طلبت أبل تسريع الإجراءات القانونية لضمان الحصول على الأدلة اللازمة في النزاع.",
+   "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "أداة تصميم من جوجل تعتمد على الذكاء الاصطناعي لتحل محل التصميم اليدوي",
+   "summary": "أطلقت جوجل أداة تصميم جديدة تعتمد على الذكاء الاصطناعي تهدف إلى منافسة تطبيق كانفا، حيث يمكن للمستخدمين إنشاء تصاميم بكتابة أوامر نصية بدلاً من استخدام أدوات التصميم التقليدية. تركز الأداة على تبسيط عملية الإنشاء الإبداعي عبر الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEpTdDB1MXpBQ0JJVjA2NmJpb1FwOEZfN0wwM0dxdnF4c29rY1lkclVLN1h4dXkwLUtiVkw1YnhTcmxnOXVhc3Y3WDFUSmVZWUQwUm5mSzMtVjJmdnF2d2lEWlMzV3NPY0ZrcTdFcmFacThKQ2JRcXpWZUMxRVRvcXQ0NFdsQS1HaENydUhzWTB1NXlieDZnMVZBZ0h4bW9teUpxNFVvcW10SEk?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
    "date": "2026-09-01"
   },
   {
@@ -48,86 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "جوجل تطلق منصة تصميم ذكية للعاملين بالإبداع الرقمي",
-   "summary": "أطلقت جوجل مجموعة أدوات تصميم جديدة باسم Google Pics موجهة لمستخدمي Workspace، تعتمد على نموذج Gemini وتقنيات الذكاء الاصطناعي لتسهيل إنشة وتحرير الصور بمستوى احترافي. الهدف تقليل التعقيدات التقنية أمام الفرق والشركات الراغبة في إنتاج محتوى بصري متقدم.",
-   "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "إنفيديا تطلق تقنية DLSS 5 بمتطلبات أداء عالية جداً",
-   "summary": "أعلنت إنفيديا عن إطلاق تقنية DLSS 5 التي تستخدم الذكاء الاصطناعي لتحسين الأداء في الألعاب، وستكون حصرية في البداية على معالجات RTX من الجيل الخمسين. التقنية الجديدة لاقت جدلاً حول فعاليتها مقارنة بتقنيات التحسين التقليدية.",
-   "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "مدارس سانت كلاود تعتمد أداة ذكاء اصطناعي جديدة لدعم المعلمين",
-   "summary": "اتجهت مدارس سانت كلاود إلى تطبيق تقنية ذكاء اصطناعي حديثة موجهة لتعزيز عمل المعلمين وتحسين أدائهم التعليمي. تهدف الأداة إلى توفير دعم تقني يساعد المعلمين في تنظيم مهامهم وتطوير تجربة التعليم.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHZSUnU0OE8wWXlKOVgzdW1sSkNid3VGYTZHWS1VMGZUZFl0a25kQkZEbl91NGJUY2ZYUC0zcGtrLW5tSHg3ajhzX1BicklaWjZTOFhuTGw2WWlCWTNNajMxRE8yZ0wxRl9lRzdaQnp1TEw5cW9uYUd1ODFmSGdCd08zWGVfQWZvVnVBdFd3NVFRQzB4VXl0dU82NjdxUG92S1Nnb2dtQVNmMG5nWncxRmg5OA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "جامعة شيكاغو تطلق برنامج ماجستير متخصص في تطبيقات الذكاء الاصطناعي",
-   "summary": "أعلنت جامعة شيكاغو عن إنشاء برنامج دراسات عليا جديد يركز على التطبيقات العملية للذكاء الاصطناعي. يعكس البرنامج استجابة أكاديمية لتزايد الطلب على متخصصين مدربين في مجالات تطبيق هذه التقنية بشكل عملي.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWw2X2NldHh3RGRVVnAtckdtU2Z2TlFlcXZteWlqMTBDTHQySy1MS1VGR0pCbXIxaC1YNjFUdW96YmdOVFdDRmJDcjU1S3U0N0NXU2hxUG5WY2VrdFRQa1BiS1dEZHhBZU5LbGhUdXdqUUd6MFVXVUptODFDT2RSQnN4SThlYlFXRFd2UHQtYk90ZkhjWDRyYkd2eElhSzVzeURjUHFQTlNmQ2tFcDJDcXN30gGyAUFVX3lxTE9hbDZfY2V0eHdEZFVWcC1yR21TZnZOUWVxdm15aWoxMENMdDJLLUxLVUZHSkJtcjFoLVg2MVR1b3piZ05UV0NGYkNyNTVLdTQ3Q1dTaHFQblZjZWt0VFBrUGJLV0RkeEFlTktsaFR1d2pRR3owVVdVSm04MUNPZFJCc3hJOGViUVdEV3ZQdC1iT3RmSGNYNHJiR3Z4SWFLNXN5RGNQcVBOU2ZDa0VwMkNxc3c?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "قمة الذكاء الاصطناعي القادمة تسلط الضوء على القضايا والتحديات الصعبة",
-   "summary": "ستناقش قمة متخصصة في الذكاء الاصطناعي الموضوعات المثيرة للجدل والقضايا المعقدة المرتبطة بهذه التكنولوجيا. تركز القمة على استكشاف النقاط الحساسة والتوترات الكامنة في تطور واستخدام هذه الأنظمة.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2JJZlVZUFdpM3FXaURjQXlBMWFlRjZUNTl0eUJqUmdrbzR2ODJRWFdDZFp0Q18zWkc1NWNTdEVsd01UbGdWTDF4WFZuZ25uTGhqc3owcEplaGNteGlQS05IRExOejh5RzQ1N0t3N2FabTJGNEMtY3dIbWhGQURGdGdYRVpnS1ZiUmNsNEVBdU93a2xTQW16OTAzeGs2ZjdJUmRUTXNKRGpEcTVOM1hOTzlJdWw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "أبل تكشف أدلة على محاولة موظف سابق إتلاف بيانات بعد اتهامه بسرقة معلومات",
-   "summary": "تؤكد أبل امتلاكها أدلة تثبت أن موظفاً سابقاً قام بحذف ملفات وبيانات متعلقة بقضية سرقة معلومات الشركة لصالح شركة أخرى، وذلك بعد أن علم بوجود تحقيق ضده. تسلط القضية الضوء على جدية أبل في حماية أسرارها التجارية ومكافحة تسريب البيانات الحساسة.",
-   "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "عصر الذكاء الاصطناعي المضطرب بدأ، والقرارات الحالية حاسمة",
-   "summary": "يؤكد بيل جيتس أن العالم يدخل مرحلة حرجة من تطور الذكاء الاصطناعي، وأن السياسات والخيارات التي نتخذها اليوم ستحدد مسار هذه التكنولوجيا وتأثيراتها المستقبلية على المجتمع والاقتصاد.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "نقد الذكاء الاصطناعي: هل يكون الحكم صادراً عن آلة؟",
-   "summary": "مقالة رأي تطرح تساؤلات حول مصداقية وموضوعية نقد تقنيات الذكاء الاصطناعي، خاصة عندما يصدر النقد من أنظمة ذكاء اصطناعي نفسها، مما يثير جدلاً حول الحياد والمعايير المستخدمة في التقييم.",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemNic3p4TnEySWlGLU5oazJ3NUtBS1lxOEo4TEY3dkxyS2Z0aldIOGw0TlRsSEdHTmdSMC1xUlJ0NFhoTUxYYWZJV2UwU2hRb1hrSmtjWFBXNFhIRTdFdVBLVDJGNWRmLXB5OWtiVFdhVjFFeU1Xd1VKbXZWZkExeGQyRm9hQ0ttZ2ZYcg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "الوصاية والقيادة في عصر الذكاء الاصطناعي: أهمية الحكم الإنساني",
-   "summary": "تدرس المقالة دور الحكم والتقدير الإنساني في إدارة موارد والمسؤوليات في ظل انتشار أنظمة الذكاء الاصطناعي، وكيف يبقى دور الوصاية والقيادة الإنسانية ضرورياً لاتخاذ القرارات الحساسة والأخلاقية.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUxhNU1zUWRabFU0YjkzZnVBczNCQW1BYWE2UVAxeDNEVXlNRGFXOTdzWFZlQlg5XzlvbnJvbWxmTm9zNXk1cXZ0R3Vqa095STBSOTRtS191THZpQWN1ZmUxTEsyOUREb3p5TTdyNUMxdFJ6RmFUOXp3R2RjRjJGZlg1QzVoMGdnc1hoLVhTZGM2OU1Ka0tDZWdHNXJGWjlvc3MtQTE1M2x1b3hZYk83dE5FQQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "شركة PartsSource تعين قيادة جديدة لقسم استراتيجية الذكاء الاصطناعي",
-   "summary": "عينت شركة PartsSource نيك مارزوتو في منصب قيادي مخصص لإشراف وتطوير استراتيجيتها في مجال الذكاء الاصطناعي، في خطوة تعكس تركيز الشركة على دمج هذه التقنيات في عملياتها.",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU0xMZnRUejNDaFlxR1ZDbk9LRGdTaWFCdURmRG8tcnpCUkRmcU4xQkFsWXB4V2hnZXNZNzg1Y29jSzA1d3QxM3RtYmViZWt0NnlzOWs1bTRkSjZhcm9aM3VaYWtkeWo4MHBmZm5rOGF1MU1jaEZzVjBENDNGb0tIZ0lwRGFibnBtVGRQYzMzQXlwTndiQV9La1Y4NDJhc0tsVjZBSEc3M2NILThzMnlFamVNTnRjU1JrVjMwRWg1MjYyWlR4OUgw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-09-01"
   }
  ]
