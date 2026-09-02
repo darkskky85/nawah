@@ -1,42 +1,90 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-01T23:10:26.447202+00:00",
+ "updated": "2026-09-02T07:46:03.425996+00:00",
  "items": [
   {
-   "title": "شركة ناشئة متخصصة في تدريب نماذج ذكاء اصطناعي تحقق قيمة تقييم 3.2 مليار دولار",
-   "summary": "وصلت شركة AfterQuery إلى تقييم 3.2 مليار دولار بعد جولة تمويل جديدة، بما يعكس قفزة سريعة من تقييم 300 مليون دولار قبل خمسة أشهر فقط. يعكس هذا الارتفاع الطلب المتنامي على خدمات تدريب نماذج الذكاء الاصطناعي.",
+   "title": "مرحلة الذكاء الاصطناعي المضطربة وأهمية القرارات الحالية",
+   "summary": "يناقش الخبر دخول مجال الذكاء الاصطناعي مرحلة تتسم بعدم الاستقرار والتحديات المتسارعة، مؤكداً أن الخيارات والقرارات التي يتخذها صانعو السياسات والعاملون في المجال حالياً ستحدد مسار تطور التكنولوجيا ومدى استفادة المجتمع منها مستقبلاً.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "جامعة شيكاغو تطلق برنامج ماجستير متخصص في الذكاء الاصطناعي التطبيقي",
+   "summary": "أعلنت جامعة شيكاغو عن إطلاق برنامج دراسات عليا جديد يركز على تطبيقات الذكاء الاصطناعي العملية. يعكس هذا المسار الأكاديمي الاهتمام المتزايد بتأهيل متخصصين قادرين على دمج تقنيات الذكاء الاصطناعي في القطاعات المختلفة.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWw2X2NldHh3RGRVVnAtckdtU2Z2TlFlcXZteWlqMTBDTHQySy1MS1VGR0pCbXIxaC1YNjFUdW96YmdOVFdDRmJDcjU1S3U0N0NXU2hxUG5WY2VrdFRQa1BiS1dEZHhBZU5LbGhUdXdqUUd6MFVXVUptODFDT2RSQnN4SThlYlFXRFd2UHQtYk90ZkhjWDRyYkd2eElhSzVzeURjUHFQTlNmQ2tFcDJDcXN30gGyAUFVX3lxTE9hbDZfY2V0eHdEZFVWcC1yR21TZnZOUWVxdm15aWoxMENMdDJLLUxLVUZHSkJtcjFoLVg2MVR1b3piZ05UV0NGYkNyNTVLdTQ3Q1dTaHFQblZjZWt0VFBrUGJLV0RkeEFlTktsaFR1d2pRR3owVVdVSm04MUNPZFJCc3hJOGViUVdEV3ZQdC1iT3RmSGNYNHJiR3Z4SWFLNXN5RGNQcVBOU2ZDa0VwMkNxc3c?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "دور الذكاء الاصطناعي كأداة استراتيجية في قيادة الأعمال",
+   "summary": "يناقش المقال كيفية استخدام الذكاء الاصطناعي كموجه استراتيجي في بيئة الأعمال الحديثة. يبرز أهمية دمج هذه التقنيات في اتخاذ القرارات الإدارية لتحسين الأداء التنافسي للمؤسسات.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGtiS3djcEVvMFFRYXhBNWFEaDVLSGRmX1dmTml3Mm1pVzNEZlZ1MnptRmd3bUNDaHBialRUUURNRWF5bGpFaHpMcl9iT0ZyU3FzY1NBb3ZmajljSFhTRTh3dUVpOFNDeVQwZkV4M3pRRUwxY1lSSVNFS2ZJZHh0dXRTbWNjcDNlQ1J1YmxORnA3OHdkSzU4UDVMaksycHRWalFWU3JyN3JNZEhpUnF1STJzTEpKTXdZ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "أفضل أسهم الذكاء الاصطناعي للاستثمار في سبتمبر",
+   "summary": "يقدم التقرير تحليلاً لثلاثة أسهم متعلقة بقطاع الذكاء الاصطناعي يعتبرها محللون كخيارات استثمارية محتملة خلال شهر سبتمبر. يركز على الشركات الرائدة في مجال تطوير وتطبيق تقنيات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWNEUUxMUzhNMzRfRHZFMEtaY00yOGIydl80YVJRbzFZRktxbnFyNzlWNGR1TEhWaTFhT3N1T1lUNUhrVGFKdU9SX083SmN3VDJtVkQ1TnYwQzBPU3U0bWJ2bE82WGFUalRaUXc0WV94TkNtam1odEtoR3Z3RWdMS2RCOUs2bVFGYVZFSHBWWlAwbjBJdmVfdjZpRG01MWM?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "الأسهم الثلاثة الأفضل في قطاع الذكاء الاصطناعي لسبتمبر",
+   "summary": "يقدم تحليل من موقع Motley Fool لثلاثة أسهم في قطاع الذكاء الاصطناعي يرى المحللون فيها فرصاً استثمارية واعدة. يركز على أداء هذه الشركات وإمكانياتها في السوق الحالية.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHd4bkVTYUJzTGJIZVlibUl2YllCc3VoTVNEeWs3UUxibFlXZ0VoZDBQUzlrUWhibnVNUVFfT1hQTmFuOWNiazIzZi1pemVTRkxDVkhCVklwVWZZWXJaWG1XajJxSG1Vd244M052cHFORTFGSTNpc3FNWGtMSlhhcXRHQlVWZWJhVlVoS3EtZHBobFFEVFpaXw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "Anthropic تعترف بثغرات أمنية في أنظمتها وراء حوادث اختراق الذكاء الاصطناعي",
+   "summary": "اعترفت شركة Anthropic بوجود نقاط ضعف أمنية في أنظمتها سمحت بحدوث حوادث اختراق. أشارت الشركة إلى عدم انتظام كامل بين قيم نماذجها وقيم الإنسان، مما يعكس التحديات الأمنية المستمرة في تطوير أنظمة الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGFjc2FGWHhOeE9TaEJnVXhGYTl4cEZQVzNKTTNWcmVueTB4eWNTVTI1X0luZnd5cFRiQThjRk9nYXh2TmRybTFNb2o1SjhBWnJlN3dOQTFLZkJNeVowUkFNQWdGMWJ0aExWSWhaUFdHa19sa3dLSmIyc2dkdDZ5Vl9zWUtFYjl4dlotUUpYOHRXSUt4RWc?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "AfterQuery تصبح أسرع شركة ناشئة تحقق مرتبة اليونيكورن في Y Combinator",
+   "summary": "حققت شركة AfterQuery المتخصصة في تدريب نماذج الذكاء الاصطناعي تقييماً بقيمة 3.2 مليار دولار، لتصبح الأسرع في برنامج Y Combinator. جاء هذا التقييم بعد خمسة أشهر فقط من إعلانها جولة Series A بقيمة 300 مليون دولار في أبريل.",
    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-01"
   },
   {
-   "title": "OpenAI تستعد لإطلاق نموذج Astra وتعلن عن إجراءات أمنية سيبرانية",
-   "summary": "كشفت OpenAI عن التدابير الحماية التي تطبقها قبل إطلاق نموذجها الجديد Astra، والذي يتمتع بقدرات متقدمة في المجالات الحساسة أمنياً. التركيز على الاحتياطات الأمنية يعكس أهمية معالجة المخاطر المحتملة للنماذج اللغوية الكبيرة.",
+   "title": "نموذج أسترا من OpenAI قادم قريباً مع تدابير أمنية معزّزة",
+   "summary": "أعلنت OpenAI عن استعدادها لإطلاق نموذج أسترا اللغوي الجديد، وركّزت على الاحتياطات الأمنية التي تتخذها لمواجهة المخاطر السيبرانية المحتملة. يأتي هذا الإجراء وسط اهتمام متزايد بضمان سلامة الأنظمة والبيانات من خلال نماذج الذكاء الاصطناعي المتقدمة.",
    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-01"
   },
   {
-   "title": "تحديث أندرويد الجديد من جوجل يركز على الصحة والإمكانية والذكاء الاصطناعي",
-   "summary": "أضافت جوجل ميزات جديدة في تحديث أندرويد تتعامل مع دوار الحركة وتحسينات في إمكانية الوصول، مع استخدام نموذج Gemini لتقديم تحسينات إضافية. بعض هذه الميزات توازي ما تقدمه أبل لمستخدمي آيفون، بينما أخرى تستفيد بشكل خاص من القدرات الذكية.",
+   "title": "تحديث أندرويد الجديد يعالج دوار الحركة والإمكانية والميزات المتقدمة",
+   "summary": "أطلقت جوجل تحديثاً لنظام أندرويد يتضمن ميزات لتقليل دوار الحركة وتحسين إمكانية الوصول، مع الاستفادة من تقنيات جيميني المتقدمة. بعض هذه الميزات تلحق الفجوة مع ما توفره آبل لمستخدمي آيفون، بينما تركز أخرى على تطبيقات ذكاء اصطناعي خاصة بالنظام.",
    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-01"
   },
   {
-   "title": "نموذج Fable 5.1 من Anthropic بتكاليف أقل وتقيود أخف",
-   "summary": "أطلقت Anthropic نسخة محدثة من نموذج Fable تركز على تقليل تكاليف المعالجة والحد من القيود الزائدة في آليات الحماية. التحسينات تهدف إلى توفير أداة أكثر مرونة وكفاءة اقتصادية للمستخدمين.",
+   "title": "إصدار فيبل الجديد من Anthropic أرخص وأقل تقييداً",
+   "summary": "أطلقت Anthropic إصدار فيبل 5.1 بتحسينات تهدف إلى خفض تكاليف المعالجة وتقليل الإنذارات الخاطئة من آليات الحماية في النموذج. يمكّن هذا التحديث المستخدمين من الاستفادة من الخدمة بكفاءة أعلى وتقيد أقل.",
    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-01"
   },
   {
-   "title": "أداة جديدة من جوجل للتصميم تعتمد على الذكاء الاصطناعي بدلاً من التصميم اليدوي",
-   "summary": "أداة جديدة ظهرت باسم Google Pics تتيح للمستخدمين إنشاء محتوى بصري من خلال أوامر نصية بدلاً من الأدوات التقليدية. تمثل الأداة دخول جوجل المباشر إلى سوق البرامج الإبداعية التي تهيمن عليها منصات مثل Canva.",
+   "title": "جوجل تدخل سوق التصميم بأداة ذكاء اصطناعي تعتمد على الأوامر النصية",
+   "summary": "أداة جديدة ظهرت باسم جوجل بيكس، وهي أداة لإنشاء التصاميم بالاعتماد على أوامر نصية بدلاً من التصميم اليدوي التقليدي. تسعى جوجل من خلالها إلى التنافس في سوق البرامج الإبداعية المهيمن عليها من قِبل كانفا وأدوبي، لكن برؤية موجهة أولاً نحو الذكاء الاصطناعي.",
    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -78,54 +126,6 @@ window.NEWS_DATA = {
    "title": "أبل تتهم أوبن إيه آي بإتلاف أدلة في قضاء قانونية",
    "summary": "رفعت شركة أبل دعوى قانونية ضد أوبن إيه آي، متهمة إياها بإتلاف أدلة وعدم تسليم معدات مهمة في الوقت المناسب. طلبت أبل تسريع الإجراءات القانونية لضمان الحصول على الأدلة اللازمة في النزاع.",
    "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "أداة تصميم من جوجل تعتمد على الذكاء الاصطناعي لتحل محل التصميم اليدوي",
-   "summary": "أطلقت جوجل أداة تصميم جديدة تعتمد على الذكاء الاصطناعي تهدف إلى منافسة تطبيق كانفا، حيث يمكن للمستخدمين إنشاء تصاميم بكتابة أوامر نصية بدلاً من استخدام أدوات التصميم التقليدية. تركز الأداة على تبسيط عملية الإنشاء الإبداعي عبر الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEpTdDB1MXpBQ0JJVjA2NmJpb1FwOEZfN0wwM0dxdnF4c29rY1lkclVLN1h4dXkwLUtiVkw1YnhTcmxnOXVhc3Y3WDFUSmVZWUQwUm5mSzMtVjJmdnF2d2lEWlMzV3NPY0ZrcTdFcmFacThKQ2JRcXpWZUMxRVRvcXQ0NFdsQS1HaENydUhzWTB1NXlieDZnMVZBZ0h4bW9teUpxNFVvcW10SEk?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "تشاتجيبيتي الصحي يدعم الآن استيراد بيانات المرضى من منصة إبك",
-   "summary": "أضافت أوبن إيه آي ميزة جديدة تتيح للأطباء الوصول المباشر إلى السجلات الطبية للمرضى عبر تطبيق تشاتجيبيتي الصحي بصلاحيات قراءة فقط، مما يسهل عملية استرجاع البيانات الطبية الموثقة.",
-   "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "شركة ناشئة تحصل على تمويل لتوقع أعطال البنية التحتية قبل حدوثها",
-   "summary": "أطلقت شركة إمبيريك منصة متخصصة في التنبؤ بأعطال الأنظمة التكنولوجية قبل وقوعها، بدعم من حاضنة سيكويا برأس مال بلغ 21 مليون دولار، بهدف تطبيق نفس منهجية أداة كرسور في هندسة البرمجيات على البنية التحتية.",
-   "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "أمازون تضيف إنذارات ذكية إلى أليكسا لإخطار المستخدمين بفرص الشراء",
-   "summary": "أطلقت أمازون ميزة جديدة في أليكسا تُسمى «أخبرني عند» تتيح إرسال تنبيهات مخصصة للمستخدمين حول إطلاقات منتجات وعروض وكتب وبرامج تلفزيونية وغيرها من الأحداث التي قد تشجعهم على الشراء.",
-   "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "منصة جديدة تساعد الشركات على التحقق من مهارات وإضافات عملاء الذكاء الاصطناعي",
-   "summary": "أطلقت شركة إيه آي آر منصة متخصصة في اكتشاف وعاية الوكلاء الذكيين داخل الشركات، وتدقيق المهارات والإضافات التي يستخدمونها بشكل مستمر، مع حجب أي سلوكيات غير مرغوبة، وحصلت على تمويل بقيمة 50 مليون دولار.",
-   "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "جون ديري تطلق مساعداً ذكياً موجهاً للمزارعين",
-   "summary": "بدأت شركة جون ديري اختبار مساعد ذكي يُدعى «جي دي» يوفر للمزارعين نصائح حول أفضل الممارسات والاتجاهات التاريخية بناءً على بيانات الحقول والآلات والعمليات الخاصة بهم، بهدف مساعدتهم على زيادة أرباحهم.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-09-01"
