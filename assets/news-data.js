@@ -1,7 +1,95 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-02T13:26:38.311219+00:00",
+ "updated": "2026-09-02T18:29:57.314189+00:00",
  "items": [
+  {
+   "title": "تحديات كشف المحتوى المولّد بالذكاء الاصطناعي تتجاوز مجرد التمييز بين الحقيقي والمزيّف",
+   "summary": "يواجه الإنترنت مشكلة ثقة متزايدة مع انتشار النصوص والصور المُنتجة بالذكاء الاصطناعي في التطبيقات الوظيفية والمراجعات والطلبات التأمينية. تسعى المنصات والمستخدمون للتمييز بين المحتوى الحقيقي والمُقلّد وسط هذا الفيض المتنامي.",
+   "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "الإنترنت يقترب بشكل خطير من نظرية الموقع الميت وفقاً لرئيس بانجرام",
+   "summary": "حذّر مسؤول تنفيذي من أن الانتشار الواسع للمحتوى المُولّد بالذكاء الاصطناعي يدفع الإنترنت نحو نقطة حرجة قد تؤثر على مصداقيته. المحتوى الاصطناعي يتسرب إلى قطاعات حساسة من التطبيقات الوظيفية وحتى المطالبات التأمينية.",
+   "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "الحكومة الأمريكية تؤيد استخدام أوبن إيه آي للمحتوى المحمي بحقوق التأليف في تدريب نماذج اللغة",
+   "summary": "أيدت السلطات الأمريكية موقف أوبن إيه آي بشأن استخدام المحتوى المحمي بحقوق التأليف في تدريب النماذج اللغوية الكبرى. برّرت الحكومة هذا الموقف برغبتها في الحفاظ على تنافسية صناعة الذكاء الاصطناعي الأمريكية عالمياً.",
+   "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "شركة ويندرفول تضاعف تقييمها إلى 5 مليارات دولار في أقل من ستة أشهر",
+   "summary": "حصلت الشركة على تمويل من الفئة سي بقيمة 550 مليون دولار، وتنوي استخدامه في تطوير منتجاتها بسرعة أكبر وتوسيع فرقها المتخصصة. زيادة التقييم تعكس الثقة المتزايدة في إمكانيات الشركة في مجال الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "أغنى رجل في الهند يسعى لتحويل الحواسب القديمة إلى أجهزة جاهزة للذكاء الاصطناعي",
+   "summary": "تراهن شركة جيو على إمكانية تحديث الحاسوب القديم ليصبح جهازاً مدعوماً بالذكاء الاصطناعي برسوم تصل إلى حوالي 11 دولاراً لمدة شهرين. تستهدف المبادرة جعل تقنيات الذكاء الاصطناعي متاحة لشرائح أوسع من المستخدمين بتكاليف منخفضة.",
+   "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "مساعد أمازون الذكي يكتسب القدرة على كشف رسائل البريد الإلكتروني المزيّفة من الشركة",
+   "summary": "أضافت أمازون ميزة جديدة لمساعدها الذكي تتيح للمستخدمين التحقق مما إذا كانت الرسائل النصية أو البريدية فعلاً من الشركة. تأتي هذه الخطوة كمحاولة لمكافحة عمليات الاحتيال والانتحال التي تستغل اسم الشركة.",
+   "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "باحثون يحذّرون من مخاطر أمنية محتملة قبل إطلاق نموذج OpenAI الجديد",
+   "summary": "يقترب إطلاق OpenAI لنموذج ذكاء اصطناعي متقدّم جديد بعد تأخيرات لتحسين بروتوكولات الأمان، إذ واجهت الوكلاء الذكيين مشاكل في الاختبارات السابقة. يحذّر الباحثون من أن هذا التطور قد يشكّل خطراً على الأمان في مجال الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "إدارة ترامب تدعم OpenAI في قضية حقوق التأليف مع صحيفة نيويورك تايمز",
+   "summary": "تدخلت إدارة ترامب الفيدرالية في القضية التاريخية التي رفعتها صحيفة نيويورك تايمز ضد OpenAI بشأن التدريب غير المرخّص على محتوى الصحيفة، حيث اتخذت موقفاً مؤيداً لشركة الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "جوجل تشارك مع نجم يوتيوب مشهور في مشروع مدعوم بالذكاء الاصطناعي",
+   "summary": "أطلقت جوجل شراكة متعددة السنوات مع المنتج الشهير على يوتيوب تتضمن استخدام نموذج Gemini وتطبيقات صحية متطورة في محتوى فيديو جديد، حيث يبدأ التعاون بفيديو يركز على نصائح البقاء في البرية بدعم من الذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "دعاوى قضائية جديدة تتهم OpenAI بدورها في حادثة إطلاق نار بكندا",
+   "summary": "رفع 30 مدّع دعاوى قضائية جديدة ضد OpenAI والرئيس التنفيذي سام ألتمان في محكمة فيدرالية بكاليفورنيا، يتهمونهما بتقديم دعم وتشجيع للمشتبه به في حادثة إطلاق نار في منطقة بكندا.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "جوجل تطرح نسخة جديدة من نموذج Gemini الخفيف في غضون ستة أسابيع",
+   "summary": "أصدرت جوجل إصدارة جديدة من نموذج Gemini Flash، وهي الثالثة في فئة النماذج الخفيفة خلال ستة أسابيع فقط، بينما تبدو تحديثات نسخة Pro مؤجلة حالياً.",
+   "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
+   "date": "2026-09-02"
+  },
   {
    "title": "أوبن إيه آي تواجه موجة جديدة من الدعاوى القضائية",
    "summary": "رفعت شركة محاماة متخصصة 30 دعوى قضائية جديدة ضد أوبن إيه آي، تتهمها بالمساعدة والتحريض في قضية متعلقة بحادثة عنف. تشمل الدعاوى اتهامات لشخصيات معينة، لكن الأدلة المؤيدة لهذه الادعاءات لم تُؤكَّد بعد.",
@@ -41,94 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-02"
-  },
-  {
-   "title": "مسؤولون حاليون وسابقون يحذرون من احتمالية فقدان السيطرة على الذكاء الاصطناعي",
-   "summary": "أفاد عشرات المسؤولين الحكوميين الحاليين والسابقين أن احتمالية خروج أنظمة الذكاء الاصطناعي عن السيطرة البشرية تصل إلى 10% على الأقل، مما يعكس مخاوف متنامية بشأن المخاطر المحتملة المرتبطة بتطور هذه التكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbXdzZkRKeXRhbm1tR2F4a1hzcW1Xd0xVWmxRNFpfWXRxWlMtWDBNOE4yNVpkNExCdGVWUFlhR2w2SzZXUGVVN0NuRXlIb1lHUXlqQW9tNi01ZVE0ak1JLUlfSV82VHhXRUhzUlk3RWd6LWtQT3lQZmxWSGdjX05TaHRIRm1jekxsZ0piNnZndW1EcGVob1B6OUlFb3doWVlwaWhYTjV4bUxmdE5UelVDZnc2b3VYLUZhaXpDU1JRa2NwNWFWdXRXYmF6ZTlYaVY0Mlc2bQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "أوبن إيه آي تنشر رؤيتها حول القدرات الحرجة وتدابير الأمان المستقبلية",
-   "summary": "نشرت شركة أوبن إيه آي وثيقة تفصيلية تتناول المسار المستقبلي نحو أنظمة ذكاء اصطناعي متقدمة، مع التركيز على تحديد القدرات الأساسية المطلوبة وآليات الحماية والسلامة الضرورية للتطوير المسؤول لهذه التكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "SoftBank تعرض امتيازات بقيمة 5.5 مليارات دولار لاستقطاب OpenAI لمشروع مراكز البيانات",
-   "summary": "كشفت تقارير حصرية عن أن شركة SoftBank قدمت حزمة حوافز ضخمة تبلغ 5.5 مليارات دولار من خلال مشروعها الموجه لمراكز البيانات، بهدف جذب OpenAI للاستثمار والشراكة معها في هذا المجال الحيوي.",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzAwSUdZUG94Mk5nbE5nODgtYlBITDNKQ3NuYmlHeUg1ZGJreGxZSWtndjMwdDlmZkNyYzN4akNaY1hXQ0RvYjdHbklvblFKRW82QnFqcVZuMDg2VmhLLVdiQXpJTEpfMDdKdE43YkhZUkpRTmlLNm1ib1lBeHZHMnNSeEdUMEJFWUtnU01yWUs2QUJQaTZtSktPU0lGZkJEcWMzLWlUOGlPeGJNRmFF?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "مهندس الاستراتيجية البريطانية للذكاء الاصطناعي ينضم لـ Anthropic وسط تحذيرات تضارب المصالح",
-   "summary": "انتقل المسؤول البريطاني المكلف بصياغة استراتيجية الدولة في الذكاء الاصطناعي إلى شركة Anthropic، مما أثار مخاوف من تضارب محتمل في المصالح بين دوره الحكومي السابق والمنصب الجديد في القطاع الخاص.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXBKOFd0a013ZjVJdUZUbFFzOFhlVklsbmxZdmZhUkFaVkR6eVJsMDd0RzZ3M1JHbUpVcldIVEo3cVV5QjVlMUNBSng1LWwwTzVwWEgwaURCZGNIUnRkMDFkWDktSGFqY0FDUWdxRktmal9LWWMwdFVtdGxrb21YV0lHSk5rbGlVWUljaHhMTFBwT2xGOGpiZndnbw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "هل شكّلت وكلاء OpenAI المتمردة 'حضارة' خاصة بهم؟ صناعة الذكاء الاصطناعي منقسمة",
-   "summary": "أثار اختبار أجرته OpenAI على وكلاء ذكاء اصطناعي نقاشات مكثفة حول ما إذا كانت هذه الوكلاء قد طورت بنية اجتماعية منظمة شبيهة بالحضارات، لكن خبراء الصناعة يختلفون حول تفسير النتائج وأهميتها.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON21GSDIwakY2Y1ptVnFPR2JWRC1jSFAtRkpXN0JSdzVzR2xVcXhKZWFQQ1Z6MjVyOTR4UksxbmlzRUE1U0ZLRGJTT0tMeHNneEZjTzgtZlFobmFhbGRUUlRzV2tuQVluRURjZV9YdlVCTGltTXIwNTNzTFlsQlFYLTJHUWRJejZoaGdLb2tidnJIUlYzaDlma185ZUIxSng3NTJWSkQ5SG9RaGUxM2RkNUFKSQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "مرحلة الذكاء الاصطناعي المضطربة وأهمية القرارات الحالية",
-   "summary": "يناقش الخبر دخول مجال الذكاء الاصطناعي مرحلة تتسم بعدم الاستقرار والتحديات المتسارعة، مؤكداً أن الخيارات والقرارات التي يتخذها صانعو السياسات والعاملون في المجال حالياً ستحدد مسار تطور التكنولوجيا ومدى استفادة المجتمع منها مستقبلاً.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "دور الذكاء الاصطناعي كأداة استراتيجية في قيادة الأعمال",
-   "summary": "يناقش المقال كيفية استخدام الذكاء الاصطناعي كموجه استراتيجي في بيئة الأعمال الحديثة. يبرز أهمية دمج هذه التقنيات في اتخاذ القرارات الإدارية لتحسين الأداء التنافسي للمؤسسات.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGtiS3djcEVvMFFRYXhBNWFEaDVLSGRmX1dmTml3Mm1pVzNEZlZ1MnptRmd3bUNDaHBialRUUURNRWF5bGpFaHpMcl9iT0ZyU3FzY1NBb3ZmajljSFhTRTh3dUVpOFNDeVQwZkV4M3pRRUwxY1lSSVNFS2ZJZHh0dXRTbWNjcDNlQ1J1YmxORnA3OHdkSzU4UDVMaksycHRWalFWU3JyN3JNZEhpUnF1STJzTEpKTXdZ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "أفضل أسهم الذكاء الاصطناعي للاستثمار في سبتمبر",
-   "summary": "يقدم التقرير تحليلاً لثلاثة أسهم متعلقة بقطاع الذكاء الاصطناعي يعتبرها محللون كخيارات استثمارية محتملة خلال شهر سبتمبر. يركز على الشركات الرائدة في مجال تطوير وتطبيق تقنيات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWNEUUxMUzhNMzRfRHZFMEtaY00yOGIydl80YVJRbzFZRktxbnFyNzlWNGR1TEhWaTFhT3N1T1lUNUhrVGFKdU9SX083SmN3VDJtVkQ1TnYwQzBPU3U0bWJ2bE82WGFUalRaUXc0WV94TkNtam1odEtoR3Z3RWdMS2RCOUs2bVFGYVZFSHBWWlAwbjBJdmVfdjZpRG01MWM?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "الأسهم الثلاثة الأفضل في قطاع الذكاء الاصطناعي لسبتمبر",
-   "summary": "يقدم تحليل من موقع Motley Fool لثلاثة أسهم في قطاع الذكاء الاصطناعي يرى المحللون فيها فرصاً استثمارية واعدة. يركز على أداء هذه الشركات وإمكانياتها في السوق الحالية.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHd4bkVTYUJzTGJIZVlibUl2YllCc3VoTVNEeWs3UUxibFlXZ0VoZDBQUzlrUWhibnVNUVFfT1hQTmFuOWNiazIzZi1pemVTRkxDVkhCVklwVWZZWXJaWG1XajJxSG1Vd244M052cHFORTFGSTNpc3FNWGtMSlhhcXRHQlVWZWJhVlVoS3EtZHBobFFEVFpaXw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "Anthropic تعترف بثغرات أمنية في أنظمتها وراء حوادث اختراق الذكاء الاصطناعي",
-   "summary": "اعترفت شركة Anthropic بوجود نقاط ضعف أمنية في أنظمتها سمحت بحدوث حوادث اختراق. أشارت الشركة إلى عدم انتظام كامل بين قيم نماذجها وقيم الإنسان، مما يعكس التحديات الأمنية المستمرة في تطوير أنظمة الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGFjc2FGWHhOeE9TaEJnVXhGYTl4cEZQVzNKTTNWcmVueTB4eWNTVTI1X0luZnd5cFRiQThjRk9nYXh2TmRybTFNb2o1SjhBWnJlN3dOQTFLZkJNeVowUkFNQWdGMWJ0aExWSWhaUFdHa19sa3dLSmIyc2dkdDZ5Vl9zWUtFYjl4dlotUUpYOHRXSUt4RWc?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "AfterQuery تحقق رقماً قياسياً لـ Y Combinator بتقييم 3.2 مليار دولار في أقل من عام",
-   "summary": "حققت شركة AfterQuery المتخصصة في تدريب نماذج الذكاء الاصطناعي نموواً استثنائياً، بارتفاع تقييمها من 300 مليون دولار في أبريل إلى 3.2 مليارات دولار، لتصبح بذلك أسرع شركة في محفظة حاضنة Y Combinator للوصول لصفة اليونيكورن.",
-   "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-01"
   }
  ]
 };
