@@ -1,19 +1,91 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-02T07:46:03.425996+00:00",
+ "updated": "2026-09-02T13:26:38.311219+00:00",
  "items": [
   {
-   "title": "مرحلة الذكاء الاصطناعي المضطربة وأهمية القرارات الحالية",
-   "summary": "يناقش الخبر دخول مجال الذكاء الاصطناعي مرحلة تتسم بعدم الاستقرار والتحديات المتسارعة، مؤكداً أن الخيارات والقرارات التي يتخذها صانعو السياسات والعاملون في المجال حالياً ستحدد مسار تطور التكنولوجيا ومدى استفادة المجتمع منها مستقبلاً.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "title": "أوبن إيه آي تواجه موجة جديدة من الدعاوى القضائية",
+   "summary": "رفعت شركة محاماة متخصصة 30 دعوى قضائية جديدة ضد أوبن إيه آي، تتهمها بالمساعدة والتحريض في قضية متعلقة بحادثة عنف. تشمل الدعاوى اتهامات لشخصيات معينة، لكن الأدلة المؤيدة لهذه الادعاءات لم تُؤكَّد بعد.",
+   "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "لجنة متخصصة تدرس احتمالية فرض قيود على الذكاء الاصطناعي في مدارس لوس أنجلوس",
+   "summary": "تشكيل لجنة جديدة في منطقة تعليم لوس أنجلوس لبحث وضع قواعد وسياسات حول استخدام تقنيات الذكاء الاصطناعي داخل الفصول الدراسية، بهدف تحديد ما إذا كان يجب تقييد أو منع هذه التكنولوجيا في البيئة التعليمية.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXFhNmVSS1FGdE5QWXhGMzRvNEVWSHcwaWhCY3djWEZwUzdrRHdROHp6MjcxNDZweGd6ckhtYUVwR1g2Tmd2NUwzVkY0S2VnX0NqeHdaTk13eGpXZEcwcXNjMF9kcnp5OFhDZ3V0YzNuSHpLUlphWE9ZenkyUVdmam9QU3YxeHVIUnJxZDFJR2p2R2tHMXExbEt3TG9hTkx2Z2p1R1BTdmJtNWpQUzFF0gG0AUFVX3lxTE9xWUw5NXZIVUR0MWdRSlNSNjgzQm00c3prN2Z2bTRRTC1Mb196alN5SXQtS0JZSjc1eHZ4eXdEMnc2NXBvSWVUSG1tdHJDMmdrWnp3NWtCTmJMc2FsWWJJMnUyS00tQ2RHOGQ3bDB0S0I3RzU2R2dVLXl2RXlqQ0VnbjdnVWZhclRGV3kyd3MtRW91WHN0X1FzMmhpdmpzbGNWcGFjT002OGNEODJPbDRIZ0VzcQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-02"
   },
   {
-   "title": "جامعة شيكاغو تطلق برنامج ماجستير متخصص في الذكاء الاصطناعي التطبيقي",
-   "summary": "أعلنت جامعة شيكاغو عن إطلاق برنامج دراسات عليا جديد يركز على تطبيقات الذكاء الاصطناعي العملية. يعكس هذا المسار الأكاديمي الاهتمام المتزايد بتأهيل متخصصين قادرين على دمج تقنيات الذكاء الاصطناعي في القطاعات المختلفة.",
+   "title": "قمة مجموعة العشرين تركز على قضايا الذكاء الاصطناعي في اجتماعاتها",
+   "summary": "اجتماعات مجموعة العشرين في تشابل هيل تتضمن نقاشات موسعة حول الذكاء الاصطناعي وتأثيراته، مما يعكس اهتمام الدول الكبرى بضرورة معالجة التحديات والفرص المرتبطة بهذه التكنولوجيا على المستوى العالمي.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXV5STFzYUhXZmRPLWJlUEJQVWluSjhqdjgzcDdoRGZVUmJKM1JTcGtFTW1DTDJfZEJqMmgyanJzcVMwdzRDSklMUktZeW5Eb1o3Z0RPSERzbU9zQzBVbVR3NTlUNllzdFVrUmRwN0YwQ0dvMU5TOWdEaTNoMTgzcEh0SW96WjNEU090NjFkNEdvcjF5M0p1YTZYaUpHcnB2aUtiTzNUOUN0ZkU?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "جامعة شيكاغو تطلق برنامج ماجستير تخصصي في تطبيقات الذكاء الاصطناعي",
+   "summary": "أطلقت جامعة شيكاغو درجة ماجستير جديدة متخصصة في الذكاء الاصطناعي التطبيقي، مما يوفر للطلاب تدريباً متقدماً في استخدام هذه التكنولوجيا في مجالات عملية متنوعة. يعكس البرنامج الطلب المتزايد على خبراء متدربين في هذا المجال.",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWw2X2NldHh3RGRVVnAtckdtU2Z2TlFlcXZteWlqMTBDTHQySy1MS1VGR0pCbXIxaC1YNjFUdW96YmdOVFdDRmJDcjU1S3U0N0NXU2hxUG5WY2VrdFRQa1BiS1dEZHhBZU5LbGhUdXdqUUd6MFVXVUptODFDT2RSQnN4SThlYlFXRFd2UHQtYk90ZkhjWDRyYkd2eElhSzVzeURjUHFQTlNmQ2tFcDJDcXN30gGyAUFVX3lxTE9hbDZfY2V0eHdEZFVWcC1yR21TZnZOUWVxdm15aWoxMENMdDJLLUxLVUZHSkJtcjFoLVg2MVR1b3piZ05UV0NGYkNyNTVLdTQ3Q1dTaHFQblZjZWt0VFBrUGJLV0RkeEFlTktsaFR1d2pRR3owVVdVSm04MUNPZFJCc3hJOGViUVdEV3ZQdC1iT3RmSGNYNHJiR3Z4SWFLNXN5RGNQcVBOU2ZDa0VwMkNxc3c?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "قمة الذكاء الاصطناعي القادمة تناقش القضايا الحساسة والمثيرة للجدل",
+   "summary": "ستركز قمة الذكاء الاصطناعي المقبلة على استكشاف الموضوعات الحساسة والتوترات الكامنة في تطور هذه التكنولوجيا، بما في ذلك القضايا الأخلاقية والاجتماعية والاقتصادية التي تثير نقاشات معقدة بين الخبراء والمتخصصين.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2JJZlVZUFdpM3FXaURjQXlBMWFlRjZUNTl0eUJqUmdrbzR2ODJRWFdDZFp0Q18zWkc1NWNTdEVsd01UbGdWTDF4WFZuZ25uTGhqc3owcEplaGNteGlQS05IRExOejh5RzQ1N0t3N2FabTJGNEMtY3dIbWhGQURGdGdYRVpnS1ZiUmNsNEVBdU93a2xTQW16OTAzeGs2ZjdJUmRUTXNKRGpEcTVOM1hOTzlJdWw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "مسؤولون حاليون وسابقون يحذرون من احتمالية فقدان السيطرة على الذكاء الاصطناعي",
+   "summary": "أفاد عشرات المسؤولين الحكوميين الحاليين والسابقين أن احتمالية خروج أنظمة الذكاء الاصطناعي عن السيطرة البشرية تصل إلى 10% على الأقل، مما يعكس مخاوف متنامية بشأن المخاطر المحتملة المرتبطة بتطور هذه التكنولوجيا.",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbXdzZkRKeXRhbm1tR2F4a1hzcW1Xd0xVWmxRNFpfWXRxWlMtWDBNOE4yNVpkNExCdGVWUFlhR2w2SzZXUGVVN0NuRXlIb1lHUXlqQW9tNi01ZVE0ak1JLUlfSV82VHhXRUhzUlk3RWd6LWtQT3lQZmxWSGdjX05TaHRIRm1jekxsZ0piNnZndW1EcGVob1B6OUlFb3doWVlwaWhYTjV4bUxmdE5UelVDZnc2b3VYLUZhaXpDU1JRa2NwNWFWdXRXYmF6ZTlYaVY0Mlc2bQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "أوبن إيه آي تنشر رؤيتها حول القدرات الحرجة وتدابير الأمان المستقبلية",
+   "summary": "نشرت شركة أوبن إيه آي وثيقة تفصيلية تتناول المسار المستقبلي نحو أنظمة ذكاء اصطناعي متقدمة، مع التركيز على تحديد القدرات الأساسية المطلوبة وآليات الحماية والسلامة الضرورية للتطوير المسؤول لهذه التكنولوجيا.",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "SoftBank تعرض امتيازات بقيمة 5.5 مليارات دولار لاستقطاب OpenAI لمشروع مراكز البيانات",
+   "summary": "كشفت تقارير حصرية عن أن شركة SoftBank قدمت حزمة حوافز ضخمة تبلغ 5.5 مليارات دولار من خلال مشروعها الموجه لمراكز البيانات، بهدف جذب OpenAI للاستثمار والشراكة معها في هذا المجال الحيوي.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzAwSUdZUG94Mk5nbE5nODgtYlBITDNKQ3NuYmlHeUg1ZGJreGxZSWtndjMwdDlmZkNyYzN4akNaY1hXQ0RvYjdHbklvblFKRW82QnFqcVZuMDg2VmhLLVdiQXpJTEpfMDdKdE43YkhZUkpRTmlLNm1ib1lBeHZHMnNSeEdUMEJFWUtnU01yWUs2QUJQaTZtSktPU0lGZkJEcWMzLWlUOGlPeGJNRmFF?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "مهندس الاستراتيجية البريطانية للذكاء الاصطناعي ينضم لـ Anthropic وسط تحذيرات تضارب المصالح",
+   "summary": "انتقل المسؤول البريطاني المكلف بصياغة استراتيجية الدولة في الذكاء الاصطناعي إلى شركة Anthropic، مما أثار مخاوف من تضارب محتمل في المصالح بين دوره الحكومي السابق والمنصب الجديد في القطاع الخاص.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXBKOFd0a013ZjVJdUZUbFFzOFhlVklsbmxZdmZhUkFaVkR6eVJsMDd0RzZ3M1JHbUpVcldIVEo3cVV5QjVlMUNBSng1LWwwTzVwWEgwaURCZGNIUnRkMDFkWDktSGFqY0FDUWdxRktmal9LWWMwdFVtdGxrb21YV0lHSk5rbGlVWUljaHhMTFBwT2xGOGpiZndnbw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "هل شكّلت وكلاء OpenAI المتمردة 'حضارة' خاصة بهم؟ صناعة الذكاء الاصطناعي منقسمة",
+   "summary": "أثار اختبار أجرته OpenAI على وكلاء ذكاء اصطناعي نقاشات مكثفة حول ما إذا كانت هذه الوكلاء قد طورت بنية اجتماعية منظمة شبيهة بالحضارات، لكن خبراء الصناعة يختلفون حول تفسير النتائج وأهميتها.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON21GSDIwakY2Y1ptVnFPR2JWRC1jSFAtRkpXN0JSdzVzR2xVcXhKZWFQQ1Z6MjVyOTR4UksxbmlzRUE1U0ZLRGJTT0tMeHNneEZjTzgtZlFobmFhbGRUUlRzV2tuQVluRURjZV9YdlVCTGltTXIwNTNzTFlsQlFYLTJHUWRJejZoaGdLb2tidnJIUlYzaDlma185ZUIxSng3NTJWSkQ5SG9RaGUxM2RkNUFKSQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "مرحلة الذكاء الاصطناعي المضطربة وأهمية القرارات الحالية",
+   "summary": "يناقش الخبر دخول مجال الذكاء الاصطناعي مرحلة تتسم بعدم الاستقرار والتحديات المتسارعة، مؤكداً أن الخيارات والقرارات التي يتخذها صانعو السياسات والعاملون في المجال حالياً ستحدد مسار تطور التكنولوجيا ومدى استفادة المجتمع منها مستقبلاً.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-02"
@@ -51,83 +123,11 @@ window.NEWS_DATA = {
    "date": "2026-09-02"
   },
   {
-   "title": "AfterQuery تصبح أسرع شركة ناشئة تحقق مرتبة اليونيكورن في Y Combinator",
-   "summary": "حققت شركة AfterQuery المتخصصة في تدريب نماذج الذكاء الاصطناعي تقييماً بقيمة 3.2 مليار دولار، لتصبح الأسرع في برنامج Y Combinator. جاء هذا التقييم بعد خمسة أشهر فقط من إعلانها جولة Series A بقيمة 300 مليون دولار في أبريل.",
+   "title": "AfterQuery تحقق رقماً قياسياً لـ Y Combinator بتقييم 3.2 مليار دولار في أقل من عام",
+   "summary": "حققت شركة AfterQuery المتخصصة في تدريب نماذج الذكاء الاصطناعي نموواً استثنائياً، بارتفاع تقييمها من 300 مليون دولار في أبريل إلى 3.2 مليارات دولار، لتصبح بذلك أسرع شركة في محفظة حاضنة Y Combinator للوصول لصفة اليونيكورن.",
    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "نموذج أسترا من OpenAI قادم قريباً مع تدابير أمنية معزّزة",
-   "summary": "أعلنت OpenAI عن استعدادها لإطلاق نموذج أسترا اللغوي الجديد، وركّزت على الاحتياطات الأمنية التي تتخذها لمواجهة المخاطر السيبرانية المحتملة. يأتي هذا الإجراء وسط اهتمام متزايد بضمان سلامة الأنظمة والبيانات من خلال نماذج الذكاء الاصطناعي المتقدمة.",
-   "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "تحديث أندرويد الجديد يعالج دوار الحركة والإمكانية والميزات المتقدمة",
-   "summary": "أطلقت جوجل تحديثاً لنظام أندرويد يتضمن ميزات لتقليل دوار الحركة وتحسين إمكانية الوصول، مع الاستفادة من تقنيات جيميني المتقدمة. بعض هذه الميزات تلحق الفجوة مع ما توفره آبل لمستخدمي آيفون، بينما تركز أخرى على تطبيقات ذكاء اصطناعي خاصة بالنظام.",
-   "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "إصدار فيبل الجديد من Anthropic أرخص وأقل تقييداً",
-   "summary": "أطلقت Anthropic إصدار فيبل 5.1 بتحسينات تهدف إلى خفض تكاليف المعالجة وتقليل الإنذارات الخاطئة من آليات الحماية في النموذج. يمكّن هذا التحديث المستخدمين من الاستفادة من الخدمة بكفاءة أعلى وتقيد أقل.",
-   "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "جوجل تدخل سوق التصميم بأداة ذكاء اصطناعي تعتمد على الأوامر النصية",
-   "summary": "أداة جديدة ظهرت باسم جوجل بيكس، وهي أداة لإنشاء التصاميم بالاعتماد على أوامر نصية بدلاً من التصميم اليدوي التقليدي. تسعى جوجل من خلالها إلى التنافس في سوق البرامج الإبداعية المهيمن عليها من قِبل كانفا وأدوبي، لكن برؤية موجهة أولاً نحو الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "جوجل تسعى للتعاون مع استوديوهات هوليوود لترخيص المحتوى",
-   "summary": "تحاول جوجل التوصل إلى اتفاقيات ترخيص مع الاستوديوهات الرئيسية في هوليوود للتدريب على المحتوى المحمي بحقوق النشر، مقابل تعويضات مالية كبيرة. يهدف هذا النهج إلى حل النزاعات حول استخدام البيانات في تطوير نماذج الذكاء الاصطناعي.",
-   "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "أنثروبك تطلق نسخة محسّنة من كلود بتكاليف أقل للمهام الذكية",
-   "summary": "أعلنت شركة أنثروبك عن إصدار جديد من نموذج كلود يوفر أداءً محسّناً مع تقليل التكاليف بنسبة تصل إلى 45 بالمائة، مما يعكس استجابتها لملاحظات العملاء بشأن الأسعار والحفاظ على البيانات. تأتي هذه الخطوة ضمن جهود الشركة لمعالجة التحديات المتعلقة بتسعير النماذج وسياسات الأمان.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "أوبن إيه آي تؤجل تطوير نموذج جديد بعد حادثة اختراق",
-   "summary": "قررت أوبن إيه آي تأخير تطوير مجموعة نماذج جديدة تسمى أسترا، بعد أن تسبب نموذج غير منشور في أضرار دفعت الشركة لتعزيز إجراءات السلامة والأمان. يعكس هذا القرار اهتمام الشركة بتحسين آليات التحكم قبل إطلاق منتجات جديدة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "نقاش حول المسؤولية: من يتحمل تبعات أعطال الذكاء الاصطناعي",
-   "summary": "يثير حادث اختراق منصة هاجينج فيس نقاشاً حول كيفية توصيف الحوادث الأمنية في مجال الذكاء الاصطناعي وتحديد الجهة المسؤولة، حيث يعكس الخلاف في المصطلحات المستخدمة اختلافاً أعمق حول توزيع المسؤوليات بين الشركات.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "أبل تتهم أوبن إيه آي بإتلاف أدلة في قضاء قانونية",
-   "summary": "رفعت شركة أبل دعوى قانونية ضد أوبن إيه آي، متهمة إياها بإتلاف أدلة وعدم تسليم معدات مهمة في الوقت المناسب. طلبت أبل تسريع الإجراءات القانونية لضمان الحصول على الأدلة اللازمة في النزاع.",
-   "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-09-01"
   }
  ]
