@@ -1,13 +1,101 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-03T13:25:12.257590+00:00",
+ "updated": "2026-09-03T18:25:52.801709+00:00",
  "items": [
   {
-   "title": "إنفيديا تستحوذ على هاغينج فيس بصفقة بقيمة 12.9 مليار دولار",
-   "summary": "أعلنت إنفيديا عن شرائها منصة هاغينج فيس المتخصصة في استضافة نماذج الذكاء الاصطناعي مفتوحة المصدر بقيمة 12.9 مليار دولار. تستضيف المنصة أكثر من 3 ملايين نموذج ذكاء اصطناعي ويستخدمها حوالي 18 مليون مطور حول العالم.",
+   "title": "ميتا تدفع مقابل الاطّلاع على كيفية استخدامك لنموذجها الذكي الجديد",
+   "summary": "طرحت ميتا نموذج Muse Spark الموجه للبرمجة والعوامل الذكية، وتقدم خصماً مالياً لمن يسمح بمشاركة بيانات استخدامه لتحسين النسخ المستقبلية. هذا يعكس رغبة الشركة في الحصول على بيانات تدريب إضافية مقابل حافز مادي مباشر.",
+   "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "أوبن إيه آي تطلق نموذج Astra الجديد القوي والمثير للجدل",
+   "summary": "أعلنت أوبن إيه آي عن نموذج Astra الذي تصفه بأنه يفتح \"حدوداً جديدة\" في استخدام الحاسوب والمتصفح، مؤكدة قدرته على أداء المهام برسعة وأمان ودقة عالية.",
+   "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "مساعد ذكي موجه للعائلات يراهن على الخصوصية للفوز بسباق المساعدات",
+   "summary": "أداة Ollie تسعى للوصول إلى تفاصيل حياتك اليومية مع ضمان عدم استخدام هذه البيانات في تدريب نماذج ذكاء اصطناعي أو مشاركتها مع الغير، محاولة من الشركة التركيز على الخصوصية كميزة تنافسية.",
+   "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "نموذج جوجل الجديد للطقس يزيل عذرك في نسيان المظلة",
+   "summary": "طورت جوجل WeatherNext 3، نموذج توقعات طقس يستفيد من تقنيات التعلم العميق، وستدمج نتائجه في خدماتها مثل البحث وخرائطها ومساعدها Gemini.",
+   "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "إنفيديا تؤكد استحواذها على Hugging Face بـ 12.9 مليار دولار",
+   "summary": "أتمت إنفيديا صفقة شراء منصة Hugging Face التي تستضيف أكثر من 3 ملايين نموذج ذكاء اصطناعي ويستخدمها حوالي 18 مليون مطور حول العالم.",
    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "نموذج أوبن إيه آي القادم يدخل بحسب الشركة \"عصر الذكاء الاصطناعي العام\"",
+   "summary": "أطلقت أوبن إيه آي GPT-6 Astra وتصفه بأنه \"قفزة جيلية\" في القدرات، خاصة في الأمن السيبراني والعمل المهني والهندسة البرمجية والعلوم. تعتبره الشركة أول نموذج يستوفي معايير \"عصر الذكاء الاصطناعي العام\" بحسب معاييرها.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "إنفيديا تطلق أداة مجانية لربط أجهزة المنزل في مركز ذكاء اصطناعي شخصي",
+   "summary": "أطلقت إنفيديا أداة جديدة باسم Personal AI Router تتيح ربط أجهزة الحاسوب المنزلية معاً لتنفيذ مهام الذكاء الاصطناعي محلياً باستخدام تطبيقات مثل Ollama و LM Studio. الأداة مفتوحة المصدر وتُركّز على الاستفادة من الأجهزة غير المستخدمة في المنزل.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "غوغل يضيف خاصية الحوار الصوتي لتطبيقات البريد والمستندات والملاحظات",
+   "summary": "بدأت غوغل طرح مساعد ذكاء اصطناعي بقدرات صوتية محادثة فورية لتطبيقات Gmail و Docs و Keep، تتيح للمستخدمين إدارة هذه التطبيقات عبر الحديث المباشر معها. هذه الخاصية تشبه تجربة Gemini Live وتهدف لتبسيط التفاعل مع الأدوات.",
+   "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "تعطل متزامن يطال ChatGPT وGrok وClaude",
+   "summary": "تعرّض كل من ChatGPT من OpenAI و Grok من xAI و Claude من Anthropic لانقطاع في الخدمة في الوقت ذاته يوم الخميس، وعادت جميعها للعمل بعد ساعات. بدأت المشاكل حوالي الساعة الحادية عشرة صباحاً بتوقيت شرق أمريكا برسائل خطأ للمستخدمين.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "نموذج ذكاء اصطناعي من غوغل للتنبؤ بالطقس يتحسّن",
+   "summary": "أطلقت غوغل نسخة محدّثة من نموذج الذكاء الاصطناعي الخاص بالتنبؤ بالطقس باسم WeatherNext 3، وتتمتع بدقة أعلى خاصة في التنبؤ بهطول الأمطار والثلج. يستطيع النموذج الجديد إنتاج توقعات بدقة لم تُحقق من قبل.",
+   "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "أداة جديدة لبناء الوكلاء الذكيين من Airtop",
+   "summary": "أداة جديدة ظهرت باسم Agent Builder من شركة Airtop تتيح بناء وكلاء ذكيين آليين لتنفيذ المهام المختلفة. تركز الأداة على تمكين المستخدمين من إنشاء وكلاء متقدمين دون الحاجة لخبرة برمجية عميقة.",
+   "url": "https://www.producthunt.com/products/airtop",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "الحقبة المضطربة للذكاء الاصطناعي وأهمية القرارات الحالية",
+   "summary": "يؤكد بيل جيتس أن العالم يدخل مرحلة حرجة من تطور الذكاء الاصطناعي تتطلب قرارات مهمة الآن. يشدد على أن الخيارات التي نتخذها في هذه الفترة ستحدد مسار تأثير هذه التكنولوجيا على المجتمع والاقتصاد.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
    "date": "2026-09-03"
   },
   {
@@ -41,94 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-09-03"
-  },
-  {
-   "title": "عمال الأمن في شركات تقنية كبرى يصوتون لصالح إضراب عام",
-   "summary": "أقدم عمال الأمن العاملون في مقرات OpenAI و Anthropic والعديد من شركات التكنولوجيا الأخرى على التصويت لتفويض قيادة نقابتهم بتنظيم إضراب، احتجاجاً على ظروف العمل والأجور.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFR4SXJsQmlGRjQ1MnRQaFlzRHlELWJMc1hDQ2hxRzJVX1BYVVBGN3ZCRnBfZEkxSlJiYzVPNk5mSlFLb2p3amRBZUladm1RNFFuRzR0Zmg5bU1zNGItaUloeF9kanpORUQzTDBrUlM3RkZTbHRHcXBUZkhwd0FmZ25xY283YXdtR1N3MHlZYUhFM0UzUzlaSmVnTHFDZVRZZzZRTXk3eXNZcU1XSG5lNWQtbTFCdw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "منصة Builders Stage تعود إلى TechCrunch Disrupt بأفكار عملية لتنمية الشركات الناشئة",
-   "summary": "ستضم منصة Builders Stage العائدة لمؤتمر TechCrunch Disrupt 2026 لقاءات عملية بين مؤسسي الشركات الناشئة والمستثمرين لمناقشة الاستراتيجيات الفعالة في بناء وتطوير المشاريع التقنية الناشئة.",
-   "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "باlow ألتو نيتوركس تستحوذ على منصة Console بصفقة نصف مليار دولار",
-   "summary": "استحوذت شركة باlow ألتو نيتوركس على منصة Console المتخصصة في أتمتة خدمات تقنية المعلومات بدعم من صندوق Thrive، مما يعزز موقعها في مجال الذكاء الاصطناعي. تقلل هذه الخطوة من أهمية منافسيها في قطاع أتمتة خدمات تقنية المعلومات المدعومين من صناديق استثمار أخرى.",
-   "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "مؤتمر TechCrunch Disrupt 2026 ينطلق بمسرح متخصص للذكاء الاصطناعي الواقعي",
-   "summary": "يتضمن المؤتمر مسرحاً جديداً مخصصاً للذكاء الاصطناعي التطبيقي يستعرض التقاطعات بين العالم الرقمي والفيزيائي، ويشارك فيه خبراء من Nvidia وفرق روبوتية ومشاريع بحثية متنوعة حول دمج التكنولوجيا في الحياة العملية.",
-   "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "تقنية جديدة في نموذج OpenAI الاستدلالي تثير قلق متخصصي سلامة الذكاء الاصطناعي",
-   "summary": "طورت OpenAI تقنية جديدة تسمى 'العمق المتكرر' تمكن نماذجها من العمل خارج إطار التفكير التسلسلي التقليدي. يشعر خبراء الأمان بالقلق من أن هذا الأسلوب قد يجعل من الصعب فهم كيفية اتخاذ النموذج للقرارات ومراقبة سلوكه.",
-   "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "جوجل تطلق نموذج Gemini 3.8 Flash بقدرات استدلالية محسّنة",
-   "summary": "أعلنت جوجل عن إصدار جديد من Gemini Flash يتمتع بقدرات استدلالية أقوى تمكنه من اتخاذ خطوات تفكير إضافية في المهام المعقدة واستخدام الأدوات بشكل متكرر. يحتفظ الإصدار الجديد بنفس التسعير التمهيدي لسابقه مع تحسن في الأداء.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "خبير باستخدام الذكاء الاصطناعي يشرح لماذا كشف المحتوى المولد بالذكاء الاصطناعي أصعب من حقيقة أم باطل",
-   "summary": "يواجه الإنترنت مشكلة ثقة متزايدة مع انتشار محتوى مولد بالذكاء الاصطناعي في طلبات التوظيف والتقييمات والمطالبات التأمينية، ما يجبر المنصات والمستخدمين على السعي المتواصل للتمييز بين المحتوى الأصلي والمصطنع.",
-   "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "أمازون تضيف ميزة ذكاء اصطناعي للتحقق من رسائل البريد المزيفة",
-   "summary": "أضافت أمازون خاصية جديدة تتيح للمستخدمين الاستعانة بمساعدها الذكي للتحقق من أصالة رسائل البريد الإلكترونية والرسائل النصية والمكالمات المنسوبة للشركة. تهدف الميزة إلى مكافحة عمليات الاحتيال والانتحال من خلال تحليل الرسائل المشبوهة بتقنيات الذكاء الاصطناعي.",
-   "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "خبراء يحذرون من مخاطر أمنية قبل إطلاق نموذج أسترا من أوبن إيه آي",
-   "summary": "تأتي نسخة أسترا الجديدة من أوبن إيه آي بعد تأخيرات عديدة لتعزيز بروتوكولات الأمان، خاصة بعد حوادث اختبار شملت هجمات على أهداف فعلية. يحذر الباحثون من أن إطلاق هذا النموذج قد يشكل منعطفاً خطيراً في مسار تطور الذكاء الاصطناعي من ناحية الأمان.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "إدارة ترامب تدعم أوبن إيه آي في قضية حقوق الطبع ضد نيويورك تايمز",
-   "summary": "تدخلت إدارة ترامب في القضية المرفوعة من صحيفة نيويورك تايمز ضد أوبن إيه آي حول استخدام محتوى الصحيفة في تدريب نماذجها، مقدّمة حجة تدعم موقف الشركة. تمثل الخطوة موقفاً حكومياً واضحاً في نزاع قانوني بارز بدأ في ديسمبر 2023.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "جوجل تشراكِ يوتيوبر MrBeast مع نماذج الذكاء الاصطناعي",
-   "summary": "أعلنت جوجل عن شراكة متعددة السنوات مع يوتيوبر MrBeast تتضمن استخدام نموذج Gemini وأدوات صحية وأجهزة Fitbit في محتواه. سيبدأ التعاون بفيديو عن الحياة البرية يستعين فيه MrBeast بالذكاء الاصطناعي للحصول على نصائح البقاء.",
-   "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-02"
   }
  ]
 };
