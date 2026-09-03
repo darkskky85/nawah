@@ -1,45 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-03T07:54:52.570683+00:00",
+ "updated": "2026-09-03T13:25:12.257590+00:00",
  "items": [
   {
-   "title": "وزارة العدل الأمريكية تطلب من القاضي الحكم لصالح أوبن إيه آي ومايكروسوفت في قضية نيويورك تايمز",
-   "summary": "تدخلت وزارة العدل الأمريكية في الدعوى القضائية التي رفعتها نيويورك تايمز ضد أوبن إيه آي ومايكروسوفت، طالبة القاضي بالحكم لصالح الشركتين. يعكس التدخل موقفاً حكومياً حول توازن الملكية الفكرية والتطور التكنولوجي.",
+   "title": "إنفيديا تستحوذ على هاغينج فيس بصفقة بقيمة 12.9 مليار دولار",
+   "summary": "أعلنت إنفيديا عن شرائها منصة هاغينج فيس المتخصصة في استضافة نماذج الذكاء الاصطناعي مفتوحة المصدر بقيمة 12.9 مليار دولار. تستضيف المنصة أكثر من 3 ملايين نموذج ذكاء اصطناعي ويستخدمها حوالي 18 مليون مطور حول العالم.",
+   "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "إنفيديا تكمل استحواذها على منصة هاغينج فيس بحوالي 13 مليار دولار",
+   "summary": "أتمت إنفيديا صفقة شراء منصة هاغينج فيس بقيمة 12.93 مليار دولار، ما يوحد إحدى أكبر منصات استضافة نماذج الذكاء الاصطناعي مفتوحة المصدر تحت ملكية أكبر شركة متخصصة في معالجات الذكاء الاصطناعي عالمياً. المنصة التي تأسست عام 2016 توفر لمطوري الذكاء الاصطناعي بيئة متكاملة لمشاركة النماذج والبيانات والأدوات.",
+   "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "مسؤول أمريكي: Anthropic استعادت موقعاً موالياً للإدارة الجديدة",
+   "summary": "أشار مسؤول حكومي أمريكي إلى أن شركة Anthropic المتخصصة في الذكاء الاصطناعي استعادت علاقة إيجابية مع إدارة ترامب الجديدة، مما يعكس تحولاً في الموقف السياسي تجاه الشركة والقطاع التكنولوجي.",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WkZsU1dLY1B0bWtPX0FDcnlSV0JGYVZNU05RTzlNaTdQd0lKTW9JVFAxOTQwWWRFTFhERndMejJybVJGZmFhLUdidlItSjFOaG11UDV3TTNFeFlSZ2gtd2o1ODJxWlE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "الحكومة الأمريكية تؤيد OpenAI و Microsoft في قضية ضد نيويورك تايمز",
+   "summary": "طلبت وزارة العدل الأمريكية من القاضي الحكم لصالح OpenAI و Microsoft في الدعوى القضائية التي رفعتها صحيفة نيويورك تايمز، حيث تتهم الشركتان بالاستخدام غير المشروع لمحتويات الصحيفة في تدريب نماذج الذكاء الاصطناعي.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-09-03"
   },
   {
-   "title": "منصة بيلدرز ستيج تعود إلى تيك كرانش ديسرابت بنصائح عملية لتوسع الشركات الناشئة",
-   "summary": "ستقدم منصة البناء في مؤتمر تيك كرانش ديسرابت 2026 جلسات عملية تجمع بين مؤسسي الشركات والعاملين بها والمستثمرين، تركز على الاستراتيجيات الفعلية لبناء وتطوير المشاريع الناشئة.",
+   "title": "قراصنة الويب المظلم يستهدفون نماذج Anthropic و OpenAI المتقدمة",
+   "summary": "كشفت تقارير عن محاولات جريمة إلكترونية منظمة لسرقة النماذج اللغوية المتطورة من شركات الذكاء الاصطناعي الرائدة عبر الإنترنت المظلم، مما يثير مخاوف أمنية حول حماية الملكية الفكرية التكنولوجية.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDY4QnQyNk9XeXNxNlZ6V2JsNUd0Y28wNHFJUUg1Wi1EeG9nRzRlcXVubFhydV9lZ296RmhFZ3BjUU9rb2NUZkF4LWV5bS1idUNoeG5Hd09EYmRlV1JuVldWTXBHV3NzV3d4a3Z0VXRSUFI4bEl3NUJpTFNfWmpmQlFmWWdNc2h0T2xkUVZMYk5YZW1kbG5GSGt5ZmhlbHVnX0l2T2tHcW96MUhpRmc?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "عمال الأمن في شركات تقنية كبرى يصوتون لصالح إضراب عام",
+   "summary": "أقدم عمال الأمن العاملون في مقرات OpenAI و Anthropic والعديد من شركات التكنولوجيا الأخرى على التصويت لتفويض قيادة نقابتهم بتنظيم إضراب، احتجاجاً على ظروف العمل والأجور.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFR4SXJsQmlGRjQ1MnRQaFlzRHlELWJMc1hDQ2hxRzJVX1BYVVBGN3ZCRnBfZEkxSlJiYzVPNk5mSlFLb2p3amRBZUladm1RNFFuRzR0Zmg5bU1zNGItaUloeF9kanpORUQzTDBrUlM3RkZTbHRHcXBUZkhwd0FmZ25xY283YXdtR1N3MHlZYUhFM0UzUzlaSmVnTHFDZVRZZzZRTXk3eXNZcU1XSG5lNWQtbTFCdw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "منصة Builders Stage تعود إلى TechCrunch Disrupt بأفكار عملية لتنمية الشركات الناشئة",
+   "summary": "ستضم منصة Builders Stage العائدة لمؤتمر TechCrunch Disrupt 2026 لقاءات عملية بين مؤسسي الشركات الناشئة والمستثمرين لمناقشة الاستراتيجيات الفعالة في بناء وتطوير المشاريع التقنية الناشئة.",
    "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-02"
   },
   {
-   "title": "باسو ألتو نتوركس تستحوذ على شركة كونسول بمبلغ 500 مليون دولار",
-   "summary": "استحوذت شركة باسو ألتو نتوركس على منصة كونسول المتخصصة في أتمتة خدمات تكنولوجيا المعلومات بدعم من صندوق ثريف. تعزز الصفقة موقع شركة سيرفال المدعومة من سيكويا كجاعبة رائدة في مجال أتمتة خدمات الذكاء الاصطناعي.",
+   "title": "باlow ألتو نيتوركس تستحوذ على منصة Console بصفقة نصف مليار دولار",
+   "summary": "استحوذت شركة باlow ألتو نيتوركس على منصة Console المتخصصة في أتمتة خدمات تقنية المعلومات بدعم من صندوق Thrive، مما يعزز موقعها في مجال الذكاء الاصطناعي. تقلل هذه الخطوة من أهمية منافسيها في قطاع أتمتة خدمات تقنية المعلومات المدعومين من صناديق استثمار أخرى.",
    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-02"
   },
   {
-   "title": "منصة الذكاء الاصطناعي الواقعي بتيك كرانش ديسرابت تضم نفيديا والروبوتات والكائنات المنقرضة",
-   "summary": "أطلقت تيك كرانش ديسرابت منصة جديدة مخصصة للذكاء الاصطناعي التطبيقي، تستعرض نقاط التقاء العالم الرقمي والعالم المادي وكيفية اندماجهما المتزايد، بمشاركة شركات تقنية رائدة.",
+   "title": "مؤتمر TechCrunch Disrupt 2026 ينطلق بمسرح متخصص للذكاء الاصطناعي الواقعي",
+   "summary": "يتضمن المؤتمر مسرحاً جديداً مخصصاً للذكاء الاصطناعي التطبيقي يستعرض التقاطعات بين العالم الرقمي والفيزيائي، ويشارك فيه خبراء من Nvidia وفرق روبوتية ومشاريع بحثية متنوعة حول دمج التكنولوجيا في الحياة العملية.",
    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-02"
   },
   {
-   "title": "تقنية التفكير الجديدة من أوبن إيه آي تثير قلق خبراء الذكاء الاصطناعي",
-   "summary": "طورت أوبن إيه آي تقنية جديدة تسمى \"العمق التكراري\" تمكّن نموذج آسترا من العمل خارج التسلسل الخطي الذي يميز معظم نماذج التفكير، مما يثير مخاوف بين متخصصي السلامة في مجال الذكاء الاصطناعي.",
+   "title": "تقنية جديدة في نموذج OpenAI الاستدلالي تثير قلق متخصصي سلامة الذكاء الاصطناعي",
+   "summary": "طورت OpenAI تقنية جديدة تسمى 'العمق المتكرر' تمكن نماذجها من العمل خارج إطار التفكير التسلسلي التقليدي. يشعر خبراء الأمان بالقلق من أن هذا الأسلوب قد يجعل من الصعب فهم كيفية اتخاذ النموذج للقرارات ومراقبة سلوكه.",
    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "جوجل تطلق نموذج Gemini 3.8 Flash بقدرات استدلالية محسّنة",
+   "summary": "أعلنت جوجل عن إصدار جديد من Gemini Flash يتمتع بقدرات استدلالية أقوى تمكنه من اتخاذ خطوات تفكير إضافية في المهام المعقدة واستخدام الأدوات بشكل متكرر. يحتفظ الإصدار الجديد بنفس التسعير التمهيدي لسابقه مع تحسن في الأداء.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-09-02"
   },
   {
@@ -48,14 +96,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "غوغل تطلق نسخة محسّنة من جيميني فلاش بقدرات استدلالية أعلى",
-   "summary": "أطلقت غوغل نموذج جيميني 3.8 فلاش الذي يتضمن قدرات استدلالية معزّزة تمكّنه من معالجة المهام المعقّدة عبر خطوات تفكير أكثر وتوظيف أدوات بصورة متكررة. الخدمة تحافظ على سعر إدخال مماثل للنسخة السابقة بقيمة 0.75 دولار لكل مليون رمز.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-09-02"
   },
   {
@@ -88,46 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "تبسيط دمج الذكاء الاصطناعي في العمليات الكبيرة",
-   "summary": "تواجه الشركات الكبرى تحديات في إدارة الأنظمة المترابطة عند توسع عملياتها، حيث تؤدي الأدوات المنفصلة والجداول اليدوية إلى عزل البيانات. يزداد التركيز على حلول موحدة تدمج الذكاء الاصطناعي بسهولة لتحسين اكتشاف المشاكل واتخاذ القرارات.",
-   "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "جوجل تطلق نموذج Gemini 3.8 Flash الجديد",
-   "summary": "أطلقت جوجل نسخة جديدة من نموذج Gemini Flash، وهي ثالث إصدارات Flash خلال ستة أسابيع. بينما يبدو أن تحديثات نموذج Pro توقفت مؤقتاً، تستمر جوجل في تحسين سلسلة نماذجها الخفيفة.",
-   "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "الإنترنت يقترب بشكل خطير من نظرية الموقع الميت وفقاً لرئيس بانجرام",
-   "summary": "حذّر مسؤول تنفيذي من أن الانتشار الواسع للمحتوى المُولّد بالذكاء الاصطناعي يدفع الإنترنت نحو نقطة حرجة قد تؤثر على مصداقيته. المحتوى الاصطناعي يتسرب إلى قطاعات حساسة من التطبيقات الوظيفية وحتى المطالبات التأمينية.",
-   "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "الحكومة الأمريكية تؤيد استخدام أوبن إيه آي للمحتوى المحمي بحقوق التأليف في تدريب نماذج اللغة",
-   "summary": "أيدت السلطات الأمريكية موقف أوبن إيه آي بشأن استخدام المحتوى المحمي بحقوق التأليف في تدريب النماذج اللغوية الكبرى. برّرت الحكومة هذا الموقف برغبتها في الحفاظ على تنافسية صناعة الذكاء الاصطناعي الأمريكية عالمياً.",
-   "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "شركة ويندرفول تضاعف تقييمها إلى 5 مليارات دولار في أقل من ستة أشهر",
-   "summary": "حصلت الشركة على تمويل من الفئة سي بقيمة 550 مليون دولار، وتنوي استخدامه في تطوير منتجاتها بسرعة أكبر وتوسيع فرقها المتخصصة. زيادة التقييم تعكس الثقة المتزايدة في إمكانيات الشركة في مجال الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-09-02"
   }
  ]
