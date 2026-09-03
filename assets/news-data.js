@@ -1,29 +1,85 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-03T18:25:52.801709+00:00",
+ "updated": "2026-09-03T23:06:49.080312+00:00",
  "items": [
   {
-   "title": "ميتا تدفع مقابل الاطّلاع على كيفية استخدامك لنموذجها الذكي الجديد",
-   "summary": "طرحت ميتا نموذج Muse Spark الموجه للبرمجة والعوامل الذكية، وتقدم خصماً مالياً لمن يسمح بمشاركة بيانات استخدامه لتحسين النسخ المستقبلية. هذا يعكس رغبة الشركة في الحصول على بيانات تدريب إضافية مقابل حافز مادي مباشر.",
+   "title": "أكسل تسعى لقيادة جولة تمويل بمليار دولار لشركة ثينكينج ماشينز",
+   "summary": "تجري شركة الاستثمار أكسل محادثات لقيادة جولة تمويل جديدة لشركة ثينكينج ماشينز بتقييم يصل إلى 40 مليار دولار. تحقق الشركة حالياً معدل إيرادات سنوي يتجاوز 100 مليون دولار.",
+   "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "أداة جديدة تختص بإزالة آليات الحماية من نماذج الذكاء الاصطناعي",
+   "summary": "أداة جديدة ظهرت باسم Abliteration.ai تعمل على جعل نماذج ذكاء اصطناعي قوية خالية من آليات الحماية أكثر سهولة في الوصول إليها. تحتج الأداة بأن إتاحة أدوات مماثلة للمدافعين عن الأمان قد تحسّن الدفاعات الإلكترونية بشكل عام.",
+   "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "ميتا تقدم خصماً كبيراً مقابل مراقبة استخدام نموذجها الجديد",
+   "summary": "توفر ميتا خصماً بنسبة تقارب 95% لمستخدمي نموذج Muse Spark الموجهة للوكيلات والمهام البرمجية، مقابل مشاركتهم بمحادثاتهم وبيانات استخدام النموذج لتطوير نسخ مستقبلية.",
    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-03"
   },
   {
-   "title": "أوبن إيه آي تطلق نموذج Astra الجديد القوي والمثير للجدل",
-   "summary": "أعلنت أوبن إيه آي عن نموذج Astra الذي تصفه بأنه يفتح \"حدوداً جديدة\" في استخدام الحاسوب والمتصفح، مؤكدة قدرته على أداء المهام برسعة وأمان ودقة عالية.",
+   "title": "أوبن إيه آي تطلق نموذجاً جديداً قوياً لاستخدام المتصفحات والحواسيب",
+   "summary": "أطلقت أوبن إيه آي نموذج Astra الجديد المتخصص في استخدام المتصفحات والحواسيب بكفاءة عالية. تؤكد الشركة أن النموذج يوفر سرعة ودقة وأماناً متفوقاً عند تنفيذ المهام المعقدة.",
    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-03"
   },
   {
-   "title": "مساعد ذكي موجه للعائلات يراهن على الخصوصية للفوز بسباق المساعدات",
-   "summary": "أداة Ollie تسعى للوصول إلى تفاصيل حياتك اليومية مع ضمان عدم استخدام هذه البيانات في تدريب نماذج ذكاء اصطناعي أو مشاركتها مع الغير، محاولة من الشركة التركيز على الخصوصية كميزة تنافسية.",
+   "title": "مساعد ذكاء اصطناعي عائلي يراهن على الخصوصية للفوز بالسباق",
+   "summary": "أداة جديدة باسم Ollie تقدم مساعداً ذكياً موجهاً للعائلات يسعى للوصول إلى تفاصيل الحياة اليومية للمستخدمين. تؤكد الأداة أنها لا تستخدم هذه البيانات لتدريب نماذج جديدة أو مشاركتها مع جهات خارجية.",
    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "نموذج أوبن إيه آي القادم يدخل عصر الذكاء العام الاصطناعي",
+   "summary": "أطلقت أوبن إيه آي نموذج GPT-6 Astra الذي تصفه بأنه قفزة نوعية في الأداء عبر مجالات الأمن السيبراني والعمل المتخصص والهندسة البرمجية والعلوم. يعتبر أول نموذج تصنفه الشركة ضمن معايير عصر الذكاء العام.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "إنفيديا تطلق أداة مجانية لربط أجهزة المنزل في مركز ذكاء اصطناعي شخصي",
+   "summary": "أعلنت إنفيديا عن أداة جديدة تُسمّى Personal AI Router تتيح ربط أجهزة الكمبيوتر المنزلية لتنفيذ مهام الذكاء الاصطناعي محلياً. الأداة مفتوحة المصدر وتعمل مع منصات مثل Ollama و LM Studio لتوزيع عمليات الاستدلال على الأجهزة المتاحة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "غوغل تُتيح التحكم بالبريد والمستندات والملاحظات عبر الأوامر الصوتية",
+   "summary": "بدأت غوغل في إطلاق مساعدات صوتية قائمة على الذكاء الاصطناعي لتطبيقات Gmail و Docs و Keep تسمح بإدارة هذه الخدمات بالحوار المباشر. تشبه هذه الميزات تجربة Gemini Live وتهدف لجعل التفاعل مع التطبيقات أكثر سلاسة وطبيعية.",
+   "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "انقطاع متزامن يؤثر على ChatGPT و Grok و Claude",
+   "summary": "شهدت خدمات ChatGPT من OpenAI و Grok من xAI و Claude من Anthropic انقطاعات متزامنة يوم الخميس، حيث بدأت تُرجع رسائل خطأ للمستخدمين في حوالي الحادية عشرة صباحاً بتوقيت الشرق الأمريكي. عادت جميع الخدمات للعمل بعد ذلك.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "نموذج الطقس الذي طورته غوغل يحقق دقة أعلى في التنبؤات",
+   "summary": "أطلقت غوغل نسخة محدّثة من نموذج الذكاء الاصطناعي للتنبؤ بالطقس تتمتع بدقة أفضل خاصة في توقع الأمطار والثلوج. النموذج الجديد المسمّى WeatherNext 3 يوفر تنبؤات بدقة غير مسبوقة من خلال معالجة بيانات بجودة عالية.",
+   "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+   "source": "The Verge AI",
+   "tag": "منتجات",
    "date": "2026-09-03"
   },
   {
@@ -40,46 +96,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "نموذج أوبن إيه آي القادم يدخل بحسب الشركة \"عصر الذكاء الاصطناعي العام\"",
-   "summary": "أطلقت أوبن إيه آي GPT-6 Astra وتصفه بأنه \"قفزة جيلية\" في القدرات، خاصة في الأمن السيبراني والعمل المهني والهندسة البرمجية والعلوم. تعتبره الشركة أول نموذج يستوفي معايير \"عصر الذكاء الاصطناعي العام\" بحسب معاييرها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "إنفيديا تطلق أداة مجانية لربط أجهزة المنزل في مركز ذكاء اصطناعي شخصي",
-   "summary": "أطلقت إنفيديا أداة جديدة باسم Personal AI Router تتيح ربط أجهزة الحاسوب المنزلية معاً لتنفيذ مهام الذكاء الاصطناعي محلياً باستخدام تطبيقات مثل Ollama و LM Studio. الأداة مفتوحة المصدر وتُركّز على الاستفادة من الأجهزة غير المستخدمة في المنزل.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "غوغل يضيف خاصية الحوار الصوتي لتطبيقات البريد والمستندات والملاحظات",
-   "summary": "بدأت غوغل طرح مساعد ذكاء اصطناعي بقدرات صوتية محادثة فورية لتطبيقات Gmail و Docs و Keep، تتيح للمستخدمين إدارة هذه التطبيقات عبر الحديث المباشر معها. هذه الخاصية تشبه تجربة Gemini Live وتهدف لتبسيط التفاعل مع الأدوات.",
-   "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "تعطل متزامن يطال ChatGPT وGrok وClaude",
-   "summary": "تعرّض كل من ChatGPT من OpenAI و Grok من xAI و Claude من Anthropic لانقطاع في الخدمة في الوقت ذاته يوم الخميس، وعادت جميعها للعمل بعد ساعات. بدأت المشاكل حوالي الساعة الحادية عشرة صباحاً بتوقيت شرق أمريكا برسائل خطأ للمستخدمين.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "نموذج ذكاء اصطناعي من غوغل للتنبؤ بالطقس يتحسّن",
-   "summary": "أطلقت غوغل نسخة محدّثة من نموذج الذكاء الاصطناعي الخاص بالتنبؤ بالطقس باسم WeatherNext 3، وتتمتع بدقة أعلى خاصة في التنبؤ بهطول الأمطار والثلج. يستطيع النموذج الجديد إنتاج توقعات بدقة لم تُحقق من قبل.",
-   "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-09-03"
   },
   {
@@ -110,22 +126,6 @@ window.NEWS_DATA = {
    "title": "مسؤول أمريكي: Anthropic استعادت موقعاً موالياً للإدارة الجديدة",
    "summary": "أشار مسؤول حكومي أمريكي إلى أن شركة Anthropic المتخصصة في الذكاء الاصطناعي استعادت علاقة إيجابية مع إدارة ترامب الجديدة، مما يعكس تحولاً في الموقف السياسي تجاه الشركة والقطاع التكنولوجي.",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WkZsU1dLY1B0bWtPX0FDcnlSV0JGYVZNU05RTzlNaTdQd0lKTW9JVFAxOTQwWWRFTFhERndMejJybVJGZmFhLUdidlItSjFOaG11UDV3TTNFeFlSZ2gtd2o1ODJxWlE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "الحكومة الأمريكية تؤيد OpenAI و Microsoft في قضية ضد نيويورك تايمز",
-   "summary": "طلبت وزارة العدل الأمريكية من القاضي الحكم لصالح OpenAI و Microsoft في الدعوى القضائية التي رفعتها صحيفة نيويورك تايمز، حيث تتهم الشركتان بالاستخدام غير المشروع لمحتويات الصحيفة في تدريب نماذج الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "قراصنة الويب المظلم يستهدفون نماذج Anthropic و OpenAI المتقدمة",
-   "summary": "كشفت تقارير عن محاولات جريمة إلكترونية منظمة لسرقة النماذج اللغوية المتطورة من شركات الذكاء الاصطناعي الرائدة عبر الإنترنت المظلم، مما يثير مخاوف أمنية حول حماية الملكية الفكرية التكنولوجية.",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDY4QnQyNk9XeXNxNlZ6V2JsNUd0Y28wNHFJUUg1Wi1EeG9nRzRlcXVubFhydV9lZ296RmhFZ3BjUU9rb2NUZkF4LWV5bS1idUNoeG5Hd09EYmRlV1JuVldWTXBHV3NzV3d4a3Z0VXRSUFI4bEl3NUJpTFNfWmpmQlFmWWdNc2h0T2xkUVZMYk5YZW1kbG5GSGt5ZmhlbHVnX0l2T2tHcW96MUhpRmc?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-09-03"
