@@ -1,35 +1,83 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-04T07:50:43.212408+00:00",
+ "updated": "2026-09-04T13:19:46.505523+00:00",
  "items": [
   {
-   "title": "مشكلة التشابه في القوائم التي ينشئها الذكاء الاصطناعي للمطاعم",
-   "summary": "رغم أن أصحاب المطاعم قد يلجؤون للذكاء الاصطناعي التوليدي لتحديث قوائمهم، إلا أن العملاء يشعرون بشيء غير صحيح في الأطباق المقترحة. تكشف الدراسات أن النصوص المولدة تفتقد التنوع والعمق الذي يميز القوائم الحقيقية.",
+   "title": "المشكلة المتكررة في قوائم الطعام المُولّدة بالذكاء الاصطناعي",
+   "summary": "رغم أن أصحاب المطاعم قد يرون في الذكاء الاصطناعي وسيلة سريعة لتحسين قوائمهم، إلا أن العملاء يلمسون بحدسهم وجود خلل في تقديم الطعام. المشكلة تكمن في أن النصوص المُولّدة غالباً ما تفتقر إلى الأصالة والتنوع الذي يميز القوائم الحقيقية.",
    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-04"
   },
   {
-   "title": "شركة كروسو تجمع 3 مليارات دولار برأسمال تقييمي 30 مليار دولار",
-   "summary": "أتمت شركة كروسو للبيانات جولة تمويل جديدة بعد تأمينها عقداً قيمته 13 مليار دولار مع شركة جين ستريت. يعكس التمويل الثقة المتزايدة في خدمات مراكز البيانات المتخصصة.",
+   "title": "شركة كروسو تجمع 3 مليارات دولار بتقييم 30 مليار دولار",
+   "summary": "أعلنت شركة كروسو المتخصصة في مراكز البيانات عن جولة تمويل جديدة، وجاءت بعد تأمينها عقداً بقيمة 13 مليار دولار مع شركة جين ستريت. تعكس الجولة نمو القطاع وزيادة الطلب على البنية التحتية للحوسبة.",
    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-04"
   },
   {
-   "title": "عصر الذكاء الاصطناعي المضطرب وأهمية القرارات الحالية",
-   "summary": "يناقش المقال المرحلة الحالية من تطور الذكاء الاصطناعي وتأثيراتها على المجتمع، مؤكداً أن الخيارات التي نتخذها اليوم ستحدد مسار هذه التكنولوجيا ومدى استفادتنا منها في المستقبل.",
+   "title": "مايكروسوفت تطلق Project Zenith لتجربة ويندوز خالية من الملهيات للمطورين",
+   "summary": "أطلقت مايكروسوفت نسختها الموجهة للمطورين من ويندوز تحت اسم Project Zenith، وهي مصممة لأجهزة متخصصة بذاكرة موحدة بسعة 64 جيجابايت أو أكثر. تهدف المنصة إلى توفير بيئة خالية من الملهيات تركز على احتياجات المطورين.",
+   "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "سام ألتمان يعتذر عن إطلاق مربك لـ GPT-6 Astra",
+   "summary": "اعتذر الرئيس التنفيذي لـ OpenAI بعد ساعات من إطلاق GPT-6 Astra بسبب ما وصفه بـ 'الإطلاق المربك' الذي حرم المستخدمين المدفوعين من الوصول الفوري للنموذج الجديد. وصفت الشركة النموذج بأنه 'قفزة جيلية في الإمكانيات' لكن تنفيذ الإطلاق لم يكن سلساً.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "شركة تخزين Ugreen تدخل سوق البيوت الذكية بمنصة HomeAgent",
+   "summary": "أطلقت شركة Ugreen، المعروفة بأجهزة الشحن والتخزين، منصة HomeAgent للمنازل الذكية في معرض IFA التقني. تجمع المنصة بين تخزين كاميرات الأمان والذكاء الاصطناعي المحلي والتحكم بالأجهزة الذكية في نظام واحد متكامل.",
+   "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "بيانات الطائرات بدون طيار من أوكرانيا تغذي سوقاً جديداً للدفاع",
+   "summary": "تولّد الطائرات بدون طيار المستخدمة في الحرب الأوكرانية كميات هائلة من البيانات التي تتجاوز قيمتها حياة النزاع نفسه. يسعى قطاع الدفاع الآن للاستفادة من هذه البيانات في سوق ناشئة، ما يخلق فرصاً اقتصادية جديدة بعيداً عن ساحة القتال.",
+   "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "عصر الذكاء الاصطناعي المضطرب بدأ، والخيارات التي نتخذها الآن حاسمة",
+   "summary": "يؤكد المختصون أن العالم دخل مرحلة حاسمة من تطور الذكاء الاصطناعي تتطلب قرارات واعية وملؤولة. القرارات التي يتم اتخاذها اليوم ستحدد مسار التكنولوجيا وتأثيراتها على المجتمع في السنوات القادمة.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-04"
   },
   {
-   "title": "الذكاء الاصطناعي والانحياز والمساواة في المجال القانوني",
-   "summary": "تتناول الجمعية النيويوركية للمحامين دور الذكاء الاصطناعي في الممارسة القانونية وتأثيره على قضايا الانحياز والإنصاف، مع التركيز على الحاجة لضمان استخدام عادل وشفاف لهذه الأدوات في النظام القانوني.",
+   "title": "الذكاء الاصطناعي والمعاناة الإنسانية: رصد تأثيراته",
+   "summary": "يسلط البحث الضوء على العلاقة بين تطورات الذكاء الاصطناعي والتحديات الإنسانية التي قد تترتب عليها. يناقش التقرير السيناريوهات المختلفة لتأثير هذه التكنولوجيا على جودة الحياة والرفاه الاجتماعي.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHNMeF9XYXJrN0NjanBnejhoRTJlZFhLb2ppdG5oeENfWGowaEt3NXBsbmN5OGlZc2NYQkhhTC1BZUluc0JoT3J2enFzLVBJWXQyeXpQa0h6aG0wczdZd2lUNThnalNXTmxvWG5DR0pPVmFrTVJPdlhqMjVfZ3NNcg?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "الذكاء الاصطناعي والتحيز والإنصاف في الممارسة القانونية",
+   "summary": "يتناول الملف قضايا التحيز والإنصاف في تطبيقات الذكاء الاصطناعي داخل المجال القانوني. يركز على ضرورة فهم المخاطر المحتملة وإيجاد آليات لضمان عدالة واستقلالية العمليات القانونية التي تعتمد على هذه التكنولوجيا.",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZV9YUWRxd1VPRk90OUp6TDlqVEVFaG1mbEljY3A3SEVDUllUd3dldEhMYjFnM21PMldFSWJNZkpFOFJ5TGVKSElzZ25ZNGxQUW9FTEJPdzRnRmtjS3NjdEFfUEo4aGROZ0REQU00TUF4UzdwWXdEZG5kVVNfaGhYWld5WXVqUQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "حوار مستمر حول الذكاء الاصطناعي وتأثيراته الأخلاقية",
+   "summary": "يقدم النقاش منظوراً أخلاقياً وقيمياً حول الذكاء الاصطناعي وتطبيقاته. يهدف إلى فتح حوار شامل يتجاوز الجوانب التقنية البحتة ليشمل الانعكاسات الفلسفية والاجتماعية لهذا التطور.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNXpvU3UyRVFRUXRFMEdzdVcxNkpjRlJZMWpJYnpmRzh3RzJtU055U21xOWRBT2tuM041akRRT2F0eVQwRkhPT1JVS2E1azJfemoybFFjWjFyUmc4aUdNeHM0MTl1c2NlOC1NRFpfal9STllBQUVDVXo2SGZIRlhMOFd6c3NUUnhka3VUYm1RM0RJOFI0ZjRtWl9TUEpRcTQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-04"
@@ -80,54 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "ميتا تقدم خصماً كبيراً مقابل مراقبة استخدام نموذجها الجديد",
-   "summary": "توفر ميتا خصماً بنسبة تقارب 95% لمستخدمي نموذج Muse Spark الموجهة للوكيلات والمهام البرمجية، مقابل مشاركتهم بمحادثاتهم وبيانات استخدام النموذج لتطوير نسخ مستقبلية.",
-   "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "أوبن إيه آي تطلق نموذجاً جديداً قوياً لاستخدام المتصفحات والحواسيب",
-   "summary": "أطلقت أوبن إيه آي نموذج Astra الجديد المتخصص في استخدام المتصفحات والحواسيب بكفاءة عالية. تؤكد الشركة أن النموذج يوفر سرعة ودقة وأماناً متفوقاً عند تنفيذ المهام المعقدة.",
-   "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "مساعد ذكاء اصطناعي عائلي يراهن على الخصوصية للفوز بالسباق",
-   "summary": "أداة جديدة باسم Ollie تقدم مساعداً ذكياً موجهاً للعائلات يسعى للوصول إلى تفاصيل الحياة اليومية للمستخدمين. تؤكد الأداة أنها لا تستخدم هذه البيانات لتدريب نماذج جديدة أو مشاركتها مع جهات خارجية.",
-   "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "نموذج أوبن إيه آي القادم يدخل عصر الذكاء العام الاصطناعي",
-   "summary": "أطلقت أوبن إيه آي نموذج GPT-6 Astra الذي تصفه بأنه قفزة نوعية في الأداء عبر مجالات الأمن السيبراني والعمل المتخصص والهندسة البرمجية والعلوم. يعتبر أول نموذج تصنفه الشركة ضمن معايير عصر الذكاء العام.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "إنفيديا تطلق أداة مجانية لربط أجهزة المنزل في مركز ذكاء اصطناعي شخصي",
-   "summary": "أعلنت إنفيديا عن أداة جديدة تُسمّى Personal AI Router تتيح ربط أجهزة الكمبيوتر المنزلية لتنفيذ مهام الذكاء الاصطناعي محلياً. الأداة مفتوحة المصدر وتعمل مع منصات مثل Ollama و LM Studio لتوزيع عمليات الاستدلال على الأجهزة المتاحة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-03"
-  },
-  {
-   "title": "غوغل تُتيح التحكم بالبريد والمستندات والملاحظات عبر الأوامر الصوتية",
-   "summary": "بدأت غوغل في إطلاق مساعدات صوتية قائمة على الذكاء الاصطناعي لتطبيقات Gmail و Docs و Keep تسمح بإدارة هذه الخدمات بالحوار المباشر. تشبه هذه الميزات تجربة Gemini Live وتهدف لجعل التفاعل مع التطبيقات أكثر سلاسة وطبيعية.",
-   "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-09-03"
   }
  ]
