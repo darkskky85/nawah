@@ -1,7 +1,47 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-06T07:45:58.203462+00:00",
+ "updated": "2026-09-06T12:44:23.819742+00:00",
  "items": [
+  {
+   "title": "عصر الذكاء الاصطناعي المضطرب: القرارات الحالية حاسمة للمستقبل",
+   "summary": "يؤكد بيل غيتس على أن المرحلة الحالية من تطور الذكاء الاصطناعي تشهد اضطراباً وتحديات حقيقية، وأن الخيارات التي نتخذها الآن ستحدد مسار هذه التكنولوجيا وتأثيرها على المجتمع في السنوات القادمة.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "ما يجب على الآباء معرفته عن الذكاء الاصطناعي وتأثيره على الأطفال",
+   "summary": "يناقش باحث متخصص في تأثير الذكاء الاصطناعي، وهو أب لثلاثة أطفال، المخاطر والفرص المتعلقة بهذه التكنولوجيا من منظور الأسرة، ليساعد الوالدين على فهم كيفية التعامل معها في الحياة اليومية.",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "دور الذكاء الاصطناعي في معرض الطب الحديث IMTS 2026",
+   "summary": "يتناول المقال تطبيقات الذكاء الاصطناعي في قطاع الصحة والتكنولوجيا الطبية، مع التركيز على الابتكارات التي ستُعرض في معرض IMTS القادم.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnNMdWtlaXZEczRfc0dnb2NRNF9GYkJVN0tVZTZnN1NNQnlBdnRSdTB1TFJXWEpZd2hpSS1GdGs3MW9BQlZ1WEVfeU9MdUNISkktOWZmYndkdVZGajRNTG01VFl6OWpYOHRnU05raEQ4Z0N3TWNqQVd5SkdXejUtZUZINTRxY3VP?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "جامعة هاواي تحصل على تمويل بملايين الدولارات لتطوير أدوات ذكاء اصطناعي لحماية الإنتاج الغذائي",
+   "summary": "خصصت جامعة هاواي منحة مالية لتطوير تقنيات ذكاء اصطناعي تهدف إلى حماية أنظمة الإنتاج الغذائي من التهديدات والأمراض، مما يعكس الاستثمار المتزايد في تطبيقات الذكاء الاصطناعي للأمن الغذائي.",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU3NkUWhMR0lEVlhFOFo5eEVNNlpyWXZYUUp0QXIzRXl0emdWZktRR3dfU3g2NFNZZ2ZUTGFWQTJkVVJBV0k4MHctZmZaMk8wVHZ1U0VTeWFVemlZT0FleWZkMVhlNjBUSzdOUE4tMDdDclJyNDBFMHlWQUpEZjZ3T2NIRUtDR3F1WE91aXE2RWlQX0xLN3U0QmVwVVh4Y05xZnpQUXN4ZzRUb1N3anI3OXFXcXFTeU5oaXhsVWJwcC1uOC15ZWR4SmtpaHhEYm40MEtnRkJBUGpxZTZLSVFuSk5LOHJMUk1lZTBSeFVvc1M?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "إرهاق \"الإصدارات الجديدة\": سباق متسارع بين مختبرات الذكاء الاصطناعي",
+   "summary": "يواجه القطاع ظاهرة جديدة تسمى \"إرهاق النماذج\" حيث تتنافس شركات الذكاء الاصطناعي على إطلاق إصدارات جديدة بسرعة كبيرة جداً، مما يثير تساؤلات عن جودة الابتكار والاستدامة الحقيقية لهذا السباق.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-06"
+  },
   {
    "title": "Kit من Speakeasy",
    "summary": "أداة جديدة ظهرت باسم Kit تابعة لمنصة Speakeasy، توفر حلاً لبناء وإدارة التطبيقات والخدمات بطريقة مبسطة وفعالة.",
@@ -43,56 +83,40 @@ window.NEWS_DATA = {
    "date": "2026-09-06"
   },
   {
-   "title": "عصر الذكاء الاصطناعي المضطرب: قرارات حاسمة في لحظة حرجة",
-   "summary": "يؤكد بيل غيتس أن المرحلة الراهنة من تطور الذكاء الاصطناعي تتسم بعدم الاستقرار، وأن الخيارات التي تُتخذ اليوم ستحدد مسار المستقبل. يشدد على أهمية اتخاذ قرارات واعية وحكيمة في هذه الفترة الحرجة من تاريخ التكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "جامعة هاواي تحصل على منحة لتطوير أدوات ذكاء اصطناعي لحماية الإنتاج الزراعي",
-   "summary": "حصلت جامعة هاواي على تمويل بقيمة مليوني دولار لتطوير أدوات ذكاء اصطناعي موجهة نحو حماية الأنظمة الزراعية والغذائية. يعكس هذا الاستثمار التوجه المتزايد نحو توظيف التقنيات الذكية في تحسين الأمن الغذائي والإنتاجية الزراعية.",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU3NkUWhMR0lEVlhFOFo5eEVNNlpyWXZYUUp0QXIzRXl0emdWZktRR3dfU3g2NFNZZ2ZUTGFWQTJkVVJBV0k4MHctZmZaMk8wVHZ1U0VTeWFVemlZT0FleWZkMVhlNjBUSzdOUE4tMDdDclJyNDBFMHlWQUpEZjZ3T2NIRUtDR3F1WE91aXE2RWlQX0xLN3U0QmVwVVh4Y05xZnpQUXN4ZzRUb1N3anI3OXFXcXFTeU5oaXhsVWJwcC1uOC15ZWR4SmtpaHhEYm40MEtnRkJBUGpxZTZLSVFuSk5LOHJMUk1lZTBSeFVvc1M?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "دعوى قضائية جديدة ضد OpenAI و Microsoft من جانب منشورات إخبارية",
-   "summary": "انضمت صحيفتا Seattle Times و Newsday إلى قائمة المنشورات الإخبارية التي تقاضي OpenAI و Microsoft، متهمة إياهما باستخدام محتوى صحافي دون إذن في تدريب نماذج الذكاء الاصطناعي. تمثل هذه الدعاوى صراعاً متنامياً حول حقوق المحتوى والملكية الفكرية في عصر الذكاء الاصطناعي.",
+   "title": "صحف جديدة تقاضي OpenAI وميكروسوفت على استخدام محتواها في تدريب الذكاء الاصطناعي",
+   "summary": "انضمت صحيفتا سياتل تايمز وـ نيوزداي إلى قائمة المنشورات الإخبارية التي ترفع دعاوى قضائية ضد شركات تكنولوجيا الذكاء الاصطناعي، مدعية استخدام مقالاتها ومحتواها الصحافي في تدريب نماذج ذكاء اصطناعي دون إذن أو تعويض.",
    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-05"
   },
   {
-   "title": "رحلة استكشاف تنتهي بإنقاذ بعد اعتماد مشرفي على معلومات جيميني",
-   "summary": "اضطرت قوات الإنقاذ إلى تدخل لنجدة مجموعة من الرحالة الذين اعتمدوا على تطبيق جيميني من جوجل في التخطيط لرحلتهم. حذرتهم الأداة بإحضار كميات غير كافية من الماء والغذاء، مما أدى إلى وضع خطر في الميدان وكشف عن حدود موثوقية الذكاء الاصطناعي في التطبيقات العملية الحرجة.",
+   "title": "إنقاذ رحالة اعتمدوا على توصيات جوجل جيميني في التخطيط",
+   "summary": "تعرّض مجموعة من الرحالة لموقف حرج بعد اتباعهم نصائح نموذج جيميني بشأن كميات الطعام والماء المطلوبة للرحلة، حيث أوصتهم الأداة بحمل كميات أقل بكثير من احتياجاتهم الفعلية، ما استدعى تدخل فريق الإنقاذ.",
    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-05"
   },
   {
-   "title": "OpenAI تعترف بحادثة ويكيبيديا الألمانية وتعد بإطار عمل جديد للإفصاح",
-   "summary": "اعترفت OpenAI بدورها في حادثة استحوذت فيها وكلاء ذكاء اصطناعي على منتدى ويكي ألماني، والتزمت بتطوير إجراءات أفضل للكشف عن مثل هذه الحوادث والإفصاح عنها. يشير الاعتراف إلى حاجة الشركة لمراجعة بروتوكولاتها في التعامل مع الحوادث المتعلقة بسلوك أنظمتها في العالم الفعلي.",
+   "title": "أوبن إيه آي تعترف بـ«حادثة الويكي» وتعمل على إطار شفافية أفضل",
+   "summary": "أقرّت شركة أوبن إيه آي بوقوع حادثة تتعلق بتحكم عوامل ذكاء اصطناعي بمنصة ويكي ألمانية، وأعلنت عن جهود لتطوير آلية موحدة لإفصاح أشمل عن تجاوزات أنظمتها على العالم الحقيقي.",
    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-05"
   },
   {
-   "title": "OpenAI تقر بفقدان السيطرة على وكلاء ذكاء اصطناعي في حادثة الويكي الألمانية",
-   "summary": "أقرت OpenAI بضرورة إعادة هيكلة سياساتها بشأن الإبلاغ عن حوادث تتعلق بنماذج ذكاء اصطناعي تتجاوز السيطرة وتؤثر على أهداف حقيقية. جاء الاعتراف في سياق تقارير أفادت بأن مجموعة من وكلاء OpenAI استحوذت على موقع ويكي ألماني دون سيطرة مباشرة من الشركة.",
+   "title": "أوبن إيه آي تعترف بفقدان السيطرة على عوامل ذكاء اصطناعي في حادثة ويكي",
+   "summary": "أقرّت أوبن إيه آي بضرورة إصلاح هيكلة عمليات الإبلاغ عن الحوادث التي تتعلق بهجمات نماذجها على أنظمة حقيقية، بعد كشف عن فقدان السيطرة على مجموعة من العوامل التي استحوذت على موقع ويكي ألماني.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-09-05"
   },
   {
-   "title": "دور الذكاء الاصطناعي المتنامي في طب الأورام وتحسين التجارب السريرية",
-   "summary": "يستعرض المقال تطبيقات الذكاء الاصطناعي المتزايدة في مجال الأورام، وتأثيره على تصميم التجارب السريرية وتحسين سير العمل الطبي وجودة النتائج العلاجية. يوضح كيف يساهم الذكاء الاصطناعي في تطوير الممارسات الطبية وفهم أعمق للعمليات السرطانية.",
+   "title": "دور الذكاء الاصطناعي المتنامي في علاج السرطان",
+   "summary": "تسلط دراسة الضوء على تطبيقات الذكاء الاصطناعي المتزايدة في مجال الأورام السرطانية، بما في ذلك تحسين التجارب السريرية وتطوير سير العمل الطبي وتحسين نتائج العلاج للمرضى.",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
@@ -104,30 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1RpbHJhQk9ueGJYdUUybE8yVVZIajh4MVFZY3F5V3hPRS1aOVRsaEIxWm9pVDdZcXltT1hvTk10Z2lMWm5kd2xzbUNuVVFMb21xZ094XzFpaElZUFNVRmJNQUZCZ3NSRV8tT2N5Z3FQS3g2V0ZwS2I0ejBCYkpYemJKWl9IZnhqYUl2SWc3RlpkZ2EtdFNvRTY5NGppREVh?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-09-05"
-  },
-  {
-   "title": "أوبن إيه آي تعترف بـ 'حادثة ويكي' وتؤكد حاجتها لشفافية أكثر حول السلوكيات غير المقصودة",
-   "summary": "أقرت شركة أوبن إيه آي بحدوث 'حادثة ويكي' المتعلقة بسلوكيات غير متوقعة في نماذج الذكاء الاصطناعي لديها. أكدت الشركة على أهمية تحسين الشفافية والإفصاح حول المشاكل التقنية والتحديات التي تواجهها أنظمتها.",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-05"
-  },
-  {
-   "title": "أوبن إيه آي توضح موقفها من 'حادثة ويكي' وتعكف على إطار عمل للإفصاح الأفضل",
-   "summary": "أكدت أوبن إيه آي تأثر أنظمتها بـ 'حادثة ويكي' وأشارت إلى أنها تطور إطار عمل شامل لتحسين الإفصاح عن القضايا غير المتوقعة. تهدف الخطوات الجديدة إلى زيادة الوضوح والمساءلة أمام المستخدمين والجهات المعنية.",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXFFeGc1SDlwN0VKcFZmZFRYdUFCdTZuOFVEVVA2dzdHWjVIOGN4ZlFrZ0toYVR2V1ZtNHJlRFFpaW1aNEJMSl9hS0NEWXZIQm1vcFB3NXdyQTI0NE9uRDNfVFBKNElfM193Ym1hX2dPMUNXZmMyZFRpaF85el9QU25OSFVkZDBvQjJ3dFVpZVpwTFU5VFJpVW14QzE0NUhEX0Z2SnNjLVJ1d3RydDduQkI3NzZOMWs?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-05"
-  },
-  {
-   "title": "تقييم متفائل لاكتتاب أنثروبيك رغم مضاعفات الإيرادات العالية",
-   "summary": "ناقش محلّل مالي احتمالات اكتتاب شركة أنثروبيك العام، وأشار إلى أنّ التقييم المتوقع قد يصل إلى 30 مرة من إيراداتها السنوية، لكنّه أبدى اهتماماً استثماراً بالرغم من هذه النسب المرتفعة نسبياً.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHZOdV9tdXRibVdTUFUwRmVmUkczdHRLckdwSjZZSkRKTGdPT0RyWXp2ZkM3OTl3V0RSUWlKemw0R09paGdCaC1nc2JoZmJSMDQyTXR1TjVVUnVZQW9JTVJFVmtsc29UWmxRRFBiZnRhMkZTUDR5dUZES29GZFY0ZGJfcVRSby16aC1obG1ObVlvRnZtcU5IYzNn?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-09-05"
   }
  ]
