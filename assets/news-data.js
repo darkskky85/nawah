@@ -1,21 +1,69 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-07T14:56:08.150631+00:00",
+ "updated": "2026-09-07T19:04:16.100623+00:00",
  "items": [
   {
-   "title": "عصر الذكاء الاصطناعي المضطرب بدأ، والخيارات التي نتخذها الآن حاسمة",
-   "summary": "يؤكد بيل جيتس على أن العالم يدخل مرحلة حرجة من تطور الذكاء الاصطناعي تتطلب قرارات استراتيجية حكيمة. القرارات التي تُتخذ الآن ستحدد مسار تأثير هذه التكنولوجيا على المجتمع والاقتصاد في العقود القادمة.",
+   "title": "جيبيتي-6 أسترا: جيل جديد من الذكاء الاصطناعي من أوبن إيه آي",
+   "summary": "أطلقت أوبن إيه آي نموذج جيبيتي-6 أسترا الذي يمثل تطوراً جديداً في مجال الذكاء الاصطناعي. يركز النموذج على تحسين القدرات الإدراكية والاستدلالية مقارنة بالأجيال السابقة.",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "عصر الذكاء الاصطناعي المضطرب بدأ فعلاً، والقرارات الحالية حاسمة",
+   "summary": "يؤكد بيل جيتس أن المرحلة الحالية من تطور الذكاء الاصطناعي تتسم بعدم الاستقرار والتحديات الكبيرة، وأن الخيارات التي تتخذها المجتمعات والحكومات اليوم ستحدد مسار هذه التكنولوجيا مستقبلاً.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-07"
   },
   {
-   "title": "واشنطن تعمق الفجوة العالمية في الذكاء الاصطناعي",
-   "summary": "تواجه الولايات المتحدة خيارات صعبة بشأن سياستها تجاه تكنولوجيا الذكاء الاصطناعي، وتؤثر هذه الخيارات على توزيع الإمكانيات التقنية بين الدول. يحتمل أن تؤدي الإجراءات الأمريكية إلى تعميق الفجوة التكنولوجية عالمياً.",
+   "title": "الذكاء الاصطناعي وتكوين الرهبان اليسوعيين",
+   "summary": "تستكشف المنظمة اليسوعية العالمية تأثير الذكاء الاصطناعي على برامج التكوين الروحي والفكري للرهبان، وكيفية توافق هذه التكنولوجيا مع القيم الإنسانية والتعليم الديني.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0FmdW04SGhDVmV6QURRZmNBNHh3ZmF6ZElhSkNUVEl3UHh5cFA5Y2d0bnNsZWhOblctT3d0dTRuTHAwQUZLUVpjTGU3QU1XY1h4V3ljbTdHR1lqV2FGZldmQThTQzl6TmVCZWk5cko2dW1Tcnc3MF8wUWlhT0ZsOVZnNUF4bjlYQ3Bn?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "الذكاء الاصطناعي في المستشفيات: كيف يستخدمه الأطباء مع حماية بيانات المرضى",
+   "summary": "يستعرض التقرير تطبيق الذكاء الاصطناعي في مستشفى ميرسي وكيفية استفادة الأطباء من هذه الأدوات في تحسين التشخيص والعلاج، مع التركيز على الإجراءات الأمنية المتخذة لحماية خصوصية المرضى وبيانات صحتهم.",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2RDYkxmT3RmQ0ZZSVJMRlJzb1d3aFVGRVhXeV9qWm5BeGdoSVpMdzJOZS1MQkFMT3ItYnU0Z2MzUEY4VEphRWVNMjcwZjZ5SkJmM1RMR0p5UUJrX0ZVMnhHSHFRS1VyMXRzaU4yNUhQLTZhVEoxZmtCSlZ6RVlDcTU3QWZQeWw4cHl6a1NSN3ZqYVctdF9DS2FlcGFmZ0JhbDI1VEVLdTNzeWFfRW4wdEFaWU80SFA1bnE5Sm5VZ1REd2tuemw3cG01dDJnRWM?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "اختيارات صعبة تلوح مع تعميق الولايات المتحدة فجوة عالمية في الذكاء الاصطناعي",
+   "summary": "تحذر الدراسة من أن سياسة الولايات المتحدة في مجال الذكاء الاصطناعي قد تؤدي إلى تعميق عدم المساواة التكنولوجية بين الدول، مما يطرح تحديات اقتصادية وسياسية معقدة على المستوى العالمي.",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmlMY1VvZHBEQ3pwaTFMS0MweFhfTmJHUWhLZ2VjSjNfR1JMSHBuTjh2OUxMVlU0a3hlRnpZRUJOcHZIMHk4aXNSODUwdWhYSEkxWDYxU1FqbkJJNGgtdHdTNkhZdVhrN1BtQnBCVzcwYXZpQ0toS25rWGRfcnBxOVRoT0tPTWJxb1cxLWFtSVljZzIyYWdBcGpKMUJSckJrUVY5c1pxVQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "أوبنإيه آي تقطع الوصول عن نماذج كيرسور، معمقة خلافها مع ماسك",
+   "summary": "قررت شركة أوبنإيه آي قطع وصول منصة كيرسور إلى نماذجها الذكية، مما عمّق النزاع بينها وبين إيلون ماسك ويعكس التوترات المتزايدة بين اللاعبين الرئيسيين في قطاع الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjlZN3dyVVp2allXQktrV3N1dko5b1N5aVVCQ0VPWElkdERtT3k0VS1wSW16YzcyQlppNUtGWTRpbmpvQS16X3g1eXhLazlIdVBmNGxZbC1jc2JKVWVFSFRjcjRUYkxaMkRFZ3kyMHlQUDVUVzBNYjJCbm5iZ25sYjlYLWFlQQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "الاكتتاب العام لأنثروبيك سيكون ضخماً وحفيفاً بالمخاطر",
+   "summary": "يوضح التحليل أن طرح شركة أنثروبيك للاكتتاب العام سيشهد استثمارات ضخمة لكنه محفوف بالتحديات القانونية والسوقية التي يجب على المستثمرين مراقبتها بعناية قبل اتخاذ قرارات الاستثمار.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV2I4elphOVBGSDAyVVM5d25LR09BS0tzUWk0R0tvanlXRmtmakdsenN6UnBhOURhWVBiTi00ZTJ0SEpGcURvZGxXcFJvdVJwaUw1YU9lX0ZTdVdTa3oycmJFQU1oTzZhcGwydzJOVlpSVjJDVU8tT094dlBjc2lnRXdYOHBJS3BEN1l0TWdrZ1dlSjJRVmtMVEg1cU1PTGI5eDhHU3QtaXZITEhYNmJfZURsNkhkZlVodWhYNUJtQXE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "أوبن إيه آي تستثمر مليار دولار لتعزيز الأمن السيبراني في البنية التحتية الحرجة",
+   "summary": "أعلنت أوبن إيه آي عن التزام بمليار دولار لتطوير حلول أمان سيبراني مدعومة بالذكاء الاصطناعي موجهة للبنية التحتية الحيوية والخدمات الأساسية. يهدف المشروع إلى تعزيز قدرات الدفاع ضد التهديدات الإلكترونية المتقدمة.",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXVTYU8ta0RZVEJfb0tIcmppdVVRbkxGNHVwU2pMLXdpQXZ3bDNjT2s3Vl83ZDlkeGF3UGQ3eDNXR0hxNTBIR1pJa0tJSl9xei1rM2syM080YzhneW1ucXVVNlowaHZQMmhfNVYtdmZCVnFwSGtqeTQxS3NlY1ltNHRMaTNBLV9WV0NYNGQ1MTFyVk92VG5iRkkyVGc2Mk5reGY4X3hWNkUyUVE3b0xNcVFIZGp6OFNySzA1V1ZRVlRZdmhBQ3dGU3Q4VG9wVWh0RlVPc0ZKWlp1ZEpSaThxR2tVeTJBVUpKTy1YM09Oa04?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-09-07"
   },
   {
@@ -32,22 +80,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQUhya1VndVhaaDVhSUpNWVI3cEhMWU5MWlJXUU1TRTV6NU92akpxd2RzQlVoS1B0enVLenpGM0R6QmZHUWRPUnRGUXFJVTlXOVRtUWtoSGRwNFgxbmhZOVB6aDVzV3pKODZWZjljTnFnU3BiNV8zY2dWOWFDUVZRLUFoaTJxX2ZwemtMZV9LQjg2aTVEWTVuNndGdjNuRFdhY0xlQWpRWng0Rm9pM0VXdVZ1YnJPRjZFVnc?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "OpenAI توقف خدماتها لتطبيق Cursor، مما يعمق النزاع مع إيلون ماسك",
-   "summary": "قررت OpenAI قطع إمكانية وصول تطبيق Cursor إلى نماذجها الذكية، مما يعكس توترات متزايدة بين الشركة وإيلون ماسك. هذا الإجراء يشير إلى تصعيد في الخلافات التجارية والفنية بين الأطراف.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjlZN3dyVVp2allXQktrV3N1dko5b1N5aVVCQ0VPWElkdERtT3k0VS1wSW16YzcyQlppNUtGWTRpbmpvQS16X3g1eXhLazlIdVBmNGxZbC1jc2JKVWVFSFRjcjRUYkxaMkRFZ3kyMHlQUDVUVzBNYjJCbm5iZ25sYjlYLWFlQQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "طرح أنثروبيك للاكتتاب العام: توقعات بحجم كبير وتحديات استثمارية",
-   "summary": "يناقش محللو مورنينجستار آفاق الاكتتاب العام المتوقع لشركة أنثروبيك للذكاء الاصطناعي، مشيرين إلى إمكانية جمع مبالغ كبيرة لكن مع مخاطر استثمارية عديدة يجب على المستثمرين الانتباه لها، منها تحديات النمو والمنافسة وتكاليف التطوير.",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV2I4elphOVBGSDAyVVM5d25LR09BS0tzUWk0R0tvanlXRmtmakdsenN6UnBhOURhWVBiTi00ZTJ0SEpGcURvZGxXcFJvdVJwaUw1YU9lX0ZTdVdTa3oycmJFQU1oTzZhcGwydzJOVlpSVjJDVU8tT094dlBjc2lnRXdYOHBJS3BEN1l0TWdrZ1dlSjJRVmtMVEg1cU1PTGI5eDhHU3QtaXZITEhYNmJfZURsNkhkZlVodWhYNUJtQXE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-09-07"
   },
   {
@@ -75,16 +107,16 @@ window.NEWS_DATA = {
    "date": "2026-09-07"
   },
   {
-   "title": "الكتّاب يعترضون على توزيع تسوية أنثروبيك",
-   "summary": "يرى الكتاب والمؤلفون أن الناشرين والوكلاء يسعون للحصول على حصة أكبر من المستحق لهم من أموال التسوية التي وافقت عليها أنثروبيك بشأن استخدام النصوص المحمية بحقوق التأليف.",
+   "title": "الكتّاب يعترضون على توزيع تسوية أنثروبيك بين الناشرين والوكلاء",
+   "summary": "يطعن الكتاب في محاولات الناشرين والوكلاء الأدبيين المطالبة بحصص من تسوية القضية المرفوعة ضد شركة أنثروبيك، مؤكدين أن المستفيدين الحقيقيين من التسوية يجب أن يكونوا أصحاب الحقوق الأصليين.",
    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-06"
   },
   {
-   "title": "شركة Atoms التابعة لمؤسس أوبر تدخل سوق سيارات الأجرة الذاتية",
-   "summary": "يخطط تراڤيس كلانيك عبر شركته Atoms للدخول إلى قطاع سيارات الأجرة ذاتية التشغيل، معتبراً هذا الخطوة بمثابة إكمال لأحلام لم ينجزها في مسيرته السابقة.",
+   "title": "شركة Atoms للمؤسس السابق لأوبر تتجه نحو سوق سيارات الأجرة المستقلة",
+   "summary": "تشير التطورات إلى أن شركة Atoms التابعة لترافيس كالانيك قد تدخل مجال المركبات المستقلة. يرى المؤسس أن هذا الاتجاه سيتيح له إكمال مشاريع لم تنجزها أوبر سابقاً.",
    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -96,38 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "والي ماريلاند يطلق أداة ذكاء اصطناعي لتحليل الفرص التجارية في المجتمعات المحلية",
-   "summary": "أطلق الحاكم ويس مور أداة ذكاء اصطناعي موجهة لتزويد رجال الأعمال برؤى تفصيلية حول احتياجات ومميزات المجتمعات في ولاية ماريلاند. تهدف الأداة إلى دعم اتخاذ القرارات الاستثمارية والتجارية بناءً على بيانات محلية.",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NS2E1TzVneFZjelZFX2xQbnZ2QkZDMDIwbm5JbW51NU9JSE12OHcxNFlsTHZFcDAwWTMwWEZSdnEtNloxT0JsdWtNR0UxaUJ4NUxfVTh5UWlWdHVTcHc5bFNjMXRZVzctcU8zNm81YWpvX2RW?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "خبير في تأثير الذكاء الاصطناعي يشارك نصائح للآباء حول أطفالهم والتقنيات الحديثة",
-   "summary": "يقدم باحث متخصص في تأثيرات الذكاء الاصطناعي وهو والد لثلاثة أطفال، رؤى عملية للوالدين حول كيفية فهم وإدارة تعامل أطفالهم مع تطبيقات وأدوات الذكاء الاصطناعي. يركز على الموازنة بين الاستفادة من التكنولوجيا والحفاظ على سلامة الأطفال.",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "جامعة هاواي تقدم دورة تدريبية مجانية في الذكاء الاصطناعي للجميع",
-   "summary": "أطلقت جامعة هاواي برنامجاً تعليمياً مجانياً بعنوان \"الذكاء الاصطناعي من أجل هاواي\" متاحاً لجميع المهتمين بغض النظر عن خلفيتهم. يهدف البرنامج إلى نشر الفهم الأساسي لتقنيات الذكاء الاصطناعي وتطبيقاتها في المجتمع.",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52T3RaQllBVkNLMzUzZ2RiU3VrZVI4U2VoVTdWWFdxeUN5X25xa2Jfc0praURvNkpGSTdGb05obDdyWURIY2VwR1NKdTF0RVFLeXV0TV9fYl9ndlNGdnY2ZFQ1LUpsUTkyb2c?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "GPT-6 Astra: جيل جديد من الذكاء الاصطناعي من OpenAI",
-   "summary": "أعلنت OpenAI عن نموذج ذكاء اصطناعي جديد يُدعى GPT-6 Astra، يمثل خطوة متقدمة في تطور القدرات الذكية للشركة. يُتوقع أن يحمل النموذج الجديد تحسينات في الأداء والقدرات عن الأجيال السابقة.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
    "date": "2026-09-06"
   }
  ]
