@@ -1,7 +1,63 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-07T08:05:32.808931+00:00",
+ "updated": "2026-09-07T14:56:08.150631+00:00",
  "items": [
+  {
+   "title": "عصر الذكاء الاصطناعي المضطرب بدأ، والخيارات التي نتخذها الآن حاسمة",
+   "summary": "يؤكد بيل جيتس على أن العالم يدخل مرحلة حرجة من تطور الذكاء الاصطناعي تتطلب قرارات استراتيجية حكيمة. القرارات التي تُتخذ الآن ستحدد مسار تأثير هذه التكنولوجيا على المجتمع والاقتصاد في العقود القادمة.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "واشنطن تعمق الفجوة العالمية في الذكاء الاصطناعي",
+   "summary": "تواجه الولايات المتحدة خيارات صعبة بشأن سياستها تجاه تكنولوجيا الذكاء الاصطناعي، وتؤثر هذه الخيارات على توزيع الإمكانيات التقنية بين الدول. يحتمل أن تؤدي الإجراءات الأمريكية إلى تعميق الفجوة التكنولوجية عالمياً.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmlMY1VvZHBEQ3pwaTFMS0MweFhfTmJHUWhLZ2VjSjNfR1JMSHBuTjh2OUxMVlU0a3hlRnpZRUJOcHZIMHk4aXNSODUwdWhYSEkxWDYxU1FqbkJJNGgtdHdTNkhZdVhrN1BtQnBCVzcwYXZpQ0toS25rWGRfcnBxOVRoT0tPTWJxb1cxLWFtSVljZzIyYWdBcGpKMUJSckJrUVY5c1pxVQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "نعم، نحن نقترب من عصر الذكاء الاصطناعي العام",
+   "summary": "يناقش التقرير احتمالية وصول الذكاء الاصطناعي إلى مستوى الذكاء العام الذي يضاهي قدرات البشر. هذا التطور يشير إلى تحول جوهري في طبيعة التكنولوجيا وتطبيقاتها المحتملة.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHpzOWFzdTVYaklhcU5oMGVfRGxhRW9IVUdpYVJ2TFl1bFJEZjA4el91V1hncjEtVXY5OG43T2lGalZWZzhUOFFVVzZ4M24zWWg3UkhWMmFicnQ4WWNUdGlmbGtKaTBlRXY1dW9GV1JSZDh6Q3R6b1NCNWhrSk1lUDJ2ek10Y09jamkyWWdJbEdjclpiNF9LbWFwRzNKS1JYa0I4?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "ضرورة مواكبة الثقافة العلمية لتطور الذكاء الاصطناعي",
+   "summary": "يؤكد الخبراء على أهمية رفع مستوى الفهم العلمي لدى المجتمع مع تسارع تطور تكنولوجيا الذكاء الاصطناعي. الفجوة بين التطور التقني والوعي العام تتسع، مما يستلزم استثمارات أكبر في التعليم العلمي.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQUhya1VndVhaaDVhSUpNWVI3cEhMWU5MWlJXUU1TRTV6NU92akpxd2RzQlVoS1B0enVLenpGM0R6QmZHUWRPUnRGUXFJVTlXOVRtUWtoSGRwNFgxbmhZOVB6aDVzV3pKODZWZjljTnFnU3BiNV8zY2dWOWFDUVZRLUFoaTJxX2ZwemtMZV9LQjg2aTVEWTVuNndGdjNuRFdhY0xlQWpRWng0Rm9pM0VXdVZ1YnJPRjZFVnc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "OpenAI توقف خدماتها لتطبيق Cursor، مما يعمق النزاع مع إيلون ماسك",
+   "summary": "قررت OpenAI قطع إمكانية وصول تطبيق Cursor إلى نماذجها الذكية، مما يعكس توترات متزايدة بين الشركة وإيلون ماسك. هذا الإجراء يشير إلى تصعيد في الخلافات التجارية والفنية بين الأطراف.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjlZN3dyVVp2allXQktrV3N1dko5b1N5aVVCQ0VPWElkdERtT3k0VS1wSW16YzcyQlppNUtGWTRpbmpvQS16X3g1eXhLazlIdVBmNGxZbC1jc2JKVWVFSFRjcjRUYkxaMkRFZ3kyMHlQUDVUVzBNYjJCbm5iZ25sYjlYLWFlQQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "طرح أنثروبيك للاكتتاب العام: توقعات بحجم كبير وتحديات استثمارية",
+   "summary": "يناقش محللو مورنينجستار آفاق الاكتتاب العام المتوقع لشركة أنثروبيك للذكاء الاصطناعي، مشيرين إلى إمكانية جمع مبالغ كبيرة لكن مع مخاطر استثمارية عديدة يجب على المستثمرين الانتباه لها، منها تحديات النمو والمنافسة وتكاليف التطوير.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV2I4elphOVBGSDAyVVM5d25LR09BS0tzUWk0R0tvanlXRmtmakdsenN6UnBhOURhWVBiTi00ZTJ0SEpGcURvZGxXcFJvdVJwaUw1YU9lX0ZTdVdTa3oycmJFQU1oTzZhcGwydzJOVlpSVjJDVU8tT094dlBjc2lnRXdYOHBJS3BEN1l0TWdrZ1dlSjJRVmtMVEg1cU1PTGI5eDhHU3QtaXZITEhYNmJfZURsNkhkZlVodWhYNUJtQXE?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "قواعد فترة الصمت في الاكتتاب العام: ما يحق لأنثروبيك قوله",
+   "summary": "تشرح المقالة القيود القانونية المفروضة على شركة أنثروبيك خلال فترة الاكتتاب العام، وهي مرحلة يُحظر فيها على الشركة الإدلاء بتصريحات ترويجية معينة، مما يؤثر على استراتيجيتها الإعلامية والتسويقية.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kQ1J3eE9tc0pMc2lwTC1HaS1OMTRWUlBBZ3pELUJpejlJM3ozQXM1TVkzLUtpQklpcHVHZnE1ZjlWYnRySjNUTzBOUURsU052MFFub25YNm5MZGRVRG1F?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-07"
+  },
   {
    "title": "الذكاء الاصطناعي يجب أن يعزز إبداع الباحثين وليس يحل محل تفكيرهم",
    "summary": "يناقش المقال دور الذكاء الاصطناعي في دعم العملية البحثية، حيث يجب أن يكون أداة لتعميق التفكير النقدي والإبداع لدى الباحثين بدلاً من الاستغناء عن جهودهم العقلية.",
@@ -19,24 +75,16 @@ window.NEWS_DATA = {
    "date": "2026-09-07"
   },
   {
-   "title": "فترة الهدوء الإجرائي قبل الاكتتاب العام: حالة Anthropic",
-   "summary": "يوضح المقال القيود القانونية والإجرائية المفروضة على شركة Anthropic خلال فترة ما قبل الاكتتاب العام، وما يسمح لها وما يُحظر عليها من تصريحات وبيانات علنية.",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kQ1J3eE9tc0pMc2lwTC1HaS1OMTRWUlBBZ3pELUJpejlJM3ozQXM1TVkzLUtpQklpcHVHZnE1ZjlWYnRySjNUTzBOUURsU052MFFub25YNm5MZGRVRG1F?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "الكتاب يعترضون على توزيع تسوية Anthropic بين الناشرين والوكلاء",
-   "summary": "يطالب الكتاب بإعادة النظر في نسب توزيع أموال التسوية القضائية مع Anthropic، محتجين بأن الناشرين والوكلاء يستحوذون على حصة أكبر من الحد العادل.",
+   "title": "الكتّاب يعترضون على توزيع تسوية أنثروبيك",
+   "summary": "يرى الكتاب والمؤلفون أن الناشرين والوكلاء يسعون للحصول على حصة أكبر من المستحق لهم من أموال التسوية التي وافقت عليها أنثروبيك بشأن استخدام النصوص المحمية بحقوق التأليف.",
    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-06"
   },
   {
-   "title": "شركة Atoms تسعى للدخول إلى سوق سيارات الأجرة ذاتية القيادة",
-   "summary": "يشير التطور إلى أن مؤسس Uber السابق يحاول توجيه شركته Atoms نحو قطاع الروبوتاكسي، معتبراً هذه خطوة لإكمال مشاريع لم تنجز سابقاً.",
+   "title": "شركة Atoms التابعة لمؤسس أوبر تدخل سوق سيارات الأجرة الذاتية",
+   "summary": "يخطط تراڤيس كلانيك عبر شركته Atoms للدخول إلى قطاع سيارات الأجرة ذاتية التشغيل، معتبراً هذا الخطوة بمثابة إكمال لأحلام لم ينجزها في مسيرته السابقة.",
    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -75,59 +123,11 @@ window.NEWS_DATA = {
    "date": "2026-09-06"
   },
   {
-   "title": "أوبنإيآي توقف إمداد نماذجها لتطبيق كرسور، مما يعمق الخلاف مع ماسك",
-   "summary": "قطعت شركة أوبنإيآي الوصول إلى نماذجها اللغوية عن تطبيق كرسور، وهي خطوة تعكس استمرار التوتر بين الشركة وإيلون ماسك. يعكس هذا الإجراء التنافس المتزايد على السيطرة والمزايا في سوق أدوات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjlZN3dyVVp2allXQktrV3N1dko5b1N5aVVCQ0VPWElkdERtT3k0VS1wSW16YzcyQlppNUtGWTRpbmpvQS16X3g1eXhLazlIdVBmNGxZbC1jc2JKVWVFSFRjcjRUYkxaMkRFZ3kyMHlQUDVUVzBNYjJCbm5iZ25sYjlYLWFlQQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-06"
-  },
-  {
    "title": "GPT-6 Astra: جيل جديد من الذكاء الاصطناعي من OpenAI",
    "summary": "أعلنت OpenAI عن نموذج ذكاء اصطناعي جديد يُدعى GPT-6 Astra، يمثل خطوة متقدمة في تطور القدرات الذكية للشركة. يُتوقع أن يحمل النموذج الجديد تحسينات في الأداء والقدرات عن الأجيال السابقة.",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
    "source": "Google News — أدوات AI",
    "tag": "أدوات جديدة",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "عصر الذكاء الاصطناعي المتقلب: أهمية القرارات الحالية",
-   "summary": "يؤكد بيل غيتس أن البشرية تعيش حقبة حاسمة من تطور الذكاء الاصطناعي، وأن الخيارات التي نتخذها الآن ستحدد مسار هذه التكنولوجيا. يشدد على ضرورة اتخاذ قرارات مدروسة وحكيمة في هذه المرحلة الحساسة.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "تحذيرات حول الذكاء الاصطناعي",
-   "summary": "تناقش المقالة المخاوف والجوانب التي تستحق الحذر عند استخدام تقنيات الذكاء الاصطناعي، مع التركيز على الحاجة إلى التفكير الناقد والفهم العميق للتحديات المحتملة.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVk1rZnhVQ1piYjJwanZBc0lrQzJqaTdpNXdBZXoxdEtyXzEzaWtvYUVyeXVwTExZNWwzSWxtZDZISjdOTU94OFFocVM3RnJzQkRVV0dHblNLUUtvZjk4YjBueHpycWZOdWJLNGJ0UkNLLXlrVWxFZmZCV0MwdEtYamE2Tnpab3RfNnBV?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "إغلاق خدمة أمازون التي لقّبها بيزوس بـ 'الذكاء الاصطناعي الاصطناعي'",
-   "summary": "تقرر أمازون إيقاف إحدى خدماتها التي كان جيف بيزوس يشير إليها باسم 'الذكاء الاصطناعي الاصطناعي'، مما يعكس تطورات استراتيجية في توجهات الشركة نحو تقنياتها. يعكس الإغلاق إعادة تقييم الشركة لأولوياتها في مجال الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUhfSF9WS1I1RHpXb1I0OVZPOFlYVEt0TFpLUWVhSlN0c3c3UGxNUDdlaWdGSzRvTzNPOUx3ekFxTlo5YUc5TkdDbF9kbWpwbWZmZ1d4VUlJR3FLQmhVUUV6STBlSjBDbnBIZnpOTm5POUh3UXFmc0Y5TWE1RGVPNV9MaGhDQmZwcGhPQm9Wc2F2Z0liV0Z3QlF4ZzFkckxzSWlFOElaREhqbDZh?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "كبير العلماء في OpenAI يحذّر من ضرورة تخفيف وتيرة تطوير نماذج الذكاء الاصطناعي",
-   "summary": "أعرب كبير العلماء في OpenAI عن قلق من السرعة المتسارعة في تطوير أنظمة الذكاء الاصطناعي، محذراً من أن الصناعة غير مستعدة للعواقب المحتملة. دعا إلى ضرورة إعادة النظر في وتيرة الابتكار لضمان سلامة التطوير.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcE5ZbFRhcWxwSG1FMUN1VnFPalBuTkRBOUVfdWxiSl96eHlXb2ExY28tWW0wbXk2Vk8zb2toM1ZQNk9qbG8zbmZwdlNnWFpTcWFFLVpPVGFvOUlBQ2RNMnhBTnczVWpMTkx3STlNcXJsSGczcTlTOHdDV3hiLUIwVEl4NzNYT0d2SUtIWkxFbHE2RHpEUGVXWThSaUVmUjJianp1QW9Yc2ZEem1PMHJhb2Nn?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "تراجع الاهتمام بنماذج الذكاء الاصطناعي وسط تسارع الإطلاقات",
-   "summary": "شهدت صناعة الذكاء الاصطناعي ظاهرة «إرهاق النموذج» حيث يقل الاهتمام بالإصدارات الجديدة نتيجة تسارع وتيرة الإطلاقات بشكل متواصل. يعكس هذا التطور تشبع السوق من التحديثات المتكررة والسريعة للنماذج.",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-09-06"
   }
  ]
