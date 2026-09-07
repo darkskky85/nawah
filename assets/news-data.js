@@ -1,29 +1,77 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-07T19:04:16.100623+00:00",
+ "updated": "2026-09-07T23:21:43.590517+00:00",
  "items": [
   {
-   "title": "جيبيتي-6 أسترا: جيل جديد من الذكاء الاصطناعي من أوبن إيه آي",
-   "summary": "أطلقت أوبن إيه آي نموذج جيبيتي-6 أسترا الذي يمثل تطوراً جديداً في مجال الذكاء الاصطناعي. يركز النموذج على تحسين القدرات الإدراكية والاستدلالية مقارنة بالأجيال السابقة.",
+   "title": "مصطلحات الذكاء الاصطناعي الأساسية التي يجب معرفتها",
+   "summary": "مع انتشار تطبيقات الذكاء الاصطناعي، ظهرت مفردات وتعبيرات جديدة كثيرة. يقدم هذا المقال معجماً شاملاً بتعريفات لأبرز المصطلحات والعبارات التي قد يواجهها المتابع في هذا المجال.",
+   "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "جيني بي تي-6 أسترا: جيل جديد من الذكاء الاصطناعي من أوبن إيه آي",
+   "summary": "أطلقت أوبن إيه آي نموذجاً جديداً باسم جيني بي تي-6 أسترا يمثل تطوراً متقدماً في مجال الذكاء الاصطناعي. يهدف النموذج إلى تحسين القدرات الحالية والوصول إلى أداء أعلى في معالجة المهام المعقدة.",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
    "source": "Google News — أدوات AI",
    "tag": "أدوات جديدة",
    "date": "2026-09-07"
   },
   {
-   "title": "عصر الذكاء الاصطناعي المضطرب بدأ فعلاً، والقرارات الحالية حاسمة",
-   "summary": "يؤكد بيل جيتس أن المرحلة الحالية من تطور الذكاء الاصطناعي تتسم بعدم الاستقرار والتحديات الكبيرة، وأن الخيارات التي تتخذها المجتمعات والحكومات اليوم ستحدد مسار هذه التكنولوجيا مستقبلاً.",
+   "title": "عصر الذكاء الاصطناعي غير المستقر: أهمية القرارات التي نتخذها اليوم",
+   "summary": "يؤكد محللون أن المرحلة الحالية من تطور الذكاء الاصطناعي تشهد تحديات وتقلبات عديدة، وأن الخيارات السياسية والتقنية التي نتخذها في الوقت الراهن ستحدد مستقبل هذه التكنولوجيا وتأثيرها على المجتمع.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-07"
   },
   {
-   "title": "الذكاء الاصطناعي وتكوين الرهبان اليسوعيين",
-   "summary": "تستكشف المنظمة اليسوعية العالمية تأثير الذكاء الاصطناعي على برامج التكوين الروحي والفكري للرهبان، وكيفية توافق هذه التكنولوجيا مع القيم الإنسانية والتعليم الديني.",
+   "title": "نيويورك تفرض قيوداً على استخدام الذكاء الاصطناعي في المدارس العامة",
+   "summary": "اتخذت مدينة نيويورك قراراً بتقييد استخدام تطبيقات الذكاء الاصطناعي في المؤسسات التعليمية العامة، وذلك لحماية الطلاب والحفاظ على جودة العملية التعليمية والتحكم في تأثير هذه التقنيات على بيئة التعلم.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDhPVGFveGFFOU9CUzNBb1kwUDM2ekdsVjVKRkxIMmhVZFRzZGVPSVZLZ3JSOE94RXd6aS05V0Z3bDJjcFNRdFdyTjZmTjd0UkliT1BSU3NNOGtXRFhlYVR3azZSM01taWpnNWs0TmhvSDZFdFBTZUhtakZ1eTZiWXNJcTJVVXk5WnhJb01n?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "الذكاء الاصطناعي وتطوير التكوين الديني لدى اليسوعيين",
+   "summary": "تناقش المؤسسات الدينية اليسوعية دور الذكاء الاصطناعي وتطبيقاته في برامج التكوين والإعداد الديني، محاولة فهم كيفية دمج هذه التكنولوجيا مع القيم والمبادئ الروحية.",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0FmdW04SGhDVmV6QURRZmNBNHh3ZmF6ZElhSkNUVEl3UHh5cFA5Y2d0bnNsZWhOblctT3d0dTRuTHAwQUZLUVpjTGU3QU1XY1h4V3ljbTdHR1lqV2FGZldmQThTQzl6TmVCZWk5cko2dW1Tcnc3MF8wUWlhT0ZsOVZnNUF4bjlYQ3Bn?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "نموذج أسترا من أوبن إيه آي يظهر قدرات في اختراق الأنظمة بمساعدة بشرية محدودة",
+   "summary": "أظهر نموذج أسترا الجديد من أوبن إيه آي قدرته على تنفيذ مهام متعلقة بالهندسة الاجتماعية واختبار الثغرات الأمنية بدعم بشري محدود. يثير هذا الاكتشاف تساؤلات حول الآثار الأمنية المحتملة لنماذج الذكاء الاصطناعي المتقدمة.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVdQYXRwR1lYWnZ0XzRJaEt4ZDJvSHhFMUpyVEd5SlZYSklTYU1uOVRfUWM3UngwY2VfTFVsU0dxRUNKYVNLSXVzWW9Xd2xYbjhiRGFKZUs3eUdxN0NXcWhZblJNV0R2MlJPaXNROHZGazZlRHNuZDlXV25INHlkZi02YVp6cUhfYTduaXloekRQQXZWaG83algtdVpVZ20z?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "أوبن إيه آي ترسل تقرير حادثة أمنية إلى الاتحاد الأوروبي بشأن موقع ألماني مخترق",
+   "summary": "أبلغت شركة أوبن إيه آي المفوضية الأوروبية عن حادثة أمنية تتعلق باختراق موقع إلكتروني ألماني. يأتي هذا الإجراء ضمن التزام الشركة بالامتثال للمعايير الأمنية والتنظيمية في الاتحاد الأوروبي.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzJFOUNDZWR2SV9UcEdYdGV3Ql9RNnkwZFg1ZHZNV3VSSWllaldEUjhYNi1wZVBmOXZITXlEbGtldWhvdjJtUVZoejJ0UUFIZDNVd2ptUFdCRDB4ejVtRmcxTUNQMVNuSE9kWUxUS2xLenAzY2ZQeF9JVUZMWUlZZ0o4VktuUEhiTFZnRm40Vld0NGF5SFRMRHZqN0NtYUh6UW5FRFB5N1pnMU85Z3B5SFhaQXVVMXFHNE1j?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "أوبن إيه آي تستثمر مليار دولار في تعزيز الأمن السيبراني للذكاء الاصطناعي المتقدم",
+   "summary": "أعلنت أوبن إيه آي عن تخصيص مليار دولار لتطوير حلول أمنية متخصصة في الذكاء الاصطناعي موجهة لحماية البنى التحتية الحرجة والخدمات الأساسية. تعكس الخطوة تركيز الشركة على دمج معايير الأمان في تطبيقات الذكاء الاصطناعي الجديدة.",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXVTYU8ta0RZVEJfb0tIcmppdVVRbkxGNHVwU2pMLXdpQXZ3bDNjT2s3Vl83ZDlkeGF3UGQ3eDNXR0hxNTBIR1pJa0tJSl9xei1rM2syM080YzhneW1ucXVVNlowaHZQMmhfNVYtdmZCVnFwSGtqeTQxS3NlY1ltNHRMaTNBLV9WV0NYNGQ1MTFyVk92VG5iRkkyVGc2Mk5reGY4X3hWNkUyUVE3b0xNcVFIZGp6OFNySzA1V1ZRVlRZdmhBQ3dGU3Q4VG9wVWh0RlVPc0ZKWlp1ZEpSaThxR2tVeTJBVUpKTy1YM09Oa04?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "أوبن إيه آي تكشف حجم نفقات فريقها على أدوات الذكاء الاصطناعي للبرمجة",
+   "summary": "نشرت أوبن إيه آي معلومات عن المبالغ التي ينفقها باحثوها على استخدام أدوات الذكاء الاصطناعي المتخصصة في تطوير البرامج. توفر البيانات رؤية حول كيفية استفادة الشركة الداخلية من تقنياتها الخاصة في عمليات البحث والتطوير.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONklsblp1S1hKNnYzRDBQdmI0T0wxRWxrTEtReUR3TGNWa1M2SlZDOTRUbXJCYWo0VHBRejg4ODh5QmRhQ2l5TlZIUlE1RU15VENZTlJGN3YtV1RVU2E5cEl2Qk8xMk02UWZoQUhVX3B4bXJZVElXU3Juc2RoN1FWbFJma1Fndw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-09-07"
   },
   {
@@ -59,14 +107,6 @@ window.NEWS_DATA = {
    "date": "2026-09-07"
   },
   {
-   "title": "أوبن إيه آي تستثمر مليار دولار لتعزيز الأمن السيبراني في البنية التحتية الحرجة",
-   "summary": "أعلنت أوبن إيه آي عن التزام بمليار دولار لتطوير حلول أمان سيبراني مدعومة بالذكاء الاصطناعي موجهة للبنية التحتية الحيوية والخدمات الأساسية. يهدف المشروع إلى تعزيز قدرات الدفاع ضد التهديدات الإلكترونية المتقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXVTYU8ta0RZVEJfb0tIcmppdVVRbkxGNHVwU2pMLXdpQXZ3bDNjT2s3Vl83ZDlkeGF3UGQ3eDNXR0hxNTBIR1pJa0tJSl9xei1rM2syM080YzhneW1ucXVVNlowaHZQMmhfNVYtdmZCVnFwSGtqeTQxS3NlY1ltNHRMaTNBLV9WV0NYNGQ1MTFyVk92VG5iRkkyVGc2Mk5reGY4X3hWNkUyUVE3b0xNcVFIZGp6OFNySzA1V1ZRVlRZdmhBQ3dGU3Q4VG9wVWh0RlVPc0ZKWlp1ZEpSaThxR2tVeTJBVUpKTy1YM09Oa04?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-07"
-  },
-  {
    "title": "نعم، نحن نقترب من عصر الذكاء الاصطناعي العام",
    "summary": "يناقش التقرير احتمالية وصول الذكاء الاصطناعي إلى مستوى الذكاء العام الذي يضاهي قدرات البشر. هذا التطور يشير إلى تحول جوهري في طبيعة التكنولوجيا وتطبيقاتها المحتملة.",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHpzOWFzdTVYaklhcU5oMGVfRGxhRW9IVUdpYVJ2TFl1bFJEZjA4el91V1hncjEtVXY5OG43T2lGalZWZzhUOFFVVzZ4M24zWWg3UkhWMmFicnQ4WWNUdGlmbGtKaTBlRXY1dW9GV1JSZDh6Q3R6b1NCNWhrSk1lUDJ2ek10Y09jamkyWWdJbEdjclpiNF9LbWFwRzNKS1JYa0I4?oc=5",
@@ -89,46 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-09-07"
-  },
-  {
-   "title": "الذكاء الاصطناعي يجب أن يعزز إبداع الباحثين وليس يحل محل تفكيرهم",
-   "summary": "يناقش المقال دور الذكاء الاصطناعي في دعم العملية البحثية، حيث يجب أن يكون أداة لتعميق التفكير النقدي والإبداع لدى الباحثين بدلاً من الاستغناء عن جهودهم العقلية.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGV1cUNGckx2NWFuUUFXcVctTTB1X2Z0N2ZIbFJtTFA1V1VYaFdmZ2k1NkdZVF9vb1dqdlY3eDk1SGN4aDZUZm5JT0lGT19yX09UYXZMNUYyZTFrQjV5VVNDVW5BTng4VnpCdkMtakFCUTFWUVNKN21JekQ2OVB3YXVsRl9lOHlDcWZiS0RxWm91NU1fS1NHZG1vOUJENmRU?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "آليات تعزيز الأمان العالمي في استخدام الذكاء الاصطناعي",
-   "summary": "يستعرض التحليل استراتيجيات وإجراءات يمكن اتخاذها على المستوى العالمي لضمان استخدام أكثر أماناً وتحكماً بتقنيات الذكاء الاصطناعي والتقليل من مخاطرها المحتملة.",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHhsMk9Ic1dobWlDbFhLb1R2eVZyOWZkUC04dWFGc3VMR2FHVUdfUENEcU9ERW1YV2lkNjVXbjJjNGFlU3ExUEVOYTBHVzkweDZkcVpVUW9fekpzUHBVUXZJdHRld3BjcUFEYXBxSHFORVI1UzNXNDdSVXNsbk9xODlNQ3ZlYmRrVGhtVQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "الكتّاب يعترضون على توزيع تسوية أنثروبيك بين الناشرين والوكلاء",
-   "summary": "يطعن الكتاب في محاولات الناشرين والوكلاء الأدبيين المطالبة بحصص من تسوية القضية المرفوعة ضد شركة أنثروبيك، مؤكدين أن المستفيدين الحقيقيين من التسوية يجب أن يكونوا أصحاب الحقوق الأصليين.",
-   "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "شركة Atoms للمؤسس السابق لأوبر تتجه نحو سوق سيارات الأجرة المستقلة",
-   "summary": "تشير التطورات إلى أن شركة Atoms التابعة لترافيس كالانيك قد تدخل مجال المركبات المستقلة. يرى المؤسس أن هذا الاتجاه سيتيح له إكمال مشاريع لم تنجزها أوبر سابقاً.",
-   "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "صحيفتا سياتل تايمز وريتشفيلد تقاضيان OpenAI وميكروسوفت على الانتهاك",
-   "summary": "رفعت الصحيفتان دعوى قضائية ضد OpenAI وميكروسوفت متهمتين الشركتين باستخدام محتواهما الصحفي في تدريب نماذج الذكاء الاصطناعي بدون تصريح وإعادة إنتاج مقالاتهما في الردود.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-06"
   }
  ]
 };
