@@ -1,26 +1,82 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-08T13:25:43.203875+00:00",
+ "updated": "2026-09-08T18:25:04.404213+00:00",
  "items": [
   {
-   "title": "رائد أعمال يطور وكلاء ذكاء اصطناعي قادرة على التخطيط للمواقف غير المتوقعة",
-   "summary": "يعمل دانيجار هافنر على بناء وكلاء ذكاء اصطناعي متقدمة لديها القدرة على التنبؤ والتخطيط المسبق للتحديات غير المتوقعة. يركز المشروع الناشئ الجديد على تطوير أنظمة ذكاء اصطناعي أكثر مرونة وقدرة على التكيف مع الحالات الطارئة.",
+   "title": "رياضي من جامعة نيويورك يتهم OpenAI بممارسات غير أخلاقية في مسألة حسابية عالمية",
+   "summary": "اتهام OpenAI بانتهاج وسائل مشبوهة حول مسألة Navier-Stokes الرياضية الشهيرة التي يبلغ جائزة حلها مليون دولار. الخلاف يتعلق بكيفية تعامل الشركة مع هذه المشكلة العلمية المرموقة.",
+   "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "Google Cloud توسع خدماتها الاصطناعية للمؤسسات عبر شراكة مع Accenture",
+   "summary": "Google Cloud تتحرك لتعزيز حضورها في سوق تطبيقات الذكاء الاصطناعي بالتعاون مع استشارية Accenture. الاتفاقية تركز على نشر مهندسين متخصصين لدى العملاء لتسريع اعتماد تقنيات الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "Chrome يتسارع بتحديثاته الأمنية وسط تطور المشهد الرقمي",
+   "summary": "Google تقلل فترة إطلاق نسخ Chrome الجديدة من أربعة أسابيع إلى أسبوعين. التسارع يهدف إلى توفير إصلاحات أمنية وميزات جديدة بوتيرة أسرع مع تطور بيئة الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "شركة Mistral الفرنسية تجمع 3 مليارات يورو وتعزز مكانتها في الذكاء الاصطناعي المستقل",
+   "summary": "Mistral حققت تقييماً بـ 21 مليار يورو في جولة تمويل من فئة Series D برعاية Samsung وشركاء استثمار عالميين. الجولة تعكس النمو المتسارع لشركات الذكاء الاصطناعي الأوروبية المستقلة.",
+   "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "دعوى قضائية جماعية ضد Anthropic بسبب ادعاءات بالتضليل تجاه المستخدمين المتقدمين",
+   "summary": "مستخدمون يرفعون قضية ضد Anthropic متهمينها بتضليل المشتركين في الخطط المدفوعة بشأن الميزات والخدمات الفعلية المتاحة لهم. الخلاف يتعلق بعدم توافق توقعات المستخدمين مع ما تقدمه الشركة فعلياً.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "Google DeepMind تطور خريطة تفاعلية للجينوم البشري قد تسهم في علاجات طبية جديدة",
+   "summary": "DeepMind أطلقت أداة ذكاء اصطناعي تدعى AlphaGenome Atlas لفهم أعمق لتفاعلات الجينات البشرية. النظام قد يسرع البحث العلمي ويمهد الطريق لتطوير علاجات جديدة لأمراض مختلفة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "أدوبي تطوّر أدوات ذكاء اصطناعي أسهل استخداماً في برنامج Premiere",
+   "summary": "أطلقت أدوبي أداة وسائط توليدية محسّنة في برنامج Premiere للمونتاج الاحترافي، تتيح للمحررين إنشاء فيديو وتأثيرات صوتية وموسيقى مباشرة ضمن خط المشروع دون مغادرته، مما يبسّط سير العمل.",
+   "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "رائد أعمال في مجال الذكاء الاصطناعي يطوّر وكلاء ذكية قادرة على التخطيط المسبق",
+   "summary": "يعمل دانيجار هافنر على تأسيس شركة ناشئة متخصصة في تطوير وكلاء ذكية قادرة على التعامل مع الحالات غير المتوقعة والتخطيط المسبق لها، وتعمل الشركة حالياً في الخفاء مع فريق صغير.",
    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
    "source": "MIT Tech Review AI",
    "tag": "أبحاث",
    "date": "2026-09-08"
   },
   {
-   "title": "أوبن إيه آي تكشف عن جيل جديد من نماذج الذكاء الاصطناعي",
-   "summary": "أعلنت أوبن إيه آي عن نموذج جديد يمثل تطوراً في قدرات الذكاء الاصطناعي. يأتي هذا الإصدار ضمن سعي الشركة لتقديم حلول ذكية أكثر تقدماً وفعالية.",
+   "title": "OpenAI تعلن عن جيل جديد من الذكاء الاصطناعي: GPT-6 Astra",
+   "summary": "أطلقت OpenAI نموذج ذكاء اصطناعي جديد يحمل اسم GPT-6 Astra، يمثل خطوة متقدمة في تطور تقنيات المعالجة اللغوية. يركز الإعلان على دخول جيل جديد من قدرات الذكاء الاصطناعي التي تتجاوز الأنماط السابقة.",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
    "source": "Google News — أدوات AI",
    "tag": "أدوات جديدة",
    "date": "2026-09-08"
   },
   {
-   "title": "القرارات الحالية حول الذكاء الاصطناعي ستحدد مستقبل العالم",
-   "summary": "يؤكد خبراء على أن المرحلة الحالية من تطور الذكاء الاصطناعي تتطلب اختيارات حاسمة بشأن التوجه المستقبلي. القرارات المتخذة الآن ستؤثر بشكل عميق على المجتمعات والاقتصادات.",
+   "title": "التحديات الحرجة في عصر الذكاء الاصطناعي المتلاطم",
+   "summary": "تطرح بيل غيتس في مقالته تأملات حول المرحلة الحالية من تطور الذكاء الاصطناعي، محذرة من أهمية الخيارات الحالية في تشكيل مستقبل التكنولوجيا. تؤكد على الحاجة الملحة لاتخاذ قرارات حكيمة وسط التطورات السريعة والتغييرات الكبيرة في المجال.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
@@ -73,62 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-09-08"
-  },
-  {
-   "title": "بنوك أنثروبك وأوبن إيه آي تسعى للحصول على تصنيفات ائتمانية عليا بعد الطرح العام",
-   "summary": "يعمل مصرفيو أنثروبك وأوبن إيه آي على تحقيق تصنيفات ائتمانية من الدرجة الأولى للشركتين بعد دخولهما سوق الأسهم العامة. تعكس الخطوة ثقة المؤسسات المالية في استقرار ونمو هاتين الشركتين الكبرى في قطاع الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "أنثروبك تتخلى عن خطط شراء ديكارت بـ 6 مليارات دولار",
-   "summary": "ألغت أنثروبك صفقة الاستحواذ المخطط لها على شركة ديكارت برأس مال 6 مليارات دولار. لم تُعلن الشركة عن التفاصيل الدقيقة للأسباب التي أدت إلى هذا القرار.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1Zudkkxb25tNlRGWlNXU0loaTJfQy12c2hEWTQ4UVlMMFVuNzBNdllDZlU3N1U0T2JYbWl6N2ItUVBmSEZIb0JNbldQMm1BamhTSkIyZ1ZjazFqLV9OREd3alpWRGw5RE5OWWdLeDRJQk00bTFGWFFMQ0hFcjdBbEQ2QWNITkFHZWpkYzN3Yy1HTllZYk1hSkFxRDBwdEZHMDhYaTU1Yl92N0pNSVhPM2dn?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "نموذج Astra من OpenAI يستطيع تنفيذ هجمات إلكترونية بتدخل بشري محدود",
-   "summary": "أظهرت تقارير أن نموذج الذكاء الاصطناعي الجديد من OpenAI يمتلك القدرة على تنفيذ عمليات اختراق وهجمات سيبرانية بحد أدنى من المساعدة البشرية، مما يثير أسئلة حول الأمان والاستخدامات المحتملة لهذه التقنيات المتقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVdQYXRwR1lYWnZ0XzRJaEt4ZDJvSHhFMUpyVEd5SlZYSklTYU1uOVRfUWM3UngwY2VfTFVsU0dxRUNKYVNLSXVzWW9Xd2xYbjhiRGFKZUs3eUdxN0NXcWhZblJNV0R2MlJPaXNROHZGazZlRHNuZDlXV25INHlkZi02YVp6cUhfYTduaXloekRQQXZWaG83algtdVpVZ20z?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "Anthropic تتراجع عن خطط الاستحواذ على شركة Decart الإسرائيلية",
-   "summary": "أوقفت شركة Anthropic مسعاها للاستحواذ على شركة الذكاء الاصطناعي الإسرائيلية Decart، مما يشير إلى تغيير في استراتيجية الشركة بشأن التوسع والاستثمارات في القطاع.",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRTFrZ0FTa3htQU5Hdy0zcTcwZjNVLTRtNTlWRmlTZks3dlRjMUdQbk5iZTNEWFp1eUVCNkdxam9INWx2YUtwaE8zTUpNSE9ya0hvVmkxMFRiNzFOMVZMb283OC1yYU0?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "مصطلحات الذكاء الاصطناعي الأساسية التي يجب أن تعرفها",
-   "summary": "مع انتشار تقنيات الذكاء الاصطناعي، ظهرت مفردات وتعابير متعددة قد تبدو غريبة للبعض. يقدم هذا المرجع شرحاً لأهم المصطلحات والعبارات الشائعة في هذا المجال لتسهيل فهم هذه التقنيات على المتابعين.",
-   "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "نيويورك تفرض قيوداً على استخدام الذكاء الاصطناعي في المدارس العامة",
-   "summary": "اتخذت مدارس نيويورك خطوات لتنظيم تطبيقات الذكاء الاصطناعي في العملية التعليمية، مما يعكس قلقاً متزايداً حول تأثير هذه التكنولوجيا على الطلاب والعملية التعليمية. تأتي هذه القيود وسط نقاشات أوسع حول كيفية التعامل مع الذكاء الاصطناعي في المؤسسات العامة.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDhPVGFveGFFOU9CUzNBb1kwUDM2ekdsVjVKRkxIMmhVZFRzZGVPSVZLZ3JSOE94RXd6aS05V0Z3bDJjcFNRdFdyTjZmTjd0UkliT1BSU3NNOGtXRFhlYVR3azZSM01taWpnNWs0TmhvSDZFdFBTZUhtakZ1eTZiWXNJcTJVVXk5WnhJb01n?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "رسالة من جمعية الرسامين بشأن استخدام الذكاء الاصطناعي",
-   "summary": "أرسلت جمعية الفنانين الأمريكيين خطاباً يتناول قضايا تتعلق باستخدام تقنيات الذكاء الاصطناعي، موضحة موقف الرسامين والفنانين من هذه التطورات وتأثيراتها على مجال الفنون.",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdG1BLU9tM3Y5YWxXSkxReUFQbnhkWGlJMDViYnRfMWNaMEFFd1RmanNvSm9neUR2NkFsbWRqcGxXQkFMZlliYS1KeldjSzZZTkFMa2tKQjMxM0dSeV9XRmtIaGhCdDhFWHJ4QjUweU42dU1MZnZvMUxKSy13cVI0WHBwcFVIODBaOXVEVHJqYW52YWc4dGJTTlo3bkpJU3c3X18wSnJzZExRb2M1Y2FzV0NvZTBaMVk?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-07"
   }
  ]
 };
