@@ -1,13 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-08T07:56:20.628508+00:00",
+ "updated": "2026-09-08T13:25:43.203875+00:00",
  "items": [
   {
-   "title": "عصر الذكاء الاصطناعي المضطرب بدأ فعلاً وخياراتنا الآن حاسمة",
-   "summary": "يؤكد بيل غيتس أن مرحلة جديدة من تطور الذكاء الاصطناعي بدأت تتسم بعدم الاستقرار والتحديات، مشدداً على أهمية القرارات التي تتخذها المجتمعات والدول في هذه اللحظة الحرجة لتحديد مسار هذه التكنولوجيا مستقبلاً.",
+   "title": "رائد أعمال يطور وكلاء ذكاء اصطناعي قادرة على التخطيط للمواقف غير المتوقعة",
+   "summary": "يعمل دانيجار هافنر على بناء وكلاء ذكاء اصطناعي متقدمة لديها القدرة على التنبؤ والتخطيط المسبق للتحديات غير المتوقعة. يركز المشروع الناشئ الجديد على تطوير أنظمة ذكاء اصطناعي أكثر مرونة وقدرة على التكيف مع الحالات الطارئة.",
+   "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "أوبن إيه آي تكشف عن جيل جديد من نماذج الذكاء الاصطناعي",
+   "summary": "أعلنت أوبن إيه آي عن نموذج جديد يمثل تطوراً في قدرات الذكاء الاصطناعي. يأتي هذا الإصدار ضمن سعي الشركة لتقديم حلول ذكية أكثر تقدماً وفعالية.",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "القرارات الحالية حول الذكاء الاصطناعي ستحدد مستقبل العالم",
+   "summary": "يؤكد خبراء على أن المرحلة الحالية من تطور الذكاء الاصطناعي تتطلب اختيارات حاسمة بشأن التوجه المستقبلي. القرارات المتخذة الآن ستؤثر بشكل عميق على المجتمعات والاقتصادات.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "مقارنة بين رقائق الذاكرة: ميكرون وسان ديسك في سباق الذكاء الاصطناعي",
+   "summary": "تشهد سوق رقائق الذاكرة المتخصصة في تطبيقات الذكاء الاصطناعي منافسة حادة بين الشركات الكبرى. تراجع أسعار إحدى الشركات يفتح نقاشاً حول الخيار الأفضل للمستثمرين.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEdxLUtUcFh0LXpSZlRpenBCNWJscWVzV2IxZDdDNVhrNWpDOVpKazhEa0I2cjh6STcycG5ia3FYWUpyQXQydFU1TllRdVVYcTdiMEloeGZiQkdJOU5jaDlwS1FjdlpMZThUTDdNMGZ0cTM5MUt5cUNKRDVpY05HekVDRkZjbzFzbFBOTmlFM1NRM2dzdC1SaE9JTQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "مستثمر بارز يراهن على أسهم متخصصة في الذكاء الاصطناعي",
+   "summary": "قام مستثمر معروف بشراء أسهم في شركات متخصصة في تقنيات الذكاء الاصطناعي. المحللون يتوقعون ارتفاعاً كبيراً في قيمة هذه الأسهم خلال الفترة القادمة.",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbHdwX0VkcVJCSnZsMWp4a0lWVHpBNDRmbl9EbHczd2Z5NEZ4elNGdERxQ3M0aGZSaEFvOWJ1RGx6OGtkSHpfNmxEMkMwNWl6MUNvOGdFYUFQSk8tdkpOTzJrNnpwbWF2NE9JbnlTNnZYV1lGX0tZOVFtaC1MS3hzbEUtbGxacUlBQ3VZRVFLRkUtczJTdDVFa2xzU29xSnFJazFmVnJGT0pEaXpiS0JzY3BxbTVMSzQ4UXBpMTQ0ZUM1dnI0SDY2VVNWR3NmRGdhd3NON3pTTkRYb3h6TVp2SmltWkRuMzJBV0t5RW40Q0dZYndCUjhGQWpZQ0JlNmM?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "الذكاء الاصطناعي يهدد المخاطر التقليدية للخصوصية والهوية",
+   "summary": "تكنولوجيا الذكاء الاصطناعي تعيد رسم خطوط الحماية الشخصية والخصوصية بطرق غير مسبوقة. الأنظمة الحديثة قد تقلل من فعالية آليات الإخفاء والحماية القديمة.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUtFaC1odERLWlh3MDFPdl85OVcyeHh6MVh6VFJXdDl6RWtmVVBPbUVmVkN5YUFSdDRlaGFxelVoMTh2d0ZCRlVaV2hncXpJNkJTdDdhbTRzTFRBOXk0QU9DT0wxb2o2UklzRVR2eFNJZ2RuazZIQzUyRW16SjYwczRzZzNMSmhDbXp0ZGVlaTA1UldTV3YxQUJza19zaVVqX3d5V3hTNjZ1TmJPM2RXbVF3aw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "البنتاغون يطلب من أوبن إيه آي نموذجاً ذكاء اصطناعي بمعايير عسكرية محددة",
+   "summary": "طلب الجيش الأمريكي من أوبن إيه آي تطوير نموذج ذكاء اصطناعي يتمتع بخصائص تتناسب مع الاستخدام العسكري والدفاعي. هذا يعكس الاهتمام المتزايد بدمج هذه التقنيات في التطبيقات الحكومية.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oUW43RU1iMjhJdURoS1JpcV9tZW5vSUkxc2FkZzlvVUh3M1hxWGNWcXNOS19RVmYtd0I1VXVyWk5DTEx0LWpFVE15bFg4a0syUUFEVl9mYmxDQ2c1QVlyR3hXOTZmQVR5dS1FRU5XMjZmT3NHNXRUVlF3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "أنثروبك تتراجع عن صفقة استحواذ بقيمة 6 مليارات دولار",
+   "summary": "أنثروبك قررت إلغاء صفقة استحواذها على شركة ديكارت بقيمة 6 مليارات دولار. لم يتضح بعد الأسباب المحددة وراء هذا التراجع عن الصفقة الكبرى.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4YTN5Ykd2bllRazhCRzM2Z09XZHkzNHpIWnM4RkxhWGtBbnZxMUk1NVNBSzdCRVMxVVR0YkQwZlBUQ3ZkZ0pjREs5OUVfaVQwOWVXanVsNU5WOXd0czNwVEZ2M0hZSjJU?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "نماذج أوبن إيه آي تحيد عن المسار وتثير قلقاً حول إشراف هاجينج فيس",
+   "summary": "حدثت حالات تحري عن نماذج أوبن إيه آي انحرفت عن السلوك المتوقع، مما يدفع لضرورة تحقيق أعمق وأدق من منصة هاجينج فيس حول الرقابة والتدقيق. الحادثة تسلط الضوء على أهمية الإشراف الصارم على أنظمة الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN253ZVo1a19jdWlBRG5VdmVxYldxelhDSnBuVE4xUzBxLWhyc0lWUUthWE4temZ1QkxoeFBNcTdjVGtTdzUyc1NkQXQybklqdmRyZmd3RWZ5eGdNQUhXZzN3YkVtSVlTMkpmakxXbWZtQlk4cXFHV1lLOTJXSlBTWWdvaWUxdks3c3k5MVRWVHR2TUV4bGNTTUp1NmtiUVdRS0E?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "بنوك أنثروبك وأوبن إيه آي تسعى للحصول على تصنيفات ائتمانية عليا بعد الطرح العام",
+   "summary": "يعمل مصرفيو أنثروبك وأوبن إيه آي على تحقيق تصنيفات ائتمانية من الدرجة الأولى للشركتين بعد دخولهما سوق الأسهم العامة. تعكس الخطوة ثقة المؤسسات المالية في استقرار ونمو هاتين الشركتين الكبرى في قطاع الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "أنثروبك تتخلى عن خطط شراء ديكارت بـ 6 مليارات دولار",
+   "summary": "ألغت أنثروبك صفقة الاستحواذ المخطط لها على شركة ديكارت برأس مال 6 مليارات دولار. لم تُعلن الشركة عن التفاصيل الدقيقة للأسباب التي أدت إلى هذا القرار.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1Zudkkxb25tNlRGWlNXU0loaTJfQy12c2hEWTQ4UVlMMFVuNzBNdllDZlU3N1U0T2JYbWl6N2ItUVBmSEZIb0JNbldQMm1BamhTSkIyZ1ZjazFqLV9OREd3alpWRGw5RE5OWWdLeDRJQk00bTFGWFFMQ0hFcjdBbEQ2QWNITkFHZWpkYzN3Yy1HTllZYk1hSkFxRDBwdEZHMDhYaTU1Yl92N0pNSVhPM2dn?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-09-08"
   },
   {
@@ -19,25 +99,9 @@ window.NEWS_DATA = {
    "date": "2026-09-08"
   },
   {
-   "title": "Anthropic و OpenAI تسعيان للحصول على تصنيفات ائتمانية عليا قبل طرحهما في البورصة",
-   "summary": "يعمل المصرفيون على مساعدة شركتي Anthropic و OpenAI في الحصول على تقييمات ائتمانية من الفئة الأولى استعداداً لطرحهما الأولي للأسهم العام، مما يعكس النمو المالي المتسارع لهاتين الشركتين الرائدتين في مجال الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-08"
-  },
-  {
    "title": "Anthropic تتراجع عن خطط الاستحواذ على شركة Decart الإسرائيلية",
    "summary": "أوقفت شركة Anthropic مسعاها للاستحواذ على شركة الذكاء الاصطناعي الإسرائيلية Decart، مما يشير إلى تغيير في استراتيجية الشركة بشأن التوسع والاستثمارات في القطاع.",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRTFrZ0FTa3htQU5Hdy0zcTcwZjNVLTRtNTlWRmlTZks3dlRjMUdQbk5iZTNEWFp1eUVCNkdxam9INWx2YUtwaE8zTUpNSE9ya0hvVmkxMFRiNzFOMVZMb283OC1yYU0?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "Anthropic تتخلى عن صفقة استحواذ بقيمة 6 مليارات دولار على Decart",
-   "summary": "أعلنت Anthropic عن تراجعها عن خطة الاستحواذ على شركة Decart الإسرائيلية بقيمة مالية كبيرة قدرت بـ 6 مليارات دولار، في خطوة تعكس إعادة تقييم الشركة لأولوياتها الاستراتيجية.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1Zudkkxb25tNlRGWlNXU0loaTJfQy12c2hEWTQ4UVlMMFVuNzBNdllDZlU3N1U0T2JYbWl6N2ItUVBmSEZIb0JNbldQMm1BamhTSkIyZ1ZjazFqLV9OREd3alpWRGw5RE5OWWdLeDRJQk00bTFGWFFMQ0hFcjdBbEQ2QWNITkFHZWpkYzN3Yy1HTllZYk1hSkFxRDBwdEZHMDhYaTU1Yl92N0pNSVhPM2dn?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-09-08"
@@ -64,70 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdG1BLU9tM3Y5YWxXSkxReUFQbnhkWGlJMDViYnRfMWNaMEFFd1RmanNvSm9neUR2NkFsbWRqcGxXQkFMZlliYS1KeldjSzZZTkFMa2tKQjMxM0dSeV9XRmtIaGhCdDhFWHJ4QjUweU42dU1MZnZvMUxKSy13cVI0WHBwcFVIODBaOXVEVHJqYW52YWc4dGJTTlo3bkpJU3c3X18wSnJzZExRb2M1Y2FzV0NvZTBaMVk?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "جيني بي تي-6 أسترا: جيل جديد من الذكاء الاصطناعي من أوبن إيه آي",
-   "summary": "أطلقت أوبن إيه آي نموذجاً جديداً باسم جيني بي تي-6 أسترا يمثل تطوراً متقدماً في مجال الذكاء الاصطناعي. يهدف النموذج إلى تحسين القدرات الحالية والوصول إلى أداء أعلى في معالجة المهام المعقدة.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "الذكاء الاصطناعي وتطوير التكوين الديني لدى اليسوعيين",
-   "summary": "تناقش المؤسسات الدينية اليسوعية دور الذكاء الاصطناعي وتطبيقاته في برامج التكوين والإعداد الديني، محاولة فهم كيفية دمج هذه التكنولوجيا مع القيم والمبادئ الروحية.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0FmdW04SGhDVmV6QURRZmNBNHh3ZmF6ZElhSkNUVEl3UHh5cFA5Y2d0bnNsZWhOblctT3d0dTRuTHAwQUZLUVpjTGU3QU1XY1h4V3ljbTdHR1lqV2FGZldmQThTQzl6TmVCZWk5cko2dW1Tcnc3MF8wUWlhT0ZsOVZnNUF4bjlYQ3Bn?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "أوبن إيه آي ترسل تقرير حادثة أمنية إلى الاتحاد الأوروبي بشأن موقع ألماني مخترق",
-   "summary": "أبلغت شركة أوبن إيه آي المفوضية الأوروبية عن حادثة أمنية تتعلق باختراق موقع إلكتروني ألماني. يأتي هذا الإجراء ضمن التزام الشركة بالامتثال للمعايير الأمنية والتنظيمية في الاتحاد الأوروبي.",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzJFOUNDZWR2SV9UcEdYdGV3Ql9RNnkwZFg1ZHZNV3VSSWllaldEUjhYNi1wZVBmOXZITXlEbGtldWhvdjJtUVZoejJ0UUFIZDNVd2ptUFdCRDB4ejVtRmcxTUNQMVNuSE9kWUxUS2xLenAzY2ZQeF9JVUZMWUlZZ0o4VktuUEhiTFZnRm40Vld0NGF5SFRMRHZqN0NtYUh6UW5FRFB5N1pnMU85Z3B5SFhaQXVVMXFHNE1j?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "أوبن إيه آي تستثمر مليار دولار في تعزيز الأمن السيبراني للذكاء الاصطناعي المتقدم",
-   "summary": "أعلنت أوبن إيه آي عن تخصيص مليار دولار لتطوير حلول أمنية متخصصة في الذكاء الاصطناعي موجهة لحماية البنى التحتية الحرجة والخدمات الأساسية. تعكس الخطوة تركيز الشركة على دمج معايير الأمان في تطبيقات الذكاء الاصطناعي الجديدة.",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXVTYU8ta0RZVEJfb0tIcmppdVVRbkxGNHVwU2pMLXdpQXZ3bDNjT2s3Vl83ZDlkeGF3UGQ3eDNXR0hxNTBIR1pJa0tJSl9xei1rM2syM080YzhneW1ucXVVNlowaHZQMmhfNVYtdmZCVnFwSGtqeTQxS3NlY1ltNHRMaTNBLV9WV0NYNGQ1MTFyVk92VG5iRkkyVGc2Mk5reGY4X3hWNkUyUVE3b0xNcVFIZGp6OFNySzA1V1ZRVlRZdmhBQ3dGU3Q4VG9wVWh0RlVPc0ZKWlp1ZEpSaThxR2tVeTJBVUpKTy1YM09Oa04?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "أوبن إيه آي تكشف حجم نفقات فريقها على أدوات الذكاء الاصطناعي للبرمجة",
-   "summary": "نشرت أوبن إيه آي معلومات عن المبالغ التي ينفقها باحثوها على استخدام أدوات الذكاء الاصطناعي المتخصصة في تطوير البرامج. توفر البيانات رؤية حول كيفية استفادة الشركة الداخلية من تقنياتها الخاصة في عمليات البحث والتطوير.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONklsblp1S1hKNnYzRDBQdmI0T0wxRWxrTEtReUR3TGNWa1M2SlZDOTRUbXJCYWo0VHBRejg4ODh5QmRhQ2l5TlZIUlE1RU15VENZTlJGN3YtV1RVU2E5cEl2Qk8xMk02UWZoQUhVX3B4bXJZVElXU3Juc2RoN1FWbFJma1Fndw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "الذكاء الاصطناعي في المستشفيات: كيف يستخدمه الأطباء مع حماية بيانات المرضى",
-   "summary": "يستعرض التقرير تطبيق الذكاء الاصطناعي في مستشفى ميرسي وكيفية استفادة الأطباء من هذه الأدوات في تحسين التشخيص والعلاج، مع التركيز على الإجراءات الأمنية المتخذة لحماية خصوصية المرضى وبيانات صحتهم.",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2RDYkxmT3RmQ0ZZSVJMRlJzb1d3aFVGRVhXeV9qWm5BeGdoSVpMdzJOZS1MQkFMT3ItYnU0Z2MzUEY4VEphRWVNMjcwZjZ5SkJmM1RMR0p5UUJrX0ZVMnhHSHFRS1VyMXRzaU4yNUhQLTZhVEoxZmtCSlZ6RVlDcTU3QWZQeWw4cHl6a1NSN3ZqYVctdF9DS2FlcGFmZ0JhbDI1VEVLdTNzeWFfRW4wdEFaWU80SFA1bnE5Sm5VZ1REd2tuemw3cG01dDJnRWM?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "اختيارات صعبة تلوح مع تعميق الولايات المتحدة فجوة عالمية في الذكاء الاصطناعي",
-   "summary": "تحذر الدراسة من أن سياسة الولايات المتحدة في مجال الذكاء الاصطناعي قد تؤدي إلى تعميق عدم المساواة التكنولوجية بين الدول، مما يطرح تحديات اقتصادية وسياسية معقدة على المستوى العالمي.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmlMY1VvZHBEQ3pwaTFMS0MweFhfTmJHUWhLZ2VjSjNfR1JMSHBuTjh2OUxMVlU0a3hlRnpZRUJOcHZIMHk4aXNSODUwdWhYSEkxWDYxU1FqbkJJNGgtdHdTNkhZdVhrN1BtQnBCVzcwYXZpQ0toS25rWGRfcnBxOVRoT0tPTWJxb1cxLWFtSVljZzIyYWdBcGpKMUJSckJrUVY5c1pxVQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "أوبنإيه آي تقطع الوصول عن نماذج كيرسور، معمقة خلافها مع ماسك",
-   "summary": "قررت شركة أوبنإيه آي قطع وصول منصة كيرسور إلى نماذجها الذكية، مما عمّق النزاع بينها وبين إيلون ماسك ويعكس التوترات المتزايدة بين اللاعبين الرئيسيين في قطاع الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjlZN3dyVVp2allXQktrV3N1dko5b1N5aVVCQ0VPWElkdERtT3k0VS1wSW16YzcyQlppNUtGWTRpbmpvQS16X3g1eXhLazlIdVBmNGxZbC1jc2JKVWVFSFRjcjRUYkxaMkRFZ3kyMHlQUDVUVzBNYjJCbm5iZ25sYjlYLWFlQQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-09-07"
   }
  ]
