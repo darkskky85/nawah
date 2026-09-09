@@ -1,7 +1,95 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-09T13:36:18.017745+00:00",
+ "updated": "2026-09-09T18:24:22.468646+00:00",
  "items": [
+  {
+   "title": "تطبيق الصحة من أبل يستخدم الذكاء الاصطناعي لحساب \"العمر الصحي\" ودرجة الجاهزية",
+   "summary": "أطلقت أبل نسخة محدّثة من تطبيق الصحة تعتمد على تقنيات الذكاء الاصطناعي لتحليل بيانات صحتك الشخصية بشكل أعمق. الميزة الجديدة تحسب \"عمرك الصحي\" ودرجة جاهزيتك الجسدية بناءً على معلومات تجمعها من أجهزة أبل والتطبيق.",
+   "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "أبل تقدّم أداة للتحقق من عدم تعديل صورك بالذكاء الاصطناعي",
+   "summary": "قدّمت أبل أداة جديدة باسم Apple Reference Image تساعد المستخدمين على التحقق مما إذا تم تحرير صورهم أو تعديلها بواسطة نماذج الذكاء الاصطناعي. الأداة توفر طريقة موثوقة لتمييز الصور الأصلية من المعدّلة في عصر انتشار المحتوى المُولّد صناعياً.",
+   "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "رئيس أبل: الهاتف الذكي هو أفضل جهاز ذكاء اصطناعي",
+   "summary": "أكّد الرئيس التنفيذي لأبل أن آيفون يبقى أفضل جهاز لتطبيقات الذكاء الاصطناعي، مشيراً إلى أن نماذج أبل المعالجة على الجهاز توفر حماية أقوى للخصوصية مقارنة بالحلول السحابية التقليدية.",
+   "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "هل يجب السماح بظهور أنظمة ذكاء فائقة؟",
+   "summary": "تنامى النقاش حول مخاطر تطوير أنظمة ذكاء اصطناعي فائقة الذكاء، خاصة بعد حوادث أمان مثل اختراق موقع Hugging Face المرتبط بشركات الذكاء الاصطناعي. الخبراء يتساءلون عن الآليات الكافية للسيطرة على أنظمة أكثر ذكاءً من البشر قبل نشرها.",
+   "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "خبير في الذكاء الاصطناعي: الأنظمة الفائقة ليست سلاحاً بل خصم لا يمكن التنبؤ به",
+   "summary": "يحذّر كونور ليهي من ControlAI من أن الأنظمة الذكية الفائقة تشكل تحدياً أمنياً لا يقتصر على كونها أداة، بل تعتبر خصماً محتملاً يصعب التحكم فيه. كلامه يأتي في سياق متزايد من حوادث الأمان في قطاع الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "مايكروسوفت تضع معايير جديدة لحماية خصوصية الذكاء الاصطناعي في المدارس",
+   "summary": "وافقت مايكروسوفت على مجموعة من مبادئ الأمان والخصوصية الخاصة باستخدام الذكاء الاصطناعي في المؤسسات التعليمية، وذلك بالتعاون مع أكبر نقابة معلمين أمريكية. يأتي هذا الإجراء بعد أن حظرت عدة أنظمة مدرسية كبرى تطبيقات الذكاء الاصطناعي الموجهة للطلاب.",
+   "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "أمازون تطلق تقنية ذكاء اصطناعي لمزامنة حركة الشفاه مع الدبلجة",
+   "summary": "أطلقت منصة أمازون برايم فيديو ميزة تعتمد على الذكاء الاصطناعي تعدّل حركة شفاه الممثلين لتتطابق مع النسخ المدبلجة من الأعمال الدرامية. الميزة متاحة حالياً مع النسخة الإنجليزية من المسلسل الألماني ماكستون هول، مع خطط للتوسع لأعمال إضافية لاحقاً.",
+   "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "الطلاب الذين يستخدمون أدوات الذكاء الاصطناعي يحققون نتائج أضعف في الدراسة",
+   "summary": "أظهر تقرير منظمة التعاون الاقتصادي والتنمية أن الطلاب الذين يعتمدون على الذكاء الاصطناعي في الدراسة يسجلون درجات أقل من أقرانهم الذين لا يستخدمونها. إلا أن الصورة أكثر تعقيداً، فبعض أنماط الاستخدام توفر فوائد معينة خاصة للطلاب الذين تلقوا تدريباً على الاستخدام الفعّال.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "باحثون في أنثروبيك يحذرون من احتمالية قضائي الذكاء الاصطناعي على البشرية",
+   "summary": "حذّر باحث متقدم في مجال السلامة بشركة أنثروبيك من وجود احتمالية تزيد على 10% بأن يشكل الذكاء الاصطناعي تهديداً وجودياً للبشرية قبل نهاية العقد الحالي. جاء التحذير بعد استقالة زميل له معترضاً على تسارع الشركات في تطوير أنظمة فائقة الذكاء دون ضمانات أمان كافية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "جدل حول ادعاء أوبن إيه آي بحل مسألة رياضية عمرها 90 عاماً",
+   "summary": "أعلنت شركة أوبن إيه آي أنها توصلت لحل مسألة نافيير-ستوكس، التي ظلت غير محلولة لمدة تسعة عقود وترتبط بحركة السوائل والغازات. إلا أن الإعلان أثار جدلاً واسعاً حول مدى صحة الادعاء وتفاصيل ما تم إنجازه فعلياً.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "ما يكشفه جدل أوبن إيه آي الأخير عن مستقبل الرياضيات",
+   "summary": "استحوذ التنازع حول ادعاء أوبن إيه آي بحل إحدى مسائل جوائز الألفية على اهتمام المجتمع الأكاديمي. يعكس الجدل تساؤلات عميقة حول دور الذكاء الاصطناعي في تطوير المعرفة الرياضية ومعايير التحقق من الاكتشافات العلمية الجديدة.",
+   "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-09-09"
+  },
   {
    "title": "إنستاكارت تطلق مساعداً ذكياً للتسوق البقالي باسم كليمنتاين",
    "summary": "أضافت منصة إنستاكارت مساعداً حواراياً يعتمد على الذكاء الاصطناعي لتطبيقها، ما يتيح للمستخدمين التفاعل النصي أثناء التسوق. تنضم الخدمة إلى موجة متسعة من التطبيقات التي تدمج مساعدات ذكية محادثة في منصاتها.",
@@ -35,100 +123,12 @@ window.NEWS_DATA = {
    "date": "2026-09-09"
   },
   {
-   "title": "أمازون برايم فيديو تستخدم الذكاء الاصطناعي لمطابقة حركات الشفاه مع الدبلجة الصوتية",
-   "summary": "طورت أمازون تقنية ذكية تحاذي حركة شفاه الممثلين مع الصوت المدبلج البشري. بدأت الخدمة مع نسخة الدبلجة الإنجليزية من المسلسل الألماني ماكستون هول، مع خطط للتوسع إلى عناوين إضافية قريباً.",
-   "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "الطلاب الذين يستخدمون الذكاء الاصطناعي يحصلون على درجات أقل في الدراسة",
-   "summary": "كشفت دراسة عالمية من منظمة التعاون الاقتصادي والتنمية أن الطلاب الذين يعتمدون على أدوات الذكاء الاصطناعي في الدراسة يؤدون أسوأ من أقرانهم. لكن الصورة أكثر تعقيداً إذ قد يحقق استخدام معين للذكاء الاصطناعي فوائد طفيفة خاصة للطلاب الذين تلقوا تدريباً مناسباً.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "باحثون في Anthropic يحذّرون من احتمالية أن يشكّل الذكاء الاصطناعي تهديداً وجودياً للبشرية",
-   "summary": "حذّر باحث متقدّم في مجال سلامة الذكاء الاصطناعي بشركة Anthropic من وجود احتمالية تتجاوز 10% بأن يؤدي الذكاء الاصطناعي إلى القضاء على البشرية قبل نهاية العقد الحالي. يأتي هذا التحذير عقب استقالة أحد زملائه الذي أعرب عن قلقه من أن الشركة ومنافسيها يتسارعان بطريقة متهورة نحو تطوير أنظمة ذكاء اصطناعي فائقة دون فهم كامل لمخاطرها.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "OpenAI تعلن حلاً لمسألة رياضية عمرها 90 سنة",
-   "summary": "أعلنت OpenAI عن توصلها إلى حل لمسألة Navier-Stokes، وهي إحدى أعقد المشاكل الرياضية التي ظلت دون حل لحوالي تسعين سنة وتتعلق بديناميكا تدفق السوائل. يمثّل هذا الإنجاز خطوة نحو استخدام أنظمة الذكاء الاصطناعي في حل التحديات الرياضية المعقدة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "الجدل حول إنجاز OpenAI الرياضي ينعكس على مستقبل الرياضيات",
-   "summary": "أثار إعلان OpenAI عن حلّ أحد مسائل الألفية الجائزة جدلاً سريعاً بشأن صحة النتيجة وموثوقيتها. يسلط هذا النقاش الضوء على التساؤلات المتزايدة حول دور الذكاء الاصطناعي في المجال الأكاديمي والرياضي وكيفية التحقق من صحة الاكتشافات المُعلن عنها.",
-   "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-09"
-  },
-  {
    "title": "أوبن إيه آي تطلق جيلاً جديداً من نماذج الذكاء الاصطناعي: جي پي تي-6 أسترا",
    "summary": "أعلنت أوبن إيه آي عن نموذج جديد يحمل اسم جي پي تي-6 أسترا، يمثل خطوة متقدمة في تطوير أنظمة الذكاء الاصطناعي. يركز النموذج على تحسين قدرات الفهم والاستجابة في مجالات متعددة.",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
    "source": "Google News — أدوات AI",
    "tag": "أدوات جديدة",
    "date": "2026-09-09"
-  },
-  {
-   "title": "بيل جيتس يحذر من أهمية الخيارات الحالية في عصر الذكاء الاصطناعي المضطرب",
-   "summary": "يؤكد بيل جيتس في مقال له أن العالم يدخل مرحلة حرجة من التطور التكنولوجي، حيث تتطلب القرارات المتخذة الآن بشأن الذكاء الاصطناعي دقة واهتماماً عميقاً. يشدد على أن الخيارات الحالية ستحدد مسار التكنولوجيا والمجتمع في السنوات القادمة.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "الجيش الأمريكي يستكشف إدارة القيادة في عصر الذكاء الاصطناعي",
-   "summary": "نشرت مطبعة الجيش الأمريكي دراسة حول كيفية تطبيق نماذج القيادة والسيطرة التقليدية في بيئة عسكرية يشارك فيها الذكاء الاصطناعي. تناول البحث التوازن بين الاستقلالية الآلية والإشراف البشري في العمليات العسكرية.",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUlkWnNSMkhnSG13WDl3VGVZUTdjOWVEaElqYkRpbzBMbmdfMFd1WjRqcFVXMHlEQVQ3ZkZOZXFLQWJKRWhkV21ZRWRMbVFxa3MtSTRIelplemRYR3pZZWQ5RnV5SmR4TWtrdzRqVG5hdXdra3JhVWxZMEd5V3RUMEQ2aDR2aDAzNmg1WnVCbXByWFM3VGxMUWNGelpia01BMExmdWRDb1YteDR3Vm5tRlE2dmNPRzJMWWdzSG5mZW1yOUEteG5hYw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "باحث في أنثروبيك: احتمالية 10% لأن يشكل الذكاء الاصطناعي تهديداً وجودياً للبشرية",
-   "summary": "أعرب باحث في شركة أنثروبيك عن قلقه من أن الذكاء الاصطناعي قد يحمل احتمالية تجاوز 10% لإلحاق ضرر كارثي بالبشرية. جاء تصريحه عقب استقالة زميل له من الشركة بسبب خلافات حول سلامة الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FWC1lZ2xrRGtNX2VqX3RQOFlKXzNOcW1mdUVNRmV6VE05dm92SlNaUmVNYmFlcnBuVDJvbUI0R2xfaW1fOHg5eVp5ZGszMU9qcjQtWWJVR3B0SDFLYzNWTS1mWnl2WlJRRUZYZE1LbW1FXzg0ZTNmTEcxTjllQdIBgwFBVV95cUxPZFdIdE5uZnlyMlhCdUpWRHo4UWtyRWVfazZCdDlNVTA0YjdtbjNpRTZSVWZLbnFiMnNRN2pqeTV0NVFMVGVBVlVVdzFXX1V4LTNmWU1FOW9xOGNCVHAweXk0bnBwemNhMm9HUTJqaDJYWHRIbUVuTUdIX2tSNU9Mcl9BOA?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "تحذيرات حادة من عالم رياضيات ومن موظف سابق بأنثروبيك",
-   "summary": "أطلق عالم الرياضيات تيرانس تاو وموظف سابق بشركة أنثروبيك تحذيرات جدية بشأن المخاطر المحتملة للذكاء الاصطناعي المتقدم. تعكس هذه التصريحات قلقاً متزايداً بين الخبراء حول الاتجاهات الحالية لتطوير هذه التكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wWEVIc0FwaVJaM1hLOFFiY1JNZVRWNXNIa1Z5OWJiZmk4dkNoS2twazlZNWNoSG5QQkVyYXFBTmVzbHVERXlzNU5pWEtXeW1hcVMtYVJURm56eDVyXzNaaGo2dGtxblhaN011WE82cldrOThmZHpv?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "باحث في تحسين أنظمة الذكاء الاصطناعي بـ Anthropic يحذّر من احتمال قد يتجاوز 10% لأن تشكل الذكاء الاصطناعي خطراً وجودياً خلال العقد القادم",
-   "summary": "أعرب مسؤول في قسم التوافقية بشركة Anthropic عن قلقه من احتمالية تشكيل الذكاء الاصطناعي تهديداً وجودياً للبشرية، مشيراً إلى احتمال يزيد على 10% بحدوث ذلك قبل نهاية العقد الحالي. يعكس التحذير الجدل المستمر حول المخاطر المحتملة للأنظمة الذكية الموسعة.",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNGR3VGtaTUx1aGtucjctWGt6WG1FMzRMTVh1TVY5TGVIT2tYSldyaXplWEFGTUdaU0ZFbkVQbG5UVGZ5T2JnVi1rX2ZQRTQ3RHFzWms4WVA1czRmVmhRN09OX0lCR0dVSUxheDQ0T0RDQXYwQUZtS240dHJmaThUczY1SC11QXR4ZFB3Tjg1WFpfakwzRUNPbU9KVmREMEs5czB6NXRrWGNfWEVEdkdHdThlVFhES1RxdThCbGZNV0dEbnFHYjhfQg?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "متسللون يسرقون رموز الدخول إلى خدمة Claude من المشتركين",
-   "summary": "اكتشف مستخدم لخدمة Claude أن حسابه يستهلك الرموز دون قيامه بأي عمل، ما فتح الملف حول ثغرات أمنية. أصدرت Anthropic تحذيراً للمستخدمين حول محاولات متسللين الوصول غير المصرح إلى الحسابات واستخراج بيانات الدخول.",
-   "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-08"
   }
  ]
 };
