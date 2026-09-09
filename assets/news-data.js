@@ -1,26 +1,82 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-08T23:16:32.318987+00:00",
+ "updated": "2026-09-09T07:59:13.703026+00:00",
  "items": [
   {
-   "title": "متسللون يسرقون رموز الوصول الخاصة بمشتركي كلود",
-   "summary": "اكتشف مستخدم أن حسابه استهلك رموز وصول دون أن يقوم بأي عمل، مما أشار إلى نشاط غير مصرح به. حذرت أنثروبيك المستخدمين من هجمات يستهدف فيها المتسللون بيانات الاشتراك والحسابات.",
+   "title": "جدل حول ادعاء OpenAI بحل مسألة رياضية عالمية",
+   "summary": "أعلنت OpenAI أن وكلاءها حلّوا إحدى مسائل جائزة الألفية، وهي من أصعب المشاكل الرياضية المفتوحة عالمياً. لكن هذا الإنجاز واجه انتقادات سريعة حول صحة الحل والادعاءات المرفقة به.",
+   "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "أوبن إيه آي تعلن عن جيل جديد من الذكاء الاصطناعي: جي بي تي-6 أسترا",
+   "summary": "أطلقت أوبن إيه آي نموذج ذكاء اصطناعي جديد باسم جي بي تي-6 أسترا، يمثل خطوة متقدمة في مجال القدرات الحاسوبية والذكية. يُعتبر هذا الإعلان نقطة فاصلة في تطور الأنظمة الذكية وقدراتها.",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "بيل جيتس: عصر الذكاء الاصطناعي المضطرب بدأ والقرارات الآن حاسمة",
+   "summary": "حذّر بيل جيتس من أن المرحلة الحالية من تطور الذكاء الاصطناعي تشهد اضطراباً وتحديات كبيرة، وأن الخيارات التي نتخذها في الوقت الراهن ستحدد مسار هذه التكنولوجيا. أكد أهمية اتخاذ قرارات مدروسة ومسؤولة في هذه المرحلة الحرجة.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "الجيش الأمريكي يستكشف إدارة القيادة في عصر الذكاء الاصطناعي",
+   "summary": "نشرت مطبعة الجيش الأمريكي دراسة حول كيفية تطبيق نماذج القيادة والسيطرة التقليدية في بيئة عسكرية يشارك فيها الذكاء الاصطناعي. تناول البحث التوازن بين الاستقلالية الآلية والإشراف البشري في العمليات العسكرية.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUlkWnNSMkhnSG13WDl3VGVZUTdjOWVEaElqYkRpbzBMbmdfMFd1WjRqcFVXMHlEQVQ3ZkZOZXFLQWJKRWhkV21ZRWRMbVFxa3MtSTRIelplemRYR3pZZWQ5RnV5SmR4TWtrdzRqVG5hdXdra3JhVWxZMEd5V3RUMEQ2aDR2aDAzNmg1WnVCbXByWFM3VGxMUWNGelpia01BMExmdWRDb1YteDR3Vm5tRlE2dmNPRzJMWWdzSG5mZW1yOUEteG5hYw?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "باحث في أنثروبيك: احتمالية 10% لأن يشكل الذكاء الاصطناعي تهديداً وجودياً للبشرية",
+   "summary": "أعرب باحث في شركة أنثروبيك عن قلقه من أن الذكاء الاصطناعي قد يحمل احتمالية تجاوز 10% لإلحاق ضرر كارثي بالبشرية. جاء تصريحه عقب استقالة زميل له من الشركة بسبب خلافات حول سلامة الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FWC1lZ2xrRGtNX2VqX3RQOFlKXzNOcW1mdUVNRmV6VE05dm92SlNaUmVNYmFlcnBuVDJvbUI0R2xfaW1fOHg5eVp5ZGszMU9qcjQtWWJVR3B0SDFLYzNWTS1mWnl2WlJRRUZYZE1LbW1FXzg0ZTNmTEcxTjllQdIBgwFBVV95cUxPZFdIdE5uZnlyMlhCdUpWRHo4UWtyRWVfazZCdDlNVTA0YjdtbjNpRTZSVWZLbnFiMnNRN2pqeTV0NVFMVGVBVlVVdzFXX1V4LTNmWU1FOW9xOGNCVHAweXk0bnBwemNhMm9HUTJqaDJYWHRIbUVuTUdIX2tSNU9Mcl9BOA?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "تحذيرات حادة من عالم رياضيات ومن موظف سابق بأنثروبيك",
+   "summary": "أطلق عالم الرياضيات تيرانس تاو وموظف سابق بشركة أنثروبيك تحذيرات جدية بشأن المخاطر المحتملة للذكاء الاصطناعي المتقدم. تعكس هذه التصريحات قلقاً متزايداً بين الخبراء حول الاتجاهات الحالية لتطوير هذه التكنولوجيا.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wWEVIc0FwaVJaM1hLOFFiY1JNZVRWNXNIa1Z5OWJiZmk4dkNoS2twazlZNWNoSG5QQkVyYXFBTmVzbHVERXlzNU5pWEtXeW1hcVMtYVJURm56eDVyXzNaaGo2dGtxblhaN011WE82cldrOThmZHpv?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "باحث في تحسين أنظمة الذكاء الاصطناعي بـ Anthropic يحذّر من احتمال قد يتجاوز 10% لأن تشكل الذكاء الاصطناعي خطراً وجودياً خلال العقد القادم",
+   "summary": "أعرب مسؤول في قسم التوافقية بشركة Anthropic عن قلقه من احتمالية تشكيل الذكاء الاصطناعي تهديداً وجودياً للبشرية، مشيراً إلى احتمال يزيد على 10% بحدوث ذلك قبل نهاية العقد الحالي. يعكس التحذير الجدل المستمر حول المخاطر المحتملة للأنظمة الذكية الموسعة.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNGR3VGtaTUx1aGtucjctWGt6WG1FMzRMTVh1TVY5TGVIT2tYSldyaXplWEFGTUdaU0ZFbkVQbG5UVGZ5T2JnVi1rX2ZQRTQ3RHFzWms4WVA1czRmVmhRN09OX0lCR0dVSUxheDQ0T0RDQXYwQUZtS240dHJmaThUczY1SC11QXR4ZFB3Tjg1WFpfakwzRUNPbU9KVmREMEs5czB6NXRrWGNfWEVEdkdHdThlVFhES1RxdThCbGZNV0dEbnFHYjhfQg?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "متسللون يسرقون رموز الدخول إلى خدمة Claude من المشتركين",
+   "summary": "اكتشف مستخدم لخدمة Claude أن حسابه يستهلك الرموز دون قيامه بأي عمل، ما فتح الملف حول ثغرات أمنية. أصدرت Anthropic تحذيراً للمستخدمين حول محاولات متسللين الوصول غير المصرح إلى الحسابات واستخراج بيانات الدخول.",
    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-08"
   },
   {
-   "title": "كوجنيشن تحقق تقييماً بـ 48 مليار دولار وسط تنافس متسارع في مجال البرمجة بالذكاء الاصطناعي",
-   "summary": "وصلت شركة كوجنيشن إلى تقييم استثنائي يعكس ثقة المستثمرين بأن سوق برمجيات الذكاء الاصطناعي لم يصل بعد إلى مرحلة هيمنة شركة واحدة، حيث تنافس معها شركات أخرى بتقييمات عالية.",
+   "title": "شركة Cognition تحقق تقييماً بـ 48 مليار دولار، مما يدل على ثقة المستثمرين بسوق برمجيات الذكاء الاصطناعي المتنافسة",
+   "summary": "وصل تقييم الشركة المتخصصة في أدوات البرمجة بالذكاء الاصطناعي إلى 48 مليار دولار، وهو مؤشر على رؤية المستثمرين أن السوق بعيد عن أن تحتكره شركة واحدة. التقييم يفوق ما كانت عليه شركة منافسة قبل استحواذ SpaceX عليها.",
    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-08"
   },
   {
-   "title": "ميتا تطلق وكيلها الذكي الشخصي ميوز وسط تساؤلات بشأن ثقة المستخدمين",
-   "summary": "أطلقت ميتا وكيلاً ذكياً شخصياً يسمى ميوز يطلب الوصول إلى بريد المستخدمين وتقاويمهم ودفعاتهم والخدمات الصحية، مما يمثل رهاناً استراتيجياً كبيراً يختبر مدى استعداد المستخدمين للثقة في الشركة بمعلوماتهم الحساسة.",
+   "title": "Meta تطلق وكيلها الذكي Muse، والسؤال المطروح: هل سيثق به المستخدمون؟",
+   "summary": "أطلقت Meta وكيلاً ذكياً شخصياً باسم Muse يطلب الوصول إلى بيانات حساسة من البريد الإلكتروني والتقاويم والمدفوعات والخدمات الصحية. يمثل هذا الإجراء رهاناً كبيراً للشركة على قبول المستخدمين، وسط تحفظات تاريخية حول معالجتها للبيانات الشخصية.",
    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -72,62 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "أداة ذكاء اصطناعي من Google قد تفتح آفاقاً جديدة في الطب الجيني",
-   "summary": "كشفت Google DeepMind عن AlphaGenome Atlas، أداة قائمة على الذكاء الاصطناعي تهدف إلى تحسين فهمنا للجينوم البشري وتسريع البحث العلمي. قد يساهم هذا الابتكار في تطوير علاجات جديدة للأمراض المعقدة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "رائد أعمال يطور عملاء ذكاء اصطناعي متقدمين بقدرات تخطيط استباقية",
-   "summary": "يعكف Danijar Hafner على بناء شركة ناشئة متخصصة في تطوير وكلاء ذكاء اصطناعي قادرين على التخطيط المسبق والتعامل مع المواقف غير المتوقعة. المشروع لا يزال في مرحلة سرية لم يُعلن اسمه رسمياً بعد.",
-   "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "Chrome يتسارع بتحديثاته الأمنية وسط تطور المشهد الرقمي",
-   "summary": "Google تقلل فترة إطلاق نسخ Chrome الجديدة من أربعة أسابيع إلى أسبوعين. التسارع يهدف إلى توفير إصلاحات أمنية وميزات جديدة بوتيرة أسرع مع تطور بيئة الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "شركة Mistral الفرنسية تجمع 3 مليارات يورو وتعزز مكانتها في الذكاء الاصطناعي المستقل",
-   "summary": "Mistral حققت تقييماً بـ 21 مليار يورو في جولة تمويل من فئة Series D برعاية Samsung وشركاء استثمار عالميين. الجولة تعكس النمو المتسارع لشركات الذكاء الاصطناعي الأوروبية المستقلة.",
-   "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "أدوبي تطوّر أدوات ذكاء اصطناعي أسهل استخداماً في برنامج Premiere",
-   "summary": "أطلقت أدوبي أداة وسائط توليدية محسّنة في برنامج Premiere للمونتاج الاحترافي، تتيح للمحررين إنشاء فيديو وتأثيرات صوتية وموسيقى مباشرة ضمن خط المشروع دون مغادرته، مما يبسّط سير العمل.",
-   "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "OpenAI تعلن عن جيل جديد من الذكاء الاصطناعي: GPT-6 Astra",
-   "summary": "أطلقت OpenAI نموذج ذكاء اصطناعي جديد يحمل اسم GPT-6 Astra، يمثل خطوة متقدمة في تطور تقنيات المعالجة اللغوية. يركز الإعلان على دخول جيل جديد من قدرات الذكاء الاصطناعي التي تتجاوز الأنماط السابقة.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-   "source": "Google News — أدوات AI",
-   "tag": "أدوات جديدة",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "التحديات الحرجة في عصر الذكاء الاصطناعي المتلاطم",
-   "summary": "تطرح بيل غيتس في مقالته تأملات حول المرحلة الحالية من تطور الذكاء الاصطناعي، محذرة من أهمية الخيارات الحالية في تشكيل مستقبل التكنولوجيا. تؤكد على الحاجة الملحة لاتخاذ قرارات حكيمة وسط التطورات السريعة والتغييرات الكبيرة في المجال.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-09-08"
   }
  ]
