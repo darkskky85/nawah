@@ -1,37 +1,85 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-10T07:58:57.832031+00:00",
+ "updated": "2026-09-10T13:27:55.722620+00:00",
  "items": [
   {
-   "title": "شركة ناشئة متخصصة في الذكاء الاصطناعي تتراجع عن جولة تمويل بـ 1.5 مليار دولار لإجراء محادثات مع Salesforce",
-   "summary": "أسقطت شركة Listen Labs اتفاقية تمويل موقّعة مع صندوق Menlo Ventures في الجولة الثالثة، بهدف التركيز على محادثات محتملة مع Salesforce. يعكس هذا القرار تحولاً استراتيجياً للشركة نحو فرص شراكة أو استحواذ قد تكون أكثر ملاءمة لتطورها.",
+   "title": "شركة ناشئة متخصصة في أبحاث الذكاء الاصطناعي تتخلى عن جولة تمويل بـ 1.5 مليار دولار لإجراء محادثات مع سيلزفورس",
+   "summary": "أطلعت مصادر على أن Listen Labs تراجعت عن موافقتها على شروط جولة تمويل من Menlo Ventures، بهدف التركيز على محادثات استراتيجية مع منصة سيلزفورس الكبرى بدلاً من متابعة التمويل المستقل.",
    "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-10"
   },
   {
-   "title": "كاليفورنيا تطلق أداة ذكاء اصطناعي لتيسير تفاعل المواطنين مع الخدمات الحكومية",
-   "summary": "أطلق حاكم كاليفورنيا أداة جديدة تعتمد على الذكاء الاصطناعي باسم AskCA لمساعدة السكان على الوصول إلى الخدمات الحكومية بسهولة أكبر. الأداة تهدف إلى تبسيط التواصل بين المواطنين والجهات الحكومية وتوفير إجابات سريعة على استفساراتهم.",
+   "title": "باحثون يطالبون OpenAI بإثبات عدم استخدامها لأعمالهم البحثية",
+   "summary": "يرفع باحث رياضي ثاني اتهامات ضد OpenAI بشأن استخدام بيانات غير منشورة في تطوير نماذجها الرياضية، مما يشير إلى تزايد الخلاف حول مصادر البيانات التي تدرب عليها نماذج الشركة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "البنية الأساسية: تحدٍ حاسم لتشغيل أنظمة الذكاء الاصطناعي",
+   "summary": "أعطال في شبكات الكهرباء التي تزود مراكز البيانات الضخمة بالطاقة تكشف عن ضعف في البنية التحتية العالمية اللازمة لتشغيل تطبيقات الذكاء الاصطناعي، حيث تسببت انقطاعات متكررة في خسائر كبيرة للخدمات.",
+   "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "كاليفورنيا تطلق منصة ذكاء اصطناعي لتسهيل الخدمات الحكومية",
+   "summary": "أعلن حاكم كاليفورنيا عن إطلاق أداة جديدة تدعى AskCA تعتمد على الذكاء الاصطناعي، بهدف تسهيل وصول السكان إلى الخدمات والمعلومات الحكومية. تمثل هذه الخطوة توجهاً حديثاً نحو توظيف التقنيات الذكية في تحسين تجربة التعامل مع الإدارات العامة.",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2tuLTd0emY0Z0tKZzRpNWMxdnBBNktXVVdKSFRjLUVwQUVaQURvWUNmY0lPWm1JUERSbXFTUXBOaUdjSHR0YlVLQ3ZaSFBnRTV2VlhEM2VYTHpFYkVwTnd1bXl6aFhralJKN1RWamZWMnRMeWp5U3dDRERPVXBHN195MU5IaWk4d01JbzNhSkhrdnRYbC1lOHpPQnNJamdNam9MU2pFM01hVHRYUlRIZTdVMHFqb3BVRWxjSFBzZzZEcTJKaEpLZA?oc=5",
    "source": "Google News — أدوات AI",
    "tag": "أدوات جديدة",
    "date": "2026-09-10"
   },
   {
-   "title": "أوبن إيه آي تكشف عن نموذج الجيل السادس Astra من تقنية الذكاء الاصطناعي",
-   "summary": "أعلنت شركة أوبن إيه آي عن إطلاق نموذج جديد متقدم في مجال الذكاء الاصطناعي يحمل اسم GPT-6 Astra. يمثل هذا النموذج خطوة متقدمة في تطور تقنيات الذكاء الاصطناعي وقدراتها.",
+   "title": "OpenAI تكشف عن جيل جديد من نماذج الذكاء الاصطناعي: GPT-6 Astra",
+   "summary": "أعلنت OpenAI عن نموذج ذكاء اصطناعي جديد باسم GPT-6 Astra، يمثل خطوة متقدمة في تطور القدرات الذكية. يأتي الإعلان كجزء من جهود الشركة المستمرة في تطوير تقنيات الذكاء الاصطناعي الأكثر تطوراً.",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
    "source": "Google News — أدوات AI",
    "tag": "أدوات جديدة",
    "date": "2026-09-10"
   },
   {
-   "title": "مرحلة تحول حاسمة في مستقبل الذكاء الاصطناعي",
-   "summary": "يؤكد تقرير من بيل جيتس على أن المرحلة الحالية من تطور الذكاء الاصطناعي تشهد اضطرابات ملحوظة، وأن القرارات التي تتخذها المؤسسات والحكومات الآن ستحدد مسار هذه التكنولوجيا وتأثيرها المستقبلي على المجتمع.",
+   "title": "بيل غيتس يحذر من أهمية القرارات الحاسمة في عصر الذكاء الاصطناعي المضطرب",
+   "summary": "أشار بيل غيتس إلى أن العالم يشهد حالياً فترة اضطراب وتحول سريع مرتبطة بتطور الذكاء الاصطناعي، ويؤكد أن الخيارات والسياسات التي يتخذها المجتمع الآن ستحدد مساراً حاسماً للمستقبل. يركز على ضرورة اتخاذ قرارات مدروسة وحكيمة في هذه المرحلة الحرجة.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "أهداف الصين في الذكاء الاصطناعي والخيارات الاستراتيجية تجاه أوروبا",
+   "summary": "تحليل لاستراتيجية الصين في مجال الذكاء الاصطناعي وكيفية تأثيرها على العلاقات والسياسات الأوروبية. يسلط الضوء على الأهداف الجيوسياسية والتكنولوجية للصين وانعكاساتها على المشهد العالمي.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWdDUUl1VDcyX1l6LUhJdksyTXlpODJZVUJUdDFYMGxsVTFJaVZ6QUZDT19lczNKRmlnbm8ycFd5eHNYZmltUlRFWG9LU3VwUlJxQkczcUhXeVBLWUQ3UmFUd2Zpd3hhQWxMaVQtN3RMcEUzOW5zUDNGaXQ5Y2phdFc5bkJGa242NnpmcThRWU9MaWF6YmZrLXZKSUVGY1k?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "تصاعد المخاوف من تطبيقات الذكاء الاصطناعي",
+   "summary": "تقرير عن المخاوف المتزايدة بشأن استخدام تقنيات الذكاء الاصطناعي وتأثيراتها المحتملة على الأمن والخصوصية والقطاعات المختلفة في المجتمع.",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxN1NBalRNeW9Ub2NRWTJ1SHA2RzZKTEIyUk5kdlFsTklMOWQ1SGNMQVY5TmJ1a1pKTFhXaGdvV09WckV1VnpTeGh6Mm9IYTNOMU0tY3Fna3J4VHBE0gFiQVVfeXFMT3F6ejg1ODExMldiS3VmbEZXck1WaGhIazNJS2FMc1dWb0pfUjlzcTZKWVV5eHZXVEMyN3lQSlVoWkFWdXpXdlkxWTB0UUhLZkVmNllNZTAxQi1lbnRsUjRLREE?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "الحدود الجديدة: من الذكاء الاصطناعي إلى المجتمعات الذكية الاصطناعية",
+   "summary": "مناقشة حول التطور المقبل في مجال التكنولوجيا الذي يتجاوز الذكاء الاصطناعي التقليدي ليصل إلى مستوى بناء أنظمة مجتمعية متقدمة. يركز على الإمكانيات والتحديات المرتبطة بهذا التحول.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDFCRTVHOE1HQmpHR2VBeFl3N05pOERtc2xHN1pxb2RHeHN3SXhJQ2pVRFM3WFcyYTVhRmNlelUtS205cm5iNmhWb1RuZXBBcVFzMFNfQlJyY20xbUlJQWRNd0htM2M0d2hOOEtGY1ZvRUdhZnRCbFMtTkxDYWd2eFNmeDdCNTNBMnJLMjNFd1JRRFV5a3ZuajYxb2VTam1EcmF0a2FGZmM3NTBt?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "باحثون من OpenAI وAnthropic ينضمون لدعوات إبطاء تطور الذكاء الاصطناعي",
+   "summary": "انضمام باحثين بارزين من شركات رائدة في الذكاء الاصطناعي إلى جهود تدعو إلى تقليل سرعة التطور التكنولوجي بسبب مخاوف من المخاطر المحتملة على البشرية.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-09-10"
   },
   {
@@ -80,54 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "الذكاء الاصطناعي والطباعة ثلاثية الأبعاد في تصنيع مفصلة هاتف آبل القابل للطي",
-   "summary": "استخدمت آبل تقنيات الذكاء الاصطناعي والطباعة ثلاثية الأبعاد في عملية تصنيع مفصلة iPhone Duo، الهاتف الذكي القابل للطي الأول من الشركة. يعكس هذا دور التقنيات المتقدمة في تحسين دقة التصنيع والابتكار في الأجهزة المعقدة.",
-   "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "Suno تطلق نموذج ذكاء اصطناعي موسيقي بدعم من صناعة التسجيل",
-   "summary": "أطلقت منصة Suno نموذجها الموسيقي الجديد v6 بدعم من شركات التسجيل، وهو أول نموذج طورته بالتعاون مع صناعة الموسيقى. تم تدريب النموذج على مجموعة بيانات جديدة لا تتضمن نفس البيانات المستخدمة في الإصدارات السابقة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "إنجاز رياضي لـ OpenAI يثير تساؤلات في الأوساط الأكاديمية",
-   "summary": "أعلنت OpenAI حل إحدى مسائل الجائزة الألفية الشهيرة في الرياضيات، وهو إنجاز مهم يعكس سرعة تطور الذكاء الاصطناعي في المجال. لكن الإعلان أثار نقاشات حول حقيقة النتيجة وتأثيراتها على مستقبل البحث الرياضي الأكاديمي.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "آبل توضح كيفية حماية الخصوصية في ميزات سيري الذكية الجديدة",
-   "summary": "أطلقت آبل ميزات ذكية جديدة لـ Siri تتضمن تسجيل وتحليل الصوت المحيط، وأصدرت وثيقة شرح تفصيلي حول آليات حماية بيانات المستخدمين. الوثيقة توضح التوازن المقترح بين توفير خدمات ذكية والحفاظ على الخصوصية.",
-   "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "كاميرا آيفون الجديدة تحمل ميزة للتحقق من عدم تزييف الصور بالذكاء الاصطناعي",
-   "summary": "أداة جديدة باسم Reference Image ستصل مع iPhone 18 Pro وتستخدم حساس الكاميرا لتوقيع كل بكسل في الصورة. الميزة مصممة لإثبات أن الصورة لم تُعدّل باستخدام الذكاء الاصطناعي.",
-   "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "مايكروسوفت توافق على معايير خصوصية جديدة للذكاء الاصطناعي في المدارس",
-   "summary": "وقعت مايكروسوفت اتفاقية مع الاتحاد الأمريكي للمعلمين تضع معايير أمان وخصوصية لتطبيقات الذكاء الاصطناعي في البيئة التعليمية. جاء هذا الإجراء بعد قيام عدة مناطق تعليمية بحظر استخدام أدوات ذكاء اصطناعي موجهة للطلاب.",
-   "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-09-09"
   }
  ]
