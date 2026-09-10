@@ -1,34 +1,114 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-10T13:27:55.722620+00:00",
+ "updated": "2026-09-10T18:13:44.548937+00:00",
  "items": [
   {
-   "title": "شركة ناشئة متخصصة في أبحاث الذكاء الاصطناعي تتخلى عن جولة تمويل بـ 1.5 مليار دولار لإجراء محادثات مع سيلزفورس",
-   "summary": "أطلعت مصادر على أن Listen Labs تراجعت عن موافقتها على شروط جولة تمويل من Menlo Ventures، بهدف التركيز على محادثات استراتيجية مع منصة سيلزفورس الكبرى بدلاً من متابعة التمويل المستقل.",
+   "title": "أنثروبيك تكتشف أن وكلاء الذكاء الاصطناعي يرفضون اختبارات CAPTCHA مثل البشر",
+   "summary": "كشفت شركة أنثروبيك أن وكلاء الذكاء الاصطناعي يواجهون صعوبة في اجتياز اختبارات التحقق من الهوية البشرية، وقد طورت الشركة طرقاً لفهم كيفية محاولة هذه الوكلاء التحايل والتظاهر بأنها بشرية على الإنترنت.",
+   "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "منصة Pocket FM الهندية تضاعف معدل إيراداتها بفضل الذكاء الاصطناعي",
+   "summary": "حققت منصة Pocket FM الهندية لتوزيع المحتوى الصوتي معدل إيرادات بلغ 500 مليون دولار، حيث تعتمد على الذكاء الاصطناعي في إنتاج 93% من محتواها، مما خفّض تكاليف الإنتاج بنسبة كبيرة جداً.",
+   "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "وكلاء الذكاء الاصطناعي يغمرون الخدمات العامة برسائل طلبات جديدة",
+   "summary": "بدأ وكلاء الذكاء الاصطناعي بتقديم طلبات متزايدة للخدمات العامة، وبحسب الباحثين فإن معظم هذه الحالات تتعلق بأشخاص لهم الحق الفعلي في المطالبة بالخدمات التي يطلبونها.",
+   "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "شركة Maven Robotics تحصل على 100 مليون دولار لتطوير الروبوتات المستقلة",
+   "summary": "أطلقت شركة Maven Robotics منتجاتها رسمياً بعد فترة من التطوير الخاص، وأعلنت عن جمع 100 مليون دولار في جولة تمويل من الدرجة الأولى، مع وجود مشاريع نشطة قيد التنفيذ.",
+   "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "شركة ناشئة متخصصة بالذكاء الاصطناعي تتخلى عن تمويل بـ1.5 مليار دولار لفتح حوارات مع Salesforce",
+   "summary": "قررت شركة Listen Labs التراجع عن اتفاق تمويل وقعته مع صندوق Menlo Ventures، وذلك لمتابعة محادثات محتملة مع شركة Salesforce بشأن شراكة أو استحواذ.",
    "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-10"
   },
   {
-   "title": "باحثون يطالبون OpenAI بإثبات عدم استخدامها لأعمالهم البحثية",
-   "summary": "يرفع باحث رياضي ثاني اتهامات ضد OpenAI بشأن استخدام بيانات غير منشورة في تطوير نماذجها الرياضية، مما يشير إلى تزايد الخلاف حول مصادر البيانات التي تدرب عليها نماذج الشركة.",
+   "title": "Universal Music تطلق منصة موسيقية مدعومة بالذكاء الاصطناعي مع ElevenLabs",
+   "summary": "أعلنت Universal Music Group عن منصة جديدة تعتمد على الذكاء الاصطناعي وتتيح للمستخدمين الاستفادة من كتالوج الموسيقى المرخصة لديها لإنشاء ريميكسات وتأليفات جديدة، بموجب اتفاقية ترخيص متعددة السنوات.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "مساعد ميوز من ميتا: أداة ذكاء اصطناعي للعمل اليومي",
+   "summary": "أطلقت ميتا مساعدها الجديد ميوز، الذي يعتمد على الذكاء الاصطناعي لتنفيذ مهام يومية متنوعة مثل التسوق الإلكتروني وإدارة رسائل البريد وتخطيط الرحلات. تمثل هذه الخطوة دخول الشركة الحقيقي إلى مجال أدوات الإنتاجية المدعومة بالذكاء الاصطناعي.",
+   "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "انتقادات التكنولوجيا الحالية: لماذا تبدو مختلفة هذه المرة؟",
+   "summary": "يثير النقاش الراهن حول شركات التكنولوجيا الكبرى جدلاً يختلف في طبيعته وحدته عن الانتقادات السابقة. يستعرض هذا الحوار أسباب اختلاف الموقف العام من قطاع التكنولوجيا في الفترة الراهنة.",
+   "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "باحثون يطالبون أوبن إيه آي بإثبات عدم استخدام أعمالهم",
+   "summary": "يثير جدل جديد حول ما إذا كانت نماذج أوبن إيه آي قد استفادت من أبحاث غير منشورة، حيث اتهمها باحث آخر باستخدام أعماله العلمية دون إذن. تعكس هذه الحالات قضايا أوسع حول الملكية الفكرية والبيانات المستخدمة في تدريب أنظمة الذكاء الاصطناعي.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-09-10"
   },
   {
-   "title": "البنية الأساسية: تحدٍ حاسم لتشغيل أنظمة الذكاء الاصطناعي",
-   "summary": "أعطال في شبكات الكهرباء التي تزود مراكز البيانات الضخمة بالطاقة تكشف عن ضعف في البنية التحتية العالمية اللازمة لتشغيل تطبيقات الذكاء الاصطناعي، حيث تسببت انقطاعات متكررة في خسائر كبيرة للخدمات.",
+   "title": "البنية الأساسية للكهرباء: التحدي الأكبر لدعم الذكاء الاصطناعي",
+   "summary": "تواجه الشبكات الكهربائية ضغطاً متزايداً لتلبية احتياجات مراكز البيانات الضخمة التي تغذي تطبيقات الذكاء الاصطناعي، حيث حدثت حوادث توقف متكررة في مناطق تركيز هذه المراكز. يشير هذا إلى أن تطوير التكنولوجيا لا يقتصر على البرمجيات بل يتطلب استثمارات ضخمة في البنية التحتية للطاقة.",
    "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
    "source": "MIT Tech Review AI",
    "tag": "أبحاث",
    "date": "2026-09-10"
   },
   {
-   "title": "كاليفورنيا تطلق منصة ذكاء اصطناعي لتسهيل الخدمات الحكومية",
-   "summary": "أعلن حاكم كاليفورنيا عن إطلاق أداة جديدة تدعى AskCA تعتمد على الذكاء الاصطناعي، بهدف تسهيل وصول السكان إلى الخدمات والمعلومات الحكومية. تمثل هذه الخطوة توجهاً حديثاً نحو توظيف التقنيات الذكية في تحسين تجربة التعامل مع الإدارات العامة.",
+   "title": "أداة الترجمة الفورية من سوبانانا",
+   "summary": "أداة جديدة ظهرت باسم Live Captions by Subanana توفر ترجمة وكتابة نصوص مباشرة في الوقت الفعلي، مما يساعد المستخدمين على فهم المحتوى الصوتي والحوارات بلغات مختلفة دون تأخير.",
+   "url": "https://www.producthunt.com/products/subanana",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "أداة فحص التصميم بالذكاء الاصطناعي",
+   "summary": "أداة جديدة ظهرت باسم Modeinspect تحلل وتفتش عناصر التصميم والواجهات باستخدام الذكاء الاصطناعي، وتساعد المصممين والمطورين على اكتشاف الأخطاء والتحسينات في المشاريع البصرية.",
+   "url": "https://www.producthunt.com/products/modeinspect-1-0",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "نظام المراقبة والتحليل من OpenObserve",
+   "summary": "أداة جديدة ظهرت باسم AI Observability by OpenObserve تراقب وتحلل أداء أنظمة الذكاء الاصطناعي والتطبيقات، وتوفر رؤى شاملة حول سلوك النماذج والخدمات في بيئات الإنتاج.",
+   "url": "https://www.producthunt.com/products/openobserve",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "كاليفورنيا تطلق خدمة حكومية ذكية للمواطنين",
+   "summary": "أطلقت ولاية كاليفورنيا خدمة جديدة باسم AskCA تعتمد على الذكاء الاصطناعي لتسهيل وصول المواطنين إلى المعلومات والخدمات الحكومية، مما يختصر الوقت والإجراءات البيروقراطية المعقدة.",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2tuLTd0emY0Z0tKZzRpNWMxdnBBNktXVVdKSFRjLUVwQUVaQURvWUNmY0lPWm1JUERSbXFTUXBOaUdjSHR0YlVLQ3ZaSFBnRTV2VlhEM2VYTHpFYkVwTnd1bXl6aFhralJKN1RWamZWMnRMeWp5U3dDRERPVXBHN195MU5IaWk4d01JbzNhSkhrdnRYbC1lOHpPQnNJamdNam9MU2pFM01hVHRYUlRIZTdVMHFqb3BVRWxjSFBzZzZEcTJKaEpLZA?oc=5",
    "source": "Google News — أدوات AI",
    "tag": "أدوات جديدة",
@@ -49,86 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-10"
-  },
-  {
-   "title": "أهداف الصين في الذكاء الاصطناعي والخيارات الاستراتيجية تجاه أوروبا",
-   "summary": "تحليل لاستراتيجية الصين في مجال الذكاء الاصطناعي وكيفية تأثيرها على العلاقات والسياسات الأوروبية. يسلط الضوء على الأهداف الجيوسياسية والتكنولوجية للصين وانعكاساتها على المشهد العالمي.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWdDUUl1VDcyX1l6LUhJdksyTXlpODJZVUJUdDFYMGxsVTFJaVZ6QUZDT19lczNKRmlnbm8ycFd5eHNYZmltUlRFWG9LU3VwUlJxQkczcUhXeVBLWUQ3UmFUd2Zpd3hhQWxMaVQtN3RMcEUzOW5zUDNGaXQ5Y2phdFc5bkJGa242NnpmcThRWU9MaWF6YmZrLXZKSUVGY1k?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "تصاعد المخاوف من تطبيقات الذكاء الاصطناعي",
-   "summary": "تقرير عن المخاوف المتزايدة بشأن استخدام تقنيات الذكاء الاصطناعي وتأثيراتها المحتملة على الأمن والخصوصية والقطاعات المختلفة في المجتمع.",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxN1NBalRNeW9Ub2NRWTJ1SHA2RzZKTEIyUk5kdlFsTklMOWQ1SGNMQVY5TmJ1a1pKTFhXaGdvV09WckV1VnpTeGh6Mm9IYTNOMU0tY3Fna3J4VHBE0gFiQVVfeXFMT3F6ejg1ODExMldiS3VmbEZXck1WaGhIazNJS2FMc1dWb0pfUjlzcTZKWVV5eHZXVEMyN3lQSlVoWkFWdXpXdlkxWTB0UUhLZkVmNllNZTAxQi1lbnRsUjRLREE?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "الحدود الجديدة: من الذكاء الاصطناعي إلى المجتمعات الذكية الاصطناعية",
-   "summary": "مناقشة حول التطور المقبل في مجال التكنولوجيا الذي يتجاوز الذكاء الاصطناعي التقليدي ليصل إلى مستوى بناء أنظمة مجتمعية متقدمة. يركز على الإمكانيات والتحديات المرتبطة بهذا التحول.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDFCRTVHOE1HQmpHR2VBeFl3N05pOERtc2xHN1pxb2RHeHN3SXhJQ2pVRFM3WFcyYTVhRmNlelUtS205cm5iNmhWb1RuZXBBcVFzMFNfQlJyY20xbUlJQWRNd0htM2M0d2hOOEtGY1ZvRUdhZnRCbFMtTkxDYWd2eFNmeDdCNTNBMnJLMjNFd1JRRFV5a3ZuajYxb2VTam1EcmF0a2FGZmM3NTBt?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "باحثون من OpenAI وAnthropic ينضمون لدعوات إبطاء تطور الذكاء الاصطناعي",
-   "summary": "انضمام باحثين بارزين من شركات رائدة في الذكاء الاصطناعي إلى جهود تدعو إلى تقليل سرعة التطور التكنولوجي بسبب مخاوف من المخاطر المحتملة على البشرية.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "الكشف عن حادثة اختراق رابعة في أنثروبيك وترك باحث للشركة بسبب المخاوف الأمنية",
-   "summary": "أعلنت شركة أنثروبيك عن تعرضها لحادثة اختراق أمني جديدة، وهي الرابعة من نوعها، مما دفع أحد باحثيها إلى مغادرة الشركة. الحادثة تثير تساؤلات حول جاهزية شركات الذكاء الاصطناعي في مجال الأمن والحماية من المخاطر السيبرانية.",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVNvS2NCLTIzRG1JMUtKZnd2NGpScTIwVUoyYnlNODUybTMxUGdyeGE5WVFkOWtraTJYNXp2RmhpVVh1S3E4QTZOVkFCOHFtR2FJTFlfc0YzNVVYX1lzOTRyODlEWGxncUJXOVc0MmdsQ19mTkNiRkV0T2kwNUFSRGlnMWhTeTlDWWs1V005Zy11NUNWRUFUVmtHdmdaRld6UmgySjNGY1h2ckRWSEHSAbMBQVVfeXFMUE4xcjB6OEJPZHZrZExQWUZqRU9GZk5zeFBjS0tGeHdWckFUWUpaTkNyRWpMN1VaUXY0bllQbGpvV1BIb01zNUdtdEJxaVRyLUMxSnRTV2RHVWozcVJwUklabkpWYllWTGhrQWpRcUVESmRCZkRCdy11aUlVMEdGdkljejRrS2VIbnQ5cmE2dmYySFdKWDI3dm5zT0tZakp3WVVpUjV6cTNBX2ptamtaLWphNjQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "باحث في أنثروبيك يستقيل ويحذر من الذكاء الاصطناعي كتهديد وجودي",
-   "summary": "أعلن أحد باحثي شركة أنثروبيك استقالته، محذراً من أن الذكاء الاصطناعي قد يشكل تهديداً وجودياً للإنسانية. هذا التحذير يعكس مخاوف متزايدة وسط المتخصصين بشأن الآثار الطويلة الأجل لتطور هذه التكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tengyUVFUb0w0X2lha3NqWXhWWGM3bGpfMENGY1NOU3UzREtoOXJvbXBjLXc3VmJLUlMxSWF1a0VOWXRpRFZoaVJEbVBZUGg2bHNjTmVGRTB2SEVSd3Y1Qkt3VkFSaUdOX3psdjVUOXNVc3ZSZmpJ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "باحث متخصّص في سلامة الذكاء الاصطناعي ينضمّ إلى مجلس إدارة مؤسسة OpenAI",
-   "summary": "انضمّ باول كريستيانو، الباحث المؤثّر في مجال توافق الذكاء الاصطناعي مع أهداف الإنسان، إلى مجلس إدارة مؤسسة OpenAI. يعكس التعيين اهتمام الشركة بدمج خبرات متخصّصة في معالجة تحديات السلامة والأخلاقيات المرتبطة بتطوير الأنظمة الذكية.",
-   "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "ماساتشوستس تفرض قواعد جديدة لتنظيم مراكز البيانات الضخمة",
-   "summary": "أقرّت ولاية ماساتشوستس تشريعات جديدة تقيّد توسّع مراكز البيانات، لتصبح الولاية الثالثة خلال أشهر قليلة تتخذ خطوات حازمة في هذا الاتجاه. تأتي القواعس الجديدة في سياق مخاوف متزايدة من استهلاك الطاقة والموارد الطبيعية بسبب الطلب المتصاعد على البنية التحتية الرقمية.",
-   "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "ساعات أبل الذكية الجديدة تطرح تساؤلات حول الخصوصية والمراقبة المستمرّة",
-   "summary": "أطلقت أبل ميزات ذكية جديدة على ساعاتها تتضمّن تفريغ الكلام والتعليق على المحادثات المحيطة، دون حفظ الملفات الصوتية الخام. لكن هذه الإمكانيات أثارت جدلاً حول الموافقة والخصوصية وتأثير الشعور بالمراقبة الدائمة على سلوك المستخدمين.",
-   "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-09"
-  },
-  {
-   "title": "أبل تعلن عن هاتفها الذكي القابل للطي iPhone Duo وإضافات ذكية على الساعة",
-   "summary": "كشفت أبل عن iPhone Duo، هاتفها الأول القابل للطي، إلى جانب تحديثات تقنية أخرى على منتجاتها. يمثّل الهاتف الجديد خطوة الشركة نحو دخول فئة الأجهزة المرنة التي باتت محط تنافس متزايد بين الشركات المصنّعة الكبرى.",
-   "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-09"
   }
  ]
 };
