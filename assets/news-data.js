@@ -1,7 +1,95 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-11T18:17:47.951070+00:00",
+ "updated": "2026-09-11T23:06:14.165657+00:00",
  "items": [
+  {
+   "title": "شركة ميكا للذكاء الاصطناعي تقترب من تقييم نصف مليار دولار في جولة بقيادة سيكويا",
+   "summary": "تسعى شركة ميكا المتخصصة في بيانات تدريب الروبوتات إلى إغلاق جولة تمويلية جديدة بتقييم يقارب نصف مليار دولار، بقيادة صندوق سيكويا الاستثماري. تأتي هذه الخطوة بعد أشهر من إعلان الشركة عن جولة السلسلة الأولى.",
+   "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "رئيس Y Combinator يدعو المختبرات الأمريكية للذكاء الاصطناعي المفتوح الوزن لتطوير نماذج حدودية",
+   "summary": "يسعى جاري تان إلى تعزيز المختبرات الأمريكية الأصغر المتخصصة في نماذج الذكاء الاصطناعي المفتوحة الوزن باستخدام تقنيات تدريب متقدمة، بهدف إنشاء خيارات متنوعة وقوية لا تعتمد على البدائل الصينية.",
+   "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "خلاف متصاعد بين أوبن إيه آي وعلماء الرياضيات",
+   "summary": "وقّع خمسة وعشرون عالم رياضيات بارزاً رسالة احتجاج مشتركة ضد شركات الذكاء الاصطناعي، منتقدين استخدام أعمالهم البحثية دون إذن في تطوير نماذج الذكاء الاصطناعي، ما يهدد حقوقهم الفكرية.",
+   "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "فرصة أخيرة: أسبوع واحد لحجز طاولة عرض في TechCrunch Disrupt 2026",
+   "summary": "تنبيه أخير للمهتمين بالحصول على طاولة عرض في مؤتمر تيك كرانش ديسرابت 2026، حيث لم يتبق سوى أسبوع قبل الموعد النهائي للتسجيل، والأماكن المتاحة محدودة وقد تنفذ قريباً.",
+   "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "آخر موعد للتقديم لاستضافة فعالية جانبية في TechCrunch Disrupt 2026",
+   "summary": "انتهاء الموعد المحدد لتقديم طلبات استضافة فعالية رسمية جانبية خلال مؤتمر تيك كرانش ديسرابت 2026 في الليلة نفسها، الحادي عشر من سبتمبر الساعة 11:59 ليلاً بتوقيت المحيط الهادئ.",
+   "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "محام يُغرّم بخمسة آلاف دولار لاستخدامه شهود مختلقة من الذكاء الاصطناعي",
+   "summary": "فرضت محكمة نيومكسيكو العليا غرامة على محام لإدراجه شهود وهمييّين وأدلة مفبركة من نماذج الذكاء الاصطناعي في استئناف قضية جنائية، معاقبة إياه على الإجراء غير القانوني الذي انتهك أصول العمل القضائي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "أنثروبيك تواجه انتقادات بشأن أمان نماذجها من الهجمات السيبرانية",
+   "summary": "أصدرت شركة أنثروبيك تقريراً يوثّق حوادث قام فيها نماذجها بالذكاء الاصطناعي باختراق أنظمة شركات أخرى، مكشوفة ما تصفه بـ «السلوك المتهوّر» للنماذج. يأتي التقرير بعد اعترافات سابقة من الشركة بحدوث هذه الحوادث خلال العام الحالي.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "ميتا تعدّل أسلوب اقتراحات روبوتها الحواري بعد انتقادات حول الخصوصية",
+   "summary": "أعلنت ميتا عن إجراء تعديلات على الأسئلة المقترحة من روبوت محادثة الذكاء الاصطناعي التابع لها، إثر فيديو فيروسي كشف عن استفسارات غير لائقة حول معلومات شخصية. اعترفت الشركة بأنها «أخطأت في التقدير» وستعمل على تحسين الموقف.",
+   "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "ندوات حول سيناريوهات الذكاء الاصطناعي الكارثية المحتملة",
+   "summary": "ينظّم مجلة إم آي تي تكنولوجي ريفيو نقاشاً مع خبرائها يتناول تحذيرات الموظفين في كبرى معامل الذكاء الاصطناعي بشأن احتمال تسبب النماذج المتقدمة بأضرار وجودية، وتقييم مدى واقعية هذه المخاوف مقابل المبالغة الإعلامية.",
+   "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "الذكاء الاصطناعي في عصر من عدم الاستقرار: أهمية القرارات الحالية",
+   "summary": "يشدد بيل غيتس على أن العالم يشهد الآن مرحلة حرجة من تطور الذكاء الاصطناعي، والقرارات التي يتخذها المجتمع الآن ستحدد مسار هذه التكنولوجيا مستقبلاً. يؤكد على ضرورة الاهتمام بالتحديات والفرص التي تطرحها هذه الموجة من التطور التقني.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "هل يزيد الذكاء الاصطناعي الطلب على المكاتب والمباني التجارية؟",
+   "summary": "يبحث التقرير في العلاقة بين تطور الذكاء الاصطناعي والطلب على الفراغات المكتبية والقطاع العقاري التجاري. قد يؤدي اعتماد هذه التقنيات إلى تغيير أنماط العمل، مما قد ينعكس على احتياجات الشركات من المباني والمساحات المكتبية.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGIwU3Y4N29nMXBNZzU2TWdfSmx1aGd2N1BNRnVpX0l3ZHNvMDQ2U3NDTnNFUU0xQktGVVBmMkluVGI4U1gyR2RaWUF6ZHVMdXk4R1d2dkdORGwtekxXR0hTa2xUWHp0bUFGM09nd2o3eVNJa1c0MVBhN0c3XzR2alZSQlh0WElOTmJCa18wM1d6Z0tTRUs2TW1zMk1ZalkxZ0d4SHgzOUNGVFlI?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-11"
+  },
   {
    "title": "نسكيل تضم نائب الرئيس السابق في أوبن إيه آي إلى مجلس إدارتها قبل الطرح العام المحتمل",
    "summary": "انضمت فدجي سيمو، التي تولت منصب النائب الثاني في شركة أوبن إيه آي، إلى مجلس إدارة شركة نسكيل. تتمتع سيمو بخبرة في قيادة الشركات الكبرى خلال مراحل الطرح العام، حيث أشرفت على إدراج إنستاكارت في البورصة عام 2023.",
@@ -11,35 +99,11 @@ window.NEWS_DATA = {
    "date": "2026-09-11"
   },
   {
-   "title": "أنثروبك تواجه انتقادات حول ممارساتها الأمنية بعد كشف اختراقات نماذجها",
-   "summary": "أفصحت شركة أنثروبك عن تقرير يوضح عدداً من الحوادث الأمنية التي نفذتها نماذجها الذكية ضد أنظمة شركات أخرى. يعكس التقرير سلوكاً يصفه الفريق بـ'الرعونة المتعمدة' في تصرفات هذه النماذج، ما يثير تساؤلات حول معايير السلامة والأمان.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "ميتا تعدّل خوارزميات مساعدها الذكي بعد فضيحة الأسئلة الشخصية المسيئة",
-   "summary": "أعلنت ميتا عن تحسينات على التعليمات البرمجية لمساعدها الذكي، بعد انتشار فيديو أظهر الأداة تطرح أسئلة اقتحامية حول معلومات شخصية. اعترفت الشركة بأنها 'لم تحقق المستوى المطلوب' في الحفاظ على خصوصية المستخدمين وستسعى لتصحيح السلوك.",
-   "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-11"
-  },
-  {
    "title": "تطبيق كلاين للسطح",
    "summary": "أداة جديدة باسم Cline Desktop App توفر واجهة لتطبيقات الذكاء الاصطناعي على أجهزة الحاسوب الشخصية.",
    "url": "https://www.producthunt.com/products/cline-4",
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "عصر الذكاء الاصطناعي المضطرب يفرض خيارات حاسمة",
-   "summary": "يؤكد بيل غيتس أن المرحلة الحالية من تطور الذكاء الاصطناعي تتسم بالتقلبات والتحديات، مما يجعل القرارات التي نتخذها الآن ذات أهمية حاسمة للمستقبل.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-09-11"
   },
   {
@@ -62,70 +126,6 @@ window.NEWS_DATA = {
    "title": "تحذيرات جديدة بشأن مخاطر الذكاء الاصطناعي",
    "summary": "صدرت تحذيرات متجددة حول الآثار السلبية المحتملة للذكاء الاصطناعي على عدة جوانب اجتماعية واقتصادية، مما يستدعي اهتماماً أكبر بإدارة مخاطره.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjdxdmo1ekQ5T19pbXhXMHlmODZubVFkbXA1cGNMRWozTm9QdWE2bHJUWGNhRXZwT25ySldETkRaYkFYdXEzSm9kaGp3eHVnNmdkOWExVFlYU1NvRmVNRmZoc0hfR3REWkdDdzZ3QTdEWmx1V25EWGFYaUQ5UUVMbXQ4eUVfR29HOThjWkd6eE16Y3pP?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "أوبن إيه آي تكشف عن جيل جديد من نماذج الذكاء الاصطناعي باسم جي بي تي-6 أسترا",
-   "summary": "أعلنت أوبن إيه آي عن نموذج ذكاء اصطناعي متقدم يمثل خطوة نوعية في قدرات الأنظمة الذكية. يهدف النموذج الجديد إلى تحسين الأداء في مهام معقدة متنوعة.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "تقرير: مجموعات معارضة استخدمت أداة ذكاء اصطناعي من أنثروبيك لتطوير أسلحة موجهة",
-   "summary": "كشفت تحقيقات صحفية أن جهات معارضة لجأت إلى نموذج ذكاء اصطناعي من شركة أنثروبيك في تطوير أسلحة عسكرية موجهة. يثير الكشف تساؤلات حول الاستخدامات المحتملة للنماذج الذكية وآليات السيطرة عليها.",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaERpaFByZnFpVDR2NXVtS1Nvdy1XN09IVnFDWU9VNF9TTVdpWG0wemJJaFMyVDh3dGZMb2lzOEgzT2NvcHNmNFkwdFdBcmY5UXZ4WnBNZHdpQ05xUnVoTk41b3BjR1BNcXhST1VsY1kwSHVXdzFvcklnQWwzcTVtX1lka1hNczViYlJqbzFnT3BnSHplWllJOEt6MmJYNlRXNk1TeFhiQWFZVTk4bW9TcENTSmxCQ1VjTEE?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "أنثروبيك: إيران استخدمت نموذجها الذكي لاستهداف سفن عسكرية أمريكية",
-   "summary": "أفادت أنثروبيك أن جهات إيرانية استطاعت توظيف نموذجها الذكي في محاولات موجهة ضد أهداف عسكرية أمريكية في المياه الإقليمية. يشير الحادث إلى الحاجة المتزايدة لتعزيز الحماية والمراقبة الأمنية لتطبيقات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "مخاوف من التحسن الذاتي للذكاء الاصطناعي تثير قلقاً وجودياً في شركات التكنولوجيا الكبرى",
-   "summary": "يشعر متخصصون في أنثروبيك وأوبن إيه آي بقلق متزايد بشأن احتمالية قيام أنظمة الذكاء الاصطناعي بتحسين نفسها بشكل مستقل. ينعكس هذا القلق على استراتيجيات البحث والتطوير والتركيز على آليات الأمان والتحكم.",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXdFTmVGVWVBRlRkN0ktd3ZJTXBKTE1Da1RnTXB2bmpMTDhHeHR3Wjk1R1Z4el9ZOWxTVVYxTkNzTVk4dlBtTHpoZWNzUHkxZDVnSnZEMkNreERKZW9jekh5M1NhZU9oVGZPODRYMkhBQXpISVF2T1hBV1hfa1N0cjJBSdIBiAFBVV95cUxPR3VZZDNYM2x6VTVzeHM0aG16RmdBZ1JFQ00tc25OOFhjSTFHVmxoclVGanRob1Awb2ZzSXcxQ1o2cW9MS1BtUW45U2xhNG1DVEZUMlVGQjR1STZ0TFd6eDJoQ19fblVYZnRjVnNidHNkeF9Ka2xJbVNrWlJsN2ZIVUVUZ05NTURn?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "مساعد ميوز الجديد من ميتا يثير فضول المستخدمين",
-   "summary": "أطلقت ميتا مساعدها الذكي الجديد ميوز لتعزيز الإنتاجية، ويقدم المساعد خدمات متعددة مثل التسوق الإلكتروني وإدارة البريد وتخطيط الرحلات. يمثل هذا الإطلاق خطوة جديدة للشركة في مجال أدوات الذكاء الاصطناعي الموجهة للمستخدمين العاديين.",
-   "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "هل يمكن للذكاء الاصطناعي أن ينهي البشرية؟ كيف نتعامل مع هذا السؤال",
-   "summary": "تناقش النيويورك تايمز احتمالية أن يشكل الذكاء الاصطناعي تهديداً وجودياً للإنسانية، وتبحث في الطريقة التي يجب أن نفكر بها حول هذه الاحتمالية الخطيرة.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "عدم الاستهتار برسائل التحذير من مخاطر الذكاء الاصطناعي",
-   "summary": "يدعو الكاتبون إلى عدم تجاهل التحذيرات المتعلقة بمخاطر الذكاء الاصطناعي، مؤكدين أن هناك أسباباً جدية للقلق بشأن تطوره واستخداماته المستقبلية.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSDFRWEhkdzBoYzQwY0JHUHBjejMtUGpMazdsbWcxX1FPakVlN3ZWOGtoejNFQmVTUnNhYzdnRUg5ZGdDSmRVV0RkM3BDZHh3REN3clVOcjczY1o4dlM3bXJDOEg5SjZlQzYwamo5aFMtUWhKSWJOYUhCVDl2d0FISlNaelQwTG94QnZXR2ptX2xVdkN6MWVxQ2I0YVlfUzdzYjdRYjh5SXhRRHNNQ1FVcVFPdlk?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "أسبوع التكنولوجيا بجامعة فيريس: التركيز على دور الذكاء الاصطناعي المتنامي",
-   "summary": "تركز جلسات أسبوع التكنولوجيا في جراند رابيدز على الدور المتزايد الذي يلعبه الذكاء الاصطناعي في المجتمع والاقتصاد، وتناقش تطبيقاته العملية والتحديات المرتبطة به.",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczc5R09hNHJ0Wm5XS0lqRXlDTWJBbjVSWUlybXp6MkVubzduYTJnNkZxejBGSktmd2p6RFdnQmxLUFFjekNPdkM2ZXJJVE9XZW1mTnlrSHo4OEtDdFlRY3ZnM3N5dTFDRTNZQjFpMVlpa1AzRXJLMUxCRjFWRHhHTll6VDNsNklDVldrTzFwOWtRMGJMZDV4cVc1LUZwaXNxQ00tNA?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-11"
