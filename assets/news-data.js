@@ -1,42 +1,82 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-10T23:01:27.542885+00:00",
+ "updated": "2026-09-11T07:54:52.661005+00:00",
  "items": [
   {
-   "title": "الرئيس التنفيذي لـ إنفيديا يتوقع نموّاً قويّاً للشركة في العام المقبل",
-   "summary": "أعلن جينسن هوانج أن إنفيديا تتمتع بحضور قوي في قطاعات متعددة، وتتوقع عاماً آخر من النمو والازدهار. أكد الرئيس التنفيذي أن عقود الشركة لا تتضمن علاقات تضارب مصالح.",
+   "title": "عصر الذكاء الاصطناعي المضطرب: الخيارات الحاليّة حاسمة",
+   "summary": "يؤكد بيل جيتس في مقالته أن العالم يدخل مرحلة حرجة من تطور الذكاء الاصطناعي تتطلب قرارات استراتيجية صائبة. يشدد على أهمية الاختيارات التي تُتخذ الآن في توجيه مسار هذه التكنولوجيا ومستقبلها.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "جامعة فيريس تستضيف جلسات نقاش حول دور الذكاء الاصطناعي المتنامي",
+   "summary": "نظمت جامعة فيريس ستيت فعاليات تقنية في جراند رابيدز ركزت على الدور المتزايد للذكاء الاصطناعي في مختلف القطاعات. تعكس هذه الجلسات الاهتمام الأكاديمي المتنامي بفهم تطبيقات وتأثيرات تقنيات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczc5R09hNHJ0Wm5XS0lqRXlDTWJBbjVSWUlybXp6MkVubzduYTJnNkZxejBGSktmd2p6RFdnQmxLUFFjekNPdkM2ZXJJVE9XZW1mTnlrSHo4OEtDdFlRY3ZnM3N5dTFDRTNZQjFpMVlpa1AzRXJLMUxCRjFWRHhHTll6VDNsNklDVldrTzFwOWtRMGJMZDV4cVc1LUZwaXNxQ00tNA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "حاكم كاليفورنيا يوقّع قانوناً لفرض مراجعات مستقلة لأنظمة الذكاء الاصطناعي",
+   "summary": "وقّع حاكم كاليفورنيا قانوناً جديداً يلزم الشركات بإجراء مراجعات مستقلة وخارجية لأنظمة الذكاء الاصطناعي قبل نشرها. تهدف التشريعات إلى تعزيز السلامة والشفافية في تطوير واستخدام هذه التقنيات الحساسة.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONXFkMXJLbkpuVXNDQ3ZCUGxBdFZUdmtGeXdNOGJ1SWc3X3NVRGNpYjAtN2NUc3dfOXJfdU12eFZrTnlLUml3ZFBsMm56YTkyUks3YWMtdVdpd2Izak8zWWpPV3hPeWRxRlpLeS05VlFIbHRQUGtjOWR6WnN0VGZjVC1aX0xFb2JQSnNBTkFtZHhRcnl4QmhaXzJiRVFzMnpQX0xwTDdrdUMwX3BfTnBrYmxYM0pWUGl6Zk1nTm1tZUR0LTRreWQ1YQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "أنثروبيك توقف محاولات إساءة استخدام نماذجها في تطوير أسلحة بيولوجية",
+   "summary": "أعلنت شركة أنثروبيك عن نجاحها في منع محاولات لاستخدام نماذج ذكاء اصطناعي لها بطرق قد تدعم تطوير أسلحة بيولوجية. يعكس هذا الإجراء الجهود المستمرة من قبل مطوري الذكاء الاصطناعي للحد من الاستخدامات الضارة لتقنياتهم.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "باحثون في أنثروبيك يحذّرون من مخاطر الذكاء الاصطناعي وسط انتقادات إيلون ماسك",
+   "summary": "أطلق عدد من باحثي شركة أنثروبيك تحذيرات بشأن الأخطار المحتملة لتطور الذكاء الاصطناعي، في حين انتقد إيلون ماسك هذه الآراء واعتبرها نوعاً من العمليات النفسية. تعكس هذه الخلافات الجدل المستمر حول مدى القلق الفعلي من مخاطر التقدم السريع في هذا المجال.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeG9CTGdvNDlpZlRmYU9BeEtNNC1qQWhkWHBJZmthYzBWalBUSEN0MmRUOFM2SERjX0M2V195ZmRsTkxoVzEyVUttT2pOODhKNHlQOXVZRGdwRVBicGExZU1FNEpGVlIxWDczbll5anB1QURMbk1jdFJ3ZVlxWlRaVkVqcWFyYS1qdzZ5aUx3?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "جنسن هوانج يشرح توقعات نيفيديا بنمو استثنائي في العام المقبل",
+   "summary": "أشار رئيس نيفيديا جنسن هوانج إلى أن الشركة متموضعة في قطاعات تقنية متعددة وتتوقع نمواً ملحوظاً. أكد هوانج أن العقود والشراكات الحالية للشركة لا تتسم بهياكل دائرية أو حلقية في تفاعلاتها التجارية.",
    "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-10"
   },
   {
-   "title": "مارك والبرج يشارك في مؤتمر TechCrunch Disrupt 2026 للحديث عن الاستثمار والأعمال",
-   "summary": "سيحضر النجم مارك والبرج فعالية Disrupt القادمة برفقة بروس كي لي للنقاش حول الاستثمار والريادة والصحة والعافية وبناء الشركات الناشئة.",
+   "title": "مارك والبيرج يشارك في مؤتمر تيك كرانش ديسراب 2026 للحديث عن الاستثمار والريادة",
+   "summary": "سيشارك الممثل مارك والبيرج في فعالية تيك كرانش ديسراب القادمة إلى جانب بروس لي، حيث سيناقشان موضوعات متعلقة بالاستثمار والعمل الريادي والرعاية الصحية وبناء المشاريع التجارية.",
    "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-10"
   },
   {
-   "title": "OpenAI توقف قبول اشتراكات Pro الجديدة لتخفيف الضغط على أنظمتها",
-   "summary": "أوقفت OpenAI التسجيل في خطة Pro بسبب الطلب الكبير على خدماتها، حيث تسبب هذا المستوى من الاشتراكات بضغط كبير على بنيتها التحتية، وتعمل الآن على توسيع القدرات.",
+   "title": "أوبن إيه آي توقف قبول اشتراكات Pro بسبب الطلب الكثيف على Astra",
+   "summary": "أعلنت شركة أوبن إيه آي إيقافاً مؤقتاً لقبول المشتركين الجدد في خطة Pro، موضحة أن هذه الاشتراكات تفرض ضغطاً كبيراً على بنيتها التحتية، وستعمل على زيادة السعة قبل استئناف التسجيل.",
    "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-10"
   },
   {
-   "title": "أنثروبك تكشف عن هجمات تقطير معرفة موجهة من شركات ذكاء اصطناعي صينية",
-   "summary": "أصدرت أنثروبك تقريراً يوثق محاولات مستمرة لسرقة نماذجها من قبل شركات ذكاء اصطناعي صينية مثل علي بابا وموونشوت وديب سيك، وتصاعدت هذه الهجمات مع ازدياد المنافسة في السوق.",
+   "title": "أنثروبيك تكشف عن محاولات نسخ نماذج من شركات صينية متعددة",
+   "summary": "نشرت شركة أنثروبيك تقريراً يوثق هجمات متكررة لنسخ نماذجها من قبل شركات ذكاء اصطناعي صينية مثل علي بابا وموونشوت وديب سيك، مع ملاحظة تصعد هذه الحوادث مع تشديد المنافسة في المجال.",
    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-10"
   },
   {
-   "title": "تطبيق ميوز من ميتا يحقق المركز الثاني في أكثر التطبيقات تنزيلاً بأمريكا",
-   "summary": "حقق تطبيق ميوز الجديد من ميتا نتائج قوية في التصنيفات الأمريكية، رغم أنه بدأ ببطء أكثر من تطبيقات الشركة الأخرى مثل Meta AI و Threads.",
+   "title": "تطبيق ميتا الذكي Muse يصعد إلى المرتبة الثانية في الولايات المتحدة",
+   "summary": "حقق تطبيق Muse الجديد من ميتا موقعاً متقدماً بين التطبيقات الأمريكية، لكن نموه يتسم بوتيرة أبطأ مقارنة بتطبيقات ميتا الأخرى مثل Meta AI و Threads.",
    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -88,46 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.producthunt.com/products/openobserve",
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "Suno v6 - إصدار جديد من منصة توليد الموسيقى",
-   "summary": "أطلقت Suno نسخة محدّثة من منصتها لتوليد الموسيقى بواسطة الذكاء الاصطناعي. يتوقع أن يأتي الإصدار بتحسينات على جودة الإنتاج والقدرات المتعلقة بإنشاء المقاطع الموسيقية.",
-   "url": "https://www.producthunt.com/products/suno",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "أداة Modeinspect للفحص والتحليل",
-   "summary": "أداة جديدة ظهرت باسم Modeinspect مخصصة لفحص وتحليل نماذج وأنظمة معينة. توفر الأداة وظائف تقييمية للتحقق من الأداء والسلامة في سياقات تطبيقية متنوعة.",
-   "url": "https://www.producthunt.com/products/modeinspect-1-0",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "أنثروبيك تكتشف أن وكلاء الذكاء الاصطناعي يرفضون اختبارات CAPTCHA مثل البشر",
-   "summary": "كشفت شركة أنثروبيك أن وكلاء الذكاء الاصطناعي يواجهون صعوبة في اجتياز اختبارات التحقق من الهوية البشرية، وقد طورت الشركة طرقاً لفهم كيفية محاولة هذه الوكلاء التحايل والتظاهر بأنها بشرية على الإنترنت.",
-   "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "منصة Pocket FM الهندية تضاعف معدل إيراداتها بفضل الذكاء الاصطناعي",
-   "summary": "حققت منصة Pocket FM الهندية لتوزيع المحتوى الصوتي معدل إيرادات بلغ 500 مليون دولار، حيث تعتمد على الذكاء الاصطناعي في إنتاج 93% من محتواها، مما خفّض تكاليف الإنتاج بنسبة كبيرة جداً.",
-   "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "وكلاء الذكاء الاصطناعي يغمرون الخدمات العامة برسائل طلبات جديدة",
-   "summary": "بدأ وكلاء الذكاء الاصطناعي بتقديم طلبات متزايدة للخدمات العامة، وبحسب الباحثين فإن معظم هذه الحالات تتعلق بأشخاص لهم الحق الفعلي في المطالبة بالخدمات التي يطلبونها.",
-   "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-09-10"
   }
  ]
