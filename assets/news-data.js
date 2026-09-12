@@ -1,50 +1,98 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-11T23:06:14.165657+00:00",
+ "updated": "2026-09-12T07:47:38.619518+00:00",
  "items": [
   {
-   "title": "شركة ميكا للذكاء الاصطناعي تقترب من تقييم نصف مليار دولار في جولة بقيادة سيكويا",
-   "summary": "تسعى شركة ميكا المتخصصة في بيانات تدريب الروبوتات إلى إغلاق جولة تمويلية جديدة بتقييم يقارب نصف مليار دولار، بقيادة صندوق سيكويا الاستثماري. تأتي هذه الخطوة بعد أشهر من إعلان الشركة عن جولة السلسلة الأولى.",
+   "title": "أداة QApilot MCP لأنظمة أندرويد",
+   "summary": "أداة جديدة ظهرت باسم QApilot MCP موجهة لأجهزة أندرويد، تهدف إلى تيسير التفاعل مع أنظمة الذكاء الاصطناعي عبر واجهة متخصصة على الهواتف الذكية.",
+   "url": "https://www.producthunt.com/products/qapilot",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-12"
+  },
+  {
+   "title": "أداة ABrush للرسم والتصميم",
+   "summary": "أداة جديدة ظهرت باسم ABrush توفر إمكانيات متقدمة للرسم والتصميم بمساعدة الذكاء الاصطناعي، تدعم المستخدمين في إنشاء رسوميات واختيار الألوان والأنماط.",
+   "url": "https://www.producthunt.com/products/abrush-ai-2",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-12"
+  },
+  {
+   "title": "أداة Devin Voice للتفاعل الصوتي",
+   "summary": "أداة جديدة ظهرت باسم Devin Voice تمكّن المستخدمين من التفاعل مع نماذج الذكاء الاصطناعي عبر الأوامر الصوتية، مما يوفر طريقة بديلة للتحكم والاستعلام.",
+   "url": "https://www.producthunt.com/products/devin-voice",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-12"
+  },
+  {
+   "title": "إطلاق GPT-6 Astra من OpenAI",
+   "summary": "أعلنت OpenAI عن GPT-6 Astra، نموذج جديد موجه للاستخدام في بيئات العمل، يقدم قدرات معالجة متقدمة لمساعدة المحترفين في مهامهم اليومية.",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+   "source": "Google News — أدوات AI",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-12"
+  },
+  {
+   "title": "عصر الذكاء الاصطناعي المضطرب: الخيارات الحالية حاسمة للمستقبل",
+   "summary": "يؤكد تحليل أن المرحلة الحالية من تطور الذكاء الاصطناعي تتسم بالتقلبات والتحديات، وأن القرارات التي تُتخذ الآن ستكون لها تأثيرات عميقة على مسار هذه التكنولوجيا ومجتمعاتنا في السنوات القادمة.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-12"
+  },
+  {
+   "title": "روبوت محادثة قائم على الذكاء الاصطناعي يخفف أعراض الاكتئاب والقلق واضطرابات الأكل",
+   "summary": "أظهرت دراسة أن روبوت محادثة مدعوم بالذكاء الاصطناعي تمكّن من تقليل أعراض مشاكل صحية نفسية متعددة، مما يشير إلى إمكانية استخدام هذه الأدوات في دعم العلاجات النفسية والعقلية.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDREdTY2clpwOGREcjNaQkIyWVBsUEthLVJiTHhoWjBESURCNmRaeER6aXZXRV9Ya3gzdFRQZTB6bEFTQ1FySzhfQmI4b2lXUnFwVV9oQzhLMFBpSTByQ1Z5U2RDeWk3aGIweDBvQnRrQ21FQ0oxUVN5OGNGMURmeHN4aDVwd3p1QXpVWDdpNVMxUzhkTzdBX3ZoRUdOMHR6VTY3clBIbG1SaHFqQlQ3N2pMZGdlT09JZFphcXl5QndlVFpocHNz?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-12"
+  },
+  {
+   "title": "شركة Mecka للذكاء الاصطناعي تقترب من تقييم نصف مليار دولار في جولة استثمارية بقيادة Sequoia",
+   "summary": "حققت الشركة الناشئة المتخصصة في تدريب الروبوتات تقدماً استثمارياً كبيراً، حيث اقتربت قيمتها من نصف مليار دولار في جولة تمويل جديدة، بعد أشهر من إعلانها عن جولة تمويل أولية.",
    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-11"
   },
   {
-   "title": "رئيس Y Combinator يدعو المختبرات الأمريكية للذكاء الاصطناعي المفتوح الوزن لتطوير نماذج حدودية",
-   "summary": "يسعى جاري تان إلى تعزيز المختبرات الأمريكية الأصغر المتخصصة في نماذج الذكاء الاصطناعي المفتوحة الوزن باستخدام تقنيات تدريب متقدمة، بهدف إنشاء خيارات متنوعة وقوية لا تعتمد على البدائل الصينية.",
+   "title": "رئيس Y Combinator يدعو المختبرات الأمريكية المفتوحة إلى تطوير نسخ مبسّطة من نماذج الذكاء الاصطناعي المتقدمة",
+   "summary": "يسعى قادة الحاضنة إلى تعزيز جهود أمريكية محلية لإنتاج نسخ أكثر كفاءة من نماذج الذكاء الاصطناعي الحدية، مما يوفر للولايات المتحدة خيارات متنوعة وقوية بديلة عن البدائل الصينية.",
    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-11"
   },
   {
-   "title": "خلاف متصاعد بين أوبن إيه آي وعلماء الرياضيات",
-   "summary": "وقّع خمسة وعشرون عالم رياضيات بارزاً رسالة احتجاج مشتركة ضد شركات الذكاء الاصطناعي، منتقدين استخدام أعمالهم البحثية دون إذن في تطوير نماذج الذكاء الاصطناعي، ما يهدد حقوقهم الفكرية.",
+   "title": "تصعيد الخلاف بين أوبن إيه آي والرياضيين حول الملكية الفكرية",
+   "summary": "وقّع خمسة وعشرون عالم رياضيات رسالة مفتوحة يطالبون فيها شركات الذكاء الاصطناعي بوقف ما يعتبرونه تهديداً لأعمالهم الفكرية. يعكس الخطاب تزايد القلق الأكاديمي من استخدام منصات الذكاء الاصطناعي للبحث العلمي دون موافقة الباحثين أو تعويضهم.",
    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-11"
   },
   {
-   "title": "فرصة أخيرة: أسبوع واحد لحجز طاولة عرض في TechCrunch Disrupt 2026",
-   "summary": "تنبيه أخير للمهتمين بالحصول على طاولة عرض في مؤتمر تيك كرانش ديسرابت 2026، حيث لم يتبق سوى أسبوع قبل الموعد النهائي للتسجيل، والأماكن المتاحة محدودة وقد تنفذ قريباً.",
+   "title": "آخر أسبوع لحجز جناح العرض في مؤتمر TechCrunch Disrupt 2026",
+   "summary": "أتاحت منظمة المؤتمر فرصة محدودة الوقت لحجز أجنحة العروض قبل انتهاء الموعد النهائي في 18 سبتمبر. يحذّر المنظمون من أن الأجنحة المتاحة محدودة وقد تُباع قبل نهاية المهلة المحددة.",
    "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-11"
   },
   {
-   "title": "آخر موعد للتقديم لاستضافة فعالية جانبية في TechCrunch Disrupt 2026",
-   "summary": "انتهاء الموعد المحدد لتقديم طلبات استضافة فعالية رسمية جانبية خلال مؤتمر تيك كرانش ديسرابت 2026 في الليلة نفسها، الحادي عشر من سبتمبر الساعة 11:59 ليلاً بتوقيت المحيط الهادئ.",
+   "title": "موعد نهائي الليلة للتقديم على فعاليات TechCrunch Disrupt 2026 الجانبية",
+   "summary": "انتهت فترة التقديم لاستضافة فعاليات رسمية خاصة ضمن مؤتمر TechCrunch Disrupt 2026 الليلة بتمام الساعة 11:59 مساءً بتوقيت المحيط الهادئ في 11 سبتمبر. هذا هو الموعد النهائي الأخير لتقديم طلبات المشاركة.",
    "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-11"
   },
   {
-   "title": "محام يُغرّم بخمسة آلاف دولار لاستخدامه شهود مختلقة من الذكاء الاصطناعي",
-   "summary": "فرضت محكمة نيومكسيكو العليا غرامة على محام لإدراجه شهود وهمييّين وأدلة مفبركة من نماذج الذكاء الاصطناعي في استئناف قضية جنائية، معاقبة إياه على الإجراء غير القانوني الذي انتهك أصول العمل القضائي.",
+   "title": "محامٍ يُدفع غرامة لاستخدامه شهود مختلقين من الذكاء الاصطناعي",
+   "summary": "أصدرت محكمة نيومكسيكو العليا قراراً بفرض غرامة 5 آلاف دولار على المحامي ستيفن آرونز لإدراجه في استئناف قضية جنائية شهوداً وأدلة شرطية مزيفة من الذكاء الاصطناعي. يمثّل الحكم أول عقوبة قضائية بارزة لسوء استخدام تقنيات التوليد في الإجراءات القانونية.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
    "source": "The Verge AI",
    "tag": "منتجات",
@@ -75,57 +123,9 @@ window.NEWS_DATA = {
    "date": "2026-09-11"
   },
   {
-   "title": "الذكاء الاصطناعي في عصر من عدم الاستقرار: أهمية القرارات الحالية",
-   "summary": "يشدد بيل غيتس على أن العالم يشهد الآن مرحلة حرجة من تطور الذكاء الاصطناعي، والقرارات التي يتخذها المجتمع الآن ستحدد مسار هذه التكنولوجيا مستقبلاً. يؤكد على ضرورة الاهتمام بالتحديات والفرص التي تطرحها هذه الموجة من التطور التقني.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-11"
-  },
-  {
    "title": "هل يزيد الذكاء الاصطناعي الطلب على المكاتب والمباني التجارية؟",
    "summary": "يبحث التقرير في العلاقة بين تطور الذكاء الاصطناعي والطلب على الفراغات المكتبية والقطاع العقاري التجاري. قد يؤدي اعتماد هذه التقنيات إلى تغيير أنماط العمل، مما قد ينعكس على احتياجات الشركات من المباني والمساحات المكتبية.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGIwU3Y4N29nMXBNZzU2TWdfSmx1aGd2N1BNRnVpX0l3ZHNvMDQ2U3NDTnNFUU0xQktGVVBmMkluVGI4U1gyR2RaWUF6ZHVMdXk4R1d2dkdORGwtekxXR0hTa2xUWHp0bUFGM09nd2o3eVNJa1c0MVBhN0c3XzR2alZSQlh0WElOTmJCa18wM1d6Z0tTRUs2TW1zMk1ZalkxZ0d4SHgzOUNGVFlI?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "نسكيل تضم نائب الرئيس السابق في أوبن إيه آي إلى مجلس إدارتها قبل الطرح العام المحتمل",
-   "summary": "انضمت فدجي سيمو، التي تولت منصب النائب الثاني في شركة أوبن إيه آي، إلى مجلس إدارة شركة نسكيل. تتمتع سيمو بخبرة في قيادة الشركات الكبرى خلال مراحل الطرح العام، حيث أشرفت على إدراج إنستاكارت في البورصة عام 2023.",
-   "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "تطبيق كلاين للسطح",
-   "summary": "أداة جديدة باسم Cline Desktop App توفر واجهة لتطبيقات الذكاء الاصطناعي على أجهزة الحاسوب الشخصية.",
-   "url": "https://www.producthunt.com/products/cline-4",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "روبوت ذكاء اصطناعي يخفف أعراض الاكتئاب والقلق واضطرابات الأكل",
-   "summary": "أظهرت دراسة أن استخدام روبوتات الحوار المدعومة بالذكاء الاصطناعي أسهم في تقليل أعراض الاكتئاب والقلق واضطرابات تناول الطعام لدى المستخدمين، مما يشير إلى تطبيقات طبية واعدة للتكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDREdTY2clpwOGREcjNaQkIyWVBsUEthLVJiTHhoWjBESURCNmRaeER6aXZXRV9Ya3gzdFRQZTB6bEFTQ1FySzhfQmI4b2lXUnFwVV9oQzhLMFBpSTByQ1Z5U2RDeWk3aGIweDBvQnRrQ21FQ0oxUVN5OGNGMURmeHN4aDVwd3p1QXpVWDdpNVMxUzhkTzdBX3ZoRUdOMHR6VTY3clBIbG1SaHFqQlQ3N2pMZGdlT09JZFphcXl5QndlVFpocHNz?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "الفجوات غير المتكافئة في توزيع الذكاء الاصطناعي بالمدارس",
-   "summary": "حذّرت كلية بوث بجامعة شيكاغو من أن المدارس تشهد فروقات متزايدة في الوصول إلى تقنيات الذكاء الاصطناعي والاستفادة منها، مما قد يعمّق الفجوات التعليمية بين الطلاب.",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzhvZHRUR1ZjMzQzWGJ2R29WVkoxODZsMzlJU3RETmtYZW1RMXFQbGptTkN3bk5tbk5CXzlFZ1FwY1o2VnB3RTU2dFFpZE5yTW9kR2JKdl9tWUFLTDVUN1pzMzRhaUJiNHY3cGF5b0k2Q3NhbDIyd2dzZjlBZFFPUkJNT08tYVlTZTBsbA?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "تحذيرات جديدة بشأن مخاطر الذكاء الاصطناعي",
-   "summary": "صدرت تحذيرات متجددة حول الآثار السلبية المحتملة للذكاء الاصطناعي على عدة جوانب اجتماعية واقتصادية، مما يستدعي اهتماماً أكبر بإدارة مخاطره.",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjdxdmo1ekQ5T19pbXhXMHlmODZubVFkbXA1cGNMRWozTm9QdWE2bHJUWGNhRXZwT25ySldETkRaYkFYdXEzSm9kaGp3eHVnNmdkOWExVFlYU1NvRmVNRmZoc0hfR3REWkdDdzZ3QTdEWmx1V25EWGFYaUQ5UUVMbXQ4eUVfR29HOThjWkd6eE16Y3pP?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-11"
