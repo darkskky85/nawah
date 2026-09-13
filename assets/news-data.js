@@ -1,27 +1,83 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-13T13:44:16.893975+00:00",
+ "updated": "2026-09-13T18:00:59.398612+00:00",
  "items": [
   {
-   "title": "عصر الذكاء الاصطناعي المضطرب وأهمية القرارات الحالية",
-   "summary": "يناقش بيل جيتس في مقالته كيف أن العالم يدخل مرحلة حرجة من التطور السريع للذكاء الاصطناعي، ويؤكد أن الخيارات التي تُتخذ الآن ستؤثر بشكل عميق على مستقبل المجتمع والاقتصاد والأمن العالمي. يشدد على ضرورة التعامل المسؤول مع هذه التقنية الناشئة.",
+   "title": "أوباما يدعو الديمقراطيين لوضع خطة واضحة لحماية الذكاء الاصطناعي",
+   "summary": "أكد الرئيس الأسبق باراك أوباما أن على الحزب الديمقراطي إدراج الذكاء الاصطناعي ضمن أولوياته الرئيسية، ووضع استراتيجية محددة للتعامل مع تداعياته الاقتصادية والأمنية. دعوته تأتي في سياق النقاش المتنامي حول ضرورة تنظيم تطور هذه التكنولوجيا.",
+   "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-13"
+  },
+  {
+   "title": "أوباما يدعو الديمقراطيين لجعل رقابة الذكاء الاصطناعي أولويّة سياسية",
+   "summary": "أكد الرئيس الأمريكي السابق أوباما على ضرورة أن تركّز الأحزاب الديمقراطية على تشريعات صارمة لمراقبة تطور تقنيات الذكاء الاصطناعي وتطبيقاتها. يرى أوباما أن هذا الملف يجب أن يحتلّ موقعاً محورياً في أجندة الحزب السياسية.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV0pYQmdFdDdtdzZyUExENUJfM18tUEJud2Y2aUpNeG9SV2loa3FwMFFQWEhoTktGQnBkQWwxY1gtU0UyYWFYX24wNVMwZnlJbHIzRkFGbDBONlFvdlNJUHhrY01VdU5MSndvUUdkdmdMODF2UEdENG1n?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-13"
+  },
+  {
+   "title": "عصر الذكاء الاصطناعي المضطرب هنا، والقرارات الحالية حاسمة",
+   "summary": "يشير بيل غيتس إلى أن العالم يدخل مرحلة تاريخية من الاضطراب والتغيير السريع بفضل الذكاء الاصطناعي. يؤكد أهمية الخيارات والسياسات التي يتّخذها صنّاع القرار الآن في تشكيل مستقبل هذه التكنولوجيا وتأثيراتها.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-13"
   },
   {
-   "title": "توقعات بارتفاع سهم شركة رقائق ذكاء اصطناعي بعد نهاية سبتمبر",
-   "summary": "يتوقع محللون ارتفاع أسهم شركة متخصصة في تصنيع رقائق الذكاء الاصطناعي بعد تاريخ محدد، وليست الشركة المتوقعة هي ميكرون. يعكس هذا التوقع الثقة بنمو القطاع والطلب المتزايد على تقنيات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNckdMUHgybnpOUVVHVDZrR0FxdXZWcUdpNjBXTHpSZnRQU1VNTHFzbWVUMXN6U1VKVEpnYklOSHg3a0JUTm9iRE9CMUgyU01UbldmYXNRN0c2MER1bF81UGNXSXRjOGFMR0swN0VmUGZDcmhkcTdmd2NGRnZwQUZmUXZmejU1eC1wRHByZl9tUlhVUkFvTEJxdWFRX2t3YnlfakY4VVE1X3VyZw?oc=5",
+   "title": "إيجابيات وسلبيات الذكاء الاصطناعي: خمسة جوانب أساسية",
+   "summary": "تستعرض الجزيرة الفوائد والتحديات الرئيسية للذكاء الاصطناعي عبر تحليل متوازن لخمسة عناصر إيجابية وخمسة سلبية. يساعد هذا التقرير في فهم الآثار المختلفة لهذه التكنولوجيا على المجتمع والاقتصاد والعمالة.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkJUcjZydEhPb3Itel9PUVFhWFpZcm5GRE1UYUhQQWxRYjdLbmp0RTg4T050Q0N3UGtral9HSFEzc2NXcWFnd3FwOUhPS0tpc0k4cXFZOHJuWHJ1TUYzN1ItMUNxMGRDbDNiMlZYV205eERMTk9uUjg3NzJleUdYOG0zSEIzU2RHTDZCRjROMU9qZW14MXh1SnU1MlFrWkkt0gGmAUFVX3lxTE1PXy1fNFdzYUxKLUVpWWN0RjhGaEp4ZnJXOFVEOGZ6RkxYb0NKUDR5SkliWmZTSXpYR3U1RFdVc0ZPM0FuVll2cF9lbnRpcTN5ZWVWbm1mTVdobklyaVlqUGdRSlFaMEg5SVNTa1AyR25HN0pOUHptdnVmY01JQmRDZUxUbTV1OXl1Z2JjRDI5UXBRR1N5MzJqZWRHd1gxN1ZZZ1U2cHc?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-13"
   },
   {
    "title": "كيف سيعيد الذكاء الاصطناعي تشكيل النظام الرأسمالي؟",
-   "summary": "يناقش المحللون الآثار المحتملة للذكاء الاصطناعي على الأنماط الاقتصادية والرأسمالية العالمية. تشمل النقاشات التحديات والفرص التي قد تترتب على اندماج هذه التقنيات في الاقتصادات المختلفة.",
+   "summary": "تفحص الجارديان التأثيرات المحتملة للذكاء الاصطناعي على نماذج الاقتصاد والعمل والإنتاج العالمي. تثير التقارير تساؤلات حول طبيعة التحوّل الاقتصادي والاجتماعي الذي قد تحدثه هذه التكنولوجيا في الأسواق والمؤسسات.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0FZa2NtaEdMSERqbGRwMDN4Q1doVzF4VXIyVFFvNzVVRVZoVUtEYUY0eTZtbmtZQ3dVRjVoSGduMXp6OFNCVXVwaFd2SG5ISEtDSGNvQktCTEsxQ1RsYUdaSkFad2FKUWVyN3RiV1BoSjk0XzBXY0NPTVJocDZ6Z0FvZXhjOVJKam02M29Wb2Y?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-13"
+  },
+  {
+   "title": "أداة جديدة باسم GPT-6 Astra من OpenAI للعمل والإنتاجية",
+   "summary": "أداة جديدة ظهرت باسم GPT-6 Astra، وهي نموذج ذكاء اصطناعي موجّه لتعزيز المهام المهنية والإنتاجية في بيئات العمل المختلفة. تركّز الأداة على تقديم قدرات ذكية وسياقية لدعم المستخدمين في أداء مهامهم بفعالية أكبر.",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-13"
+  },
+  {
+   "title": "رئيس أنثروبيك: الصناعة أخفت الحقائق طويلاً بشأن مخاطر الذكاء الاصطناعي",
+   "summary": "انتقد رئيس شركة أنثروبيك دارو أمودي موقف القطاع من التعامل مع مخاطر الذكاء الاصطناعي، معتبراً أن الشركات لم تكن صادقة بما فيه الكفاية حول التحديات الأمنية والأخلاقية المرتبطة بتطوير هذه التقنيات.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0T2hiNDk0X2Z1YldEc2JwUTFSU19zVFd3eTdMaHUyZlA3Z0ljdnZOS2FBZlAxNWo2ZVE3ODdYVFNDeWNtWnlleGR0OTZ4OEJTX3lmX1JvVUhlLWgwVVg0aW4tcllVVlJfVEFMTUFKNFNsMVplR2pB?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-13"
+  },
+  {
+   "title": "رئيس أوبن إيه آي وإيلون ماسك يطالبان بضبط وتيرة تطوير الذكاء الاصطناعي",
+   "summary": "أعرب قادة بارزون في مجال الذكاء الاصطناعي عن قلقهم من سرعة التطوير غير المنضبطة، وطالبوا بفرض قيود تنظيمية أقوى للحد من المخاطر المحتملة للتكنولوجيا المتقدمة.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-13"
+  },
+  {
+   "title": "أنثروبيك تختار بورصة ناسداك لطرحها العام",
+   "summary": "عازمة أنثروبيك على الدخول إلى سوق الأسهم العام عبر قيدها بناسداك، في خطوة تعكس نضج الشركة وجاهزيتها للاستثمار العام والتوسع المالي.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDg3dC1KTGZCUzVUbnNPOGpvSUZHdUhZTlI0eEJjYmdFUE1ZT3RaV29jd3ZJamtjakVRTnNKbE0zcVFETmtSaC1RRXZHTS1GNG56UV8tYkJkbnJpVEVwSzM4MnhpZ3o2bkhkM3Y0aWVNcW1QT0dJVlZoTUlzc0JfaWhvS2phRVE3dVYyYnpzSmJ3UzhZRWVVb0FSblpxUDA?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-13"
+  },
+  {
+   "title": "توقعات بارتفاع سهم شركة رقائق ذكاء اصطناعي بعد نهاية سبتمبر",
+   "summary": "يتوقع محللون ارتفاع أسهم شركة متخصصة في تصنيع رقائق الذكاء الاصطناعي بعد تاريخ محدد، وليست الشركة المتوقعة هي ميكرون. يعكس هذا التوقع الثقة بنمو القطاع والطلب المتزايد على تقنيات الذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNckdMUHgybnpOUVVHVDZrR0FxdXZWcUdpNjBXTHpSZnRQU1VNTHFzbWVUMXN6U1VKVEpnYklOSHg3a0JUTm9iRE9CMUgyU01UbldmYXNRN0c2MER1bF81UGNXSXRjOGFMR0swN0VmUGZDcmhkcTdmd2NGRnZwQUZmUXZmejU1eC1wRHByZl9tUlhVUkFvTEJxdWFRX2t3YnlfakY4VVE1X3VyZw?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-13"
@@ -40,14 +96,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aczlIdEtpNllGU1NEQUZCaDZCS1VFaEVaUnMzSU1OQ0pjQ19sdExRRVhvOWthX2VUWUgxUElDQjJ2Z3V2VGpObHhmckc4SHJXZXVhbUY1eXlmUQ?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
-   "date": "2026-09-13"
-  },
-  {
-   "title": "أوبن إيه آي تكشف عن نموذج ذكاء اصطناعي جديد للعمل",
-   "summary": "أطلقت أوبن إيه آي نموذجاً متقدماً يهدف إلى تحسين الأداء والكفاءة في المهام المهنية والعملية. يمثل هذا الإصدار خطوة جديدة في تطور نماذج اللغة الضخمة للتطبيقات الاحترافية.",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-09-13"
   },
   {
@@ -81,54 +129,6 @@ window.NEWS_DATA = {
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
    "date": "2026-09-13"
-  },
-  {
-   "title": "مقارنة اتجاهات الإيرادات بين شركتي ذكاء اصطناعي: C3.ai و UiPath",
-   "summary": "تحليل مقارن لمسارات النمو المالي بين شركتي ذكاء اصطناعي متخصصتين، يسلط الضوء على كيفية اختلاف أداؤهما المالي وانعكاس ذلك على استثمارات المستثمرين في قطاع الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRFRpeEhHaDJCOTZJVk9aS1dub0x5dEp5T3M1eHozSEQ3YkNWZGlWaGh5SS0zMTdOSHBTdEJfbzJRVE0wRmF3c0M4MnlMd2txb0NRb1hYMFU2c0tsZVZzM3JWc1h5S3pFZzRoXzBzZE5TX25BVzlMeGQtQ2c0c2M2SW9ELTFzNm1aOVdoczI3ampvQ3JnWkpUREp4dHZYOVRIY2NQLU00UktFQ3B1aW9JS2Rxa0VuVFZmM25FX09GRDNfZk1RNXRuNEQwTExNaTlVM1hkektCMnRuby0zQ29MZQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-13"
-  },
-  {
-   "title": "رئيس شركة Anthropic يطالب بتباطؤ وتيرة تطور الذكاء الاصطناعي",
-   "summary": "أعرب الرئيس التنفيذي لشركة Anthropic عن قلق بشأن سرعة تطور تقنيات الذكاء الاصطناعي، داعياً إلى اتخاذ نهج أكثر حذراً في تطويرها لضمان السلامة والأمان.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-13"
-  },
-  {
-   "title": "قادة صناعة الذكاء الاصطناعي يحذرون من التطور المتسارع",
-   "summary": "اتحد عدد من القيادات البارزة في مجال الذكاء الاصطناعي لإطلاق تحذير جماعي حول سرعة التقدم التكنولوجي، معبرين عن مخاوف تتعلق بالتبعات الأمنية والأخلاقية للتطور السريع غير المنضبط.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-13"
-  },
-  {
-   "title": "OpenAI تؤجل خطط الطرح العام بسبب مخاوف الأمان",
-   "summary": "أعلن الرئيس التنفيذي لـ OpenAI تأجيل خطط الاكتتاب العام للشركة، مشيراً إلى أن تركيزها ينصب حالياً على معالجة المخاوف المرتبطة بسلامة وأمان تقنيات الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kOTVXM1dpbzZyS3lOVnlHTFBkQlIxZUJDTWRoZ1doeEg2TWl5czhzWnVsWWRuclZLcThWM3RjN3J0Ym5nWEdHRl9LM0cyckVyLW9aWGxMU05XbVpVcThqVEZIYndSTm04V2tLUll6QVV1YVlaUWc?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-13"
-  },
-  {
-   "title": "سام ألتمان: الاكتتاب العام لأوبنإيه في 2026 قرار غير حكيم حالياً",
-   "summary": "أشار الرئيس التنفيذي لأوبنإيه إلى أن الشركة لن تدخل إلى سوق الأسهم خلال العام الحالي، رغم تقديمها طلب اكتتاب سري مسبقاً. يؤجل هذا القرار خطط الشركة للطرح العام حتى وقت لاحق يراه القيادة أكثر ملاءمة.",
-   "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-12"
-  },
-  {
-   "title": "رئيس أنثروبك يقدم خطة لتنظيم وتيرة تطور الذكاء الاصطناعي",
-   "summary": "يتفق قيادا أنثروبك وأوبنإيه على ضرورة تبني نهج أكثر حذراً في تطوير تقنيات الذكاء الاصطناعي الحدودية. تركز الخطة المقترحة على إيجاد توازن بين الابتكار والحفاظ على معايير الأمان والمسؤولية في القطاع.",
-   "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-12"
   }
  ]
 };
