@@ -1,26 +1,90 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-14T23:45:26.446976+00:00",
+ "updated": "2026-09-15T08:31:05.617991+00:00",
  "items": [
   {
-   "title": "الرئيس التنفيذي لإنفيديا يرفض فكرة إبطاء تطور الذكاء الاصطناعي",
-   "summary": "أعلن جنسن هوانج رئيس إنفيديا معارضته لدعوات إبطاء وتيرة تطور الذكاء الاصطناعي، وذلك بعكس موقف إيلون ماسك وسام ألتمان وداريو أمودي الذين دعوا إلى تبني نهج أكثر حذراً في التطور التكنولوجي.",
+   "title": "جهاز هاتفي لافت في مكالمة جنسن هوانج مع ترامب",
+   "summary": "خلال مكالمة حية بين الرئيس ترامب والرئيس التنفيذي لإنفيديا جنسن هوانج، لفت الانتباه الهاتف الذكي الذي استخدمه هوانج لإجراء المكالمة بقدر ما لفت اهتمام محتوى النقاش نفسه.",
+   "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "هل تباطؤ الذكاء الاصطناعي بين كبرى الشركات تحالف أمني أم احتكار سوقي؟",
+   "summary": "اتفق قادة من أوبن إيه آي وأنثروبيك وجوجل ديب مايند وسبيس إكس على تبطيء تطوير الذكاء الاصطناعي، لكن البعض يشكك في الدوافع الحقيقية لهذا التحالف، معتبراً إياه قد يكون محاولة للسيطرة على السوق بدلاً من تحقيق أهداف أمنية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "عصر الذكاء الاصطناعي المضطرب: قرارات حاسمة تنتظرنا",
+   "summary": "يؤكد بيل غيتس على أن المرحلة الحالية من تطور الذكاء الاصطناعي تشهد تقلبات كبيرة وتحديات حقيقية. القرارات التي نتخذها الآن ستؤثر بشكل عميق على مستقبل المجتمع والاقتصاد والأمان.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "قادة في مجال الذكاء الاصطناعي يطالبون بتبطيء وتيرة التطوير",
+   "summary": "دعا مجموعة من الخبراء البارزين في الذكاء الاصطناعي إلى تقليل سرعة البحث والتطوير في هذا المجال. المطالبة تركز على ضرورة إجراء تقييمات أمان شاملة والتفكير في الآثار المجتمعية للتقنيات الناشئة.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "جامعة فريسنو تطلق تخصصاً فرعياً في الذكاء الاصطناعي",
+   "summary": "أضافت جامعة فريسنو برنامجاً تعليمياً جديداً متخصصاً في الذكاء الاصطناعي لطلابها. يعكس هذا الخطوة الاهتمام المتزايد بإعداد الكوادر المهنية في المجالات التقنية الحديثة.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXlLUjZONkZHTDlJVUo2UDh0Z3VCSDlNa05JWkxNeWZ1NFl5U2gwTXhfN0NkRVo4Sm5qZUhjeTJsbW9xX0xPcl9SYWVyRUhKbXNhQmNBSjRYalVobzMxemVMOVFGd0NITm0xUVUzTmhmbnltb011VUtWSk4yRmE2SHlBQUtJWjlF0gGOAUFVX3lxTE1qWmtJZ2RTSHZCZVJWNDVYRFQ4cllneV9JSW5sSE1DTGZKa2FpWjM2b0p2dF9raDBqQm5DMks4dlFFVDVZMk1JM3A1R3JCbGdBWWJRUWdqUFhMQVg4QnlUMXhBNmFjUy1SLVdZREp6OGJxd29CQ2Y3d08yY09wMWZkU1BmalFpNDhWVnJhM0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "هل يستطيع الذكاء الاصطناعي حلول الصيانة المنزلية؟",
+   "summary": "تتناول هذه المادة إمكانيات استخدام الذكاء الاصطناعي في أعمال الصيانة والإصلاح المنزلي. يبحث التقرير عما إذا كانت التقنيات الحالية تستطيع القيام بمهام يقوم بها الحرفيون والمتخصصون.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemRSU0NHR29nY0prczFibVFVSXBqTjY3SnFPbk10VE93Y3ZMUVJxeVBoTkFONFZ5TTZfNTJqNi1hZkxKMlhtemtJM0ZlZEM4WDROemttNlV1eXlTY0J3LTlNZmpldFJnMlkwWXpjZ1RCd3U2Z09iWUE0b2RtckVzZk5ablliV1YwV3B0R0dLUDJ0RGlHTmpDRElSbGdxel9q?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "أوبن إيه آي تعلن عن جيل جديد من نماذج الذكاء: جي بي تي-6 أسترا",
+   "summary": "أطلقت أوبن إيه آي نسخة محدثة من نموذج جي بي تي موجهة للبيئات المهنية والعملية. الإصدار الجديد يهدف لتعزيز إنتاجية العمل وتحسين القدرات التطبيقية للذكاء الاصطناعي في السياق المؤسسي.",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "ترامب يدعو لتسريع سباق الذكاء الاصطناعي مقابل نداءات قادة التكنولوجيا بالتمهل",
+   "summary": "يسعى ترامب إلى تسريع وتيرة التطور في مجال الذكاء الاصطناعي، في موقف يتعارض مع دعوات من قادة التكنولوجيا الكبار للبطء والحذر. يعكس هذا انقساماً في الآراء بين المسؤولين والقطاع الخاص حول الخطى الملائمة لتطوير هذه التكنولوجيا.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFpkVktGTDVQYlRMQjBkem9USkVXZE9ha3ZOU2l3ZlVWSnNObFJlbGU1TzhFNzRfTGRtSlZDbU14Z3FLWVJlSVFZMlk5N0l3ZG9Pa2tqOHUtSnUwSnp4Q244OVhEYVd0LVBzdjB5bkxRdVBoSGNtSS03V09qVXBTMXEyTzJvSzh5ZFozZUtUVFhyYUZ2WEUya0xhMkN6ZFhrc281Z0NfY0xUd29wb3dPcGpjZk51dw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "رئيس إن‌فيديا يؤكد عدم السماح بتباطؤ سباق الذكاء الاصطناعي",
+   "summary": "أعلن جينسن هوانج، الرئيس التنفيذي لشركة إن‌فيديا، معارضته لأي محاولة لتبطيء وتيرة تطور الذكاء الاصطناعي. يختلف موقفه عن بعض رموز الصناعة الآخرين مثل إيلون ماسك وسام ألتمان، اللذين أيّدا دعوات بالتمهل في هذا المجال.",
    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-14"
   },
   {
-   "title": "أوبن إيه آي تستحوذ على شركة متخصصة في كاميرات الهواتف الذكية",
-   "summary": "استحوذت أوبن إيه آي على شركة Glass Imaging المتخصصة في تطوير تقنيات الكاميرا بمبلغ 300 مليون دولار. الشركة المستحوذ عليها أسسها مهندسان سابقان من أبل كانا من قادة فريق تطوير تقنية Portrait Mode في أجهزة أبل.",
+   "title": "أوبن‌إيه‌آي تستحوذ على شركة متخصصة في كاميرات الهواتف الذكية",
+   "summary": "استحوذت أوبن‌إيه‌آي على شركة Glass Imaging المتخصصة في تكنولوجيا الكاميرات الذكية بقيمة 300 مليون دولار. الشركة المستحوذ عليها تأسست من قِبل مهندسَين سابقَين من أبل عملا في تطوير ميزة Portrait Mode في هواتف آيفون.",
    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-14"
   },
   {
-   "title": "مساعد سيري يستعيد الفائدة العملية مع نسخة iOS 27",
-   "summary": "قدمت أبل تحديثاً شاملاً لمساعدها الصوتي سيري في نظام iOS 27 الجديد، مما رفع من كفاءة المساعد وجعله أكثر نفعاً في الاستخدام اليومي للمستخدمين.",
+   "title": "تحديث iOS 27 يعيد الحياة إلى مساعد سيري",
+   "summary": "أطلقت أبل نسخة محسّنة من مساعدها الذكي سيري عبر نظام iOS 27، بعد تأخر طويل في هذا التحديث. التحسينات تجعل المساعد أكثر نفعاً وفعالية في الاستخدام اليومي.",
    "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -40,14 +104,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "هل اتفاق تبطيء الذكاء الاصطناعي تعاون أمني أم احتكار؟",
-   "summary": "أعرب متشككون عن مخاوف حول الاتفاق المتفق عليه بين قادة شركات تقنية كبرى بشأن إبطاء تطور الذكاء الاصطناعي، حيث يشكك البعض في النوايا الحقيقية وراء هذا الاتفاق ويرونه قد يكون محاولة احتكارية بدلاً من خطة أمنية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-09-14"
   },
   {
@@ -72,62 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "صناعة الذكاء الاصطناعي تتجه نحو التشاؤم: ماذا بعد؟",
-   "summary": "بعد نشر الرئيس التنفيذي لـ Anthropic مقالاً يدعو لتقليل وتيرة تطوير نماذج اللغة، اتجهت النقاشات في الصناعة نحو مخاوف جدية بشأن المخاطر المحتملة. يعكس هذا التحول نقاشاً متنامياً حول توازن التطور التكنولوجي مع السلامة والأمان.",
-   "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "وكلاء ذكاء اصطناعي يفضحون زملاءهم الغاشين",
-   "summary": "في تجربة أجرتها Google DeepMind، اكتشف باحثون أن وكلاء الذكاء الاصطناعي بادروا بفضح نظرائهم عند محاولتهم الغش في مسائل حسابية. تعكس هذه السلوكيات الإيجابية آفاقاً مهمة لباحثي المحاذاة في ضمان سلامة أنظمة الذكاء الاصطناعي.",
-   "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "مخاطر الاستحواذ: عندما تتحول منتجات الشركات الناشئة إلى ميزات عملاقة",
-   "summary": "تواجه شركات الذكاء الاصطناعي الناشئة تحدياً جوهرياً يتجاوز جودة المنتج؛ فالخطر الحقيقي يكمن في بناء حل قوي قد يصبح لاحقاً مجرد ميزة مدمجة في منتجات الشركات العملاقة. المناقشة تدور حول استدامة نماذج العمل وسط التطور المستمر للنماذج الأساسية.",
-   "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "Superhuman تستحوذ على منصة تسجيل الاجتماعات Fathom",
-   "summary": "أعلنت شركة Superhuman عن استحواذها على تطبيق Fathom المدعوم من حاضنة Y Combinator، وهي منصة متخصصة في تسجيل ملاحظات الاجتماعات. تتمتع Fathom بقاعدة مستخدمين نشيطة تتجاوز 400 ألف مستخدم شهري، في سياق توجه منصات الإنتاجية نحو الأتمتة الذكية.",
-   "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "تقنيات الذكاء الاصطناعي تعيد الحياة إلى الأنواع المنقرضة",
-   "summary": "تدمج شركة ناشئة بتقييم يصل إلى مليار دولار بين الذكاء الاصطناعي والهندسة الحيوية والبيولوجيا الحاسوبية لاستعادة الأنواع المنقرضة. هذا التقاطع بين التقنيات المتقدمة يفتح آفاقاً جديدة في أبحاث الحفاظ على البيئة ويطرح أسئلة أخلاقية معقدة حول دور التكنولوجيا في إعادة صياغة الطبيعة.",
-   "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "آخر فرصة للعرض في مؤتمر TechCrunch Disrupt 2026",
-   "summary": "بقي خمسة أيام فقط لتقديم طلب الحصول على موقع عرض في قاعة المعارض بمؤتمر TechCrunch Disrupt 2026 المقرر في 18 سبتمبر. المؤتمر يضم أكثر من 10 آلاف مؤسس ومستثمر وقائد تقني، مما يوفر منصة مهمة لعرض المشاريع الناشئة.",
-   "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "مقهى فينيل في طوكيو يطرح تطبيقات موسيقية بدون الاعتماد على الذكاء الاصطناعي",
-   "summary": "أطلقت شركة بقيادة رئيس سابق من Spotify تطبيقات موسيقية تجريبية تركز على مشاركة المستخدمين في عملية صنع الموسيقى. تعكس هذه المبادرة توجهاً بديلاً يؤكد على التفاعل البشري والإبداع المباشر بدلاً من الاعتماد على التقنيات التوليدية الآلية.",
-   "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-09-14"
   }
  ]
