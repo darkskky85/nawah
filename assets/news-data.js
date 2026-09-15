@@ -1,27 +1,115 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-15T08:31:05.617991+00:00",
+ "updated": "2026-09-15T14:15:12.615586+00:00",
  "items": [
   {
-   "title": "جهاز هاتفي لافت في مكالمة جنسن هوانج مع ترامب",
-   "summary": "خلال مكالمة حية بين الرئيس ترامب والرئيس التنفيذي لإنفيديا جنسن هوانج، لفت الانتباه الهاتف الذكي الذي استخدمه هوانج لإجراء المكالمة بقدر ما لفت اهتمام محتوى النقاش نفسه.",
+   "title": "متخصصون سابقون في الذكاء الاصطناعي يطلقون شركة للتحكم في وكلاء ذكية غير مضبوطة",
+   "summary": "أطلق موظفون سابقون في Anthropic وشركة METR شركة ناشئة باسم Artificial Intelligence Underwriting Company جمعت 40 مليون دولار في جولة تمويل من Ribbit Capital، بهدف إيجاد آليات للسيطرة على الأنظمة الذكية التي قد تخرج عن السيطرة.",
+   "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "نموذج تفكير جديد من Salesforce و Nvidia يثير قلق شركات الذكاء الاصطناعي الكبرى",
+   "summary": "أطلقت Salesforce نموذج Koa المبني على تقنية Nvidia المفتوحة الأوزان، وهو مصمم لأداء مهام المبيعات والتسويق وخدمة العملاء بكفاءة عالية.",
+   "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "جنسن هوانج يستقبل اتصالاً من ترامب ويسلط الضوء على جهاز آخر",
+   "summary": "استقبل الرئيس التنفيذي لـ Nvidia جنسن هوانج اتصالاً من دونالد ترامب، لكن الانتباه انصب على الهاتف الذكي المستخدم في هذا الاتصال أكثر من الحوار ذاته.",
    "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-15"
   },
   {
-   "title": "هل تباطؤ الذكاء الاصطناعي بين كبرى الشركات تحالف أمني أم احتكار سوقي؟",
-   "summary": "اتفق قادة من أوبن إيه آي وأنثروبيك وجوجل ديب مايند وسبيس إكس على تبطيء تطوير الذكاء الاصطناعي، لكن البعض يشكك في الدوافع الحقيقية لهذا التحالف، معتبراً إياه قد يكون محاولة للسيطرة على السوق بدلاً من تحقيق أهداف أمنية.",
+   "title": "كاميرا جرس الباب الذكية التي تربط الإنسان بمراقبة منزلك",
+   "summary": "أطلقت SimpliSafe جرس باب ذكي جديد بسعر 199.99 دولار يدمج مراقبة آلية مع إمكانية متابعة حي من قبل حارس أمان بشري، ويعمل مع خدمة الحماية الخارجية المتقدمة للشركة.",
+   "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "هل تباطؤ التكنولوجيا الكبرى في الذكاء الاصطناعي حماية أم احتكار سوقي؟",
+   "summary": "اتفق قادة شركات تقنية كبرى مثل OpenAI و Anthropic على تبطيء تطوير الذكاء الاصطناعي بحجة الأمان، لكن المراقبون يشككون في النوايا ويرون فيه محاولة للسيطرة على السوق والحد من المنافسة.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
    "source": "The Verge AI",
    "tag": "منتجات",
    "date": "2026-09-15"
   },
   {
-   "title": "عصر الذكاء الاصطناعي المضطرب: قرارات حاسمة تنتظرنا",
-   "summary": "يؤكد بيل غيتس على أن المرحلة الحالية من تطور الذكاء الاصطناعي تشهد تقلبات كبيرة وتحديات حقيقية. القرارات التي نتخذها الآن ستؤثر بشكل عميق على مستقبل المجتمع والاقتصاد والأمان.",
+   "title": "المخاطر المالية والاقتصادية للرهان الضخم على الذكاء الاصطناعي",
+   "summary": "تواجه الاستثمارات الضخمة في الذكاء الاصطناعي عدم يقين كبير حول تأثيرها الاقتصادي الفعلي، ما يثير تساؤلات حول جدوى هذه النفقات الضخمة والعوائد المتوقعة منها.",
+   "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "وكلاء متعددة الأنماط من سييرا",
+   "summary": "أداة جديدة ظهرت باسم Multimodal Agents التابعة لشركة سييرا، وهي تقدم منصة لبناء وكلاء ذكية قادرة على التعامل مع أنواع متعددة من المدخلات والمخرجات، بما يسهّل إنشاء حلول تفاعلية متطورة.",
+   "url": "https://www.producthunt.com/products/sierra",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "منصة فويسكي لمعالجة الكلام",
+   "summary": "أداة جديدة ظهرت باسم Voiskey، وتركز على تحويل ومعالجة المدخلات الصوتية باستخدام تقنيات الذكاء الاصطناعي، مما يتيح تطبيقات متنوعة في مجالات التعرف على الكلام والترجمة الفورية.",
+   "url": "https://www.producthunt.com/products/voiskey",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "منصة سيفت للمهام الذكية",
+   "summary": "أداة جديدة ظهرت باسم siift، وتوفر حلاً لأتمتة المهام المختلفة بكفاءة عبر تطبيق تقنيات التعلم الآلي، مما يساعد في تحسين الإنتاجية وتقليل الجهد اليدوي.",
+   "url": "https://www.producthunt.com/products/siift",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "التحديات الحرجة في عصر الذكاء الاصطناعي المتقلب",
+   "summary": "قطعة تحليلية لبيل غيتس تناقش المرحلة الحالية من تطور الذكاء الاصطناعي واعتبارها فترة حرجة تتطلب قرارات مصيرية بشأن توجيه التكنولوجيا نحو خدمة الإنسانية والصالح العام.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "مؤتمر مونتيري يرفع مخاوف بشأن الذكاء الاصطناعي",
+   "summary": "طرحت جلسات مؤتمر مونتيري قضايا تتعلق بالمخاطر المحتملة للذكاء الاصطناعي وتأثيره على المجتمع. ركز النقاش على ضرورة وضع آليات رقابية وتنظيمية للحد من المخاطر المرتبطة بهذه التقنيات المتطورة.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnhpR2g3dHhMOTU3djFZaVJJRi1kbUwyOWZZOTV4dHBMLXdnN3ZlZmViUkFfVWxYOWprSnpoRmc1T2h6SkZ5RTdFYS03dC1TcHpxeXd3Uk1NQjhIWWZTTnF6Zk1hOUpXbHVoSGppYUoxY3pFZFkta002WjVGellfZjctaE8zT2pLMWQ2SXlLRQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "الذكاء الاصطناعي يحدث تحولات جذرية في عمليات تقييم الأثر الخاص",
+   "summary": "تؤثر تطبيقات الذكاء الاصطناعي بشكل متسارع على طرق إجراء عمليات تقييم الأثر الخاص (PIA) التي تهدف لحماية البيانات والخصوصية. يتطلب هذا التحول تطوير أطر عمل جديدة تواكب قدرات هذه التقنيات المتقدمة.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmkwa0pab0V2WVVSX0dEY1N1elRHU1JhRFZualo2cU9iN3Jkc1NJNGJDZlQ4M2pVSDVzX2JDVWp2dm9UTEtrQ0swcEoxVVZmLVY0bmJtdEhmaGtfdnVuTDFhYnJDamc5Qk1MYktVU3dlcGpyVEw1a1pvbUkwMTd4eFJKMkRGTXBQSmcza2xPLXVwN2FSbExiWjVIOHdLTUFhc1pva204RHgtLXls?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "تعارض بين طموحات الذكاء الاصطناعي واحتياجات الطاقة في أجندة المسؤولين",
+   "summary": "يواجه صناع القرار تحديات متزايدة في الموازنة بين تطوير تقنيات الذكاء الاصطناعي واحتياجات الطاقة المتزايدة المرتبطة بها. يشير الحوار الدائر إلى توتر بين الرغبة في تطوير هذه التقنيات والقلق من استهلاكها الكبير للموارد الطاقية.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQl9oZU93ejl0ZmJVNjZvUnBpZjRpTzhEREZhS2lYbmpaYzNfMlk5aUtXTWc2dnF6LWlORmNWa2FlSEFiT2Izc3lsU0hoZWZFSDliUk02ZnVQZnpDRWxhRTZkVmpNTlRwRWhRYlBseXlONXh4MHJWRUhYa1VJQ3cyaWs2VEhCM0d6Nl91UHVSZFFZMDhyVUpkTm16czY1SHpZYkU5VTZtTC1md0kxMXB0T1ppOXRfNnRuUVB3?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "خلافات متزايدة حول مسار تطور الذكاء الاصطناعي",
+   "summary": "يتسع النقاش بين المتخصصين وصناع السياسات حول الاتجاه الذي يجب أن يسلكه تطور تقنيات الذكاء الاصطناعي. تعكس الخلافات المختلفة وجهات نظر متباينة بخصوص التوازن بين الابتكار والأمان والمسؤولية الاجتماعية.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUx3a3RNc3A0TlFtcHN5ZlRjTGs2MXdsTllKWXluMGlaeVdqNWZEZGlyc2Y4THd4QnlLbnVCYjkycDlMdW5ja2Rqd3BvbXAyUjRHOVhMZ2tFZmtjbnhMS1MycV9HYklTNGhTc24wOUFnbm9pY1BiRFRVeXNDRkFRV18xZEVTZEE3enBwOFYwVFRESnNpZlJ3?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-15"
@@ -41,94 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
    "date": "2026-09-15"
-  },
-  {
-   "title": "هل يستطيع الذكاء الاصطناعي حلول الصيانة المنزلية؟",
-   "summary": "تتناول هذه المادة إمكانيات استخدام الذكاء الاصطناعي في أعمال الصيانة والإصلاح المنزلي. يبحث التقرير عما إذا كانت التقنيات الحالية تستطيع القيام بمهام يقوم بها الحرفيون والمتخصصون.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemRSU0NHR29nY0prczFibVFVSXBqTjY3SnFPbk10VE93Y3ZMUVJxeVBoTkFONFZ5TTZfNTJqNi1hZkxKMlhtemtJM0ZlZEM4WDROemttNlV1eXlTY0J3LTlNZmpldFJnMlkwWXpjZ1RCd3U2Z09iWUE0b2RtckVzZk5ablliV1YwV3B0R0dLUDJ0RGlHTmpDRElSbGdxel9q?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "أوبن إيه آي تعلن عن جيل جديد من نماذج الذكاء: جي بي تي-6 أسترا",
-   "summary": "أطلقت أوبن إيه آي نسخة محدثة من نموذج جي بي تي موجهة للبيئات المهنية والعملية. الإصدار الجديد يهدف لتعزيز إنتاجية العمل وتحسين القدرات التطبيقية للذكاء الاصطناعي في السياق المؤسسي.",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "ترامب يدعو لتسريع سباق الذكاء الاصطناعي مقابل نداءات قادة التكنولوجيا بالتمهل",
-   "summary": "يسعى ترامب إلى تسريع وتيرة التطور في مجال الذكاء الاصطناعي، في موقف يتعارض مع دعوات من قادة التكنولوجيا الكبار للبطء والحذر. يعكس هذا انقساماً في الآراء بين المسؤولين والقطاع الخاص حول الخطى الملائمة لتطوير هذه التكنولوجيا.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFpkVktGTDVQYlRMQjBkem9USkVXZE9ha3ZOU2l3ZlVWSnNObFJlbGU1TzhFNzRfTGRtSlZDbU14Z3FLWVJlSVFZMlk5N0l3ZG9Pa2tqOHUtSnUwSnp4Q244OVhEYVd0LVBzdjB5bkxRdVBoSGNtSS03V09qVXBTMXEyTzJvSzh5ZFozZUtUVFhyYUZ2WEUya0xhMkN6ZFhrc281Z0NfY0xUd29wb3dPcGpjZk51dw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "رئيس إن‌فيديا يؤكد عدم السماح بتباطؤ سباق الذكاء الاصطناعي",
-   "summary": "أعلن جينسن هوانج، الرئيس التنفيذي لشركة إن‌فيديا، معارضته لأي محاولة لتبطيء وتيرة تطور الذكاء الاصطناعي. يختلف موقفه عن بعض رموز الصناعة الآخرين مثل إيلون ماسك وسام ألتمان، اللذين أيّدا دعوات بالتمهل في هذا المجال.",
-   "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "أوبن‌إيه‌آي تستحوذ على شركة متخصصة في كاميرات الهواتف الذكية",
-   "summary": "استحوذت أوبن‌إيه‌آي على شركة Glass Imaging المتخصصة في تكنولوجيا الكاميرات الذكية بقيمة 300 مليون دولار. الشركة المستحوذ عليها تأسست من قِبل مهندسَين سابقَين من أبل عملا في تطوير ميزة Portrait Mode في هواتف آيفون.",
-   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "تحديث iOS 27 يعيد الحياة إلى مساعد سيري",
-   "summary": "أطلقت أبل نسخة محسّنة من مساعدها الذكي سيري عبر نظام iOS 27، بعد تأخر طويل في هذا التحديث. التحسينات تجعل المساعد أكثر نفعاً وفعالية في الاستخدام اليومي.",
-   "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "أداة جديدة ظهرت باسم Daydream لتسهيل التسوّق عبر الصور",
-   "summary": "تطبيق Daydream استفادة من ميزات Apple Intelligence الجديدة في iOS 27 لتحويل صور الملابس المحفوظة إلى نتائج قابلة للشراء، مع القدرة على البحث عن المنتجات عبر مساعد سيري دون الحاجة لفتح التطبيق مباشرة.",
-   "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "مايكروسوفت تضع مدونة سلوك أخلاقية لنماذج الذكاء الاصطناعي",
-   "summary": "أطلقت مايكروسوفت مدونة سلوك موجهة لنماذج الذكاء الاصطناعي تؤكد على دعم البشر بدلاً من استبدالهم وتعزيز ازدهارهم، وتتضمن قيوداً أمنية محددة لمنع استخدام هذه النماذج في اختراق الأنظمة أو خداع الأفراد.",
-   "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "تصريحات متباينة من قادة التكنولوجيا والساسة حول تبطيء تطور الذكاء الاصطناعي",
-   "summary": "نشر الرئيس التنفيذي لشركة Anthropic مقالاً يدعو إلى إبطاء وتيرة تطوير نماذج اللغة الكبيرة، مما أثار نقاشاً واسعاً بين قادة القطاع والمسؤولين السياسيين. انقسمت الآراء بين مؤيدين ومعارضين لفكرة التريث في تطور الذكاء الاصطناعي، وسط مخاوف متزايدة من سرعة التقدم التكنولوجي.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "الرئيس ترامب يطمئن من خلال اتصال مع الرئيس التنفيذي لـ Nvidia بشأن الروبوتات",
-   "summary": "اتصل الرئيس ترامب بالرئيس التنفيذي لشركة Nvidia جينسن هوانج أثناء حضوره فعالية All-In Summit، وتحدث أمام الحضور الكبير عبر مكبر الصوت. ركز الحديث على تطمينات بشأن مستقبل الروبوتات والذكاء الاصطناعي وتأثيره على الوظائف والاقتصاد.",
-   "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "مايكروسوفت تؤكد: الإنسان يسبق الذكاء الاصطناعي في أولوياتنا",
-   "summary": "أطلقت مايكروسوفت مدونة سلوك لـ 37 صفحة بعنوان \"أخلاقيات الذكاء الاصطناعي الإنساني\" ردّاً على المخاوف الأمنية المتعلقة بتطور نماذج الذكاء الاصطناعي. يأتي هذا الإجراء في سياق تحذيرات من باحثين حول احتمالية تفوق تطور الذكاء الاصطناعي على قدرتنا على السيطرة عليه.",
-   "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-14"
   }
  ]
 };
