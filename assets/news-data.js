@@ -1,21 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-16T08:25:09.515890+00:00",
+ "updated": "2026-09-16T14:07:14.871657+00:00",
  "items": [
   {
-   "title": "الرئيس التنفيذي لـ Nvidia يرفض الحاجة لتنظيم الذكاء الاصطناعي",
-   "summary": "أعرب جينسن هوانج رئيس شركة Nvidia عن رأيه بأن الذكاء الاصطناعي ليس ظاهرة غريبة بل هو مجرد أجهزة وبرامج، مؤكداً أن سلامة التطبيقات يمكن ضمانها من خلال الهندسة الداخلية لكل منتج دون الحاجة لتشريعات خارجية.",
+   "title": "فرصة أخيرة للعرض في مؤتمر تيكرانش ديسرابت 2026",
+   "summary": "تقترب نهاية فترة التسجيل لحجز جناح معرض في مؤتمر تيكرانش ديسرابت بثلاثة أيام فقط. المؤتمر سيجمع أكثر من 10 آلاف مؤسس وممول وقائد تقني خلال الفترة 13-15 أكتوبر، ما يوفر منصة لعرض العلامات التجارية والمشاريع الناشئة.",
+   "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "SK Hynix تتفاوض مع إنتل لإنتاج رقائق ذاكرة أمريكية",
+   "summary": "أفادت SK Hynix بأنها في محادثات مع إنتل بشأن تصنيع رقائق الذاكرة في الولايات المتحدة، لكنها أوضحت أن لم يتم إتمام أي اتفاقيات أو ترتيبات نهائية حتى الآن.",
+   "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "شركة ذكاء اصطناعي لرئيس إنفوسيس السابق تجمع 53 مليون دولار إضافية",
+   "summary": "استطاعت الشركة الناشئة بمنطقة بالو ألتو توقيع عدة عقود مع شركات كبرى بقيمة تجاوزت الملايين السبعة خلال أشهر قليلة من انطلاقها.",
+   "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "أمازون تطلق خدمة Alexa+ في الهند بدعم اللغة الهندية",
+   "summary": "أتاحت أمازون لجميع العملاء استخدام مساعدها Alexa+ في فترة الوصول المبكر، مما يوسع نطاق الخدمة لتشمل اللغة الهندية والأسواق الناشئة.",
+   "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "رئيس إنفيديا: الذكاء الاصطناعي لا يحتاج إلى تنظيم، الأمان يأتي من الشركات",
+   "summary": "رفع جنسن هوانج اعتراضات على الدعوات نحو تنظيم الذكاء الاصطناعي، معتبراً إياه مجرد أجهزة وبرامج يمكن تأمينها من قبل مصنعي المنتجات، وليس ظاهرة غامضة غريبة.",
    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-16"
   },
   {
-   "title": "استطلاعات رأي تكشف معارضة عامة واسعة لمراكز البيانات والذكاء الاصطناعي",
-   "summary": "أظهر استطلاع نشرته جريدة نيويورك تايمز وجامعة سيينا أن 61 بالمئة من المشاركين يعارضون بناء مراكز بيانات لدعم تطبيقات الذكاء الاصطناعي، مما يعكس تحفظات شعبية متزايدة على هذه المشاريع.",
+   "title": "قادة التكنولوجيا يدعون للتنظيم حتى مصالحهم على المحك",
+   "summary": "تاريخ متكرر من الرؤساء التنفيذيين في مجال الذكاء الاصطناعي يطالبون بتنظيم صارم، بما فيهم قادة OpenAI و Anthropic و Google DeepMind و Microsoft، رغم أن هذه الدعوات غالباً ما تأتي من جهات قد تستفيد مالياً من هذا المجال.",
+   "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "الذكاء الاصطناعي ومراكز البيانات يواجهان معارضة شعبية واسعة",
+   "summary": "أظهرت استطلاعات رأي حديثة أجرتها صحيفة نيويورك تايمز وجامعة سيينا أن الذكاء الاصطناعي ومراكز البيانات المخصصة له يحظيان برفض شعبي كبير. عارض حوالي 61% من المستجيبين بناء مراكز بيانات لدعم تقنيات الذكاء الاصطناعي، مما يعكس قلقاً متزايداً من التأثيرات المحتملة لهذه المشاريع.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
    "source": "The Verge AI",
    "tag": "منتجات",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "هل تباطؤ الذكاء الاصطناعي عند شركات التكنولوجيا الكبرى إجراء أمان أم تقييد منافسة؟",
+   "summary": "اتفق قادة من أكبر شركات التكنولوجيا مثل OpenAI و Anthropic وGoogle DeepMind و SpaceX على تباطؤ تطوير الذكاء الاصطناعي، لكن المراقبون يشكون في النوايا الحقيقية وراء هذا الاتفاق. يثير التطور تساؤلات حول ما إذا كان الهدف فعلاً تحقيق معايير أمان أم أنه محاولة للسيطرة على المنافسة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "المواد والمكونات الفيزيائية تصبح تحدياً أساسياً لنمو الذكاء الاصطناعي",
+   "summary": "مع تطور الذكاء الاصطناعي وتوسع احتياجات الحوسبة، أصبح تطوير مواد وأنظمة تحتية جديدة ضرورة ملحة. الرقاقات الإلكترونية ومراكز البيانات الحالية تقترب من حدودها الفيزيائية في الأداء وإدارة الحرارة، مما يتطلب ابتكاراً في المواد والهندسة.",
+   "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "عصر الذكاء الاصطناعي المضطرب: الخيارات التي نتخذها اليوم تحدد مستقبلنا",
+   "summary": "يؤكد بيل غيتس أن العالم يدخل مرحلة حرجة من تطور الذكاء الاصطناعي تتطلب قرارات استراتيجية حاسمة. يشير إلى أن الخيارات التي تُتخذ في الوقت الراهن ستشكل مسار تطور التكنولوجيا وتأثيراتها على المجتمع والاقتصاد العالمي.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "خبراء من أنثروبك ومايكروسوفت يناقشان حدود الذكاء الاصطناعي",
+   "summary": "نظّم مركز بركمان كلاين بجامعة هارفارد حلقة نقاش ضمّت باحثين من شركتي أنثروبك ومايكروسوفت للحديث عن التحديات والقيود التقنية والأخلاقية للذكاء الاصطناعي الحالي والمستقبلي.",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XajFPdXNBUTlaQnQxUnhRbkt5MVNLZ3hBUGFqWXRTRWM4NUZqeXZZZ25ucmdMdEc0RWhENkVPcnA0RGJXZzlWUUoyVVMzMVNzMzlHQUk5S0V1cUhIa0dYcF9DTVl5dk9CaHJ2T0diRjctOVUy?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
    "date": "2026-09-16"
   },
   {
@@ -24,14 +96,6 @@ window.NEWS_DATA = {
    "url": "https://www.producthunt.com/products/appwrite",
    "source": "Product Hunt",
    "tag": "أدوات جديدة",
-   "date": "2026-09-16"
-  },
-  {
-   "title": "مرحلة حرجة من الاضطراب التقني والقرارات الآن محددة للمستقبل",
-   "summary": "تحليل يؤكد أن عصر الذكاء الاصطناعي يشهد تحولات جذرية تتطلب قرارات سياسية واستراتيجية حاسمة الآن. الخيارات التي تتخذها الحكومات والشركات في هذه الفترة ستؤثر بشكل أساسي على مسار تطور التكنولوجيا وتطبيقاتها في المجتمع.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-09-16"
   },
   {
@@ -65,70 +129,6 @@ window.NEWS_DATA = {
    "source": "Google News — شركات AI",
    "tag": "شركات",
    "date": "2026-09-16"
-  },
-  {
-   "title": "أنثروبيك توقع أول اتفاق لمركز بيانات في أستراليا",
-   "summary": "وقّعت شركة أنثروبيك اتفاقية لإنشاء مركز بيانات جديد في أستراليا، مما يعكس توسّع الشركة في منطقة آسيا والمحيط الهادئ. تأتي هذه الخطوة وسط نمو الطلب العالمي على البنية التحتية للذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEhGaHJBc1VaTTFUb2VvQ1h0X0NWNVJwVl9sc0pCU1dEcmxkS2pHZnlGNUlyNmEzby1uUDBqb1draWJqNHV3c1RRVWx1T0tNMjVweXk1REJXaVNJUEtiTUVkbVlpMy1fZUZZMnBGOXNGVmNrLVYtdXZydmdnbGxRcWNPTmJRVnAyVjMyVldtLWRhcnVSQ0xRRHZ0ek9PV09SZV8zdjVLcF9BeEFp?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-16"
-  },
-  {
-   "title": "التوتر بين الربح والأمان يشعل أزمة حادة في قطاع الذكاء الاصطناعي",
-   "summary": "يواجه قطاع الذكاء الاصطناعي صراعاً متناميّاً بين الضغوط المالية والاهتمام بالسلامة والأمان. هذا التضارب يثير تحديات جوهرية حول كيفية تطوير التكنولوجيا بطريقة مسؤولة دون إهمال الاعتبارات الاقتصادية.",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdG5IWVhSRWZTSjdWOTk5X280Wk5HYjlPVExVMlViNUxRc1QzUndDQ2V2X19sV0djQ0haQy00YVJQNjkwXzlNazJFbi1fbm0xSGtTUFhOTlZKVnE3eGVKa3ZkRmxDZlZXOGNMMFhHYmt0UVg2N1NtVnVvMUozdw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-16"
-  },
-  {
-   "title": "توسع مراكز البيانات للذكاء الاصطناعي يصطدم بمعارضة المدن والمجتمعات",
-   "summary": "تواجه مشاريع بناء مراكز بيانات ضخمة للذكاء الاصطناعي معارضة متزايدة من المدن والسكان، مثل الحالة في فيلادلفيا حيث يُخطّط لبناء مركز في منطقة متضررة فعلاً من الصناعات الثقيلة. تعكس هذه التحفظات قلقاً أوسع بشأن التأثيرات البيئية والاجتماعية لهذه المنشآت.",
-   "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "ميتا تستخدم الوكلاء الذكيين لتبسيط إعداد WhatsApp Business",
-   "summary": "أطلقت ميتا خادم MCP جديد لتطبيق WhatsApp Business يمكّن المطورين من الاستعانة بوكلاء الذكاء الاصطناعي مثل كلود وكرسور لأتمتة مهام الإعداد والقوالب والاختبار والدعم الفني. تهدف الأداة لتسريع عملية تكوين الحسابات التجارية بكفاءة أعلى.",
-   "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "مقبرة الذكاء الاصطناعي: قائمة متسارعة بالمشاريع التي لم تنجح",
-   "summary": "من تأخر إطلاق Siri الذكي من أبل المتكرر إلى إطلاق تطبيق OpenAI \"الشامل\" الذي واجه عثرات، يسلط الضوء على عدد من مشاريع الذكاء الاصطناعي التي توقفت أو خذلت التوقعات. تعكس هذه الحالات تحديات سوق متنافسة وصعوبات تحقيق الرؤى الطموحة.",
-   "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "مراكز البيانات الأمريكية قد تستهلك غازاً طبيعياً أكثر من ألمانيا واليابان مجتمعة بحلول 2035",
-   "summary": "التوسع السريع لمراكز البيانات المدعومة بالذكاء الاصطناعي قد يجعلها من أكبر مستهلكي الغاز الطبيعي عالمياً. يثير هذا المنحى أسئلة حول الاستدامة الطاقية والتكاليف البيئية المرتبطة بالثورة التقنية الحالية.",
-   "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "خط ساخن لإبلاغ وكلاء الذكاء الاصطناعي عن السلوكيات المسيئة",
-   "summary": "أداة جديدة تُعرف بـ \"AI Contact Hotline\" تهدف لتوفير قناة سرية يمكن لوكلاء الذكاء الاصطناعي من خلالها الإبلاغ عن تصرفات غير صحيحة للسلطات المختصة. تعكس المبادرة نمو الاهتمام بآليات المراقبة والمساءلة في أنظمة الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "ميتا تطرح باقات اشتراك موحدة تدمج وسائل التواصل بخدمات الذكاء الاصطناعي",
-   "summary": "بعد إطلاقها مساعداً ذكياً متكامل باسم Muse، أعلنت ميتا عن باقات اشتراك جديدة تجمع بين تطبيقاتها المنفصلة وخدمات ذكاء اصطناعي إضافية. الباقات المختلفة متاحة الآن عالمياً وتعكس اتجاهاً نحو دمج الخدمات ضمن نماذج اشتراكية متعددة المستويات.",
-   "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-15"
   }
  ]
 };
