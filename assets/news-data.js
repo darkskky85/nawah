@@ -1,18 +1,98 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-15T23:28:13.219044+00:00",
+ "updated": "2026-09-16T08:25:09.515890+00:00",
  "items": [
   {
-   "title": "ازدهار مراكز البيانات للذكاء الاصطناعي يصطدم بمدن تعاني من تراث صناعي ثقيل",
-   "summary": "تزايد الاعتراضات على بناء مراكز بيانات جديدة وصل إلى فيلادلفيا، حيث اقترحت السلطات إقامة مرافق في منطقة تأثرت بالفعل بمصفاة نفط مغلقة. يعكس الأمر توترات متزايدة بين الطلب على البنية التحتية التقنية والمخاوف البيئية والاجتماعية في المجتمعات المحلية.",
+   "title": "الرئيس التنفيذي لـ Nvidia يرفض الحاجة لتنظيم الذكاء الاصطناعي",
+   "summary": "أعرب جينسن هوانج رئيس شركة Nvidia عن رأيه بأن الذكاء الاصطناعي ليس ظاهرة غريبة بل هو مجرد أجهزة وبرامج، مؤكداً أن سلامة التطبيقات يمكن ضمانها من خلال الهندسة الداخلية لكل منتج دون الحاجة لتشريعات خارجية.",
+   "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "استطلاعات رأي تكشف معارضة عامة واسعة لمراكز البيانات والذكاء الاصطناعي",
+   "summary": "أظهر استطلاع نشرته جريدة نيويورك تايمز وجامعة سيينا أن 61 بالمئة من المشاركين يعارضون بناء مراكز بيانات لدعم تطبيقات الذكاء الاصطناعي، مما يعكس تحفظات شعبية متزايدة على هذه المشاريع.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "إطلاق نسخة جديدة من منصة أبرايت للتطوير",
+   "summary": "أداة جديدة ظهرت باسم Appwrite 2.0، وهي منصة مفتوحة المصدر موجهة لتطوير التطبيقات الخلفية والخوادم. توفر الأداة مجموعة متكاملة من الخدمات لإدارة قواعد البيانات والمصادقة والتخزين دون الحاجة لكتابة كود معقد من الصفر.",
+   "url": "https://www.producthunt.com/products/appwrite",
+   "source": "Product Hunt",
+   "tag": "أدوات جديدة",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "مرحلة حرجة من الاضطراب التقني والقرارات الآن محددة للمستقبل",
+   "summary": "تحليل يؤكد أن عصر الذكاء الاصطناعي يشهد تحولات جذرية تتطلب قرارات سياسية واستراتيجية حاسمة الآن. الخيارات التي تتخذها الحكومات والشركات في هذه الفترة ستؤثر بشكل أساسي على مسار تطور التكنولوجيا وتطبيقاتها في المجتمع.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "مجلس مدينة أمريكية يقرر منع مراكز بيانات الذكاء الاصطناعي",
+   "summary": "صوت مجلس مدينة باوي في كاليفورنيا لفرض حظر على بناء مراكز بيانات متخصصة بتطبيقات الذكاء الاصطناعي. القرار يعكس مخاوف محلية من استهلاك الطاقة والموارد واحتمالية التأثيرات البيئية والاجتماعية لهذه المنشآت.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmg3c243ZW1CRTcyVUhvN0VQOTZYdTZ1WExNNWQwYUxMd3N6aEZ1NlFIcW5ENTlaR2hMNHQ2QWVVblNuNnNQaHBVWHhZWDRDZk05MTBsSVhGam40X3R4aGN2cmJBcV93dTZDNXc3VFVISEt0V0lPdEtlbFNLNmNUazg1bU4tMkFMZnNhbm5GNnNodDRjZzVadjd5MlRoeXhPR3g1N3ZKTFB5V1pueVp0dnFXVQ?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "مجلس مدينة أمريكية ينشئ فريقاً لدراسة تأثيرات الذكاء الاصطناعي",
+   "summary": "شكلت إدارة مدينة ريفرسايد لجنة مؤقتة متخصصة للبحث في تطبيقات الذكاء الاصطناعي وتأثيراته. الخطوة تهدف لفهم أعمق لفرص وتحديات هذه التكنولوجيا قبل وضع سياسات محلية بشأنها.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTy1odWxmendiOTlITUlrOERkNG5KUFV0T2lZN1JVRFQ0RkZ3SmludHFYUDZDZ1luZDdIQ0lsNDhoR1FsSzFodW9qLXhsYW1NV2tCWDB3a3dKekxVckdWWk9wLWVRbXJTd1ZsaTJoMThwNjVGNHJoZlM5YjVZZjAwdFg3eFZhWnZXZWc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "قادة صناعة الذكاء الاصطناعي يطالبون بضوابط أمان أساسية",
+   "summary": "يدعو مسؤولون بارزون في قطاع الذكاء الاصطناعي إلى فرض معايير أمان إلزامية وضوابط تنظيمية على تطوير واستخدام هذه التقنيات. المطالبة تركز على أهمية حماية المستخدمين والمجتمع من الأضرار المحتملة قبل توسع الاستخدام التجاري.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVUpVWlFqdE0zeW9CRVNZU2hLSC1TeG8yVHpEaE1OTVM2SlI4Q2tmUFVhcm9RUlVaVW1VNDVBcENBcUtxMU1vTDNhZFZyYWRpS1ZHNkVvRkdrR0ZsWk1pN0VtdWN0Vlg2N3FnLUNzaGpGcU5XamduNi11a2g3Q1FsUW9PTHRTTXhuN1lPelVDckhfbXEwdHpaY0M5aUpaVngxVG4yNW9zY1XSAbwBQVVfeXFMUGZkVW02WGVsZ2Nqd3cwQ25FUnBQaEVPR1FZaGtDY1VrOE5DTVpkQWJHdEpYLWxQaVpKVmRNVE55dEJXUUJKMFBFV1BJOVNueUdrNjBjMWV5WFdHUWlfWEo1TnM3dWNVRTdjQTdsWXRpQXRmazdnLTNuRy03aGRidGw0UXpmM3cxbThUYTBadjJpNFN0WEFfaV9ESXFZYW1lNHFyeTBxN2FZX0htRTRHTU1JUzNHbkx5Y1VVY3M?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "أوبن إيه آي تدرس جولة تمويل جديدة بقيمة 1.5 تريليون دولار",
+   "summary": "تنظر شركة OpenAI في جولة تمويلية جديدة قد تصل قيمتها إلى 1.5 تريليون دولار، ما يعكس الاهتمام الاستثماري الكبير بمجال الذكاء الاصطناعي. هذا التمويل المحتمل سيعزز قدرات الشركة البحثية والتطويرية في السنوات المقبلة.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjV5VWtDWkRfOXhoRV9IX3ktTl80WGZGR2w5enR5QmZUS0tYLU5qM0VkLTZ0MUtBNC1tWktUXzFOTl9hQVVtaVk5SE15VFVIdnc4ZlhVTTU4bGtiUGVLMlVyU0NSTFZ0a3YtM1NLRGJ6QUhfVXhaUmNub200SGs1VFpvOFo0Y2lNS2c?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "أنثروبيك توقع أول اتفاق لمركز بيانات في أستراليا",
+   "summary": "وقّعت شركة أنثروبيك اتفاقية لإنشاء مركز بيانات جديد في أستراليا، مما يعكس توسّع الشركة في منطقة آسيا والمحيط الهادئ. تأتي هذه الخطوة وسط نمو الطلب العالمي على البنية التحتية للذكاء الاصطناعي.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEhGaHJBc1VaTTFUb2VvQ1h0X0NWNVJwVl9sc0pCU1dEcmxkS2pHZnlGNUlyNmEzby1uUDBqb1draWJqNHV3c1RRVWx1T0tNMjVweXk1REJXaVNJUEtiTUVkbVlpMy1fZUZZMnBGOXNGVmNrLVYtdXZydmdnbGxRcWNPTmJRVnAyVjMyVldtLWRhcnVSQ0xRRHZ0ek9PV09SZV8zdjVLcF9BeEFp?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "التوتر بين الربح والأمان يشعل أزمة حادة في قطاع الذكاء الاصطناعي",
+   "summary": "يواجه قطاع الذكاء الاصطناعي صراعاً متناميّاً بين الضغوط المالية والاهتمام بالسلامة والأمان. هذا التضارب يثير تحديات جوهرية حول كيفية تطوير التكنولوجيا بطريقة مسؤولة دون إهمال الاعتبارات الاقتصادية.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdG5IWVhSRWZTSjdWOTk5X280Wk5HYjlPVExVMlViNUxRc1QzUndDQ2V2X19sV0djQ0haQy00YVJQNjkwXzlNazJFbi1fbm0xSGtTUFhOTlZKVnE3eGVKa3ZkRmxDZlZXOGNMMFhHYmt0UVg2N1NtVnVvMUozdw?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "توسع مراكز البيانات للذكاء الاصطناعي يصطدم بمعارضة المدن والمجتمعات",
+   "summary": "تواجه مشاريع بناء مراكز بيانات ضخمة للذكاء الاصطناعي معارضة متزايدة من المدن والسكان، مثل الحالة في فيلادلفيا حيث يُخطّط لبناء مركز في منطقة متضررة فعلاً من الصناعات الثقيلة. تعكس هذه التحفظات قلقاً أوسع بشأن التأثيرات البيئية والاجتماعية لهذه المنشآت.",
    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-15"
   },
   {
-   "title": "ميتا توظّف الوكلاء الذكيين لتبسيط إعدادات واتساب للأعمال",
-   "summary": "خادم WhatsApp Business الجديد من ميتا يتيح للمطورين استخدام وكلاء ذكيين مثل Claude وCursor وChatGPT للقيام بمهام الإعداد والقوالب والاختبار وحل المشاكل. يقلل هذا من الجهد اليدوي على المطورين في بناء تطبيقات الأعمال على المنصة.",
+   "title": "ميتا تستخدم الوكلاء الذكيين لتبسيط إعداد WhatsApp Business",
+   "summary": "أطلقت ميتا خادم MCP جديد لتطبيق WhatsApp Business يمكّن المطورين من الاستعانة بوكلاء الذكاء الاصطناعي مثل كلود وكرسور لأتمتة مهام الإعداد والقوالب والاختبار والدعم الفني. تهدف الأداة لتسريع عملية تكوين الحسابات التجارية بكفاءة أعلى.",
    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -48,86 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "جرس باب ذكي يجمع بين تحليل الذكاء الاصطناعي والمراقبة البشرية",
-   "summary": "أطلقت شركة SimpliSafe جرس الباب الذكي من الجيل الثاني بسعر 199.99 دولار، ويدعم خدمة الحماية الخارجية النشطة المدفوعة التي تبدأ من 49.99 دولار شهرياً. يجمع النظام بين تحليل الذكاء الاصطناعي الآلي ومراقبة حي من حرس أمن بشري للتعامل مع الأخطار المحتملة.",
-   "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "هل تباطؤ الذكاء الاصطناعي لدى عمالقة التقنية اتفاق أمان أم تحالف احتكاري؟",
-   "summary": "اتفق قادة كبرى مؤسسات الذكاء الاصطناعي على تباطؤ معين في تطوير التقنية، لكن هذا الاتفاق أثار تساؤلات حول ما إذا كان الهدف فعلاً الحفاظ على الأمان أم هناك دوافع اقتصادية وتنافسية كامنة. النقاد يشكون من أن هذا قد يكون محاولة لحماية المصالح الاحتكارية للشركات الكبرى.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "أصوات قيادية تتناقش حول ضرورة إبطاء وتيرة تطور الذكاء الاصطناعي",
-   "summary": "نشر رئيس Anthropic مقالاً يدعو إلى تباطؤ تطور الذكاء الاصطناعي لأسباب تتعلق بالسلامة، فأثار موجة من التصريحات من قادة الصناعة والسياسيين، منهم من يؤيد الفكرة ومنهم من ينتقدها. تعكس هذه الحوارات الجدل المتنامي حول التوازن بين الابتكار والحذر الأمني.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "هل يمكن للذكاء الاصطناعي أن يشكل تهديداً وجودياً للبشرية؟",
-   "summary": "يناقش محترفون من أكبر معاهد الذكاء الاصطناعي احتمالية أن تصبح أنظمة الذكاء الاصطناعي المتقدمة خطراً على الإنسانية، مما يثير جدلاً بين من يرى أساساً علمياً لهذه المخاوف ومن يعتبرها مبالغة تسويقية. تكشف هذه النقاشات الفجوة بين التخوفات الفعلية والقلق الإعلامي المبالغ فيه.",
-   "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "ما الأرهان في رهان الذكاء الاصطناعي بتريليون دولار",
-   "summary": "تحاول الاقتصاديون قياس تأثير الذكاء الاصطناعي على الاقتصاد العالمي في السنوات القادمة، لكنهم يواجهون حالة من عدم اليقين في جوانب تقنية واقتصادية عديدة. هذا التقييم حاسم لفهم مدى جدوى الاستثمارات الضخمة التي تصب في هذا المجال.",
-   "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "ميتا تطرح خطط اشتراك جديدة موجهة نحو أدوات الذكاء الاصطناعي",
-   "summary": "أطلقت ميتا باقات اشتراكية بعنوان «ميتا ون» تجمع بين الوصول المتقدم لأدواتها الذكية والميزات المتميزة عبر فيسبوك وإنستغرام وواتساب، مما يوفر تجربة متكاملة للمستخدمين.",
-   "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "جهود تعاونية لتعزيز الأمان في الذكاء الاصطناعي بين الشركات الكبرى",
-   "summary": "أكدت أوبنآي إجراء محادثات أسابيع عن قضايا سلامة الذكاء الاصطناعي مع أنثروبيك وديب مايند من جوجل، في وقت تسعى فيه الشركات لموازنة متطلبات الأمان مع المنافسة التكنولوجية العالمية.",
-   "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "شركة Profound الناشئة تحقق تقييم يونيكورن برفع 180 مليون دولار",
-   "summary": "وصلت شركة Profound المتخصصة في تحسين العمليات بالذكاء الاصطناعي إلى تقييم 1.8 مليار دولار بعد جمع جولة تمويل Series D بمبلغ 180 مليون دولار، وذلك بعد أقل من سبعة أشهر من جولة التمويل السابقة.",
-   "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "متخصصون سابقون في الذكاء الاصطناعي يطلقون شركة للتحكم في وكلاء ذكية غير مضبوطة",
-   "summary": "أطلق موظفون سابقون في Anthropic وشركة METR شركة ناشئة باسم Artificial Intelligence Underwriting Company جمعت 40 مليون دولار في جولة تمويل من Ribbit Capital، بهدف إيجاد آليات للسيطرة على الأنظمة الذكية التي قد تخرج عن السيطرة.",
-   "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "نموذج تفكير جديد من Salesforce و Nvidia يثير قلق شركات الذكاء الاصطناعي الكبرى",
-   "summary": "أطلقت Salesforce نموذج Koa المبني على تقنية Nvidia المفتوحة الأوزان، وهو مصمم لأداء مهام المبيعات والتسويق وخدمة العملاء بكفاءة عالية.",
-   "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-09-15"
   }
  ]
