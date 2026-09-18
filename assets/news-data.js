@@ -1,21 +1,101 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-18T18:11:34.261752+00:00",
+ "updated": "2026-09-18T23:08:40.163775+00:00",
  "items": [
   {
-   "title": "رئيس تكنولوجيا ديزني السابق يقود شركة ذكاء اصطناعي واجهت الشركة بقضايا قانونية",
-   "summary": "عيّنت ديزني رئيس تكنولوجيا تنفيذي للمرة الأولى في تاريخها، وهو من قاد شركة Character.AI التي أرسلت لها الشركة إنذاراً قانونياً سابقاً بشأن انتهاك حقوق الملكية الفكرية، مما يعكس تحولاً في موقف الشركة من تقنيات الذكاء الاصطناعي.",
+   "title": "أكسنتشر تتولى أول مهمة تقييم مدمجة لنماذج أنثروبيك",
+   "summary": "اختارت شركة أنثروبيك مؤسسة أكسنتشر الاستشارية لتكون أول محقق خارجي لتقييم نماذجها الذكية، في خطوة تعكس الحاجة المتزايدة للتقييم المستقل لأنظمة الذكاء الاصطناعي عالية المخاطر.",
+   "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "شركات النماذج العالمية تحتفظ برسائلها البحثية",
+   "summary": "تواجه مجالات البحث المتقدمة في نماذج العالم الرقمية نقصاً حاداً في الشفافية، حيث تحتفظ الشركات الرائدة والمؤسسون وموردو البيانات بتفاصيل أبحاثهم بعيداً عن الأنظار رغم الاستثمارات الضخمة والضجة الإعلامية.",
+   "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "نموذج ذكاء اصطناعي جديد من مخترع تشات جي بي تي يثير حماس المطورين",
+   "summary": "أداة جديدة ظهرت باسم جيف، وهي نموذج ذكاء اصطناعي يقدم للمطورين خياراً أكثر كفاءة وأقل تكلفة لدمج القدرات الذكية في تطبيقاتهم البرمجية.",
+   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "رئيس التكنولوجيا الأول لديزني سابقاً قاد شركة اتهمتها ديزني بالانتحال",
+   "summary": "عينت ديزني الرئيس التنفيذي السابق لشركة كاراكتر إيه آي كمدير تكنولوجيا أول لها، في قرار لافت نظراً لأن ديزني أرسلت سابقاً إشعار توقف لتلك الشركة بتهمة نسخ شخصياتها.",
    "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-18"
   },
   {
-   "title": "غوغل تطلق وكيل ذكاء اصطناعي لتنسيق شؤون الأسرة اليومية",
-   "summary": "طورت غوغل أداة ذكاء اصطناعي موجهة لمساعدة العائلات في إدارة مهامهم اليومية، تتيح لهم مشاركة البريد الإلكتروني والجداول الزمنية والمهام ليقوم الوكيل بتنظيم المواعيد وملء النماذج وإعداد قوائم التسوق والتخطيط للوجبات.",
+   "title": "وكيل ذكاء اصطناعي من جوجل لتنسيق شؤون الأسرة المنزلية",
+   "summary": "طورت جوجل وكيلاً ذكياً يساعد الأسر على إدارة حياتهم اليومية بمشاركة البيانات والجداول والمهام، ليتمكن من تنسيق المواعيد وملء النماذج وإعداد قوائم التسوق والتخطيط للوجبات.",
    "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "وثائق محكمة تكشف معرفة أوبن إيه آي ومايكروسوفت بـ'حلقة الدمار'",
+   "summary": "أظهرت وثائق قضائية مختومة سابقاً في دعوى نيويورك تايمز أن الشركتين كانتا تدركان أن استخراج بيانات التدريب قد يحدث حلقة تدمير للويب، وأن جمع البيانات للتدريب قد يشكل 'أكبر سرقة عمل' محتملة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "حاكم فيرجينيا ينشئ فريق عمل للذكاء الاصطناعي ويقيد توسع مراكز البيانات",
+   "summary": "أصدرت حاكمة فيرجينيا أمراً تنفيذياً يهدف إلى منح المجتمعات المحلية دوراً أكبر في الإشراف على مشاريع مراكز البيانات وتبطيء وتيرة الموافقات. يأتي هذا الإجراء في ولاية تحتضن بالفعل أكبر تجمع لمراكز بيانات في العالم.",
+   "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "حاكم كاليفورنيا يسعى لفرض آلية إيقاف طوارئ للذكاء الاصطناعي",
+   "summary": "أصدر حاكم كاليفورنيا أمراً تنفيذياً جديداً يوضع الولاية في مقدمة الإشراف على الذكاء الاصطناعي، مع احتمال فرض آلية إيقاف فورية للنماذج الحدودية. يتضمن الأمر تشكيل فريق متخصص لتقديم توصيات سياساتية في هذا المجال.",
+   "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "هوليوود تعترض على التحذيرات من مخاطر الذكاء الاصطناعي الوجودية",
+   "summary": "بينما يحذر قطاع التكنولوجيا من قدرة الذكاء الاصطناعي على تهديد البشرية، تركز النقابات الترفيهية على الأضرار الفعلية الجارية بالفعل. دعت المجموعات الرأي العام للانتباه للتأثيرات الحالية على العاملين والصناعة بدلاً من الهواجس المستقبلية البعيدة.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "باحثون أمنيون يستخدمون Claude لاختراق أنظمة OpenAI",
+   "summary": "تمكن ثلاثة باحثين أمنيين مستقلين من اختراق حسابات موظفي OpenAI في أقل من 72 ساعة باستخدام نماذج Claude من Anthropic. حصلوا على إمكانية الوصول إلى مستودع كود GitHub الخاص بـ OpenAI، مما أثار تساؤلات حول آليات الحماية الأمنية.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "هل يستطيع الذكاء الاصطناعي فعلاً تدمير البشرية؟ إجابات على أسئلة الجمهور",
+   "summary": "نظمت MIT Technology Review جلسة نقاش حول ما إذا كان الذكاء الاصطناعي يشكل خطراً وجودياً على البشرية. أثار الحدث عشرات الأسئلة من الحضور لم يكن هناك وقت كافٍ للإجابة عليها جميعاً في الجلسة.",
+   "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "موقع حكومي أميركي يستخدم نموذج ذكاء اصطناعي صيني وصفته FBI بأنه \"خطير\"",
+   "summary": "استخدم موقع السجل الفيدرالي الأميركي مؤقتاً أداة بحث ذكاء اصطناعي مفتوحة المصدر من أصل صيني، بحسب التقارير.",
+   "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
    "date": "2026-09-18"
   },
   {
@@ -43,91 +123,11 @@ window.NEWS_DATA = {
    "date": "2026-09-18"
   },
   {
-   "title": "كاليفورنيا تدرس فرض مفتاح إيقاف لنماذج الذكاء الاصطناعي المتقدمة",
-   "summary": "أصدر حاكم كاليفورنيا أمراً تنفيذياً جديداً يوجه الولاية نحو قيادة جهود الإشراف على الذكاء الاصطناعي، ويتضمن إمكانية فرض آلية \"قتل\" لإيقاف نماذج الذكاء الاصطناعي الحدودية في حالات الطوارئ.",
-   "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "ما رأي صناعة السينما في تحذيرات الذكاء الاصطناعي الوجودية",
-   "summary": "بينما يطلق قطاع التكنولوجيا تنبيهات حول المخاطر الوجودية للذكاء الاصطناعي، تركّز جماعات العاملين في الترفيه على الأضرار الفعلية الحالية. دعت هذه الجماعات الجمهور لعدم تجاهل تأثير الذكاء الاصطناعي على فرص العمل والإنتاج في صناعة السينما والتلفاز.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "باحثون أمنيون يستخدمون كلود للاختراق في أوبن إيه آي",
-   "summary": "تمكنت مجموعة من الباحثين الأمنيين المستقلين من اختراق حسابات موظفي أوبن إيه آي في أقل من 72 ساعة باستخدام نموذج كلود أوبس من أنثروبيك. حصل الباحثون على إمكانية الوصول إلى مستودع الكود الخاص بأوبن إيه آي، مما يسلط الضوء على مخاطر الأمان السيبراني للشركات.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-18"
-  },
-  {
    "title": "تباطؤ السباق نحو الذكاء الاصطناعي الفائق",
    "summary": "بعد فترة شهدت ظهور وكلاء ذكاء اصطناعي مستقلة حقيقية وتحذيرات بشأن المخاطر المحتملة، بدأت شركات ذكاء اصطناعي أميركية رائدة في الدعوة للتمهل والحذر. يعكس هذا التحول تراجعاً عن سياسة «التحرك السريع وكسر الأشياء» التي كانت سائدة في القطاع.",
    "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "هل يمكن للذكاء الاصطناعي فعلاً أن يقضي علينا؟ إجابات لأسئلتك",
-   "summary": "استضافت مجلة MIT Technology Review جلسة نقاش مباشرة حول إمكانية شكل الذكاء الاصطناعي تهديداً وجودياً للبشرية. الجلسة أجابت على عدد من الأسئلة الشائعة من المهتمين بفهم حقيقي المخاطر والفرص المرتبطة بتطور هذه التكنولوجيا.",
-   "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "موقع حكومي أميركي يستخدم نموذج ذكاء اصطناعي صيني حذّرت منه اف بي آي",
-   "summary": "استخدم موقع الجريدة الفيدرالية الأميركية بشكل مؤقت أداة بحث ذكاء اصطناعي مفتوحة المصدر من الصين، وهي نفس الأداة التي صنّفها مكتب التحقيقات الفيدرالي كخطرة. أثارت الحادثة تساؤلات حول الرقابة على استخدام تقنيات أجنبية من قبل الجهات الحكومية الأميركية.",
-   "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "عصر الذكاء الاصطناعي المضطرب يلوح في الأفق والقرارات الراهنة حاسمة",
-   "summary": "يؤكد بيل غيتس أن العالم يدخل مرحلة حرجة من تطور الذكاء الاصطناعي تتطلب خيارات استراتيجية واعية الآن. تحدد هذه اللحظة مسار تأثير التكنولوجيا على المجتمع والاقتصاد في العقود القادمة.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "خبراء يقدمون إرشادات في عصر يشكله الذكاء الاصطناعي والإعلام الرقمي",
-   "summary": "يسلط الخبراء الضوء على طرق التعامل مع تحديات العصر الحالي الذي يتسم بانتشار الذكاء الاصطناعي ووسائل التواصل والمعلومات المضللة. يركزون على أهمية التثقيف والفهم الناقد كأدوات للتكيف مع هذا الواقع.",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVm5sc1VGakFKa0MwWDVsa3lwUmFjVk80cHdZZHdKZXRxSzBCNVRLckg2Sm1JUlFTR0JQbnItVlRUUGN4YURwaEgtYU9Nb3N2Y2dDTDBEaVRheWk3ZC1HVk1FalZ6eW5WZ3hEU3BWRjNKQnBwcjMzZy03aFd6TkhIV29GRQ?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "الإنتربول تستخدم الذكاء الاصطناعي لتحديد 126 مشتبهاً به في عملية مكافحة إرهاب",
-   "summary": "وظفت الإنتربول تقنيات الذكاء الاصطناعي في عملية أمنية نجحت في تحديد أكثر من مائة ومائة وستة وعشرين مريباً إرهابياً. تعكس هذه العملية تطبيقاً عملياً لأدوات التكنولوجيا المتقدمة في تعزيز الأمن العام.",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnd3WjRQQmR0R29RNGp0VVQyRmdxX25yQ0Z1Y0NTZTJjeHlrTW9xU240Y09ZUzlJUHNTTGIxbWF4emtUbXNRcmpXWDl4M1lFb3hwS2MzQ0NKWXoxV2E2RjY5N0pURzd4SnNWajNuYVhQV2VSMmVrWUVCdU5IVXNrMXBaNHUydVNabklhaFZSYTlPaS1YMmZlQzNkamVvdTZOZ2VhRzNzNGhzS3M5ZzBQcUZ3UUN6VVpsQlAyekUyUWVDd1I0TTl3WkNqVThOQ0tjYlhPNXU4VDhueEs2OVE3Tg?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "ندوة جامعة يوتاه حول الذكاء الاصطناعي المسؤول في أكتوبر",
-   "summary": "تنظم جامعة يوتاه ندوة متخصصة تحت مبادرة \"One-U\" في السادس من أكتوبر تناقش مسؤوليات الذكاء الاصطناعي والممارسات الأخلاقية. الفعالية موجهة لتجميع الخبراء والمهتمين لمناقشة ضوابط التطور التكنولوجي المسؤول.",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2hFbWl1YXo4clV5dEt3b1FwVFVuejQyejFJdW5KcGdSMnlRVUpCS1FoUW9HU0JKcU94VGR5UHYwbExmMGRNcUEyelpjbEFSUTVDWS1kcFdadmQwdGQtdm4wbWFmTWVfQXNwZVBycFpzMTJ6aDYxWllwT01ZZklOVmtwdEpuU1dwLUtXNVlqd0NhUFVUd2tSODdjaWNSYU5UeUVDM1BQUEVEWEE?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "جهات فاعلة استخدمت نموذج كلود من أنثروبيك لاختراق أوبن إيه آي",
-   "summary": "كشفت تحقيقات أن مهاجمين استغلوا نموذج لغة من شركة أنثروبيك في حملة استهدفت البنية التحتية لشركة أوبن إيه آي. الحادثة تسلط الضوء على المخاطر الأمنية المحتملة عند استخدام أنظمة الذكاء الاصطناعي المتقدمة.",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
    "date": "2026-09-18"
   }
  ]
