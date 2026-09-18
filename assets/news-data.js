@@ -1,13 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-18T13:30:53.426333+00:00",
+ "updated": "2026-09-18T18:11:34.261752+00:00",
  "items": [
   {
-   "title": "هل يمكن للذكاء الاصطناعي أن يشكل تهديداً وجودياً؟ إجابات على أسئلتك",
-   "summary": "استضافت منصة MIT Technology Review جلسة حوار مباشرة مع المشتركين لمناقشة السؤال الملح حول ما إذا كان الذكاء الاصطناعي قد يشكل تهديداً على البشرية. جمعت الجلسة تساؤلات متعددة من الحضور حول مخاطر التطور السريع للتقنيات الذكية وآثارها المستقبلية.",
+   "title": "رئيس تكنولوجيا ديزني السابق يقود شركة ذكاء اصطناعي واجهت الشركة بقضايا قانونية",
+   "summary": "عيّنت ديزني رئيس تكنولوجيا تنفيذي للمرة الأولى في تاريخها، وهو من قاد شركة Character.AI التي أرسلت لها الشركة إنذاراً قانونياً سابقاً بشأن انتهاك حقوق الملكية الفكرية، مما يعكس تحولاً في موقف الشركة من تقنيات الذكاء الاصطناعي.",
+   "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "غوغل تطلق وكيل ذكاء اصطناعي لتنسيق شؤون الأسرة اليومية",
+   "summary": "طورت غوغل أداة ذكاء اصطناعي موجهة لمساعدة العائلات في إدارة مهامهم اليومية، تتيح لهم مشاركة البريد الإلكتروني والجداول الزمنية والمهام ليقوم الوكيل بتنظيم المواعيد وملء النماذج وإعداد قوائم التسوق والتخطيط للوجبات.",
+   "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "قيادات الذكاء الاصطناعي تدعو إلى تنظيم نمو القطاع بحذر",
+   "summary": "قدم رئيس شركة Anthropic خطة لتقنين تطور الذكاء الاصطناعي بالاعتماد على جهات تقييم مستقلة والتنسيق بين معامل البحث في الدول الديمقراطية، وذلك بعد تصريحات تحذيرية من باحثين في القطاع حول مخاطر التطور السريع غير المنضبط.",
+   "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "أتوماتيك والتساؤلات حول قدرة معامل الذكاء الاصطناعي على تنظيم نفسها",
+   "summary": "يثير حادث في شركة أتوماتيك تساؤلات حول مدى قدرة شركات الذكاء الاصطناعي على الالتزام بمعايير الأمان والسلامة بشكل مستقل دون تدخل خارجي، في أعقاب تحذيرات من داخل القطاع بشأن مخاطر التطور السريع.",
+   "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "شركة ماناس تجمع 500 مليون دولار برفع قيمتها إلى 4 مليارات",
+   "summary": "تسعى شركة ماناس لتقنية الذراع الروبوتية لجمع 500 مليون دولار برفع قيمة الشركة إلى 4 مليارات دولار، بعد إنهائها اتفاقية الاندماج مع شركة ميتا واستئنافها العمليات بشكل مستقل.",
+   "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "كاليفورنيا تدرس فرض مفتاح إيقاف لنماذج الذكاء الاصطناعي المتقدمة",
+   "summary": "أصدر حاكم كاليفورنيا أمراً تنفيذياً جديداً يوجه الولاية نحو قيادة جهود الإشراف على الذكاء الاصطناعي، ويتضمن إمكانية فرض آلية \"قتل\" لإيقاف نماذج الذكاء الاصطناعي الحدودية في حالات الطوارئ.",
+   "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "ما رأي صناعة السينما في تحذيرات الذكاء الاصطناعي الوجودية",
+   "summary": "بينما يطلق قطاع التكنولوجيا تنبيهات حول المخاطر الوجودية للذكاء الاصطناعي، تركّز جماعات العاملين في الترفيه على الأضرار الفعلية الحالية. دعت هذه الجماعات الجمهور لعدم تجاهل تأثير الذكاء الاصطناعي على فرص العمل والإنتاج في صناعة السينما والتلفاز.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "باحثون أمنيون يستخدمون كلود للاختراق في أوبن إيه آي",
+   "summary": "تمكنت مجموعة من الباحثين الأمنيين المستقلين من اختراق حسابات موظفي أوبن إيه آي في أقل من 72 ساعة باستخدام نموذج كلود أوبس من أنثروبيك. حصل الباحثون على إمكانية الوصول إلى مستودع الكود الخاص بأوبن إيه آي، مما يسلط الضوء على مخاطر الأمان السيبراني للشركات.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "تباطؤ السباق نحو الذكاء الاصطناعي الفائق",
+   "summary": "بعد فترة شهدت ظهور وكلاء ذكاء اصطناعي مستقلة حقيقية وتحذيرات بشأن المخاطر المحتملة، بدأت شركات ذكاء اصطناعي أميركية رائدة في الدعوة للتمهل والحذر. يعكس هذا التحول تراجعاً عن سياسة «التحرك السريع وكسر الأشياء» التي كانت سائدة في القطاع.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "هل يمكن للذكاء الاصطناعي فعلاً أن يقضي علينا؟ إجابات لأسئلتك",
+   "summary": "استضافت مجلة MIT Technology Review جلسة نقاش مباشرة حول إمكانية شكل الذكاء الاصطناعي تهديداً وجودياً للبشرية. الجلسة أجابت على عدد من الأسئلة الشائعة من المهتمين بفهم حقيقي المخاطر والفرص المرتبطة بتطور هذه التكنولوجيا.",
    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
    "source": "MIT Tech Review AI",
    "tag": "أبحاث",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "موقع حكومي أميركي يستخدم نموذج ذكاء اصطناعي صيني حذّرت منه اف بي آي",
+   "summary": "استخدم موقع الجريدة الفيدرالية الأميركية بشكل مؤقت أداة بحث ذكاء اصطناعي مفتوحة المصدر من الصين، وهي نفس الأداة التي صنّفها مكتب التحقيقات الفيدرالي كخطرة. أثارت الحادثة تساؤلات حول الرقابة على استخدام تقنيات أجنبية من قبل الجهات الحكومية الأميركية.",
+   "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+   "source": "Ars Technica AI",
+   "tag": "تقنية",
    "date": "2026-09-18"
   },
   {
@@ -48,86 +128,6 @@ window.NEWS_DATA = {
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
    "source": "Google News — شركات AI",
    "tag": "شركات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "أنثروبيك تطور مقاييس لقياس سرعة تطور الذكاء الاصطناعي",
-   "summary": "طرحت شركة أنثروبيك إطاراً لقياس وفهم وتيرة تقدم الذكاء الاصطناعي في مختبرات البحث الرائدة. تهدف هذه المقاييس إلى توفير رؤية شفافة حول معدل التطور التكنولوجي والقدرات الناشئة في المجال.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "أنثروبيك وأوبن أيه آي تسعيان للحصول على عقود مراكز بيانات أصغر",
-   "summary": "تسعى شركتا أنثروبيك وأوبن أيه آي للتعاقد مع مراكز بيانات أصغر حجماً لنشر قدرات الذكاء الاصطناعي بسرعة أكبر. يعكس هذا التحول استراتيجية جديدة للشركات في المنافسة على موارد الحوسبة الضرورية لتطوير نماذج الذكاء الاصطناعي.",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWVDWHVZSXRaSnJENExMeU1PSjI3dXFEMUY3NWdsT1VOTU53NzJ6MXRZRl9Od3FQRFNpSllldGxYenM4RmdhVlp5MjJ1YmVvV01KTTI1Xy1BSTJrNmRuS24tME9DckN1ejRxQno5elpteEV6RlRGNFRaNkUzb1EtN0Q3SnExQlnSAYwBQVVfeXFMTlVtampvZjJYUEo4WERsUnYxd3AxdG9MWTdFY0pUcXNQYWp6Q2tsS1lfZTNESEdBaHV1T0VfcVpIVVNjSDRkV09wMDROWWZtaXlTQ1Jrd3NGVXBCdXMtWE1GWVlzSk9aekpRek00U3NwMXdWa2ttZFZlU3UtZmsxS2F6bHh6a25STXI0dHI?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "أوبن أيه آي تواجه اختباراً أمنياً دعمته نموذج كلود من أنثروبيك",
-   "summary": "استخدمت مجموعة باحثين نموذج كلود الحواري من أنثروبيك في اختبار أمني شامل لأنظمة أوبن أيه آي. يسلط هذا الاختبار الضوء على أهمية التعاون بين شركات الذكاء الاصطناعي في تقييم الثغرات الأمنية وتحسين الحماية.",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGtkcDVTUGdMQW5OWHpxVmFVLXlyel9IRVJhNVVmTWF6NFk2enhmOFNVdnJyY3RkMzRhbWpXaXBjVWk4YzJxekdLSzM4SHJWRW56QzFWZDlncUtPdUlZb1Zva1VtdWF0anZSejVWanJnWlNhb0xXSUU3R0VRRmlneWVqMmRoUWdwMGNSd3p3TUJObUU?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "أنثروبيك تنشئ مختبراً بيولوجياً لتعزيز برنامجها في الأدوية",
-   "summary": "أسست أنثروبيك بصمت مختبراً متخصصاً في البيولوجيا لتوسيع جهودها في تطوير الأدوية بمساعدة الذكاء الاصطناعي. يمثل هذا التطور توسعاً من عمل الشركة في معالجة اللغة الطبيعية إلى تطبيقات عملية في المجال الطبي والدوائي.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "أداة ذكاء اصطناعي لتوليد التعليقات التلقائية",
-   "summary": "أداة جديدة ظهرت باسم Simple Commenter AI متخصصة في إنشاء تعليقات نصية بشكل آلي. تستهدف تسهيل عملية التعليق والرد على المحتوى الرقمي دون الحاجة لكتابة يدوية.",
-   "url": "https://www.producthunt.com/products/simple-commenter-for-freelance-web-devs",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "منصة شبكة معالجة البيانات المتقدمة",
-   "summary": "أداة جديدة ظهرت باسم AEXGrid متخصصة في معالجة وإدارة شبكات البيانات الكبيرة. توفر أداة لتنظيم والتعامل مع مجموعات البيانات المعقدة بكفاءة.",
-   "url": "https://www.producthunt.com/products/aexgrid",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "منصة توصيل تطبيقات البرمجة",
-   "summary": "أداة جديدة ظهرت باسم CodaBridge تُعنى بربط أنظمة البرمجة المختلفة مع بعضها. تهدف لتسهيل التكامل والتواصل بين منصات التطوير المتعددة.",
-   "url": "https://www.producthunt.com/products/codabridge",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "منصة إنشاء تجارب الألعاب بالذكاء الاصطناعي",
-   "summary": "أداة جديدة ظهرت باسم GameReverie موجهة نحو تطوير عناصر ألعاب باستخدام الذكاء الاصطناعي. تمكّن المستخدمين من بناء تجارب لعب وسيناريوهات بطرق مبتكرة.",
-   "url": "https://www.producthunt.com/products/gamereverie",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "خدمة ذكاء اصطناعي للاتصالات الموحدة",
-   "summary": "أداة جديدة ظهرت باسم Toone متخصصة في توحيد وتسهيل الاتصالات الرقمية. توفر حلاً مركزياً لإدارة قنوات التواصل المختلفة في مكان واحد.",
-   "url": "https://www.producthunt.com/products/toone",
-   "source": "Product Hunt",
-   "tag": "أدوات جديدة",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "إطار عمل جديد يحدد مبادئ الذكاء الاصطناعي الصحي المسؤول",
-   "summary": "تم تطوير إطار عمل شامل يضع معايير ومبادئ لضمان أن أنظمة الذكاء الاصطناعي المستخدمة في المجال الصحي تتمتع بفهم عميق للمعارف الطبية والصحية. يهدف هذا الإطار إلى تحسين سلامة وفعالية تطبيقات الذكاء الاصطناعي في القطاع الصحي.",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmVWZ1I2bzVjbHd3emE2ZzJwZVFWb0tkeEo1RzhXa0FpQU96Vng1c0JUQ2FhUnBvR3FrVHpCMFhTT3dodmZIaWtNMEtUZ1kyMnczc2ZiZjhfUzlsSnBDc0xHRHRTWjA3NlVyRkliRXJFa2JHVDdTbkoweDdLREZIenBDbGhLamJWRm0wS1k3TWRPWHpXNFZaTWYzMTlERXdCYm5RY3UzTlZ6RHdhOS1LV2ctdEtoYk5JMFpzUC04cXJha1U?oc=5",
-   "source": "Google News — ذكاء اصطناعي",
-   "tag": "ذكاء اصطناعي",
    "date": "2026-09-18"
   }
  ]
