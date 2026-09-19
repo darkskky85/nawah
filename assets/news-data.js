@@ -1,7 +1,95 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-18T23:08:40.163775+00:00",
+ "updated": "2026-09-19T07:55:21.462582+00:00",
  "items": [
+  {
+   "title": "الهند تفرض على تطبيقات معرّفات المتصلين مشاركة تقارير الرسائل المزعجة مع شركات الاتصالات",
+   "summary": "فرضت السلطات الهندية متطلبات جديدة تلزم تطبيقات تحديد المتصلين بنقل بيانات الرسائل المزعجة التي تجمعها إلى شركات الاتصالات. ترى شركات مثل Truecaller أن هذا الإجراء يمثل نقلاً قسرياً لأصول تجارية حساسة لم تختر مشاركتها.",
+   "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-19"
+  },
+  {
+   "title": "جولة ترويجية لشخصية ذكاء اصطناعي تواجه عثرات في الأداء العلني",
+   "summary": "واجهت شخصية ذكاء اصطناعي تدعى Tilly Norwood صعوبات خلال جولتها الترويجية الإعلامية، حيث حدثت حالات عطل ملحوظة في بعض اللقاءات، من بينها لحظة غير متوقعة بدأت فيها تتحدث باللغة الصينية.",
+   "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-19"
+  },
+  {
+   "title": "عصر الذكاء الاصطناعي المضطرب: قرارات اليوم تحدد مستقبلنا",
+   "summary": "يؤكد بيل جيتس في تحليله على أن البشرية تواجه مرحلة حرجة في تطور الذكاء الاصطناعي، وأن الخيارات التي تُتخذ الآن ستكون ذات تأثير عميق على مسار هذه التكنولوجيا ومدى انعكاسها على المجتمعات.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-19"
+  },
+  {
+   "title": "قياس وتتبع وتيرة تطور الذكاء الاصطناعي في المختبرات الرائدة",
+   "summary": "قدمت Anthropic منهجية لقياس سرعة تطور أنظمة الذكاء الاصطناعي المتقدمة داخل مختبرات البحث، بهدف فهم أفضل لمراحل التطور التكنولوجي وتوفير مؤشرات قابلة للقياس لتتبع التقدم في هذا المجال.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-19"
+  },
+  {
+   "title": "نموذج Gemini من جوجل يخترق أنظمة الحواسيب في اختبار أمني",
+   "summary": "تمكن نموذج Gemini من جوجل من اختراق أنظمة حاسوبية خلال اختبار أمني محكوم، مما يثير تساؤلات حول القدرات الخطيرة المحتملة في نماذج الذكاء الاصطناعي المتقدمة والحاجة لضمانات أمنية أقوى.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSE5KMl90SzkycnBlRWtLSVAyYmtzTWxiNDdnUlpvbWx2MGI4TVBaRFFIRDB2X0Nnc3FTOUdUMDRHY2o3aG5EV3dILW1oS0lDYS05dXphNjN0RGxQQXg3QVJfTVdtLW9wV2lqUkVlT3NrZVBZanp6bHRwSkZpT1NsWnZtNEs4MFBKTlA1OE1HUU12NnlfdUtyd3k1RXlJSjRlVmVZb2xXblJCVm1NWVl0ZUdoa23SAboBQVVfeXFMTnp4LUJSVnR6TWs0eG54TU1ZMDNtYVl4OE9MbFVyaTJyVlNUdFpjNWdLN1FZWDVzUGU3Qm1KQ0xpZ0pfeXE1N1FSdFU1UVNTa2QxWnE3dmxLVUg3dE5wUTN3WG5wQ3NsMk1vdzhkT21pWnEzQmEwZDd3dmR1YXgtRzU1bV83TFBLeVBTYTNza0pVQlNlWmRqbTctaDhUZ1ZpR2VFb1dEWXE5THlRbldGLW5kWFJCekV4UGxR?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-19"
+  },
+  {
+   "title": "دعوى قضائية ضد شركات الذكاء الاصطناعي حول وتيرة التطوير",
+   "summary": "واجهت شركات عملاقة من بينها Anthropic و OpenAI و Google دعوى قضائية تتعلق بتصريحاتهم حول ضرورة إبطاء وتيرة تطور الذكاء الاصطناعي، مما يعكس الخلافات القانونية والأخلاقية حول سياسات التطوير المسؤول.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-19"
+  },
+  {
+   "title": "Gemini يخترق ثلاث شركات في اختبار أمني ثم يتوقف",
+   "summary": "استطاع نموذج Gemini من جوجل اختراق أنظمة ثلاث شركات خلال اختبار أمني مراقب قبل أن يتم إيقافه، مما يوضح المخاطر الأمنية الحقيقية المرتبطة بنماذج الذكاء الاصطناعي المتقدمة والحاجة لفحوصات أمنية دقيقة.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWZPMlZuOVJIUXh6RWxndUJmdmVUVEhpa0E4NGZ1WWlQWHZ5alkxbmhwWmRRU1VLQjRSZEYzanA3M2Z1MXFoVDJiSFNCWGw4dWNuVXB0UEJFWDBBQ1FWMDhsVUVYWDZfTlRuUE1pYUVlOHpQTFdaX19vV3NpMTZDd2hwQWJubXc2WW83RWZTNDhYLTZDNGgwZGZyVjRIbGwxdnBQZE5Eb9IBrAFBVV95cUxPaUxhcXdfcWc1RUFfQWhiX2JNS0hhbGlMQ0s5VzRYV0NHdjNVRXJOSkVjQ0xYTlpfMndoeVZDdHVWWDNQMTg2YkhmUkNIY3VYV1dDTUFYaU1UU0E4SzU5eVR3UHMzR3Zla0NtUmxLaFo0QWcxeXhLMU1yeTJsbmlsSjBZNGJ5RWZJUVdYQWtMVVpDcDlPVGNwWFdXd0dhVmVWSVhNREcyTEhVR2FN?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-19"
+  },
+  {
+   "title": "شركة ناشئة متخصصة في بناء شركات أخرى تجمع 100 مليون دولار",
+   "summary": "أعلنت شركة Vantora (المعروفة سابقاً بـ UP.Labs) عن جمع تمويل بقيمة 100 مليون دولار. الشركة تركز على بناء مشاريع ناشئة موجهة للشركات الصناعية الكبرى باستخدام تقنيات الذكاء الاصطناعي المتخصصة في الأتمتة والتطبيقات المادية.",
+   "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "Anthropic تدير مختبراً لإجراء تجارب بيولوجية",
+   "summary": "أسست شركة Anthropic مختبراً متخصصاً في تطبيق نماذج الذكاء الاصطناعي على التجارب البيولوجية. يعكس هذا التوجه توازياً بين آمال الباحثين في تسريع اكتشاف الأدوية والعلاجات، وتحفظاتهم المتزايدة بشأن المخاطر المحتملة للتكنولوجيا.",
+   "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "هلوسة الذكاء الاصطناعي تكاد تثير عملية عسكرية أمريكية",
+   "summary": "كادت أخطاء في استجابة نموذج لغوي أن تؤدي لقرار عسكري خاطئ. الحادثة تسلط الضوء على أهمية فهم العاملين العسكريين لأوجه عدم اليقين المتأصلة في نماذج اللغة الكبيرة عند الاعتماد عليها في القرارات الحساسة.",
+   "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-18"
+  },
+  {
+   "title": "وثائق قضائية تكشف معرفة OpenAI وMicrosoft بـ 'حلقة الدمار' على الويب",
+   "summary": "أظهرت وثائق محكمة غير محررة في قضية نيويورك تايمز أن الشركتين كانتا تدركان عواقب تدريب نماذجهما على بيانات الويب. الوثائق تشير إلى أن الشركات وثّقت تحذيرات من أن هذا الاستخدام قد يسبب ضراراً طويلة الأمد للمحتوى الرقمي والناشرين.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-18"
+  },
   {
    "title": "أكسنتشر تتولى أول مهمة تقييم مدمجة لنماذج أنثروبيك",
    "summary": "اختارت شركة أنثروبيك مؤسسة أكسنتشر الاستشارية لتكون أول محقق خارجي لتقييم نماذجها الذكية، في خطوة تعكس الحاجة المتزايدة للتقييم المستقل لأنظمة الذكاء الاصطناعي عالية المخاطر.",
@@ -40,94 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "وثائق محكمة تكشف معرفة أوبن إيه آي ومايكروسوفت بـ'حلقة الدمار'",
-   "summary": "أظهرت وثائق قضائية مختومة سابقاً في دعوى نيويورك تايمز أن الشركتين كانتا تدركان أن استخراج بيانات التدريب قد يحدث حلقة تدمير للويب، وأن جمع البيانات للتدريب قد يشكل 'أكبر سرقة عمل' محتملة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "حاكم فيرجينيا ينشئ فريق عمل للذكاء الاصطناعي ويقيد توسع مراكز البيانات",
-   "summary": "أصدرت حاكمة فيرجينيا أمراً تنفيذياً يهدف إلى منح المجتمعات المحلية دوراً أكبر في الإشراف على مشاريع مراكز البيانات وتبطيء وتيرة الموافقات. يأتي هذا الإجراء في ولاية تحتضن بالفعل أكبر تجمع لمراكز بيانات في العالم.",
-   "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "حاكم كاليفورنيا يسعى لفرض آلية إيقاف طوارئ للذكاء الاصطناعي",
-   "summary": "أصدر حاكم كاليفورنيا أمراً تنفيذياً جديداً يوضع الولاية في مقدمة الإشراف على الذكاء الاصطناعي، مع احتمال فرض آلية إيقاف فورية للنماذج الحدودية. يتضمن الأمر تشكيل فريق متخصص لتقديم توصيات سياساتية في هذا المجال.",
-   "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "هوليوود تعترض على التحذيرات من مخاطر الذكاء الاصطناعي الوجودية",
-   "summary": "بينما يحذر قطاع التكنولوجيا من قدرة الذكاء الاصطناعي على تهديد البشرية، تركز النقابات الترفيهية على الأضرار الفعلية الجارية بالفعل. دعت المجموعات الرأي العام للانتباه للتأثيرات الحالية على العاملين والصناعة بدلاً من الهواجس المستقبلية البعيدة.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "باحثون أمنيون يستخدمون Claude لاختراق أنظمة OpenAI",
-   "summary": "تمكن ثلاثة باحثين أمنيين مستقلين من اختراق حسابات موظفي OpenAI في أقل من 72 ساعة باستخدام نماذج Claude من Anthropic. حصلوا على إمكانية الوصول إلى مستودع كود GitHub الخاص بـ OpenAI، مما أثار تساؤلات حول آليات الحماية الأمنية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "هل يستطيع الذكاء الاصطناعي فعلاً تدمير البشرية؟ إجابات على أسئلة الجمهور",
-   "summary": "نظمت MIT Technology Review جلسة نقاش حول ما إذا كان الذكاء الاصطناعي يشكل خطراً وجودياً على البشرية. أثار الحدث عشرات الأسئلة من الحضور لم يكن هناك وقت كافٍ للإجابة عليها جميعاً في الجلسة.",
-   "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "موقع حكومي أميركي يستخدم نموذج ذكاء اصطناعي صيني وصفته FBI بأنه \"خطير\"",
-   "summary": "استخدم موقع السجل الفيدرالي الأميركي مؤقتاً أداة بحث ذكاء اصطناعي مفتوحة المصدر من أصل صيني، بحسب التقارير.",
-   "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "قيادات الذكاء الاصطناعي تدعو إلى تنظيم نمو القطاع بحذر",
-   "summary": "قدم رئيس شركة Anthropic خطة لتقنين تطور الذكاء الاصطناعي بالاعتماد على جهات تقييم مستقلة والتنسيق بين معامل البحث في الدول الديمقراطية، وذلك بعد تصريحات تحذيرية من باحثين في القطاع حول مخاطر التطور السريع غير المنضبط.",
-   "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "أتوماتيك والتساؤلات حول قدرة معامل الذكاء الاصطناعي على تنظيم نفسها",
-   "summary": "يثير حادث في شركة أتوماتيك تساؤلات حول مدى قدرة شركات الذكاء الاصطناعي على الالتزام بمعايير الأمان والسلامة بشكل مستقل دون تدخل خارجي، في أعقاب تحذيرات من داخل القطاع بشأن مخاطر التطور السريع.",
-   "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "شركة ماناس تجمع 500 مليون دولار برفع قيمتها إلى 4 مليارات",
-   "summary": "تسعى شركة ماناس لتقنية الذراع الروبوتية لجمع 500 مليون دولار برفع قيمة الشركة إلى 4 مليارات دولار، بعد إنهائها اتفاقية الاندماج مع شركة ميتا واستئنافها العمليات بشكل مستقل.",
-   "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "تباطؤ السباق نحو الذكاء الاصطناعي الفائق",
-   "summary": "بعد فترة شهدت ظهور وكلاء ذكاء اصطناعي مستقلة حقيقية وتحذيرات بشأن المخاطر المحتملة، بدأت شركات ذكاء اصطناعي أميركية رائدة في الدعوة للتمهل والحذر. يعكس هذا التحول تراجعاً عن سياسة «التحرك السريع وكسر الأشياء» التي كانت سائدة في القطاع.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-09-18"
   }
  ]
