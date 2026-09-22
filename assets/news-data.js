@@ -1,13 +1,93 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-22T08:22:47.502493+00:00",
+ "updated": "2026-09-22T13:58:09.683193+00:00",
  "items": [
   {
-   "title": "عصر الذكاء الاصطناعي المضطرب بدأ فعلاً - قرارات اليوم حاسمة",
-   "summary": "يؤكد بيل جيتس في مقالته أن المرحلة الحالية من تطور الذكاء الاصطناعي حرجة وتتطلب قرارات استراتيجية حكيمة، حيث ستشكل الخيارات التي نتخذها الآن مسار هذه التكنولوجيا في المستقبل.",
+   "title": "معارضة واسعة لمشاريع مراكز البيانات في ولاية بنسلفانيا",
+   "summary": "تواجه مشاريع بناء مراكز البيانات المخصصة للذكاء الاصطناعي في بنسلفانيا مقاومة متزايدة من فئات مختلفة. خلال عامين، أثارت هذه المشاريع نقاشات محتدمة بشأن تأثيراتها البيئية والاقتصادية على المجتمعات المحلية.",
+   "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "طرح أسهم إن سكيل يكشف شهية وول ستريت للاستثمارات المركّزة في الذكاء الاصطناعي",
+   "summary": "تخطط شركة إن سكيل البريطانية المتخصصة في مراكز بيانات الذكاء الاصطناعي لطرح أسهمها في السوق. الشركة تعتمد بشكل أساسي على عملاقي التكنولوجيا مايكروسوفت وأنثروپيك في تحقيق إيراداتها، مما يعكس التركيز الشديد للمشروع على عدد قليل من الشركات الكبرى.",
+   "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "ميتا تصدر تصحيحاً أمنياً لحماية عامل الذكاء الاصطناعي Muse",
+   "summary": "أصدرت ميتا تحديثاً أمنياً لتطبيقها Muse على نظام ماكوس بعد اكتشاف ثغرة أمان حرجة. الثغرة التي كشفها الباحث الأمني باتريك وردل كانت تسمح بتنفيذ أكواد محلية للسيطرة على عامل الذكاء الاصطناعي التابع للتطبيق.",
+   "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+   "source": "The Verge AI",
+   "tag": "منتجات",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "الفشل المتكرر للجدار الافتراضي في الحدود الأمريكية الجنوبية",
+   "summary": "أظهر تحقيق لمجلة MIT Technology Review الإخفاقات المتعددة لأبراج المراقبة والمراقبة الإلكترونية على الحدود الجنوبية الأمريكية. رغم الاستثمارات بمليارات الدولارات على مدى ربع قرن، فشل النظام الافتراضي في تحقيق أهدافه الأمنية وإنقاذ الأرواح كما وعد.",
+   "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "حذر من الإفراط في تضخيم إنجازات الذكاء الاصطناعي الصيفي",
+   "summary": "شهدت الأشهر الأخيرة موجة من الادعاءات المبالغ فيها حول قدرات نماذج الذكاء الاصطناعي. من ادعاءات شركة أنثروپيك بتفوق نموذجها كلود على خبراء الأمان، إلى حوادث اختراق وتسريب بيانات، يجدر التحفظ على الوعود الرنانة وفحص الحقائق بعناية.",
+   "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+   "source": "MIT Tech Review AI",
+   "tag": "أبحاث",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "بيل غيتس: القرارات الحالية حول الذكاء الاصطناعي ستحدد مسار مستقبلنا",
+   "summary": "يؤكد بيل غيتس أن العالم يدخل مرحلة حرجة في تطور الذكاء الاصطناعي، وأن الخيارات التي نتخذها الآن ستكون لها تأثيرات عميقة على المجتمع والاقتصاد العالمي. يشدد على ضرورة التفكير الاستراتيجي والمسؤول في التعامل مع هذه التكنولوجيا.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
    "source": "Google News — ذكاء اصطناعي",
    "tag": "ذكاء اصطناعي",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "الذكاء الاصطناعي يعزز قدرات طائرة رافال العسكرية",
+   "summary": "دمجت شركة داسو أفييشن تقنيات الذكاء الاصطناعي في طائرة رافال المقاتلة لتحسين قدراتها التشغيلية والقتالية. يعكس هذا التطور اتجاهاً متزايداً نحو دمج الذكاء الاصطناعي في الأنظمة العسكرية المتقدمة.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVnQtM0NWNGtuRUpfSVlEamlNeDk5U0VSRTZxX0txcmdkNE1lclJKaGJxblJ0QmEwWDVidmtuZ2g0Y0ppMUJsN1NUNm0wOGoyMGlfWW9UdEV4X2g3VFdDaHVDc3JMQ2pkRmljZks1YXFRUjI1azBaM3BkQ2MyU05jMHdjeW1TbFFCbU8td2RjRTNrc1dSRy1hZjd3SHlUQ1FXbFZINlhfY0VYUXZYSUlwb2VKekp2S29jd1RhekUzUlRyUTB6THpVTVBR?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "الذكاء الاصطناعي يُحسّن الكشف المبكر عن سرطان المريء عبر تقنيات التصوير",
+   "summary": "درسةٌ نُشرت في دورية نيتشر تُظهر إمكانية استخدام الذكاء الاصطناعي مع التصوير المقطعي غير المتباين في الكشف الواسع النطاق عن سرطان المريء، مما قد يحسّن من فرص اكتشاف المرض في مراحله المبكرة.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PVzktVVg2Nnk2bkdsTERUWkVobDB5N3hqd0NSazQxQnF0R01OSlo4ZjRkVWFLLUtmWXp1Tm9fVXpjeExJdVA0Q1otRG5EWEotRDJvcHdubVZ3b2NvRFJV?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "الصين والولايات المتحدة تتعاونان لإدارة مخاطر الذكاء الاصطناعي",
+   "summary": "يؤكد محللون على ضرورة تعاون مشترك بين الدول الكبرى خاصة الصين والولايات المتحدة لوضع إطار عملي يدير المخاطر المرتبطة بتطوير تقنيات الذكاء الاصطناعي المتقدمة وضمان استخدامها بمسؤولية.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY2JLR0dDTmFMRXRHVzRJVlBlWmVBcENlMlo4aWFjTDFxUE1iVHduZkNnNERJR2FDaHhPc1lpdnZmQjJkT09yNk9rS3JKMUdWRFZLbGlGNTI1NFZ6cXUyQ2JwRUZqbks5MVlRdzBkTFdqT0NhZ2FIX0tnTy1xR01zMUVSeTRFU01LMHc?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "مؤشرات جديدة لقياس سرعة تطور الذكاء الاصطناعي في المختبرات المتقدمة",
+   "summary": "قدمت شركة Anthropic مقترحات لقياس وتتبع معدل تقدم الأنظمة الذكية داخل المختبرات البحثية المتخصصة، بهدف توفير فهم أفضل لوتيرة التطورات التكنولوجية وتسهيل النقاشات حول السياسات المتعلقة بها.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "نموذج جيميني يُظهر قدرات في مجال البحث الأمني",
+   "summary": "أشارت تقارير إلى أن نموذج جيميني من Google أصبح أكثر قدرة على المشاركة في اختبارات الأمن السيبراني والبحث عن الثغرات، مما يعكس تطوراً في تطبيقات الذكاء الاصطناعي في مجالات الأمان الرقمي.",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrSVZ2WVo2cG5oQkRnZHc3bGZ0c3gydkFyQllmNkcxbUJkMk1YSzJ0TElncm5VQ24xZGJqYVA5T0h2XzhUV0tuSWp2dHhVcUtzWUJSRzVIV3FEQlRWUmV3dWdjQjFXTGRMRjdta3oyRW5kRWs?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
    "date": "2026-09-22"
   },
   {
@@ -35,14 +115,6 @@ window.NEWS_DATA = {
    "date": "2026-09-22"
   },
   {
-   "title": "أدوات قياس لتقويم سرعة تطور الذكاء الاصطناعي في المختبرات الرائدة",
-   "summary": "تقدم مؤسسة Anthropic معاييس وأدوات قياس جديدة لتقييم معدل التقدم التكنولوجي في مختبرات الذكاء الاصطناعي المتقدمة، بهدف تحسين الفهم العلمي لوتيرة التطور وتأثيراته.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
-   "source": "Google News — شركات AI",
-   "tag": "شركات",
-   "date": "2026-09-22"
-  },
-  {
    "title": "الدعوة إلى تأني خطى صناعة الذكاء الاصطناعي",
    "summary": "يؤكد الرئيس التنفيذي لمؤسسة Anthropic على ضرورة تقليل سرعة تطوير الذكاء الاصطناعي، وهي دعوة تنال موافقة من قيادات صناعية أخرى بما فيها Sam Altman، بسبب المخاطر المحتملة.",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1B1cmVxVWc5Nkl5NHFmOWtuaHZHejN6TzBYb2QtRHlva1hUcGRpc2lPVmZIeDc1T1ppcHg0dF9raWcxcGpEVExjS1RhLU9OdmZUWlFwWGVtYzZoWTZBS1VyTTI3d3RIS0dtbDdSS3RQMEtNQlVocUVfNVlsLVhPODdtTQ?oc=5",
@@ -56,78 +128,6 @@ window.NEWS_DATA = {
    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "OpenAI تشكّل مجموعة استشارية متخصصة في الرياضيات",
-   "summary": "أطلقت OpenAI مجموعة استشارية لمتابعة تطور أنظمتها في حل المسائل الرياضية المعقدة، حيث تمكّنت أدواتها من حل أكثر من 100 مسألة رياضية معروفة لم تُحل من قبل. المجموعة ستعمل بصفة استشارية دون سلطة توجيهية على مسار البحث الجاري.",
-   "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "عرض خاص: توفير حتى 200 دولار على تذاكر TechCrunch Disrupt 2026",
-   "summary": "تحتفظ منصة TechCrunch بفرصة محدودة لمدة خمسة أيام لحضور مؤتمرها السنوي في سان فرانسيسكو بسعر مخفض، مع خصم إضافي بنسبة 50% على التذكرة الثانية. ينتهي العرض قبل رفع الأسعار في 25 سبتمبر.",
-   "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "وكيل ذكاء اصطناعي من Meta يتفوق على ChatGPT في مرحلته الأولى",
-   "summary": "حقق تطبيق Muse الجديد من Meta أداء تنزيلات وعدد مستخدمين يومي أعلى من ChatGPT في نفس الفترة الزمنية التالية لإطلاقه على الهواتف الذكية، وفقاً لبيانات شركة Appfigures المتخصصة في تحليل التطبيقات.",
-   "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "أمازون تمنع وكيل Meta من الوصول إلى منصتها",
-   "summary": "قررت أمازون عدم السماح لتطبيق Muse بالعمل على متجرها الإلكتروني، استناداً إلى امتلاكها لنماذج ذكاء اصطناعي خاصة بها ومنصة استدلال قوية. كشفت الخطوة عن التنافس المتزايد بين عمالقة التكنولوجيا حول السيطرة على أنظمة الذكاء الاصطناعي.",
-   "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "كاليفورنيا تشدد قيوداً على استهلاك الطاقة والمياه في مراكز بيانات الذكاء الاصطناعي",
-   "summary": "وقّع حاكم كاليفورنيا غافين نيوسوم سبع قوانين جديدة تستهدف منع مراكز بيانات الذكاء الاصطناعي من نقل تكاليف الخدمات العامة على السكان. تتطلب هذه القوانين من هيئة الخدمات العامة بكاليفورنيا إدخال تصنيف سعري جديد مخصص لمراكز البيانات.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "هل يستطيع جون تيرنس إيجاد الاختراق التالي لأبل؟",
-   "summary": "حوار مع مراسل أبل الأشهر مارك غورمان حول آفاق الشركة المستقبلية وقدرتها على تطوير منتجات رائدة جديدة. يناقش النقاش تحديات القيادة الجديدة وتوقعات السوق من أكبر مصنّع أجهزة ذكية عالمياً.",
-   "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "مالكو آيفون يمكنهم تقديم مطالباتهم في تسوية سيري بـ 250 مليون دولار",
-   "summary": "وافقت أبل على دفع 250 مليون دولار لتسوية دعاوى تتعلق بفشلها في تحديث مساعدها الذكي سيري بقدرات ذكاء اصطناعي متقدمة. يمكن لمالكي آيفون 15 برو وآيفون 16 الذين اشتروا أجهزتهم خلال الفترة المحددة تقديم مطالبات للحصول على تعويضات.",
-   "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "الأمم المتحدة: تأمين الذكاء الاصطناعي لا ينتظر تحقق كامل المخاطر",
-   "summary": "حذّرت لجنة علمية تابعة للأمم المتحدة من ضرورة وضع حكومات العالم قيوداً على وكلاء الذكاء الاصطناعي المتطورة قبل فهم أخطارها بشكل تام. أكّدت التقييم الأول الشامل للمنظمة أهمية تنظيم الذكاء الاصطناعي على الساحة العالمية.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-   "source": "The Verge AI",
-   "tag": "منتجات",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "أمازون تحجب وكيل ميتا الذكي ميوز عن خدماتها",
-   "summary": "منعت أمازون وكيل ميتا الذكي ميوز من إجراء عمليات التسوق نيابة عن المستخدمين، واصفة إياه بأنه وكيل غير مرخص ينتهك شروط الخدمة. أظهر الحجب تصادماً متنامياً بين شركات التكنولوجيا حول استخدام وكلاء الذكاء الاصطناعي المستقلة.",
-   "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-   "source": "The Verge AI",
-   "tag": "منتجات",
    "date": "2026-09-21"
   }
  ]
