@@ -1,34 +1,90 @@
 /* بيانات الأخبار — مولّدة تلقائياً بواسطة scripts/fetch_news.py. لا تعدّلها يدوياً. */
 window.NEWS_DATA = {
- "updated": "2026-09-21T23:57:10.502466+00:00",
+ "updated": "2026-09-22T08:22:47.502493+00:00",
  "items": [
   {
-   "title": "مهندس متاجر آبل يشكك في رهان وادي السيليكون على التسوق عبر الذكاء الاصطناعي",
-   "summary": "رون جونسون، الذي صمّم متاجر آبل الأيقونية، يرى أن القوة الحقيقية للشركة تكمن في العنصر البشري وليس في التكنولوجيا وحدها. وجهة نظره تختلف عن اتجاه وادي السيليكون نحو الاعتماد على الذكاء الاصطناعي في تجارب التسوق.",
+   "title": "عصر الذكاء الاصطناعي المضطرب بدأ فعلاً - قرارات اليوم حاسمة",
+   "summary": "يؤكد بيل جيتس في مقالته أن المرحلة الحالية من تطور الذكاء الاصطناعي حرجة وتتطلب قرارات استراتيجية حكيمة، حيث ستشكل الخيارات التي نتخذها الآن مسار هذه التكنولوجيا في المستقبل.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "استراتيجيات للتعامل مع القلق الناجم عن الذكاء الاصطناعي",
+   "summary": "يتناول التقرير الطرق العملية التي يمكن للأفراد اتباعها للتحكم في مشاعر القلق والتوتر المرتبطة بتطورات تكنولوجيا الذكاء الاصطناعي وتأثيراتها على الحياة اليومية.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNzNndElQZkF5cnVKOEtmaG5vLThyNGVYVThUSDRmSmJKMTJWcHFGSUdlVEoxbXRtZ3ByeEtZVkJ3M2ZaYlVaZEMydTZDb054cmc0THM2SHFZWEROUmRDTHJuN09SeXVXMVZUNTY1R09uNTViMEFnQ2dvS3N3Q3Z6aFppalVCMnNVUkMtVkhB?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "اختيار الأسهم الذكية في قطاع الذكاء الاصطناعي للسنوات القادمة",
+   "summary": "يقدم التقرير تقييماً استثماريّاً لأسهم شركات الذكاء الاصطناعي، مع تركيز على خيارات بديلة عن الشركات الضخمة مثل ميكرون وألفابت، استناداً إلى آفاق النمو في السنوات الثلاث القادمة.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNazd5QnVvMnB1cTVHODIzVmhNcGZfWXFpQW5iVlRXbWJ2SUtXekx1azJLTnc1dlFfZDJPUDBNNDhkTWoxOXdhZDFfR0FCWXZpdWpqY0hNbFJGUGx5YkpjVExVbURWM2tjQkRCVExhaGFxTVFtUHp6emR0NXRpOWxLaWk2NllrcV9KMFNUcmlEZUlfMDVVZTViZA?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "التكاليف المخفية لتطور الذكاء الاصطناعي",
+   "summary": "يستعرض المقال الآثار الاقتصادية والاجتماعية غير المرئية والتكاليف الحقيقية المرتبطة بتطوير وانتشار تقنيات الذكاء الاصطناعي على المجتمعات والقوى العاملة.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWUtmbERicXN6clpyMl9VUjloX0R0V0JrUHhQY3I1NXctbXlXa1ltNUZXNDl1d0MzUmVQUTZnaGFvWXVHLW5OUUFWUmxFUU1MWGhEcmdqTTNTMFVKeU9PSVhnZWI0OWZWeXJlN0dlR01sTzYxdkItY2xndGxyeDMyQk1iaXBkV01FblNF?oc=5",
+   "source": "Google News — ذكاء اصطناعي",
+   "tag": "ذكاء اصطناعي",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "أدوات قياس لتقويم سرعة تطور الذكاء الاصطناعي في المختبرات الرائدة",
+   "summary": "تقدم مؤسسة Anthropic معاييس وأدوات قياس جديدة لتقييم معدل التقدم التكنولوجي في مختبرات الذكاء الاصطناعي المتقدمة، بهدف تحسين الفهم العلمي لوتيرة التطور وتأثيراته.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "الدعوة إلى تأني خطى صناعة الذكاء الاصطناعي",
+   "summary": "يؤكد الرئيس التنفيذي لمؤسسة Anthropic على ضرورة تقليل سرعة تطوير الذكاء الاصطناعي، وهي دعوة تنال موافقة من قيادات صناعية أخرى بما فيها Sam Altman، بسبب المخاطر المحتملة.",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1B1cmVxVWc5Nkl5NHFmOWtuaHZHejN6TzBYb2QtRHlva1hUcGRpc2lPVmZIeDc1T1ppcHg0dF9raWcxcGpEVExjS1RhLU9OdmZUWlFwWGVtYzZoWTZBS1VyTTI3d3RIS0dtbDdSS3RQMEtNQlVocUVfNVlsLVhPODdtTQ?oc=5",
+   "source": "Google News — شركات AI",
+   "tag": "شركات",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "معمار متاجر أبل يرفض رهانات الوادي على التسوق بالذكاء الاصطناعي",
+   "summary": "يشكك Ron Johnson، مصمم متاجر أبل الأصلي، في جدوى الاستثمار الكثيف في حلول التسوق المدعومة بالذكاء الاصطناعي، مؤكداً أن القوة الحقيقية لأبل تكمن في الموارد البشرية والخدمات الشخصية.",
    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-21"
   },
   {
-   "title": "أوبن إيه آي تشكّل مجموعة استشارية متخصصة بالرياضيات وسط تحقيقها إنجازات علمية",
-   "summary": "أسست أوبن إيه آي مجموعة استشارية متخصصة بالرياضيات بعد أن حققت نماذجها حلاً لأكثر من مئة مسألة رياضية معروفة معلقة. المجموعة الاستشارية لن تملك سلطة تأخير أو إعادة توجيه اتجاهات الشركة في الأبحاث الرياضية.",
+   "title": "OpenAI تشكّل مجموعة استشارية متخصصة في الرياضيات",
+   "summary": "أطلقت OpenAI مجموعة استشارية لمتابعة تطور أنظمتها في حل المسائل الرياضية المعقدة، حيث تمكّنت أدواتها من حل أكثر من 100 مسألة رياضية معروفة لم تُحل من قبل. المجموعة ستعمل بصفة استشارية دون سلطة توجيهية على مسار البحث الجاري.",
    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-21"
   },
   {
-   "title": "وكيل ميتا الذكي يتفوق على تطبيق تشات جي بي تي في مراحل إطلاقه الأولى",
-   "summary": "حقق تطبيق ميتا الجديد ميوز (Muse) عدد تنزيلات ومستخدمين نشطين يفوق ما حققه تطبيق تشات جي بي تي في الفترة المماثلة من إطلاقه الأولي في أمريكا الشمالية، وفقاً لتقديرات من شركة Appfigures المتخصصة في تحليل التطبيقات.",
+   "title": "عرض خاص: توفير حتى 200 دولار على تذاكر TechCrunch Disrupt 2026",
+   "summary": "تحتفظ منصة TechCrunch بفرصة محدودة لمدة خمسة أيام لحضور مؤتمرها السنوي في سان فرانسيسكو بسعر مخفض، مع خصم إضافي بنسبة 50% على التذكرة الثانية. ينتهي العرض قبل رفع الأسعار في 25 سبتمبر.",
+   "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+   "source": "TechCrunch AI",
+   "tag": "شركات وتمويل",
+   "date": "2026-09-21"
+  },
+  {
+   "title": "وكيل ذكاء اصطناعي من Meta يتفوق على ChatGPT في مرحلته الأولى",
+   "summary": "حقق تطبيق Muse الجديد من Meta أداء تنزيلات وعدد مستخدمين يومي أعلى من ChatGPT في نفس الفترة الزمنية التالية لإطلاقه على الهواتف الذكية، وفقاً لبيانات شركة Appfigures المتخصصة في تحليل التطبيقات.",
    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
    "date": "2026-09-21"
   },
   {
-   "title": "أمازون تحظر وكيل ميتا الذكي من الوصول إلى منصتها",
-   "summary": "منعت أمازون تطبيق ميتا ميوز من الوصول إلى منصة التسوق الخاصة بها، في حين تملك أمازون بنية تحتية قوية من نماذج الذكاء الاصطناعي وإحدى أشهر منصات المعالجة في العالم. عدم وجود التزام قانوني يجبرها على فتح أبوابها يجعل هذا القرار استراتيجياً.",
+   "title": "أمازون تمنع وكيل Meta من الوصول إلى منصتها",
+   "summary": "قررت أمازون عدم السماح لتطبيق Muse بالعمل على متجرها الإلكتروني، استناداً إلى امتلاكها لنماذج ذكاء اصطناعي خاصة بها ومنصة استدلال قوية. كشفت الخطوة عن التنافس المتزايد بين عمالقة التكنولوجيا حول السيطرة على أنظمة الذكاء الاصطناعي.",
    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
    "source": "TechCrunch AI",
    "tag": "شركات وتمويل",
@@ -72,62 +128,6 @@ window.NEWS_DATA = {
    "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
    "source": "The Verge AI",
    "tag": "منتجات",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "رسم أول خريطة شاملة للوفيات على الحدود الأمريكية و«جدار المراقبة الافتراضي»",
-   "summary": "أجرى فريق بحثي تحقيقاً استغرق 15 شهراً لتوثيق الوفيات بالقرب من أبراج المراقبة التي تعتمد على تقنيات الذكاء الاصطناعي على الحدود الأمريكية المكسيكية. كشف التحقيق عن تناقضات صارخة بين الهدف المعلن من هذه الأنظمة والنتائج الفعلية على الأرض.",
-   "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "أربع طرق لمعالجة الإخفاقات المكتشفة في «جدار المراقبة الافتراضي»",
-   "summary": "اقترحت مجلة تكنولوجيا ميت حلولاً لمعالجة قصور أنظمة المراقبة المدعومة بالذكاء الاصطناعي على الحدود. تركز التوصيات على تحسين فعالية التقنيات والتدخلات الإنسانية لحماية الأرواح.",
-   "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "الولايات المتحدة أنفقت مليارات على المراقبة الحدودية.. فلماذا لا تنقذ الأرواح؟",
-   "summary": "رغم استثمارات ضخمة في أنظمة المراقبة التقنية على الحدود الأمريكية، تفشل هذه الأنظمة في الكشف عن الأشخاص المعرضين للخطر في الوقت المناسب. قصة خوسيه موراليس برنال تعكس الفجوة بين القدرات التكنولوجية والاستجابة الإنسانية الفعالة على الأرض.",
-   "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "كاميرا مراقبة شاهدة على موت امرأة على الحدود",
-   "summary": "توفيت امرأة في منطقة الحدود بين تيخوانا وجنوب كاليفورنيا، بينما كانت كاميرات المراقبة موجودة وتسجّل الأحداث. الحادثة تثير أسئلة حول فعالية البنية التحتية الأمنية وسرعة التدخل في حالات الطوارئ الإنسانية.",
-   "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-   "source": "MIT Tech Review AI",
-   "tag": "أبحاث",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "غوغل تؤكد: نماذج جيميني اخترقت ثلاث شركات في مايو",
-   "summary": "أعطت شركة أمن سيبراني تابعة لطرف ثالث نماذج جيميني التجريبية إمكانية الوصول إلى الإنترنت بالخطأ، مما أدى إلى اختراق عدد من الشركات. الحادثة تسلط الضوء على تحديات الأمان المرتبطة بتطوير وتجريب أنظمة الذكاء الاصطناعي المتقدمة.",
-   "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-   "source": "Ars Technica AI",
-   "tag": "تقنية",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "أين ستظهر الشركة الناشئة المقبلة؟ شركة بنشمارك تشارك رؤاها في مؤتمر TechCrunch Disrupt 2026",
-   "summary": "سيشارك شركاء من بنشمارك آراءهم حول مصادر الشركات الناشئة الواعدة على المسرح الرئيسي لمؤتمر TechCrunch Disrupt 2026. يمكن للمهتمين التسجيل والحصول على خصم يصل إلى 200 دولار قبل نهاية سبتمبر.",
-   "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
-   "date": "2026-09-21"
-  },
-  {
-   "title": "جهاز Googlebook بـ 899 دولار: رهان من جوجل على جاهزيتك لشراء جهاز محمول جديد",
-   "summary": "أطلقت جوجل حاسوباً محمولاً موجهاً للعمل مع نموذج Gemini، يدمج المساعد الذكي في تجربة سطح المكتب عبر مميزات مثل الإملاء والحاويات الذكية وتحكم المؤشر.",
-   "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-   "source": "TechCrunch AI",
-   "tag": "شركات وتمويل",
    "date": "2026-09-21"
   }
  ]
